@@ -8,7 +8,7 @@
 |------|-------|--------|
 | Dialogue_MainQuest | 823 | 🔍 ревизор |
 | Dialogue_Pwyll | 720 | ✅ редактор+ревизор |
-| Dialogue_HighConfessor | 712 | 🔍 ревизор |
+| Dialogue_HighConfessor | 712 | ✅ редактор+ревизор |
 | HallowQuestDialogue | 699 | 🔍 ревизор |
 | Dialogue_CharacterQuests | 882 | ☐ |
 | Dialogue_Clockwork | 3777 | ☐ (по циклам) |
