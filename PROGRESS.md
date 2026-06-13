@@ -10,7 +10,7 @@
 | Dialogue_MainQuest | 823 | ✅ пройден (8 чанков, 7 правок) |
 | Dialogue_Clockwork | — | ☐ |
 | Dialogue_Endless | — | ☐ |
-| Dialogue_CharacterQuests | — | ☐ |
+| Dialogue_CharacterQuests | 883 | ✅ 8 чанков (Эмберианка склон., Кающийся Тхав ×2, кавычки таблички, тик-ти-бу→тип-топ, шелкопряд, род Орлайт) |
 | Dialogue_Pwyll | — | ☐ |
 | Dialogue_HighConfessor | 716 | ✅ пройден (катер-калька, идиомы, скобки, род) |
 | HallowQuestDialogue | — | ☐ |
