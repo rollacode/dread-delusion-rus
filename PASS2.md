@@ -6,7 +6,7 @@
 
 | Файл | строк | статус |
 |------|-------|--------|
-| Dialogue_MainQuest | 823 | ✏️ E1 |
+| Dialogue_MainQuest | 823 | 🔍 ревизор |
 | Dialogue_Pwyll | 720 | ✅ редактор+ревизор |
 | Dialogue_HighConfessor | 712 | ✏️ E3 |
 | HallowQuestDialogue | 699 | ✏️ E4 |
