@@ -1,0 +1,30 @@
+# Проход 2 — литературная редактура (ветка narrative-polish)
+
+Режим: сбалансированный (STYLE.md). Пайплайн на файл: **редактор** (литправка) → **ревизор** (сверка с EN) → ведущий коммитит с тех-проверками. Агенты НЕ трогают git/build.
+
+Статусы: ☐ ожидает · ✏️ у редактора · 🔍 у ревизора · ✅ готово
+
+| Файл | строк | статус |
+|------|-------|--------|
+| Dialogue_MainQuest | 823 | ✏️ E1 |
+| Dialogue_Pwyll | 720 | ✏️ E2 |
+| Dialogue_HighConfessor | 712 | ✏️ E3 |
+| HallowQuestDialogue | 699 | ✏️ E4 |
+| Dialogue_CharacterQuests | 882 | ☐ |
+| Dialogue_Clockwork | 3777 | ☐ (по циклам) |
+| Dialogue_Endless | 1289 | ☐ (по циклам) |
+| AcademyDialogue | 378 | ☐ |
+| Dialogue_Isles | 215 | ☐ |
+| Dialogue_Endless_Mines | 195 | ☐ |
+| FactionDialogue | 162 | ☐ |
+| Dialogue_GodHunt | 153 | ☐ |
+| shopsHallowDialogue | 125 | ☐ |
+| Dialogue_GameEndings | 120 | ☐ |
+| ArtifactQuestDialogue | 50 | ☐ |
+| bookData_AllLanguages | 36 | ☐ |
+| delusionItemText_English | 247 | ☐ |
+| delusionTasks_allLanguages | 392 | ☐ (только проза кол.20) |
+| generalData_AllLanguages | 949 | ☐ (туториал-проза; UI не трогать) |
+| ObjectDialogue | 9 | ☐ |
+
+Пропускаем: credits_Eng, DebugDialogue, тест-файлы, Master-таблицы (структурные), delusionItemText_French/German/Spanish.
