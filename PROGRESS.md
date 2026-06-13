@@ -17,7 +17,7 @@
 | Dialogue_Isles | — | ☐ |
 | Dialogue_Endless_Mines | — | ☐ |
 | FactionDialogue | — | ☐ |
-| Dialogue_GodHunt | — | ☐ |
+| Dialogue_GodHunt | 154 | ✅ пройден (Инквизиция кап.) |
 | Dialogue_GameEndings | — | ☐ |
 | ArtifactQuestDialogue | — | ☐ |
 | ObjectDialogue / HallowQ | — | ☐ |
