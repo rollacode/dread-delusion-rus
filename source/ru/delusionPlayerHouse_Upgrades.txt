@@ -1,0 +1,29 @@
+item rarities: poor (0), common (1), fine (2), shroomweave (3), clockwork (4), void (5) BLANK = ANY RARITY||||||||||||
+0 House ID|1 Section ID|2 Upgrade Lvl|Стоимость 3 монеты|4 ITEM 1: ID|5 ITEM 1: Rarity|6 ITEM 1: Amount|7 ITEM 2: ID|8 ITEM 2: Rarity|9 ПРЕДМЕТ 2: Количество|10 ITEM 3: ID|11 ITEM 3: Rarity|12 ITEM 3: Amount
+manor|main|0|100|ore|0|4|herbRed|0|6|||
+manor|main|1|50|ore|1|2|herbRed|0|4|||
+manor|library|0|120|ore|0|2|herbBlue|0|6|||
+manor|library|1|80|ore|1|1|herbBlue|0|4|||
+manor|workshop|0|80|ore|0|6|herbYellow|0|6|||
+manor|workshop|1|30|ore|1|1|herbYellow|0|4|||
+manor|garden|0|100|herbRed|0|8|herbYellow|0|8|herbBlue|0|8
+manor|garden|1|50|herbRed|0|6|herbYellow|0|6|herbBlue|0|6
+endless|endMain|0|30|ore|0|2|herbRed|0|4|||
+endless|endMain|1|20|ore|1|1|herbRed|0|2|||
+endless|endTop|0|20|ore|0|1|herbBlue|0|4|||
+endless|endTop|1|10|ore|1|1|herbBlue|0|2|||
+endless|endAnnex|0|40|ore|0|2|herbYellow|0|4|||
+endless|endAnnex|1|20|ore|1|1|herbYellow|0|2|||
+endless|endGarden|0|30|herbRed|0|4|herbYellow|0|4|herbBlue|0|4
+endless|endGarden|1|10|herbRed|0|4|herbYellow|0|4|herbBlue|0|4
+clockwork|cwkMain|0|30|ore|0|2|herbRed|0|4|||
+clockwork|cwkMain|1|20|ore|1|1|herbRed|0|2|||
+clockwork|cwkTop|0|20|ore|0|1|herbBlue|0|4|||
+clockwork|cwkTop|1|10|ore|1|1|herbBlue|0|2|||
+clockwork|cwkAnnex|0|40|ore|0|2|herbYellow|0|4|||
+clockwork|cwkAnnex|1|20|ore|1|1|herbYellow|0|2|||
+clockwork|cwkGarden|0|30|herbRed|0|4|herbYellow|0|4|herbBlue|0|4
+clockwork|cwkGarden|1|10|herbRed|0|4|herbYellow|0|4|herbBlue|0|4
+fortress|fortressBed|0|50|ore|0|1|herbRed|0|2|||
+fortress|fortressCraft|0|50|ore|0|1|herbYellow|0|2|||
+fortress|fortressSpecial|0|100|ore|2|1|herbBlue|0|2|||

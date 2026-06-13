@@ -1,0 +1,14 @@
+ID|Key|isChoice|Choices|Can Exit|Return|Next|Conditions|Actions|English(EN)|French(FR)
+1||||||2|||An' just  what're you looking at feller?|
+2|||3,4|||||||
+3|C1|1||||5|||Uh, nothing.|
+4|C2|1||||6|||One hell of an ugly mug.|
+5|A1|||||0|||Damn straight. Now sod off.|
+6|A2|||||7|||Oh yeah? Well not all of us were born all pretty, like.|
+7||||||8|||You know, you should watch your tongue, feller.|
+8||||||9|||Talking like that...|
+9||||||0|||...you could 'urt someone's feelings.|
+10||||||||||
+11||||||||||
+12||||||||||
+13||||||||||

@@ -1,0 +1,721 @@
+Dialogues:|Clockwork||||
+ID|English|French|German|Spanish|Italian
+p1|Goodbye.||||
+p0|Farewell.||||
+pq1|Can I ask you some questions?||||
+pq2|Okay, I think I get it.||||
+pq3|Got it.||||
+pq4|Actually, I had other questions.||||
+pq5|That's all I wanted to know.||||
+lludd1|<<The youth looks at you with caution; wide eyes lodged in a gaunt face.>> Oh, a newcomer! Uh, w-w-welcome to [[Pwyll Village]]. My name's Lludd. Were you... um... involved in all that ((commotion)) over at the old fort? ||||
+p10|Sure. I've just killed more folk than you could count.||||
+lludd2|<<The young man's jaw hangs agape as he searches for words.>> ##Oh my. Oh wow. I suppose there would have been... um... <<He swallows.>> ...A lot of blood, and such? ||||
+p11|Yes, of course there was fucking ((blood)). ||||
+lludd3|<<He visibly flinches.>> Ah. Yes. Of course. I thought so. ##<<He looks around, as if for something to say.>> Did I mention... that our town is called [[Pwyll]]? ||||
+p12|No, I killed them with harsh words.||||
+lludd4|<<He nods quickly, as if this is a perfectly reasonable statement.>> Ah. Yes. Of course. ##<<He looks around, as if for something to say.>> Did I mention... that our town is called [[Pwyll]]? ||||
+p13|Are you okay? You seem awfully faint. ||||
+lludd5|<<He nods quickly, but he seems to have grown paler since you started talking.>> Um, I'm fine, thank you. Did you... want to know about [[Pwyll]]?||||
+p14|I'm an Inquisition agent - hunting criminals of the Apostatic Union. ||||
+lludd6|<<He shivers and looks you up and down.>> Oh! I'm sorry, I didn't realise. You don't much ((look)) like one of those agents - you must be... ((undercover)), right? <<he whispers,>>  ##Well, if it would help... I could tell you about our t-t-town? ||||
+p15|I'm just passing through; I won't cause you any trouble. ||||
+lludd7|<<The boy's shoulders slacken and he looks genuinely relieved.>> Oh, okay. I can tell you a little about our town, if you like? ||||
+lludd8|We're just a humble village. <<He swallows.>> Have you heard of [[scryshroom?]] It's a mushroom that shows you the f-f-future. We grow it and sell it. Only... um... things aren't going so well, lately. People are worried.||||
+p16|What's going wrong, exactly? ||||
+lludd9|Well, the crop yield is... bad. Each year we've been growing less scryshroom. ##<<He scratches his head.>> Some people are getting worried...||||
+lludd10|<<He looks around, then leans in closer.>> I've heard some people are considering the ((old ways)). ##<<His eyes are practically bulging.>> You know, consorting with ((Wikkans)) and ((gods))? ||||
+p17|That's very stupid of them.||||
+lludd11|<<The boy nods furiously.>> Of ((course)). Very illegal! But also kind of ((exciting)), wouldn't you say? ##<<He seems to regret his choice of words.>> Oh, um, I just mean - it's very ((boring)) here sometimes... ||||
+p19|So what? ||||
+lludd12|Well, we're part of the Apostatic Union, see? So god-worship is very... ((illegal)). <<He gulps.>>||||
+p20|Actually, forget it.||||
+lludd13|<<He looks nervous.>> Oh, I've been waffling again, haven't I? Did you want to know anything else?||||
+lludd14|Anyway, the [[local weighmaster Culwych]] has gotten pretty spooked by it all. He's weighing everyone who comes by, just to make sure they're not a Wikkan. ||||
+lludd15|But my mother [[Olwen]] - oh, um, she's the mayor, by the way - doesn't seem too bothered by it all. She's much too worried about something else. I heard her mumbling about [[some sort of monster]] lately...||||
+lludd16|<<He blinks.>> Oh, I'm sorry, I do tend to waffle, don't I? Is there... anything you'd like to know?||||
+p21|Can you point me around town?||||
+lludd17|Oh, um, I suppose so. <<He gestures behind him.>> Just in town you'll find the [[weigh house]]. The weighmaster C-C-Culwych, he's pretty respected around here. Nearby is the [[Scryshroom Company]], which sells scyrshooms of course. And, uh, other things. ||||
+lludd18|Further up the hill is the [[mayor's house]]. That's where my mother - uh, I mean the ((mayor)) lives. She sometimes has work going. ##And further up is the old [[sacred shroom]]. Only, uh, it's dead. ||||
+p22|What does the weighmaster do?||||
+lludd19|Oh, Culwych? He's pretty important. He went to Riova - the capital city of the Apostatic Union, that's ((really)) far away - to get certified as a weighmaster.||||
+lludd20|He weighs things for merchants and buyers to make sure the price is fair. Might not seem like much, but for a small town like us, it means we can trade with realms like Vena, Byonne and L-L-Lundel.||||
+lludd21|<<He leans closer, eyes wide.>> But he also weighs ((people)). Lately he's been real worried about [[Wikkan sympathisers]], and he has magic cipher scales that can ((tell)) if you're ((evil)).||||
+lludd22|<<He looks sheepish.>> He's not weighed me though. I guess he doesn't think I'm t-t-tough enough to be a criminal. ||||
+p23|Tell me about the Scryshroom Company.||||
+lludd23|Well, it's run by Dwynn, whose family's been growing scryshroom for generations. Without his company the town wouldn't really exist, mushrooms are kinda all there is around here. ||||
+lludd24|Mother won't let me drink the scyrshroom tea, even though ((she)) does all the time. She s-s-says it's too intense. That you have to be a responsible adult to see the future.||||
+lludd25|I don't see the big deal, though. She mostly just hallucinates about having a bigger garden. ||||
+p24|So your mother is the mayor?||||
+lludd26|<<He nods.>> Not everyone likes her, because she comes from all the way over in Lundel. That's a faraway place with castles and windswept moors, in Union heartland. ||||
+lludd27|I was born here, so I've never been. <<He sniffs.>> ||||
+p25|Why is the Sacred Shroom dead?||||
+lludd28|Oh! Well that's because Culwych killed our god, of course. ||||
+p26|Of course. ||||
+lludd29|<<He nods.>>||||
+p27|Uh, would you care to elaborate?||||
+lludd30|Oh, um, I'm sorry, I forget not everyone knows about it! <<He chuckles meekly.>> ##Our old god was Aenguin and he was really mean. Like he wanted people to sacrifice themselves at the Sacred Shrooms to make the scryshrooms grow good. ||||
+lludd31|So in the God War, Culwych and a few others sailed a huge Kardovan skyship and speared Aenguin in the eye. Because he was part of the Sacred Shroom on the hill, the mushroom died along with him.||||
+lludd32|<<He sniffs.>>But, that's also why the harvests are bad. Really, the only reason we had scryshrooms in the first place is because of our god. There's only one Sacred Shroom left, and if that goes we're... well... ((I'm not allowed to use that word.))||||
+p28|That's all I wanted to know.||||
+lludd33|<<He nods.>> I hope I didn't w-w-waffle too much. ||||
+p29|I've gotta get going, kid. ||||
+lludd34|Oh, um, of course. B-b-bye. ||||
+lludd35|Oh, hello again. Did you want me to p-p-point you around Pwyll? Or... I don't suppose... you're here to help with our problems? ||||
+lludd36|Oh, hello again. Was there s-s-something you wanted to ask?||||
+p30|Do you know anything about these Wikkan sympathisers? ||||
+lludd37|<<Lludd suddenly looks very pale.>> Oh, you mean people who are ((cavorting)) with ((god-worship))? ##<<A bead of sweat rolls down his face.>> T-t-they say it's a ((criminal act)), right? That you could be locked up forever?||||
+lludd38|<<He shakes his head.>> I'm sorry, but I don't know anything about it. You could try [[Nudd]], who's usually in the [[Scryshroom Company House]]. He used to be a mercenary and stuff. I'm sure he knows about such things. ||||
+lludd50|<<The nauseating stench of bile engulfs the flesh-chamber. Before you, a huge digestional tract pulsates and throbs with corrosive acid. ##It would seem as though this mushroom has ((organs.))>>||||
+lludd51|<<Lludd writhes behind the digestive membrane, clearly in agony. When he sees you, he looks shocked.>> ##Y-y-you! ||||
+p41|We need to get you out of there.||||
+lludd52|((No))! <<A look of determination seizes Lludd.>> If I don't ((do)) this, the village w-w-will ((perish))! ||||
+lludd53|And if you cut me free, you'll be slicing into the mushroom's organs. You could [[kill it]]!||||
+p42|But you'll ((die)).||||
+lludd54|D-d-don't you think I ((know)) that? ||||
+p43|Suit yourself. ||||
+lludd55|Even ((y-y-you)) don't take me seriously! ||||
+p44|Who did this to you? ||||
+lludd56|((Nobody))! <<A look of determination seizes Lludd.>> ||||
+lludd57|Everyone assumes I'm just some stupid k-k-kid. Just the mayor's idiot son. They don't take me ((seriously))! ##But now I can show I'm w-w-worth something. I can ((save)) the village, all by myself. ||||
+lludd58|I found the old Wikkan contract-rites, stashed in my mother's basement. I convinced Emyr to help me set it up, but it was ((me)) who whispered to Aenguin and felt his reply echo through my b-b-bones.||||
+p45|The village isn't worth ((dying)) for, kid. ||||
+lludd59|S-s-says ((who))? Culwych is always talking of his war buddies, who died to liberate Pwyll. But w-w-why's that any different from this? Just because we're not at ((war))?||||
+p46|I'm getting you out of there, whether you like it or not. ||||
+lludd60|N-n-nobody lets me make my own ((decisions)). I've been planning this for m-m-months! It's my choice! ||||
+p47|I admire your guts, at least.||||
+lludd61|Pwyll is ((dying)). Everyone says so. Since Aenguin was killed, the soil's d-d-drying up. In another generation there'll be nothing ((left)). This is the ((only)) way to save the village. ||||
+p48|Some towns dry up, it's just the way it is. ||||
+lludd62|That's e-e-easy for you to say, not being from here. Pwyll is the only place I've ever known. I won't ((survive)) anywhere else. ||||
+p49|@@ You don't know that. The Skyrealms are full of impossible places, beyond your ((wildest)) dreams. ||||
+lludd63|&& I don't ((care)) about other places. I only have one home, and it's ((Pwyll)). ||||
+lludd64|%% <<He sniffs.>> I once tried some scryshroom tea, while my mother was out. I saw... I saw myself on a ship, flying through a shoal of skyfish, their scales shimmering in a rainbow of colour...||||
+lludd65|Mother always says the visions can be ((wrong)). So I thought it ((was)). But maybe... maybe it could be true?||||
+lludd66|Okay. ((Sniff.)) I'll go back, then.||||
+lludd67|<<You slice through the membrane and a torrent of foul-smelling acid pours forth. Lludd slides out of the muck, coughing and spluttering.>>||||
+lludd68|Thank you, newcomer. Let me recollect myself and... I'll make my own way back to town. ||||
+lludd69|<<As you turn to leave, a violent tremor engulfs the whole mushroom as its organs undulate in agony. You realise that by slicing into its bowels, you may have just [[killed]] this ancient thing.>>||||
+p50|Enough of this. <Cut him loose.>||||
+p51|So you ((really)) want to do this?||||
+lludd70|<<You slice through the membrane and a torrent of foul-smelling acid pours forth. Lludd slides out of the muck, coughing and spluttering.>>||||
+lludd71|You had no r-r-right! ##<<He shivers.>> The first thing I've done, truly by ((myself)), and you've ruined it. You had no ((right))...||||
+p52|People care about you, kid. You can't throw your life away. ||||
+lludd72|I thought... mother would be ((proud))...  ##<<The boy shivers and says no more.>>||||
+p53|You'll thank me in time.||||
+p54|I just like ruining people's plans. ||||
+lludd73|<<The boy shivers and says nothing.>>||||
+p55|So you ((really)) want to do this? Knowing that you'll die? ||||
+lludd74|I've never been so sure of ((anything)) in my life. I want to save the village - I want Pwyll to live on, even if I have to die. ||||
+p56|Well, I respect your decision. ||||
+lludd75|Thank you. I'm glad, at least someone took me seriously, in the e-e-end. Can I ask you a final favour?||||
+p57|Of course. ||||
+lludd76|<<A hand pushes out from the membrane, slick with slime.>> Will you... hold my hand? ##<<You nod, and take his hand in your own. The sting of acid bites, and you feel him shiver.>>||||
+lludd77|<<You stay like this for a few moments, in silence, before his hand goes limp. You realise that Lludd is dead.>>||||
+p58|No.||||
+lludd78|That's okay. Then will you at least... wait here, with me?||||
+lludd79|<<You nod and wait in silence for a few moments, until you notice the boy has gone very still. Yes, there's no denying it; Lludd is dead.>>||||
+lludd79b|<<There's no denying it; Lludd is dead.>>||||
+p59|Still, I can't let you do this. ||||
+lludd80|Oh, it's you. ##I wanted to thank you, for what you did back in the Sacred Shroom. You saved my life. ||||
+lludd81|I don't know what will happen to Pwyll. It makes me sad to think of it not being here, in the future... but maybe we can find somewhere else to call home. ||||
+lludd82|Oh, it's you. ##I still can't forgive you, for interrupting the digestion. But seeing how relieved my mother was to have me back... I suppose I wasn't as worthless as I thought. ||||
+lludd83|I don't know what will happen to Pwyll. It makes me sad to think of it not being here, in the future... but maybe we can find somewhere else to call home. ||||
+cul1|<<The man's eyes follow you with suspicion. His greying hair and weathered skin suggest he is older than most in the village, and a faded scar runs down his face.>>||||
+cul2|Y're new to town, I gather? Well, I'm the local weighmaster - name's Culwych. And I'll have you know; before you engage in any business here in Pwyll, I'll be takin' yer weight.||||
+cul3|So, without another word, please step on the scales. <<He gestures to the huge contraption behind him.>> Thankin' ye ((kindly)).||||
+p100|Wait, why do you want to ((weigh)) me?||||
+cul4|<<He narrows his eyes.>> By decree of the Apostatic Union, all those seekin' to trade in its jurisdictions must prove they're of an ((ordinary)) disposition; that is, not physically altered by cipher magic or god devotion, nor bearing the guilt of unpunished crimes. ||||
+p101|And you can tell that just by my ((weight))?||||
+cul5|Just step on the godsdamn scales, alright? ||||
+p102|Alright, I suppose.||||
+cul6|<<He nods.>> Go ahead, then.||||
+p103|There's no way I'm stepping on that thing.||||
+cul7|Well, you're welcome to refuse; but this village will be having nothin' to do with ye until you step on those damn scales.||||
+cul8|As I already told ye, please step on the scales. <<He gestures to the huge contraption behind him.>> ||||
+cul9|<<He studies the dials and symbols atop the machine, and scratches various notes on some parchment.>> ##Interesting. ((Very)) interesting.||||
+p104|Uh... did I pass?||||
+p105|((Say nothing.))||||
+cul10|The prime glyph says you're a... ((criminal)). <<He shoots you a stern glance.>> The lesser glyphs are harder to parse. Let's see now... ||||
+cul11|They say you ((killed a man)). Multiple witnesses. And, what's this - ((martial trauma)). ## <<He sighs.>> I'm sorry to say I've known plenty o' soldiers who lost their reason.||||
+cul12|Says here y'er a ((deserter)). Don't say what from - these glyphs can be plenty vague. Still, can't say I blame anyone for running from a fight. ||||
+cul13|Hmm, I think this one's... ((fatal miscast)). Ah, so you're a dabbler in cipher magic, eh? A dangerous art, for certain. <<He pauses.>> Jus' be sure to keep any spellbooks ((closed)) in here, alright? I won't have you blowin' your fingers off in my vicinity. ||||
+cul14|Hmm, illegal merchant. The goods seem to be- let's see - ((martial)) in nature. So you were an arms dealer, eh? ||||
+cul15|Says here you were a petty criminal. The other glyphs say - hmm, let's see - you were found all beaten up. I assume you were betrayed by your own sort, eh? Serves you right. ||||
+cul16|They say you were a petty criminal. Other glyphs say you were tracked for years. Did you know that, I wonder? Did you live with one eye over yer shoulder? ||||
+cul17|Crimes of a... ((magical)) nature. Says here you forced entry onto an Inquisition ship, via a... ((portal))? You're either the smartest or stupidest wizard I've ever heard of. ||||
+cul18|Hmm, plenty of damning glyphs 'ere. Seems like you were some sorta criminal ringleader. No wonder you were caught.||||
+cul19|Hm, what's this? ((Raider)) of... ((tombs))? Ah, so y'er in the business of plunderin' ancient relics, eh? Very dangerous - an' not to mention illegal. ||||
+cul20|((Forbidden cipher)), eh? Ah, so you stumbled on one o' those ((illegal)) words? A strange crime no doubt, but one with good reason. You don't wanna be blowing up a town just 'cos you mispronounced one o' those. ||||
+cul21|Says here you caused a ((cipher rift)). I can't imagine what kinda foul cipheristry you were dabblin' with, but I'm mighty glad you didn't tear apart the skyrealms with your foolishness. ||||
+cul22|Merchant of ((illegal goods)). Let's see here, you were tradin'... ((books))? Hmph, may seem innocent enough, but some dusty ol' tomes are more dangerous than a broadside of cannons. ||||
+cul23|Hmm - ((corruption)). An' this glyph says - politics? Ah, so you probably rigged an election, right? I've 'eard those things can be brutal affairs with plenty o' bloodshed, so I can see why some would take a fall for the right price. ||||
+cul24|Says here you're of ((noble)) blood. An', this is a strange glyph - I think it means ((disgrace))? Ah, so you're probably a runaway from one o' those corrupt noble families. ||||
+cul25|Well, this is a strange series of glyphs. Multiple... disrobings... through cipher? <<He thinks a moment, then erupts in hearty laughter.>> ##Oh, I heard about you. You're that idiot who turned a whole town naked, am I right? ||||
+cul26|They say you were a merchant - an' a wealthy one, at that. But this glyph means... ((forbidden relics))? Ah, so you were in the business of the ((occult)). No wonder they caught you. ||||
+cul27|Ah, but there's one more glyph. Inquisition... ((agent))? ##<<He looks up from his parchment, his face struck with puzzlement.>>||||
+cul28|Beggin' yer pardon -  at first glance I thought you might be one o' those Dark Star mercenaries, running from the Inquisition raid. But you must 'ave been ((fighting)) those scoundrels, eh?||||
+p106|Yes, those crimes were just... uh... a ((cover story)).||||
+cul29|<<He gives a quick Union salute.>> Apologies, friend. This 'umble weighmaster didn't mean to delay Inquisition business with his lowly bureaucracy. ##I've approved your visit to Pwyll; you won't get any trouble. ||||
+p107|Yes, I'm a Confessor, atoning for my crimes.||||
+p108|It's not by choice, I assure you. ||||
+cul30|Well, far be it for me to delay Inquisition business. ##I've approved your visit to Pwyll; you won't get any trouble. ||||
+cul31|<<He thinks a moment.>> But, uh, say - in light of your ((profession)) - could lend this 'umble servant of the Apostatic Union a hand? There'd be an [[Apostatic Union Passport]] in it, for ye...||||
+cul32|Y'see, the Inquisition raid ain't the ((only)) reason we've been so eager to weigh people of late. There's also fears of bloody ((god-worship)) among the townsfolk. After all we've been through! <<He looks distinctly peeved.>>||||
+cul33|Ah, welcome back. What can ol' Culwych do for ye? ||||
+p109|I'm looking for some Dark Star mercs, and I need to explore the Oneiric Isles. ||||
+cul34|<<Culwych taps his nose.>> Ah, ((Inquisition)) business, eh? Don't worry, ol' Culwych can keep a secret. ||||
+cul35|Well, you might try askin' [[Nudd]] who's the hired muscle over at the [[Scryshroom Company]]. Gotta say, he's a prickly fella an' I've never gotten on with him too well, but I know he used to work for the Dark Stars.||||
+cul36|But to be honest, I doubt you'll find out much in ol' Pwyll. You'll be wantin' to reach [[Hallow Town]] in [[Hallowshire]], to the south. There's a Union Council building an' a bustling dock where all sorta skyships lay anchor. ||||
+cul37|But to pass over the Union Gatebridge you'll need an [[Apostatic Union Passport]]. Each one'll grant you passage over a single bridge. ||||
+cul38|As a certified weighmaster, I have one that I'm not usin' - but Inquisitor or not, you'll have to [[earn my trust]] if I'm gonna just hand it over. ||||
+p110|What can you tell me about this town? ||||
+cul39|Well, Pwyll is a quaint village these days. We've been growin' and sellin' [[scryshroom]] since the early days of the Skyrealms, an' shippin' 'em all over the place. ||||
+cul40|Business may not be as good since the [[God War]] - ((killin' yer own deity will do that)) -  but we're better off for being in the Apostatic Union. I'd take the Union's tax levies over a Wikkan blood contract any day. ||||
+p111|Wait - you killed your own god? ||||
+cul41|Aye, forty years ago. Before then Pwyll was prosperous - and ((miserable)). We were trapped into a blood-contract with our tyrant-god Aenguin, and the terms were ((abysmal)).||||
+cul42|Oh, our harvest was bountiful, but the blood-price was high. Every year, dozens o' villagers disappeared into the [[sacred shrooms]] to appease that divine ((bastard)), never to be seen again. ||||
+cul43|So when the Apostatics came callin' - askin' us to renounce our faith, an' join the fight against the Wikkans? We took up arms ((gladly)). I fought in the Pwyllian division, an' have the scars to show for it. ||||
+p112|What happened next?||||
+p113|Okay, I get the picture. ||||
+cul44|Anythin' else you wanted? ||||
+cul45|We crewed a Kardovan lancer ship an' impaled our own deity with a voidspear. For all the grief he caused my people, that bugger really didn't put up much of a fight. ||||
+cul46|But the war still raged, so the Apostatics built that huge [[fortress]] on the hill to repel Wikkan counterattacks. O' course, when the dust cleared an' the war was over, the newfangled [[Apostatic Union]] let it fall into ruin...||||
+cul47|...until that mercenary lass ((Vela Callose)) took it over, o' course. Past few years, Pwyll 'as garnered quite the reputation for smugglin' and nefarious business, thanks to those damned [[Dark Stars]]. You'd think the Union would'a done somethin' about it sooner, but the larger the gears the slower they grind, I guess.||||
+cul48|...until that mercenary lass ((Vela Callose)) took it over, o' course. Past few years, Pwyll 'as garnered quite the reputation for smugglin' and nefarious business, thanks to those damned [[Dark Stars]].||||
+cul49|You'd think the Union would'a done somethin' about it sooner, but the larger the gears the slower they grind, I guess.||||
+p114|What's a Wikkan contract?||||
+cul50|Hmph, 'ave things gotten so comfy in the Union that people 'ave forgotten their ((history?)) Well I'll be damned. ||||
+cul51|For as long as people can remember, Wikkans 'ave acted as mediators between god's an' their worshippers. ##<<He strokes his chin.>> Kinda like ((lawyers)) of the ((divine)), I guess.||||
+cul52|S'pposedly they acted in the best interests of both mortals ((an')) the gods - binding both in a magical contract that made sure neither got scuppered over. 'Cept, here in Pwyll our Wikkans ((fucked)) us; the terms were all in Aenguin's favour.||||
+cul53|We can't a' been alone, because forty years ago the apostatics started the God War, and we weren't the ((only)) place to slay their own god, let me tell ya. ||||
+p115|Are you happy being part of the Apostatic Union? ||||
+cul54|More than a lotta folk. I've met travellers who lament the passing of the gods - who claim the Union has swapped divine majesty for naught but politics an' paperwork.||||
+cul55|But here in Pwyll? Anyone old enough will remember the ((bad times.)) We've all lost friends an' family - the godsdamn soil was fertilised with their blood. ||||
+cul56|Of course, for a long time bein' in the Union didn't mean much. Here in the [[Oneiric Isles]] we're on the fringes, y'see - an' for decades these isles were rife with outlaws, criminals and Wikkan refugees. ||||
+cul57|It's only lately that the Union's stepped up its presence an' built a council chamber in [[Hallowshire]]. Since then, trade in Pwyll's been boomin' - turns out plenty of folk wanna buy our shrooms. Now, If only our harvests could keep up with demand... ||||
+p116|What's this scryshroom you grow?||||
+cul58|Well, it's a mushroom that lets you scry the future, see? Shows you visions of what ((could)) come to pass. ||||
+cul59|Only, it's not always right. Sure, every now an' again someone sees a vision of something that absolutely, irrevocably comes true, an' everyone sings the praises of the humble scryshroom. But most of the time y'er just havin' a bad dream. ||||
+cul60|<<He shrugs.>> Still, people all over the Skyrealms wanna buy it, so I'm not complainin' - puts food on my plate, after all. ||||
+p117|That's all I wanted to ask.||||
+cul61|So be it. Was there anythin' else?||||
+p118|How can you tell so much from those scales? ||||
+cul62|These are [[morality scales]]. You'll see there's only one visible; that's because it's magically linked at the fulcrum, through a bond of cipher, to a scale containin' the ((Moral Standard)).||||
+p119|What's the Moral Standard - some kind of weight? ||||
+cul63|<<He grins.>> Oh, no - that would be preposterous! How could you tell so much about a person by weighin' 'em against a ((dead weight))? No, no - don't be stupid!||||
+cul64|The Moral Standard is a ((person)). A carefully selected person who bears qualities deemed the epitome of Apostatic Union morality. By weighin' you against such perfect integrity, we can tell by what ((degree)) your character is lackin'. ||||
+cul65|I think the current Moral Standard resides far off in Byonne University. They have to rest an' sleep between weighings, of course - which is why weigh houses only open at certain times.||||
+p120|Why does such a small town need to weigh people? ||||
+cul66|Well, on account of bein' on the ((fringes)) of Apostatic Union territory, there are certain unseemly folk who've taken advantage of Pwyll in the past. Mercenaries like those Dark Stars in the fort over yonder, who've used us to smuggle ill-gotten goods into [[Hallowshire]] and beyond. ||||
+cul67|So havin' a certified weighmaster helps Pwyll attract reputable merchants to buy our [[scryshroom tea]]. Shows we can be trusted to pay our taxes, y'know?||||
+cul68|An', we don't ((just)) weigh people. Can also weigh shrooms an' grain. Or, well, anythin' really. ||||
+p121|That's enough about weighing things.||||
+cul69|Was there anythin' else?||||
+p122|I'll be going, then. ||||
+cul70|Aye, until next time. ||||
+p123|So you need help tracking down god-worshippers?||||
+cul71|<<He leans forward and speaks low.>> ((Aye.)) Folk've been a-feared recently, y'see. The soil's dyin' an' harvests are down. Merchants want to buy our scryshroom more than ever, but we can't meet demand. So some have been flirtin' with... the ((old)) ways. ||||
+p124|What makes the ((old)) ways so bad? ||||
+cul72|<<He sighs.>> It's been forty years since the God War. Forty years since the apostatics told the Wikkans an' their gods to go ((fuck)) 'emselves. ##Forty years since me an' the lads drove a voidspear through our ((own god's)) eye - that cruel, violent, ((bastard)) of a god: Aenguin.||||
+cul73|An' in those forty years, folk 'ave forgotten how ((bad)) it was under that divine tyrant an' his Wikkan lackeys. Sure, we had bountiful harvests and our purses were bulgin'. But our sons and daughters were taken from us, an' the soil was fertilised with their ((blood)).||||
+cul74|Now, our ol' god Aenguin's been ((dead)) for long enough. But they say so long as people still ((believe)), some part of a god can live on. So there's been ((murmuring)) of some folk tryin' to... bring him ((back,)) an' that's got the rest o' us so scared shitless. ||||
+p125|Look, just tell me what you need. ||||
+cul75|Alright, I'll tell it straight. As you know, god-worship an' consortin' with Wikkans or their gods is a heinous crime - but I've reason to believe there's some among us who are turnin' to it, to try an' fix our poor harvests. ||||
+cul76|Trouble with a small town like this? We all know each other, an' the guilty parties won't talk to ((me)). But ((you))? You're an outsider, an' an Inquisition ((agent)) to boot. ||||
+cul77|I need you to [[ask around]], an' try and find any [[Wikkan sympathisers]] - so we can sort this out ((quiet)) like, before the villagers start loppin' each others heads off in a frenzy. ##Find summin' out and I'll dispense you a [[Union Passport]] that'll grant passage to Hallowshire. ||||
+p126|Alright, I'll see what I can do.||||
+cul78|<<He sighs in relief.>> You have my ((thanks)), newcomer. Just... as soon as you find summin' out of sorts, you let me know, y'hear? ||||
+p127|I get the whole ((god)) thing, but what exactly ((is)) a Wikkan?||||
+p128|I'll think about it. ||||
+cul79|<<He sighs.>> Look... if you hear of summin' out of sorts, just let me know, y'hear? ||||
+p129|So, about these god-worshippers...||||
+cul80|<<He leans in.>> You heard anythin'?||||
+p130|What makes the old ways so bad, exactly? ||||
+p131|Do you have any idea who I should be asking?||||
+cul81|<<He strokes his chin.>> Well, you could try our Mayor, Owynn, but... honestly, she's often got her head so far in the clouds, I doubt she 'as a clue what's going on with her constituents. ||||
+cul82|But seein' as this whole thing's tied up with the shroom trade, I'd try asking around in the [[Scryshroom Company]] down by the dock. Its owner, [[Dwynn]], certainly has a lot to ((gain)) from better harvests... ||||
+p132|About these Sacred Shrooms...||||
+p133|That's all.||||
+cul83|Fair 'nuff.||||
+p134|I've found evidence of god-worship in Pwyll. ||||
+cul84|<<He leans close.>> Oh yeah? ((Tell)) me then, why don't ya? ||||
+p135|I saw someone dressed in robes, lurking around at night.||||
+cul85|Hmm, that sure is mighty suspicious - but on its own, I can't do nought with this kinda evidence. Can ye try an' find where they were ((goin'?)) If they really ((were)) a Wikkan, there'd be some sorta... ((ritual)), maybe. Signs of someone tryin' ta rekindle the contract... ||||
+p136|There were occult instruments in the caverns below Pwyll.||||
+cul86|<<For a moment, he merely stares past you; lost in thought.>> ##This can only mean one thing.||||
+cul87|If someone's conductin' rituals around Aenguin's corpse, that means they're tryin' to re-open the blood contract. ##But buried in those clauses was a ((terrible cost))... no less than [[human sacrifice]].||||
+cul88|Here, take [[this key]]. It'll unlock the upper chamber in the [[Sacred Shroom to the west]].||||
+cul89|That [[key]] you found? It'll unlock the upper chamber in the [[Sacred Shroom to the west]].||||
+cul90|There's no doubt in my mind. Someone's bein' taken to the Sacred Shroom to be metabolised - as per the contract's terms. ##You gotta [[go there an' ((save 'em!))]]||||
+p137|Did you say ((metabolised))?||||
+cul91|In the old days, there were Sacred Shrooms all over Pwyll. Each would spawn a whole forest 'o scryshrooms, but only... only if they'd recently metabolised a human.||||
+cul92|I 'aint sure if the scryshrooms ((use)) part of the human body to achieve their effect, or whether it was all just part o' Aenguin's divine ((mockery)) - but I know the scryshrooms used t'be more potent in the old days. ||||
+cul93|Now, there's only one Sacred Shroom left - deep in the mushroom forest to the west. All the others shrivelled up an' died when we stopped feedin' 'em flesh. ||||
+p138|How do I get into this... mushroom?||||
+cul94|Well, you'll need to travel through the mushroom forest. You can't miss the shroom itself; it's prolly the biggest mushroom you've ever seen.||||
+cul95|On account o' it bein used by the Wikkans in the past, there's doors an' paths leadin' up around the shroom itself. The [[main doors]] will lead you through the central stem; but there might be a whole host o' nasty monsters waitin' to tear you a new one.||||
+cul96|So you might try lookin' for a [[way round the back]]. It'll prolly be locked up tight, but you might have less o' a fight on yer hands that way. ||||
+p139|Okay, I'll do my best.||||
+cul97|I'm relyin' on you, y'hear? ||||
+p140|I visited the Sacred Shroom and discovered what's going on. ||||
+cul98|Was I right? Was there a ((sacrifice)) takin' place?||||
+p141|It was Lludd. He sacrificed himself so that Pwyll would prosper.||||
+cul99|<<Culwych staggers back, aghast.>> Oh, not poor ((Lludd))? I was there at his ((namin')), looked after that lad like he was... <<He chokes on the words.>>||||
+cul100|Oh, that ((foolish)) boy. The harvests ain't worth Aenguin's ((blood price))-  ain't I always taught 'im that?||||
+cul101|<<He sighs heavily.>> Still, I s'pose you got to the bottom o' what's been goin' on, an' for that you have my thanks. ||||
+p142|It was Lludd. He tried to sacrifice himself, but I managed to talk him down. ||||
+cul102|<<Culwych gasps.>> Oh, that ((foolish)) boy! The harvests ain't worth Aenguin's ((blood price)) -  ain't I always taught 'im that?||||
+cul103|But looks like you ((stopped)) him, newcomer; and for that you have my sincerest thanks. It's not much, but just as I promised... ||||
+cul104|Here, take this [[Union Passport]]. It'll get you through the [[gatebridge to the south]], leadin' to [[Hallowshire]].||||
+cul105|Be careful down there, mind. If you think Pwyll's harvests are bad, you ain't see ((nothing)) yet. Hallowshire's in the midst of an awful famine, an' it seems the townsfolk 'an our poor Lludd 'ave had certain... ((ideas)) in common.||||
+p143|I found Wikkan antiques in Mayor Olwen's basement. ||||
+cul106|<<He strokes his chin and groans.>> ((Olwen)) you say? Could it be...? ||||
+cul107|<<He shakes his head.>> But we'll need more to go on than jus' this - plenty o' these old houses have things knockin' about in 'em that'd make a Wikkan blush. I don't want to jump to conclusions; so we'll need ((more.))||||
+cul108|Y'know, folk around here ain't stupid. I reckon any shady goings on will be happening under the [[cover of darkness]]. Why don't you try [[resting]] until nightfall? I know Dwynn [[rents a room]] for passersby. ||||
+olwen1|<<The woman sits with her eyes closed, a pained expression on her face. Various medallions and necklaces hang around her neck, suggesting she holds some important position here in Pwyll.>>||||
+olwen2|<<She mutters under her breath:>> Flames, oh the ((flames))! We have to douse the ((flames))...||||
+p200|Uh, is everything okay?||||
+p201|((Say nothing)).||||
+olwen3|<<She continues to mutter to herself, shaking her head to and fro, until she startles herself awake.>>||||
+olwen4|Ahh! <<She looks at you with a frenzied intensity to her gaze.>> ##What are you doing? You've got to get ((out)) of here! The nautilob will ((burn you alive))!||||
+p202|What are you talking about?||||
+olwen5|Can't you ((see)) it? The monster rising above the flames? Oh, the ((horror...)) We have to...||||
+p203|Nothing's on fire, lady. ||||
+olwen6|You fool, even ((you)) are ablaze! Oh, how the skin melts from your bones! We have to...||||
+p204|Not the ((nautilob))! Whatever's next - the ((phlanganip))?||||
+olwen7|You ((jest)), but the giant nautilob is no ((joke))! What do you think caused all this devastation? We have to...||||
+olwen8|<<She stops mid sentence and blinks, slowly. After a moment she says,>> ##...Nothing's on fire, is it?||||
+p205|No.||||
+p206|Are you kidding? I'm burnt to a crisp.||||
+olwen9|Oh, how ((embarrassing))! I'm terribly sorry, you caught me in the middle of a divination. ##My name is [[Olwen]], mayor of this humble village of Pwyll. How do you do?||||
+p207|Did you say ((divination))? Are we going to die?||||
+olwen10|<<She chuckles nervously.>> Oh, by the Skyrealms, not at all! There is only a distinct ((possibility)) we will be burned alive.||||
+p208|Are hallucinogenic drugs part of your mayoral duties, or...?||||
+olwen11|<<She blinks at you.>> Well... of ((course))! Hallucinogenic drugs are our main export here in Pwyll. It would be remiss of me not to partake!||||
+p209|Pleased to meet you.||||
+olwen12|<<She performs a short curtsy.>> Thank you for your understanding. I've been rather anxious about the future, as you've no doubt observed...||||
+olwen13|You see, I have found myself presented with quite the ((dilemma)). It's really ((nothing)) to worry about, so please don't cause a fuss! I have the whole thing ((quite)) under control.||||
+olwen14|I was merely indulging in a scryshroom meditation to divine what manner of threat this [[giant monster]] could pose. And, uh, it turns out it's really not much of a problem at all. <<She gulps.>>||||
+p210|Wait, what's this about a ((giant monster))? ||||
+olwen15|Oh, so it's not common knowledge? <<She looks genuinely relieved.>>##I thought the whole town would be talking about it by now... ||||
+p211|How ((reliable)) are these divinations?||||
+olwen16|Oh, in Pwyll we pride ourselves on our scryshroom divinations ((always)) being reliable. Except, uh, for when they're not. ##Sometimes the drug can exacerbate the user's hopes and fears, making the vision more... ((fantastical)) than prophetic. ||||
+p212|Well, you seem like you have the situation firmly under control.||||
+olwen17|Wait! ##<<She screams the word, then laughs nervously.>> I mean, when I say it's not ((much)) of a problem, I was perhaps, ah, honey-coating the situation a little...||||
+olwen18|You see, a small mercenary band has made certain, um, demands. No, I don't mean Vela's Dark Stars - this lot are much less, uh, ((accomplished)) - which makes it all the more puzzling how they've got their hands on a [[giant nautilob]]. ||||
+p213|What's a nautilob, exactly?||||
+olwen19|<<She waves her hand dismissively.>> Just a Skyrealms mollusc that you find around these parts - easily recognisable by their shells. But, I had absolutely no idea they could get this ((big))!||||
+p214|So what - you want ((my)) help?||||
+olwen20|Oh ((no))! I never said anything like that - as mayor of this place, I have everything completely under control. ##<<She narrows her eyes.>> Of course, that being said... ||||
+olwen21|Those mercenary scoundrels are threatening me with their huge nautilob. They claim they'll sack the town if I don't comply with their absurd demands. I ((really)) don't want to cause a panic in the town, so I'm at a loss at what to do. ||||
+olwen22|But, If ((someone)) could sneak into their fortress to the [[south-east]], and ascertain whether this [[nautilob]] thing has any [[weakness]] we could exploit... well, let's just say that person would find themselves firmly within my favour. ||||
+p215|I'll see what I can do. ||||
+olwen23|<<She gives you a sly smile.>> Very well. ##Now, was there anything else? ||||
+p216|What if those mercenaries were to ((disappear?)) ||||
+olwen24|Oh! Well that would be quite the tragedy. The idea of more blood being spilled on Pwyllian soil is a ((horrible)) thought.||||
+olwen25|<<Her eyes narrow.>> But of course, it ((would)) rather solve the problem here, wouldn't it? And with so little funds to hire guards, it would be ((awfully)) hard to catch the perpetrator of such a crime... ||||
+olwen26|<<She smiles suddenly.>> Oh, but pay me no mind! I'm merely thinking out loud. Now, was there anything else?  ||||
+p217|I'll have nothing to do with this. ||||
+olwen27|<<She winks.>> Oh, of ((course)) you wouldn't. - I'd never dream of it! ##Now, was there anything else? ||||
+olwen28|Ah, you're back. <<She sighs.>> I suppose I have a few moments to talk.||||
+p218|The mercenaries say you never paid them.||||
+olwen29|Well, I never paid them the full amount, no. But that's because they made a ((ghastly)) mess of the whole thing!||||
+olwen30|I hired them to clear out a few nautilobs from the surrounding forest. They managed to kill a measly ((three)), and then had to retreat because one of their men tripped and fell on his own spear. I mean, what kind of idiots ((are)) they? ||||
+p219|You won't have to worry about that giant nautilob anymore.||||
+olwen31|Oh, really? Why, this is ((splendid)) news! Please, tell me the details...||||
+p220|Well, I killed their leader. I doubt they'll be troubling you any more. ||||
+olwen32|Ah. Oh. Oh dear. ||||
+olwen33|I mean, it's good that the problem has been resolved. Very good indeed. But just to be perfectly clear - I never ((asked)) you to kill anyone, correct?||||
+p221|Actually, you strongly hinted that I could.||||
+olwen34|Ahah. Hah. Well, that's ((your interpretation)) dear. Let's leave it at that, shall we? ||||
+p222|Well you didn't say I ((couldn't)).||||
+olwen35|That's an interesting interpretation of my request. Let's just speak no more of the matter, shall we? ||||
+p223|Oh and, another thing - that giant nautilob? It was an illusion.||||
+olwen36|<<A maniac smile spreads across her lips.>> Oh! That's just wonderful. We've butchered a bunch of mercenaries and it turns out they're ((innocent)).||||
+olwen37|I'll tell you what- I'm going to give you this [[reward]]. A truly well-earned reward for a job thoroughly well done. And as ((part)) of this reward, yes, we're going to never speak about this ((ever)) again, correct?||||
+olwen38|<<A deadly serious expression engulfs her face.>> Not. To. ((Anyone)). ||||
+olwen39|<<She breaks into a jolly smile.>> Well, that's settled then, yes? ||||
+p224|The nautilob was an illusion, nothing more. ||||
+olwen40|Oh! Oh my! ((Really?))||||
+olwen41|...I can't believe I didn't think of that! So the town is saved? We're not going to burn alive? Hurrah!||||
+olwen42|Anyway, please take this [[reward]] along with my heartfelt thanks. You've done Pwyll a fine service today. ||||
+p225|About this giant nautilob...||||
+olwen43|Oh, yes... I'm presuming it's still ((there?))||||
+p226|I'm looking for Dark Star mercenaries.||||
+olwen44|Oh ((please.)) If I hear one more word about those bloody ((Dark Stars...)) <<She shakes her head.>>||||
+olwen45|We've always had our fair share of miscreants attracted to Pwyll - It turns out it's not only ((poets and horticulturalists)) who are attracted to the solitude of the countryside...||||
+olwen46|But when that wretched ((Vela Callose)) moved in with her cohorts, you wouldn't ((believe)) the type of scoundrels we had prancing up and down our idyllic cobbled streets. ##<<She sighs.>> And now, on top of everything else, we have the ((Inquisition)) raiding the island! ||||
+olwen47|So I'm sorry, but if you have dealings with those ruffians, I really can't help you. Maybe you'll have better luck with someone else around town.||||
+p227|Do you know about any ((Wikkan worship)) going on?||||
+olwen48|God-worship? In ((Pwyll))? Surely not. Most of the villagers who are old enough to remember actively ((relishing)) the death of their former god Aenguin, for all the horrible things he did. ||||
+p228|I met your son, Lludd. ||||
+olwen49|Oh! Yes, my ((darling)) boy. Was he just loitering around on the path again? I can never get that boy to pursue his ((studies)), no matter how hard I try... ||||
+olwen50|<<She sighs.>> But, I shouldn't be too hard on him. There aren't any other children his age in Pwyll, and my mayoral duties keep me ((so)) busy...  ##((Oh, that reminds me - it's nearly time for my invigorating intonations...))||||
+p229|About your son...||||
+olwen51|Oh, so ((you're)) the vigilant stranger who saved my son? I really ((cannot)) thank you enough - I don't know what I would have done, had he... ||||
+olwen52|<<She sniffs, tears in her eyes.>> I know I can be ((distracted)) sometimes, but it's only because I want Pwyll to be a perfect ((home)) for Lludd. I suppose I took it too far, considering what he tried to ((do))...||||
+olwen53|Please, I want you to have the most valuable thing I possess...||||
+olwen54|...these [[healing herbs]], from my garden. There really is nothing more precious than ((nature's bounty)),||||
+olwen55|Oh, so you heard about his... passing? <<She sniffs, tears in her eyes.>>||||
+olwen56|I just never expected he would ((do)) such a thing. Everything I've done here in Pwyll was for ((him)). To lose him like this, it's just so...||||
+olwen57|<<She wipes away tears.>> I'm sorry, but I need a moment... to myself... ||||
+p230|I had questions about this town.||||
+olwen58|<<She sighs.>> As Pwyll's mayor I am of course ((exhaustively)) busy, but... <<She mumbles to herself.>> ...((I suppose I can postpone my meditative dance until later.))||||
+p230b|What's the story of this place?||||
+olwen59|Well, before the [[God War]], Pwyll worshipped a deity named Aenguin. I must admit, this was all rather before my time - but I've heard it said that he was particularly ((cruel)) - probably why the villagers committed deicide by impaling the bugger with a voidspear. ||||
+olwen60|After the war, the nearby fortress fell into ruin and proved the perfect staging ground for brigands and mercenaries. Pwyll got caught up in a whole load of ((illicit)) business, culminating in the previous mayor getting imprisoned on extortion charges...||||
+olwen61|You see, he pilfered a Wikkan artefact and grew six limbs, just as the inquisition were really cracking down on ((extortion)). ||||
+olwen62|And that's when ((I)) happened to be passing through. The villagers of Pwyll had decided that a new mayor would be decided by a contest of horticulture. I cultivated a small garden of hymnal hydrangeas that could sing in three octaves, and ((that)) was ((that)).||||
+olwen63|Oh, Pwyll has a long and compelling history. Did you know that in all of the Apostatic Union, we have won ((by far)) the most agricultural competitions for the ((quality)) of our produce? Or that, though small, our scryshroom farms can rival the orchards of Byonne in yield?||||
+olwen64|<<She waves a hand.>> Oh, and there's also the drama of Pwyll's [[terrible god]] who was killed by his own worshippers - but it's all rather before my time, so you'd have to ask [[weighmaster Culwych]] about that I'm afraid.||||
+olwen65|You see, I became mayor of this place somewhat by ((accident.)) I was passing through just as the villagers were electing a new mayor - for the last one had been suddenly - if not ((unexpectedly)) - imprisoned on extortion charges.||||
+olwen65b|The mayoral contest was one of horticulture. I cultivated a small garden of hymnal hydrangeas that could sing in three octaves, and ((that)) was ((that)).||||
+p231|So wait, you're not actually ((from)) Pwyll?||||
+olwen66|Oh, not in the least. I'm from a really rather important family in Lundel, and was only travelling around the Oneiric Isles to escape the frightfully ((dreary)) star cycles we have there. ||||
+olwen67|I can't say it's traditional for a village such as Pwyll to elect an outsider, but I think they've taken to the idea rather well. Only occasionally do I get a nautilob thrown through my window or a laxative spell nailed to my door. ||||
+p232|Okay, I get the picture. ||||
+olwen68|Was there anything else? ||||
+p233|You seem quite smitten with this hallucinogenic tea. ||||
+olwen69|<<She scrunches her nose.>> Pwyll's scryshroom is not merely ((hallucinogenic)); it submerges one's consciousness into the temporal current. In other words, it allows you to ((see the future)).||||
+p234|If that's true, why isn't everyone drinking it?||||
+olwen70|Well, our soil is arid and our harvests are poor, so we can't meet demand! There's also the matter of, ((ahem)), its variable efficacy...||||
+p235|Sounds potent. ||||
+olwen71|Oh, it's ((extremely)) potent! The visions are of such intensity that one can be forgiven for thinking they are ((really)) occurring. Though... it's important to interpret such visions with a pinch of caution. ||||
+olwen72|You see, not ((everything)) the scryshrooms predict will come to pass. The cosmos is a web of infinite possibilities, and the future is not struck in stone. The users' hopes and fears can also ((taint)) the vision in, uh, ((rare)) cases. ||||
+olwen73|They're also known to cause... <<She clears her throat, then quickly mumbles the words.>> ...((fainting, nausea, delusions of grandeur, extreme anxiety, abnormally bushy eyebrows, independently sentient limbs, and death)).||||
+olwen74|But all the more reason why we must use the scryshroom ((responsibly)), yes? And they really ((are)) quite good for digestion. ||||
+p236|Did you know there was a mercenary band in that old fort?||||
+olwen75|Well, I wouldn't be much of a mayor if I ((didn't)) know that, would I? Under Union law, mercenaries are perfectly legal organisations. The trouble is that in peacetime they tend to lean towards more... ((illicit)) pursuits. ||||
+olwen76|Being so far from the capital city of Riova, Pwyll's attracted numerous types of ruffians over the years. They never caused ((too)) much trouble; at least until Vela's [[Dark Star]] mercenaries moved in. You'd never have guessed they were once the most respected sellswords in the Union, based on their recent behaviour! ||||
+olwen77|I'm sure you've noticed all that ruckus coming from the old God War fortress? The Apostatic Union has finally had enough, you see. It's about time they taught that ((Vela)) a lesson, but all those explosions are really disrupting my morning routine. ||||
+p237|Do you think any Dark Stars could be hiding in Pwyll?||||
+olwen78|Well, we're quite used to the odd group of Dark Stars stumbling into the town for a drink or ten. But beyond that, I really wouldn't have the slightest clue. ||||
+olwen79|I know [[Nudd]] has done some jobs for them. You can usually find him in the [[local shop]] - why don't you try bothering - uh, ((asking)) him about it? ||||
+p238|Thanks for the info. ||||
+olwen80|<<She sighs.>> Was there anything else?||||
+p239|Farewell.||||
+olwen81|Goodbye. You can see yourself out, yes? ||||
+p240|I found Wikkan antiques in your basement. The ((illegal)) kind.||||
+olwen82|<<She frowns.>> First of all, what the fuck have you been doing in my basement? I've allowed you into my house as a ((guest)), not for you to go digging through my possessions!||||
+olwen83|And as for those ((antiques)), they were simply left here by the previous mayor. I have absolutely ((nothing)) to do with them!||||
+olwen84|Now if you'll excuse me, I think you should make yourself scarce. ||||
+dwynn1|Ah! Welcome, welcome; pull up a stool. If yer lookin' for scryshroom, you've come to the right place. ##<<He leans on the counter and thrusts a bulging eye in your direction.>> D'ya know what scryshroom ((does)), newcomer? ||||
+p300|Yes.||||
+dwynn2|Then you'll have 'eard it shows you the ((future)). But, see, that puts some folk ((off)), as they're scared of what they might see. I'm here to tell 'ya it ain't ((like)) that. ||||
+p301|No.||||
+dwynn3|Well, where've you been stuffin' your noggin? Scryshroom shows you your ((future)), in all its brilliant glory!||||
+dwynn4|There ain't no cipher spell in the Great Library of Byonne that can do what scryshroom does. It plunges y'er into the ((river)) of ((time)), so you can see the bends an' the currents rushin' towards ya. ||||
+dwynn5|D'ya know how I grew this business? Not with ((luck)), my friend - oh ((no)). I used the 'umble scryshroom to ((outsmart)) my rivals, and now my company ships 'em to every corner o' the Apostatic Union.||||
+dwynn6|So whad'ya say - you buyin'? ||||
+p302|So wait - do these visions always come ((true))?||||
+dwynn7|<<He squirms a little.>> Well now, I can't say they're ((always)) right. The future can be ((changed)), see? An' I won't be held accountable for any foolishness or failures you get yerself into after you use 'em. ||||
+p303|Okay, you've convinced me - what're you selling? ||||
+p304|Actually, I wanted to ask you some questions... ||||
+dwynn8|<<He frowns, disappointed.>> Hmph, alright. Whad'ya want to know? ||||
+dwynn9|Always good to see a returnin' customer. What can I do for ya? We got [[scryshroom tea]] brewin', an' I've a [[room to rent]] upstairs. ||||
+p305|Have you heard the rumours of ((god-worshippers)) in Pwyll? ||||
+dwynn10|<<He frowns.>> Now look, that's a pretty nasty accusation to be throwin' around willy nilly. What ((exactly)) are yer gettin' at, ((newcomer))? ||||
+p306|Of all the people in Pwyll, ((you)) stand the most to gain from a better harvest, no?||||
+dwynn11|You ((dare)) accuse me of such a thing in my ((own)) shop? Now listen 'ere you runt; I 'ad family who sacrificed themselves to that cunt of a god, just so we could be 'ere today. ||||
+dwynn12|I remember bein' just a boy, and seein' my uncle - who raised me like I was his ((own)) - walk into the Sacred Shroom, never to come back. If I knew of ((anyone)) who was cavortin' with Wikkans, I'd... ((I'd...)) ||||
+p307|I'm not accusing anyone; just asking a harmless question...||||
+dwynn13|Damn ((right)) y'er not accusin' anyone. 'Cos I'm old enough to have lost family to that bastard god, like plenty other folk round 'ere. The thought o' bringing him back sends a chill through my bones.  ||||
+dwynn14|<<He sighs heavily.>> It's true the business 'as been ((hurtin')) lately. The soil's not what it was when I was a boy, an' each year the yield gets leaner... ||||
+dwynn15|But I'd sooner pack the whole thing in, an' be beggin' on the streets of Hallowshire, than subject Pwyll to that tyrant god again.||||
+dwynn16|<<He lowers his voice to a hushed whisper.>> If there really (('are)) folk around 'ere praying to Aenguin - an' I'm not saying there ((are)) - they'd be doin' it under the [[cover of darkness]], I'd wager.||||
+dwynn17|Only last night I saw someone [[lurkin' in the dark]] as I was packin' up. Now, if someone were to [[rest until nightfall]], they might be able to get a better look...||||
+dwynn18|But that'll be all I'll say on the matter. So don't be askin' me again, y'hear?||||
+p308|Did you know there are mercenaries with a ((monster)) outside town?||||
+dwynn19|<<He grumbles some curses under his breath.>> I 'eard as much from one o' our regular merchants. He said summin' about a beast floatin' over the ol' fort...||||
+dwynn20|It's those Rotten Onion lads again, 'aint it? Always trialin' some hairbrained scheme - all the while scarin' off my tradin' partners! ||||
+p309|I'd like to peruse your services. ||||
+dwynn21|That's what I like to 'ear. I've got a pot of [[scryshroom tea]] on the brew, an' we've also got a few other odds an' ends if y'er hankerin' for supplies. ##I've also a [[room to rent]] upstairs, for two coin, if you need some rest. ||||
+p310|Let's see what you have for sale.||||
+dwynn22|Alright, 'ere's what we got... ||||
+p311|I want to rent the room. ||||
+dwynn23|Thankin' ye. It's just up the stairs there. ##I'll try an' keep the ruckus down in the morning, when we're packin' up the goods.||||
+dwynn23b|Aye, It's yours for two coins.||||
+dwynn24|Looks like you don't have the coin, there. Come back when y'eve scraped some together. ||||
+p312|Actually, never mind. ||||
+dwynn25|Changed yer mind, eh? Well will there be anythin' else? ||||
+p313|I have some questions for you. ||||
+dwynn26|Well, if you wanna know about scryshrooms, I'm the person to ask. Been growin' an' tradin' 'em since I was ((this)) high. ||||
+p314|How's the scrysrhoom trade? ||||
+dwynn27|Oh, demand's never been better. This shop I run's just outta respect for the village; but really, I make my money sellin' shrooms in bulk to merchants. And there's a real penchant for the stuff. ||||
+dwynn28|These days, peddlers, poets and polymaths alike are drinkin' the stuff from Lundel to Vena. In the tearooms of Byonne, ladies an' gents are seein' their futures unfurl before 'em... ||||
+dwynn29|But, I'd be lyin' if I said it was ((all)) good news. The harvest's been down lately, an' each year we're growin' less of the stuff. ##<<He speaks low, suddenly sullen.>> If uncle were here, he'd know what to do...||||
+dwynn30|Y'know, it's the strangest thing. The scryshroom fields 'ave suddenly started sproutin' like never before! I think Pwyll's luck might be changin'... ||||
+p315|I heard Pwyll had a certain reputation for ((smuggling))...||||
+dwynn31|<<He shoots you an angry glance.>> Lotta folk talk about that. Lotta folk don't know what they're ((talkin')) about.||||
+dwynn32|Sure, a lot of mercenaries 'ave set up shop around these parts. And yeah, we trade with 'em. But here in Pwyll we pay our taxes jus' like ((anyone)) in the Union. That's why ol' Culwych went to Riova to learn t'be a weighmaster, an' all. ||||
+dwynn33|<<His eyes narrow.>> An' if you've been snoopin' around and seen some things you don't like the look of, I'd advise you to ((keep yer trap shut)). I don't pay Nudd over there just for his looks, y'know? He ((protects)) my business interests. Hear me? ||||
+p316|Is there anywhere I can buy an Apostatic Union Passport? ||||
+dwynn34|Only union officials an' certified traders can dispense 'em. You'll be wantin' to talk to our [[local weighmaster, Culwych]], over at the weigh house - but he won't just hand 'em out for anyone. ||||
+p317|You look like a resourceful merchant. I have ((coin)), and I'm willing to pay... ||||
+dwynn35|<<He narrows his eyes.>> Careful, now. Yer suggestin' an ((illegal)) trade. That sorta talk could see us ((both)) rottin' in an inquisition cell...||||
+p318|@@Don't worry, you can trust me.||||
+dwynn36|%%<<He is silent a moment, staring into your eyes.>> ##...Alright. But a hint of this to anyone, an' Nudd over there will be addin' some new ((kneecaps)) to his collection.||||
+dwynn37|Go to the windmill; there's a locked door leadin' to the basement. [[This key]] will get you in, an' you'll find my [[business associate]] down there. She'll sort you out...  ||||
+dwynn38|Now, get outta my sight. We never (('ad)) this conversation, y'hear?||||
+dwynn39|&&((Squidshit)). I 'aint trustin just anyone who walks through my doors.||||
+p319|Okay, never mind. ||||
+p320|Okay, thanks.||||
+dwynn40|<<He nods.>> Anythin' else? ||||
+p321|Farewell.||||
+dwynn41|<<He nods.>> Come again now. ||||
+nudd1|<<The man sips his tea and studies you intently.>> New face, eh? If you've got business here, talk to Dwynn at the counter. He's the proprietor of this business; I'm really only employed to make sure things go ((smoothly)).||||
+p350|You don't seem like the rest of the villagers.||||
+nudd2|<<He betrays a thin smile.>> My, you're ((perceptive)), eh? ||||
+p351|And how do you make sure things go smoothly, exactly?||||
+nudd3|Well, the details are of such a nature that I wouldn't feel comfortable discussing them... <<he takes a sip,>> over ((tea)).||||
+nudd4|I'm a mercenary, you see. I've fought with the Byonne Serpents, the Lundel Black Guard; and even the ((Dark Stars)), for a time. ||||
+nudd5|And now... <<he sips his tea,>> I protect the business interests of this fine gentleman, nothing more. So please, pay me no heed. ||||
+nudd6|<<He sips his tea quietly.>> Was there something else? ||||
+p352|Do you know of any... ((god-worshippers)) here? ||||
+nudd7|Ah, so has old Culwych got you hunting down would-be Wikkans, then? <<He smirks.>>||||
+nudd8|I really don't like to get involved in such matters. What people ascribe to - be it legal or otherwise - is no business of mine. I'm no lawman, after all. ||||
+nudd9|<<He swirls his tea in its cup for a moment.>> Of course, it hardly needs stating that if I ((were)) looking for people involved in ((illicit)) deeds, I'd probably keep an eye out for what happens [[after nightfall]]. ##But that would just be stating the obvious.||||
+p353|Some mercenaries are threatening Pwyll with a giant nautilob.||||
+nudd10|<<He lets out a single, chuckle.>> You mean that bunch of idiots down in the ruins? Don't make me ((laugh)).||||
+nudd11|Firstly, they're hardly fit to call themselves mercenaries. The mayor hired them to clear out monsters from the forest - a trifling task - and the show they put on was more fitting of a comedy troupe than professional sellswords. ||||
+nudd12|And secondly, there's [[no such thing as a giant nautilob]]. At least, I've sailed far and wide in my time, and never even heard of one larger than a silkslug. So the idea that those buffoons managed to ((capture)) one is preposterous. ||||
+nudd13|I'm guessing the mayor has asked you to look into the matter, hmm? Well, if I were you, I'd make use of [[your wits]] before drawing your sword. I sense there's some trickery at play, here.||||
+p354|Is that scryshroom tea you're drinking?||||
+nudd14|<<He is quiet a moment, and merely takes a sip.>> ##Indeed.||||
+nudd15|Tell me, did ol' Dwynn over there give you his speech about how he ((outsmarted)) his business rivals by drinking the stuff?||||
+p355|null||||
+nudd16|null||||
+nudd17|null||||
+p356|Yes.||||
+nudd18|<<He smirks.>> I thought as much. ||||
+p357|No.||||
+nudd19|<<He smirks.>> Well I'm sorry for ((spoiling)) the tale for you. ||||
+nudd20|The funny thing is, he doesn't touch the stuff. It's more of a... sales tactic, you might say. Whenever he ((does)) drink scryshroom tea, he tends to get rather emotional and... <<He grins.>> ...empties his bowels prematurely. ||||
+nudd21|You see, scryshroom may be a popular drug - but that's ((all)) it is to most people. A party trick or a quick high. The truth is, most can't ((see the future)) from drinking it. The shroom has such a potent psychedelic effect any premonitions are lost within the fantasy.||||
+nudd22|But the premonitions ((are)) there. You just need a low dosage and a certain... discerning eye. That's why, if you were to - ((say)), reach for your blade right now - I'd have my ((knife at your throat)) before you knew it. ||||
+nudd23|<<He smiles warmly.>> Now, was there anything else? ||||
+p358|Tell me about your time as a mercenary. ||||
+nudd24|<<Nudd tilts his head back and drums his fingers on his cup.>> Well, in my youth I toured with various mercenary companies in the Apostatic Union heartland; there's a tale or two there. ##I ended up with the Dark Stars here in Pwyll; a name I'm ((sure)) you've heard of.||||
+nudd25|But lately I've been freelancing in these [[Oneiric Isles]]; taking on all sorts of jobs before settling in with Dwynn, here. Of all the realms I've been to, these isles host some of the strangest. ||||
+p359|I'm looking for some former Dark Star mercenaries. ||||
+nudd26|Well, as I told you, I used to sail with those lot - up until the [[mutiny]] that saw many of us take umbrage with Vela's unchecked ambition. ||||
+nudd27|<<He narrows his eyes.>> Oh, is that ((so?)) ##Well, your motives better be pretty ((fucking)) congenial, 'cos it's no secret that I'm a former Dark Star merc myself.||||
+nudd28|Of course, I haven't sailed with them in ((years.)) I left after the [[mutiny]], once it became clear that Vela's ambitions - once so ((intoxicating)) - were likely to get us all ((killed)). ||||
+nudd29|<<He clears his throat.>> Well, ((out)) with it, then. Exactly ((who)) are you looking for? ||||
+p360|I'm hunting Vela Callose.||||
+p361|Tell me about Vela Callose.||||
+nudd30|<<He chuckles heartily.>> Ah, now ((that's)) a good one. You're just gonna stride up to the boss lady herself and claim that Union bounty, are you? ||||
+nudd31|Now, don't get me wrong. I never really ((knew)) the woman - I was too low rank to be clinking my tankard with her. But I've been privy to some of her deeds, and, well...||||
+nudd32|...let's just say you don't ((ever)) want to cross swords with ((Vela Callose)).||||
+nudd33|As for where she's gone, I haven't the slightest idea - and I wouldn't tell you if I ((did)). ##That woman has plans in motion that I couldn't begin to comprehend, and I won't be found complicit in trying to ((thwart)) her efforts, for the sake of my own neck. ||||
+p362|I'm meeting with Jack Basalt.||||
+p363|I want to know about Jack Basalt.||||
+nudd34|Ah, good ol' Jack? <<He smirks.>> In the Union they still call him ((shame of the Navy)), after he abandoned his rank and station to join Vela's ((merry)) band.||||
+nudd35|In battle the man was a ((demon)) - when his voice bellowed across the deck of a skyship, sword raised high, you made sure to ((heed)) it...||||
+nudd36|But below decks, he always found time to share a drink with those under his command. Learning their names, their troubles - not ((every)) merc captain does that. ||||
+nudd37|Of course, I don't know if that was thanks to a kind heart, or his weakness for the ((strong stuff)). Let me guess... you're meeting in a pub, right? ##<<He grins.>>||||
+p364|I'm looking for The Emberian.||||
+p365|I'd like to hear about The Emberian.||||
+nudd38|Ah, I served under her on the [[Black Goblin]]. I think her real name was [[Orlaith]], but we just called her ((captain.))||||
+nudd39|She was always wearing that ancient [[Emberian Armour]], and was fascinated by anything of its like. We'd often stop off at some old rusty ruin so she could have a peek around. ##Some of the lads even got it in their heads that she really ((was)) an Emberian, somehow still alive after hundreds of years.||||
+nudd40|I heard she was in [[Hallowshire]] somewhere, still scouring the countryside for rust-riddled relics. She was always a mysterious sort, so I doubt she'll be staying at a public house - but you'll probably want to ask the locals in [[Hallow Town]] if they've seen her. ||||
+p366|I need to find The Duchess.||||
+p367|What do you know about The Duchess?||||
+nudd41|Ah, that [[Endless]] woman? I had few dealings with her, to be honest. She was ancient royalty ((and)) a cipher wizard - which made her ((doubly)) pretentious in my book. ||||
+nudd42|I heard she had some sort of [[ancestral home]] in the [[Endless Realm.]] I've only been to those islands once or twice, so you'll have to ask around in the city of [[Sepulchre]] if you want to know more.||||
+p368|Do you know of Caxton Frost? ||||
+nudd43|Oh, that eccentric fellow? Handsome and ((clearly)) a genius? He was part of Vela's inner circle, so I only spoke to him once - and that night was kind of a ((blur)). ||||
+nudd44|We were in the Wobbly Noggin and he rambled for hours about his theories on Emberian engineering. By the end of the night he was singing me songs from his native Kardova - that is, what the [[Clockwork Kingdom]] used to be called.||||
+nudd45|I haven't heard a word about him since the mutiny. If he didn't die in the battle, maybe he returned to the [[Clockwork Kingdom]] - but that place is locked down, as of late.||||
+nudd46|I did a job smuggling bottled visions from there a few star cycles back. Used a chap named [[Mikhail]] to ferry me across, but it was a fucking dangerous job - I wouldn't recommend it without good reason. ||||
+p369|That's all I wanted to know. ||||
+p370|That's enough about Dark Stars. ||||
+nudd47|<<He holds his tea by his chest and says nothing.>>||||
+p371|I'll be going, then.||||
+nudd48|<<He smiles politely, but says nothing.>> ||||
+nudd50|Good. And let me be plain - you didn't hear any of this from ((me)), are we clear?||||
+onion1|Stop right there! This is the esteemed mercenary company headquarters of the [[Rotten Onions]]. None may pass without authorisation from our captain, [[John Birdbark]].||||
+p400|What kind of name is the ((Rotten Onions?))||||
+onion2|It's a ((very fine name)), I'll have you know! Birdbark is an esteemed scholar and battle-wizard, as well as our captain. It's ((his)) reasonin' that it's a name designed to strike ((fear)) in our enemies.||||
+p401|And how does ((that)) work?||||
+onion3|Well... it's seni... um, semiobtic... ((semiotics)), see? Like words an' their meaning an' stuff?||||
+p402|Yes, but why do onions strike fear into the hearts of your enemies?||||
+onion4|<<The guard tilts his head and scratches his jaw.>> Well, people don't ((like)) onions, see? They makes you cry. And rotten ones are even ((worse)).||||
+p403|Never mind, I give up.||||
+onion5|<<The guard nods, evidently satisfied.>>||||
+p404|Right. Yes. ((Sure)).||||
+onion6|<<The guard nods, evidently satisfied.>>||||
+p405|It's a stupid name.||||
+onion7|<<The guard looks visibly hurt.>> W-w-well you don't ((have)) to think it's clever. We'll just stab you all the same.||||
+p406|What's with that giant monster?||||
+onion8|Oh, it's a [[giant nautilob]]. Pretty ((scary)) huh? <<He leans close and chuckles, but you don't quite get the joke.>>||||
+onion9|Y'see, the [[mayor of Pwyll]] hired us to do a job, but she's refusin' to pay up. So we're gonna sack the place unless she hands over the coin.||||
+p407|I found that ledger you wanted.||||
+onion10|Really? Hand it over! ##<<He rifles through the pages of the ledger.>> Yeah, this looks about right. Oh boy, is the captain gonna be pleased with this!||||
+onion11|Well, I guess you can walk on through, then. I'll shout to the boys an' let 'em know you're alright.  ||||
+p408|I want to get inside your headquarters.||||
+onion12|Well, you can't. <<He scratches his jaw.>> Unless... you get us the [[mayor's ledger]].||||
+p409|What's this about a ledger?||||
+onion13|Well, the mayor of Pwyll hired us to clear out some monsters in the shroom forest. Sure, we ran into some ((difficulties)), but a job's a job. An' she's not payin' up!||||
+onion14|So, captain reckons if we steal her [[ledger]], we'll have proof an' can take it to the Riovan Court of Slaw.||||
+p410|Court of ((slaw))?||||
+onion15|Yup. It's a type of side dish.||||
+p411|I think you mean ((court of law)).||||
+onion16|<<He shoots you an angry glare.>> I know what I meant, ((friend)). The Riovan Court of Slaw.||||
+p412|Never mind.||||
+onion17|<<He nods victoriously.>>||||
+p413|And how can I get this ledger?||||
+onion18|Well, I'd sneak in [[at night]] while the mayor's asleep, of course. Then bring it back to me, an' you'll officially be a friend of the Rotten Onions.||||
+onion19|@@I'm just a huge fan of the Rotten Onions. I'd ((love)) to see where you work.||||
+onion20|%%<<He looks flattered.>> You've heard of us? You really have? ##<<He thinks a moment.>> Well, there's only one of you, so I reckon a quick snoop can't hurt...||||
+onion21|Alright, you're free to go in.||||
+onion22|&&Ha! I'm not fallin' for ((that)) one. ##...uh, not ((again)), anyway.||||
+p414|Well maybe I'm just gonna walk in anyway.||||
+onion23|H-h-hold it! If you just ((stride)) in there, I'm gonna have no ((choice)) but to... um... cut you down! So don't go tryin' anything stupid, right? ||||
+p415|Alright, I get the picture.||||
+onion24|<<He nods.>>||||
+p416|Okay, I'll be going.||||
+onion25|Greetins again, friend. Feel free to walk right on in. ||||
+onion26|Godsdamnit. Some pillock let slip that our giant monster's actually jus' an ((enchanted balloon)), so looks like it's still gonna be boot leather for dinner.||||
+onion27|Well, captain's not so bothered about security right now, seein' as he's mostly weepin' in his chambers, so I reckon you can go right on in. ||||
+onion28|<<You realize that the>> [[Ledger]] <<is missing from your pockets. How strange...>>||||
+onionCap1|Hmph, I don't recall admitting any visitors! I'm the esteemed captain of the Rotten Onion mercenary group, John Birdbark - and I do ((not)) remember summoning you into my bedchambers. ||||
+onionCap2|Hmph, it's ((you)) again.||||
+p450|I gave your guard the mayor's ledger.||||
+onionCap3|Ah, so that was ((you))? Splendid, splendid! It will provide ample fuel for my fireplace.||||
+p451|Wait, you're not going to ((do)) anything with it? ||||
+onionCap4|Well, I spun the company some silly yarn about being able to get ((compensation)), or somesuch. But really I just wanted to cause that damned mayor a significant ((inconvenience)). Oh, I wish I could see her face - how ((mildly annoyed)) she must be! ||||
+p452|Uh... no problem. ||||
+onionCap5|Now, are you going to... leave? ||||
+p453|I wanted to ask about that giant monster.||||
+onionCap6|Hmm, oh yes! Quite the ((frightful)) thing, eh? I'm sure it's giving that wretched mayor a sleepless night or two. <<He chuckles.>> ||||
+onionCap7|@@So how'd you get your hands on such a beast, eh? You can tell me. ||||
+onionCap8|%%Well... Hmm... alright then, you seem like the trustworthy sort.||||
+onionCap9|Here's the really ((clever)) thing - it's not actually a monster at all! It's just a giant balloon with an illusion spell cast on it. ((Ingenious)), no? ||||
+onionCap10|Oh, I have absolutely no intent on sacking the town. Truth be told, I'm not sure my men could sack a ((nursery)). But maybe we'll scare them into giving us some coin, eh?||||
+onionCap11|&&Hmph! Well... a lady never tells. <<He winks.>> ||||
+p454|About something else...||||
+onionCap12|Oh, ((do)) make it quick...||||
+p455|What kind of name is Rotten Onion, anyway?||||
+onionCap13|Well, a ((terrible)) one, of course. The previous name turned out to be a rather nasty ((slur)) in Slev - so we had to come up with a new one pretty quickly in a tavern. I suggested the name ((Golden Galleon)) - which I thought went down rather well.||||
+onionCap14|But it turned out that the men had completely misheard me in the clamour of the pub. The next day, everyone was commending me on what an excellent name 'Rotten Onion' was. And once you get an idea into these buffon's heads, it's ((very)) hard to get it out. ||||
+p456|Sorry, I'll just be going... ||||
+onionCap15|Yes, if you ((would!))||||
+onionGrunt1|Seein' that giant nautilob up there...? Makes me proud to call myself a ((Smelly Onion.))||||
+onionGrunt2|...whassat? No, I'm certain it's ((Smelly)) Onion. I think I'd know my ((own)) merc company name!||||
+onionGrunt3|People are always chattin' about those ((Dark Stars)) and their ((Vela Callose.)) But one day... one day they'll be talking about the ((Rotten Onions!)) And our... ((our))...||||
+onionGrunt4|((Oh gods. What's our leader's name again?))||||
+onionGrunt5|These ol' God War fortresses sure are strange, what with everything made out of metal, an' all. If you ask me, boxes n' boats should be made o' ((wood.))||||
+onionGrunt6|Gods, my feet ache from patrolling all day. Who's gonna bother to rob us anyways? We're broke!||||
+onionGrunt7|You may've charmed the others, but I've got my eye on you. ||||
+emyr1|<<The farmhand sits aimlessly, watching the mushrooms.>> ||||
+p501|Busy day? ||||
+emyr2|<<You startle the farmhand.>> Hmm? Oh, Emyr wasn't slackin' off, oh no! Issjust... there ain't much to do around here lately, on account o' the poor shroom yield. ||||
+emyr3|Each year the harvests get leaner an' leaner. Dwynn says it'll be fine, but I don't think even ((he)) believes it.||||
+emyr4|Last time I took scryshroom, I saw a vision of Pwyll, barren an' bare, the houses all ruined. Honestly, unless we ((do)) summin', this town ain't got much of a future, I reckon...||||
+p502|Have you heard of any god-worshippers around here?||||
+emyr5|<<He looks suddenly nervous.>> Emyr don't know nuffin', y'hear? If I get caught talkin' about that kinda stuff, Culwych'll go an' weigh me on those scary scales o' his... ||||
+p503|I'll leave you to it.||||
+emyr6|<<He returns to staring at the mushrooms.>>||||
+emyr7|So yer stopped Lludd from sacrificin' hisself, eh? Gotta admit, part o' me's relieved.||||
+emyr8|So he really went an ((did)) it, eh? Lludd, sacrificin' hisself for the good o' Pwyll. Gotta admit, I'm glad the village is saved an' all, but it don't make me feel good knowin' Lludd's gone. Not good at all. ||||
+emyr9|Guess I should come clean an' say... that were me, in the Wikkan robes, conductin' the Wikkan ritual. It were all stuff we found in the mayor's basement - old stuff from before the war, an' the like. ||||
+emyr10|I wanted to save the village an' all, but I did say to Lludd, d'ya ((really)) wanna do this, y'know? I never wanted anyone to ((die)) over it. ||||
+emyr11|Just... don't mention me to ol' Culwych, will ya? I didn't really know what I was gettin' myself into. I don' wanna rot in some prison cell... ||||
+emyr12|<<In the darkness and under such a thick hood, you can't make out the person's face.>> ##Get ((away)) from me, y'hear? You shouldn't ((be)) here. Come any close an' I swear, ye'll regret it... ||||
+ghutrid1|Hmph, what's this - ((another)) drop in? I thought I ((told)) Dwynn to stop giving a key to any ol' breather. ||||
+ghutrid2|<<She lets out a raspy sigh.>> Look, I'm sure you know the drill, but... tell ((anyone)) about our little smuggling enterprise and you'll get a blade in the gut. <<Her torn lips form a mockery of a smile.>> ##Got it? ||||
+ghutrid3|<<She claps her hands together.>> Well, with the ((pleasantries)) out the way, what'll it be? You looking to move some goods - or you after a [[Union Passport?]]||||
+ghutrid4|You again, eh? Well, what'll it be? ||||
+p550|Let me see what you have for sale.||||
+ghutrid5|<<She nods.>> And ((obviously)) you didn't get it from me, right? ||||
+p551|You look a little... worse for wear. ||||
+ghutrid6|What, you never seen an [[Endless]] before? ##<<She coughs.>> Bet you haven't, an' all. ||||
+ghutrid7|Well, the name's Ghutrid, an' I'm six hundred-an-somethin' years old. Forgive me if I can't recall the ((exact)) number - the last hundred 'ave been a bit of a ((drag.))||||
+ghutrid8|Anyways, I'm not a bloody emissary for the [[Endless Realm]]. You can see its rotten trees an' mausoleum spires from Pwyll - so if you ((really)) wanna know the ((delights)) of eternal life in a dusty tomb, you can go visit sometime. ||||
+p552|Your Union Passports - do they work?||||
+ghutrid9|Well if they ((didn't)), I'm not likely to tell you now, am I? ##How's this; if the feller at the gatebridge susses it's a forgery, I'll come give you a friendly visit at your Inquisition prison cell. Satisfied? ||||
+ghutrid10|So, if you want one, just have a look through [[my stock.]]||||
+p553|What's with the portal in the back?||||
+ghutrid11|<<She grins.>> Ah, an old family heirloom, shall we say. Us Endless are fond of our portal mirrors, even if they often lead you to the arse-end of a mausoleum. ##Thought I might as well make ((good use)) of a pair, an' struck up this little partnership with Dwynn.||||
+ghutrid12|That one leads right to the [[Lost Purse]] in [[Hallow Town]]. Let's just say the folk over there share a mutual distaste for Union taxes. <<She chuckles.>>||||
+ghutrid13|Only, they keep the room barred from the other side unless we have a delivery, so don't go snoopin', now. ||||
+p554|I'll be going.||||
+ghutrid14|Right. An' not a word to anyone, y'hear? ||||
+mechFarmer1|Stop right there! <<The man brandishes a particularly rusty sword in your direction.>>##Y'er not... ((ticking)), are ye? No metallic limbs? Leaky joints? ||||
+p601|Why would I be... ((ticking))?||||
+mechFarmer2|Because ye might be a ((mechanical contraption)), hidin' in the ((skin)) of a person! ##<<He gasps for air and blinks at you.>>||||
+mechFarmer3|Well, don't look at me like I'm ((daft!)) It's a perfectly reasonable suspicion!||||
+p602|Yes! I am in fact, a ((clock.)) ||||
+mechFarmer4|<<The man gasps.>> Ah! I knew it! These fiendish contraptions are gettin' more fanciful by the day! ||||
+mechFarmer5|<<The man steps closer and prods you a few times with his finger.>> Hmm.||||
+p603|Get off me, old man!||||
+mechFarmer6|Y'er in ((my)) house! I'll do as I damn well please. ##<<He scowls at you for a moment.>>||||
+p604|((Allow him to continue.))||||
+mechFarmer7|<<He prods you a few more times.>> Hmmmm.||||
+mechFarmer8|Gah! Well I'll admit, you don't ((seem)) like a mindless killin' machine from that blasted [[Clockwork Kingdom]]. It's just, since the [[attacks]] I've been pretty jumpy. ||||
+p605|Tell me about the Clockwork Kingdom.||||
+mechFarmer9|These [[Oneiric Isles]] are home to a certain [[Clockwork Kingdom]], due [[east]] of this 'ere hamlet of Pwyll. ||||
+p606|What's that about a ((Clockwork Kingdom?))||||
+mechFarmer10|Hmph, new here, are ye? These [[Oneiric Isles]] are home to a certain [[Clockwork Kingdom]], due [[east]] of this 'ere hamlet of Pwyll. ||||
+mechFarmer11|For a while they were decent enough neighbours - 'cept for those bothersome factories billowing out smoke an' the occasional explosion rockin' the whole isle somethin' fierce. ||||
+mechFarmer12|But folk say their machine-king went mad, an' now somma their gadgets and gizmos are spillin' cross the border an' wreaking havoc with my crops. ||||
+p607|Did you say you were getting attacked?||||
+mechFarmer13|<<He sighs.>> Aye. By mechanical monstrosities. ##<<He frowns at you.>> An' don't ((laugh))! I'm bein' sincere! ||||
+mechFarmer14|They've been coming from the east; where the snow's been fallin'. Funny thing - it never ((used)) to snow here.||||
+mechFarmer15|At first they were jus' little things. But lately, one [[huge metal bastard]] 'as taken to ((tending)) my crop shrooms with its weapons. If I try and shoo it away, it attacks! ||||
+p608|I think I've already dealt with that. ||||
+mechFarmer16|<<His eyes open wide.>> You ((have?)) And there was me thinking anyone ((foolish)) enough to try would be hacked into tiny pieces! <<He chuckles.>>||||
+p609|I could try and shut it down for you.||||
+mechFarmer17|You would? Oh, I'd by mighty 'preciative. If you manage to do it, there'd be some [[coin]] in it for you. ||||
+mechFarmer18|The machine seems t' lurk in the [[snow-tipped mountain to the east]]. Simplest way o' dealin' with it would be to [[smash it to pieces]], but... its [[armour]] will deflect any blow that 'aint [[strong enough.]]||||
+mechFarmer19|So maybe there's some way o' shuttin' it down? There were a couple o' suspicious [[container crates]] that fell in the [[forest around here]]. ||||
+p610|Well, good luck with that, old man.||||
+mechFarmer20|<<He scoffs.>> Aye, an' I'll need it. ||||
+p611|Can you tell me about that machine that's been bothering you?||||
+p612|I've got to get going.||||
+mechFarmer21|<<He nods.>>||||
+p613|I've dealt with the machine that's been bothering you. ||||
+mechFarmer22|<<His eyes open wide.>> You ((have?)) And there was me thinking you'd be hacked into tiny pieces! <<He chuckles.>>||||
+mechFarmer23|So tell me, how'd you do it? ||||
+p614|I kept smashing it until it stopped moving.||||
+mechFarmer24|<<He nods in appreciation.>> Like my pa used to say, If you can solve any problem with violence; you'll do alright in this world. ||||
+mechFarmer25|<<He clears his throat.>> O' course, my pa died in a pub brawl, rest 'is soul. But ((in this case)) I s'pose he was right.||||
+mechFarmer26|Anyway, it's not much, but I have some [[coin]] stashed away here. Please accept it, along with my 'eartfelt thanks. ||||
+p615|I managed to disable it remotely.||||
+mechFarmer27|<<He taps his forehead.>> Ah, a clever one, are we? ||||
+mechFarmer28|Well, it's not much, but I have some [[coin]] stashed away here. Please accept it, along with my 'eartfelt thanks. ||||
+p616|I changed its protocols; it should tend your farm peacefully, now. ||||
+mechFarmer29|<<He seems taken aback.>> You... changed its ((what)) now? So y'mean it's all ((friendly)) all of a sudden?||||
+mechFarmer30|<<He strokes his chin.>> Hmm. If this ((works)), and that machine proves even half as useful as I 'eard they were... why, I'll be the ((richest)) shroom-tender in Pwyll...||||
+mechFarmer31|<<He breaks into a beaming grin.>>  Maybe even in ((Hallowshire...))||||
+mechFarmer32|Thank you, stranger - truly. ##I have here an old [[family heirloom]] that should be worth a few bob to the traders in Hallow Town - please, take it. You've ((earned)) it. ||||
+mechFarmer33|Hmph. Sorry if I'm a bit distracted, traveller; that blasted [[mech]] from the [[Clockwork Kingdom]] is still ravaging my crops. ||||
+mechFarmer34|Ah, if it isn't my favourite passer-by. I gotta tell you, things 'ave been much more peaceful around 'ere since you took care of that blasted machine.||||
+mechFarmer35|Ah, if it isn't my favourite passer-by! ##I gotta tell you, since you tinkered with that robot and made it all friendly, my crop yields 'ave been ((bountiful.)) ||||
+mechFarmer36|<<He scoffs.>>Are you just pullin' my leg?||||
+mechVassal1|<<The device crackles with the distinct pulse of cipher-magic. Its ocular-skull registers your presence and a mechanical quill scratches out the following lines:>>||||
+mechVassal2|[[REJOICE]], DOWNTRODDEN THRALL OF THE DEFEATIST POWERS! THOU STANDEST NOW WITHIN A FIEFDOM OF MACHINUS REX. ||||
+mechVassal3|[[PROCLAMATION]]: THIS HONOURABLE VASSAL GOVERNS THE PROTOCOLS OF ITS INDENTURED AUTO-SERFS. ##DESCRYING CENSUS... ||||
+mechVassal4|NUMBER OF INACTIVE AUTO-SERFS: [[253]]. ##NUMBER OF ACTIVE AUTO-SERFS =: [[1]]. ##CURRENT LABOUR PROTOCOL: [[MILITANT AGRICULTURE]]. ||||
+mechVassal5|DOST THOU HAVE A QUERY? ||||
+p620|What if I just smash you up? Will that stop the robots from working?||||
+mechVassal5b|PONDERING... ##[[JUDGEMENT]]: CESSATION OF DUTIES IS ONLY PERMITTED BY ORDER OF MACHINUS REX OR ITS APPOINTED DEPUTIES. THEREFORE, [[EDICT]]: THY PETITION IS DENIED.||||
+p621|I want to shut down the machine in your service.||||
+mechVassal6|[[AXIOM]]: ASSAULT OF A ROYAL VASSAL IS TREASON, & MAY BE ADJUDGED AN ACT OF WAR. THEREFORE, [[EDICT]]: THOU SHALT NOT LAY A HAND UPON THIS VASSAL.||||
+p622|((Give the thing a whack)).||||
+mechVassal7|<<You strike the machine. It doesn't take much force for it to sputter and stop. After a few moments, you are satisfied the thing has stopped working.>>||||
+p623|Never mind. ||||
+p624|I want to change the, uh, labour protocols. ||||
+mechVassal8|PONDERING... ##[[JUDGEMENT]]: ALTERATION OF PROTOCOLS IS ONLY PERMITTED BY ORDER OF MACHINUS REX OR ITS APPOINTED DEPUTIES, OR BY THE ORDAINED DISCRETION OF THIS VASSAL. THEREFORE, [[QUERY]]: WHAT IS THINE ARGUMENT?||||
+p625|@@Your serf is causing havoc and will likely be destroyed, unless you tell it to calm down.||||
+mechVassal9|&&CONTEMPLATING CANON(Disputation)... ASSAYING VALIDITY... ##[[JUDGEMENT]: THINE ARGUMENT IS UNWORTHY. THEREFORE, [[EDICT]]: THIS VASSAL WILL CONTINUE ITS DUTIES.||||
+mechVassal10|%%CONTEMPLATING CANON(Disputation)... ASSAYING VALIDITY... ##[[JUDGEMENT]]: THINE ARGUMENT IS WORTHY.||||
+mechVassal11|THEREFORE, [[EDICT]]: AUTO-SERF LABOUR PROTOCOL IS HEREBY REVISED. CURRENT LABOUR PROTOCOL: [[BENEVOLENT AGRICULTURE]]. ||||
+mechVassal12|ALL HAIL ITS MAJESTY MACHINUS REX, THE CLOCKWORK KING! ||||
+p626|Never mind, I'll be going. ||||
+mechVassal13|<<The machine seems inoperable.>>||||
+mechVassal14|[[PROCLAMATION]]: THIS HONOURABLE VASSAL GOVERNS THE PROTOCOLS OF ITS INDENTURED AUTO-SERFS. ##DESCRYING CENSUS... ||||
+mechVassal15|NUMBER OF INACTIVE AUTO-SERFS: [[253]]. ##NUMBER OF ACTIVE AUTO-SERFS: [[1]]. ##CURRENT LABOUR PROTOCOL: [[BENEVOLENT AGRICULTURE]]. ||||
+mechVassal16|NUMBER OF INACTIVE AUTO-SERFS: [[254]]. ##NUMBER OF ACTIVE AUTO-SERFS: [[0]]. ##CURRENT LABOUR PROTOCOL: (((ALAS, CANNOT CONJURE VERSE))).||||
+mechVassal17|<<The machine waits for you to say something.>>||||
+mechPasssive1|<<The machine continues with its agricultural duties, indifferent to your presence.>> ||||

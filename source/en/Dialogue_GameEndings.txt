@@ -1,0 +1,121 @@
+NPC Name:|Endings||||||||||||
+ID|English|French|German|Spanish|Italian||||||||
+banished1|In a searing flash of light, the angel is torn from existence. For a moment you see it tumbling into the fractal madness of the void, just before the rip in reality snaps shut.||||||||||||
+banished2|The Cradle lurches around you. Without its power source, it has begun to plummet back to the Underlands.||||||||||||
+banished3|It is only thanks to the nimble piloting of Jack Basalt that you are rescued from the wreckage. You watch its metal carcass fall below the clouds, taking what remains of Vela and her former comrades with it. ||||||||||||
+banished4|It is only thanks to the nimble piloting of Jack Basalt that you are rescued from the wreckage. Ignoring her frantic protests, you shove Vela on the craft as well - and the three of you watch the Cradle fall below the clouds.  ||||||||||||
+banished5|You are silent on the journey back, thinking only of Orlaith, the Duchess and Caxton Frost, for whom the Cradle will forever be a tomb. ||||||||||||
+banishedOrder1|In the years that follow, you rise through the ranks of the Inquisition, spreading fear wherever your boots tread. ||||||||||||
+banishedOrder2|Your name soon gains a fearsome reputation, whispered with trepidation and reverence across the Apostatic Union.||||||||||||
+banishedLiberty1|With your penitence fulfilled, you are released from the Inquisition. Your subsequent clashes with authority see you falling in with the very mercenaries you once fought - the Dark Stars.||||||||||||
+banishedLiberty2|It is not long before you gain respect, infamy and even command, just like Vela before you. ##Some call you a tyrant; others, a liberator. But one thing is certain: that all over the skyrealms your name is known.||||||||||||
+banishedSelf1|With your penitence fulfilled, you are released from the Inquisition. Free at last, you set off alone, caring not where the wind takes you.||||||||||||
+banishedSelf2|In the years that follow, tales are told around the Skyrealms of a lone wanderer whose very presence seems to put strange events in motion.||||||||||||
+banished6|Jack Basalt retires from mercenary work and spends the rest of his days drifting from tavern to tavern, drunkenly rambling of his bygone exploits.||||||||||||
+banished7|With time, the names of his former comrades are forgotten, and he is regarded as just another old fool. ||||||||||||
+banished8|Frost never marries his lover, Sammol. He remains a traitor in the eyes of his homeland.||||||||||||
+banished9|The Duchess, shredded and scattered to the winds, finds a strange new peace as a fractured witness to the secret life of the Underlands.||||||||||||
+banished10|The Emberian's armour lies, unrusting, at the base of the world, while her flesh returns to the soil.||||||||||||
+banished11|Their sacrifice is recorded on the jet-black memorial obelisk that stands in the gardens of the Citadel of Doubt in Riova.||||||||||||
+banished12|And as for Vela? Now she lives only in history books, and wicked rhymes to scare children.||||||||||||
+banished13|And as for Vela? You shared few words during your escape. The next day she was gone, and none have seen or heard from her since. ||||||||||||
+joined1|The angel beckons. As you tumble into its mind, your consciousness twists, strains and bursts, spilling into the universe.||||||||||||
+joined2|You see it now, for the first time. A tapestry of words, lines, and verses thread themselves through every corner of existence. With a few twists of your tongue you could change it all. ||||||||||||
+joined3|And you do. ||||||||||||
+joined4|Your words reverberate through reality. A few utterances reverse the finality of death and the frigid linearity of mortal existence. With another sentence, you bestow upon each person the smallest droplet of your newfound power.||||||||||||
+joined5|All across the skyrealms, everyone - from the noble to the downtrodden - feels a surge of understanding beyond that of any cipher wizard. ||||||||||||
+joined6|The long dead, silent for centuries or more, find they need only open their eyes and breathe.||||||||||||
+joined7|Among them are your companions. Basalt, Orlaith, Frost and the Duchess stand ashore, watching your ascendancy to something beyond godhood. ||||||||||||
+joinedOrder1|And here, in the Oneiric Isles, you contrive a resplendent city to oversee this new age. ||||||||||||
+joinedOrder2|You understand that with its new gifts, humanity will writhe and struggle like newborn babes. Without your guiding hand, chaos could engulf the world.||||||||||||
+joinedOrder3|So you name this city Heaven; where watchtowers of cipher gaze unblinking, and legions of angelic guardians stand ever ready to protect what you have built.||||||||||||
+joinedLiberty1|And here, in the Oneiric Isles, you plant the seed of a new city to grow in this era of boundless possibility.||||||||||||
+joinedLiberty2|You name this city Heaven, to act as a nexus of change and growth, overseen by your ever-present gaze.||||||||||||
+joinedLiberty3|Though you refuse to stoop to the Inquisition's level by simply erasing it from existence, your city of dissidents and heretics becomes a riotous rebuke to everything it stands for, and a catalyst for transformation across the Skyrealms. ||||||||||||
+joinedSelf1|And here, in the Oneiric Isles, you seal yourself away in a womb of cipher. A city soon propagates around you, but you pay it no heed.||||||||||||
+joinedSelf2|You let the new world of possibilities unfurl like petals, intervening as little as possible. Paths stretch ahead, to places both sunlit and dark, and even your new vision cannot see which one humanity will choose.||||||||||||
+companions5|Jack Basalt retires from mercenary work, drifting through the skyrealms in a rickety old boat. On occasion he is seen in one port or another, beguiling children with swashbuckling stories that seem too outlandish to be true. ||||||||||||
+companions6|Frost marries his lover, Sammol; and they raise their children with stories of skyfaring adventures, on a quiet little island on the edge of the skyrealms.||||||||||||
+companions7|The Duchess, her youth restored, begins a journey to find her daughter - which takes her to the Underlands. In a grove of newly blossoming trees she sees that beaming smile at last.||||||||||||
+companions8|And the Emberian finally sets down her armour, allowing the burden of her ancestors to finally lift from her shoulders.||||||||||||
+joined16|And as for Vela? You could never detect her lifeforce in the throb and pulse of reality. It seems that in the end, she did not have the will to embrace her own dream.||||||||||||
+joined17|And as for Vela? The last time you cast your gaze on her, she was embracing her sister, tears in both of their eyes. ||||||||||||
+banHallowUnion1|Thanks to your assistance, the Apostatic Union is able to purge the Wikkan covens from every corner of Hallowshire. ||||||||||||
+banHallowUnion2|The region enjoys a new era of stability and lawfulness, though despite many pleas for aid to the Union mainland, the famine drags on for several years. ||||||||||||
+banHallowUnion3|With your status as an Inquisition agent, you personally oversee this process, and it is your efforts that ensure the gods of this region fade into mere legend. ||||||||||||
+banHallowUnion4|With you at the helm, the Dark Stars become a persistent thorn in the Union's side, cultivating a cut-throat criminal network under their noses.||||||||||||
+banHallowUnion5|In time, the Apostatic Union is able to wrest control of Hallowshire from the Wikkan covens. ||||||||||||
+banHallowUnion6|The region enjoys a new era of stability and lawfulness, though despite many pleas for aid to the Union mainland, the famine drags on for several years. ||||||||||||
+banHallowPaeg1|Thanks to your assistance, Paeguth and the Wikkan covens chase the Apostatic Union out of Hallowshire. ||||||||||||
+banHallowPaeg2|Rumours spread of terrible afflictions that twist and deform the region's populace, but one thing is certain: their harvests are bountiful and their bellies are always full. ||||||||||||
+banHallowPaeg3|As a member of the Inquisition, you grow to regret your past actions; Hallowshire is regarded as the organisation's greatest failure.||||||||||||
+banHallowPaeg4|As the leader of the Dark Stars, the Paeguth cult becomes a recurring client; and your mercenaries spend many wild and delirious nights in the spore-strewn streets of Hallow Town. ||||||||||||
+joinHallowUnion1|Thanks to your help, the Apostatic Union is able to cling to power in Hallowshire, despite the chaotic transition into this new reality.||||||||||||
+joinHallowUnion2|As the region transforms into a surreal and shifting wonderland, the Union are able to temper its excesses while ensuring a semblance of order and normalcy.||||||||||||
+joinHallowUnion3|They are aided by your ever-watchful eye, for when events threaten to erupt into turmoil, the guardians of Heaven react swiftly and thoroughly.||||||||||||
+joinHallowUnion4|Though you try to encourage a more egalitarian spread of power, the Union proves tenacious. ||||||||||||
+joinHallowPaeg1|Thanks to your help, Paeguth grows to be the dominant power in Hallowshire, overseeing the region's transformation into a realm of anarchic fecundity. ||||||||||||
+joinHallowPaeg2|Over time, the people here shed their mortal skins and change into a cornucopia of outlandish forms, enraptured in their own decadent and peculiar rituals.||||||||||||
+joinHallowPaeg3|From your seat in Heaven, you regard this unbridled chaos with wary eyes, and regularly intervene to quash those elements that endanger the common good. ||||||||||||
+joinHallowPaeg4|Though all are equal in Heaven, you cannot help but favour these new citizens; ushering them forth as shining examples of this new era. ||||||||||||
+joinHallowPaeg5|Taking advantage of this new reality, Paeguth grows to be the dominant power in Hallowshire, overseeing the region's transformation into a realm of anarchic fecundity. ||||||||||||
+banEndEntomb1|In the Endless Realm, your plotting ensures that the Entombed One is able to defeat the Queen of Silver and her council. ||||||||||||
+banEndEntomb2|The entire realm is soon torn asunder by violent magics, fuelled by the agonies and resentments of its denizens. ||||||||||||
+banEndEntomb3|Of the few small islands that remain, a handful of Endless survivors cling to a miserable existence, comforted only by the hope that their brethren have found some kind of peace.||||||||||||
+banEndEntomb4|The Entombed One, festering below Sepulchre, eventually dethrones the Queen of Silver and her council.||||||||||||
+banEndEntomb5|After seizing control of Hallowshire, the Apostatic Union closes its borders to Endless refugees. Those who still manage to make the crossing are treated with scorn and derision.||||||||||||
+banEndEntomb6|Paeguth looks upon these survivors with pity, offering many a place in the newly liberated Hallowshire.||||||||||||
+banEndEntomb7|Some of the Endless even find their wretchedness to be alleviated by the transformative effects of Wikkan magic.||||||||||||
+banEndQueen1|By calming the Entombed One's rage, you ensured that the Queen of Silver will reign over the Endless Realm for many a century more, while her subjects rest safely in the quiet gloom of their mausoleums. ||||||||||||
+banEndQueen2|And by aiding Penitent Thaw with her dilemma of sentient flesh, the Endless are able to remain self-sufficient. They continue to feast on meat that is (as far as anyone knows) lacking a mind of its own.||||||||||||
+banEndQueen3|Relations with the Apostatic Union continue to improve, and in time the two neighbours are known as firm and fast allies, united in their godlessness. ||||||||||||
+banEndQueen4|With Paeguth in control of Hallowshire, the two neighbours form an unusual alliance, pioneering arcane mysteries and magics to the chagrin of the Apostatic Union. ||||||||||||
+banEndQueen5|But soon, it is made apparent that the Endless' flesh farms are an untenable form of sustenance. Lord Rhydder is able to convince the Endless to resume the Cadaver Crusades, and the Endless feast upon mortal flesh once more. ||||||||||||
+banEndQueen6|The Apostatic Union retaliates with a declaration of war, and the full wrath of the Union Navy is brought down upon Sepulchre, razing it to the ground. ||||||||||||
+banEndQueen7|Still, the Endless prove tenacious, and for many years the mortals of the skyrealms live in fear of the Cadaver Corsairs. ||||||||||||
+banEndQueen8|Hallowshire, abundant in flesh thanks to Paeguth's new rule, proves a favoured hunting ground for the Endless. This conflict engulfs the Oneiric Isles for many years to come. ||||||||||||
+joinEndEntomb1|In the Endless Realm, your plotting ensures that the Entombed One is able to defeat the Queen of Silver and her council. ||||||||||||
+joinEndEntomb2|Her presence amplifies the agonies and resentments of the island. In this new era of magical potency, their malaise comes to consume the region - until one day the Endless Realm simply disappears without warning or ceremony. ||||||||||||
+joinEndEntomb3|In neighbouring Hallowshire, the common folk of the Apostatic Union barely remark on this strange occurrence; and those that do find they cannot quite remember what was on those islands in the first place.||||||||||||
+joinEndEntomb4|In time, very few ever mention the Endless, and scholars who take to their libraries for answers are often met with puzzlingly blank pages.||||||||||||
+joinEndEntomb5|In neighbouring Hallowshire, the people of Paeguth's new domain barely notice this strange occurrence; and those that do find they cannot quite remember what was on those islands in the first place.||||||||||||
+joinEndEntomb6|Some Wikkan priests even try asking their gods, but the answer is always the same; that the ancient kingdom of Verdant was destroyed long ago, leaving nary a trace.||||||||||||
+joinEndEntomb7|In the Endless Realm, the Entombed One's presence amplifies the agonies and resentments of the island. ||||||||||||
+joinEndEntomb8|In this new era of magical potency, their malaise comes to consume the region - until one day the Endless Realm simply disappears without warning or ceremony. ||||||||||||
+joinEndQueen1|By calming the Entombed One's rage, you ensured that the Queen of Silver can lead her people into this era of possibility with a newfound hope.||||||||||||
+joinEndQueen2|Sure enough, the inhabitants of the Endless Realm soon find their skin a little more smooth, their throats a little less raspy. Some even notice saplings sprouting among the dead trees. ||||||||||||
+joinEndQueen3|Relations with Hallowshire improve dramatically, for the common folk of the Apostatic Union seem to harbour less prejudice against those with blood in their cheeks. ||||||||||||
+joinEndQueen4|In time, the newly titled Kingdom of Verdant and the neighbouring Union are known as firm allies, sharing commerce and culture alike. ||||||||||||
+joinEndQueen5|In time, the realm is known as the Kingdom of Verdant, and is regarded across the Skyrealms as a place of beauty and peace.||||||||||||
+joinEndQueen6|In a twist of irony, it is now the inhabitants of Verdant who peer across at their neighbours with curiosity and disgust; for the bizarre practices of Paeguth's Hallowshire seem abhorrent.||||||||||||
+banCwkInertia1|With Aphra's reform plan thwarted, and without the power of the Angel to lean on, the Clockwork Kingdom soon collapses and is overtaken by the Corruption.||||||||||||
+banCwkInertia2|Just as Aphra predicted, it remains uninhabitable for centuries yet: a land of nightmares, oft cited in cautionary nursery rhymes and visited only by the bravest of treasure hunters.||||||||||||
+banCwkInertia3|Without the power of the Angel to lean on, and with no viable plan for reform, the Clockwork Kingdom soon collapses and is overtaken by the Corruption.||||||||||||
+banCwkInertia4|It remains uninhabitable for centuries yet: a land of nightmares, oft cited in cautionary nursery rhymes and visited only by the bravest of treasure hunters.||||||||||||
+banCwkInertia5|After an outbreak of Corruption in Hallowshire is suppressed at great cost, the Union Navy attaches gigantic sails to the island and lets it loose on the trade winds. For generations it drifts unpredictably through the Skyrealms, sowing terror in its wake.||||||||||||
+banCwkInertia6|The Cult of Paeguth seems oddly unfazed by the horror on their doorstep, and there are even whispers of 'diplomacy' with the Corrupted - though few believe such a thing to be possible.||||||||||||
+banCwkReform1|With your help, the Clockwork King is restored to sanity, and the amnesia of its citizens recedes. After some turmoil, Aphra's reformists take charge and dismantle the old police state, presiding over a dawning optimism as people explore their new freedom to change.||||||||||||Line read doesn't match
+banCwkReform2|In the years that follow it becomes increasingly difficult for outsiders to understand the Kingdom. Monarch and subjects continually reshape each other in ever-stranger feedback loops, while critics claim the populace have given up their humanity. Still, the technological results - and the happiness metrics - speak for themselves.||||||||||||
+banCwkSabotage1|With your help, the Clockwork King dies without an heir, and its courtiers are violently deposed. Though many citizens perish in that first brutal winter, this time a natural spring follows in its wake - along with a blossoming sense of mutual solidarity.||||||||||||
+banCwkSabotage2|The Saboteurs' leadership ensures that people meet the crisis together, and soon the old songs - all-  the old songs - return to the tea rooms and temples. It also creates a safe haven for crooks and black marketeers, who swiftly become indispensable to society.||||||||||||
+banCwkSabotage3|In response, the Union moves troops in from Hallowshire and occupies the island, announcing its intention to restore law and order. A long resistance struggle concludes with the declaration of New Kardova as a freebooting, fractious nomad republic.||||||||||||
+banCwkSabotage4|Many lives are saved by generous aid from Wikkan Hallowshire, whose cultists sense an opportunity to spread the gospel of Paeguth. Religion once again becomes a flashpoint in the former Kingdom, with local apostates receiving covert backing from the Union.||||||||||||
+joinCwkInertia1|The Clockwork Kingdom is close to collapsing when the power of the Angel ripples through the cosmos, rescuing the King from its own blunders and investing it with unfathomable new power.||||||||||||
+joinCwkInertia2|Having thwarted Aphra's attempt at reform, Sunil and his old guard are free to rewrite reality as they please, creating a perfect little dictatorship where dissent is literally unimaginable.||||||||||||
+joinCwkInertia3|The Clockwork Kingdom is close to collapsing when the power of the Angel ripples through the cosmos, rescuing the King from its own blunders and investing it with unfathomable new power.||||||||||||
+joinCwkInertia4|With reformist voices scattered and disorganised, the King's courtiers are free to rewrite reality as they please, creating a perfect little dictatorship where dissent is literally unimaginable.||||||||||||
+joinCwkReform1|In the Clockwork Kingdom, the power of the Angel supercharges Aphra's reforms beyond her wildest dreams. After a period of total chaos, the renamed Kingdom of New Kardova becomes a beacon of radical ingenuity, where anything is possible and ordinary folk reinvent themselves seven times before breakfast.||||||||||||
+joinCwkReform2|Kardovan society swiftly becomes incomprehensible to all but the most broad-minded outsiders, spreading lunatic machines and persistent reality glitches across the Skyrealms. Elders warn that those who emigrate there will forfeit their very humanity; but for surprisingly many people, that's the attraction.||||||||||||
+joinCwkSabotage1|The Clockwork King is in its death throes when the power of the Angel ripples through it, disrupting Reza's spell and turning their orderly shutdown into a devastating miniature World Rend. Through a heroic sacrifice by the Saboteurs, most of the population escapes.||||||||||||
+joinCwkSabotage2|The survivors find that they have been gifted with extraordinary powers - but at the cost of disturbing the fabric of reality wherever they go. So they wander the Skyrealms as nomads, sometimes welcomed, sometimes spurned, carrying the new Kardova in their hearts and in the songs they pass down to their children.||||||||||||
+joinCwkSabotage3|So they wander the Skyrealms as nomads, sometimes welcomed, sometimes spurned, carrying the new Kardova in their hearts and in the songs they pass down to their children.||||||||||||
+highConfessorPrison1|The High Confessor spends the rest of her days in an Inquisition cell; where the last of her resolve drains away.||||||||||||
+highConfessorPrison2|The High Confessor is not witness to this new age, for though new power stirs within her - she sees no reason to leave the dank gloom of her prison.||||||||||||
+highConfessorSpared1|After the Cradle Incident, The High Confessor's ingenuity is finally recognised. In time, she rises to the very top of the Inquisition, serving as Grand Inquisitor.||||||||||||
+highConfessorSpared2|In this new age, the High Confessor's body is healed; and she steps out of her coffin as Caer once more.||||||||||||
+deathGod1|With Vela defeated, the chains that bound your mysterious benefactor shatter; freeing the entity at last. ||||||||||||
+deathGod2|You never cross paths with it again. ||||||||||||
+banPwyllSacrifice1|And in neighbouring Pwyll, the next Scryshroom harvest is plentiful indeed - though the mood is sombre, for the villagers know the blood-price that was paid.||||||||||||
+banPwyllSpared1|And in neighbouring Pwyll, the Scryshroom harvest never quite recovers, with the village falling into destitution in the coming years. Lludd, however, travels the Skyrealms; finding awe and adventure.||||||||||||
+joinPwyllSacrifice1|And in neighbouring Pwyll, an immense scryshroom forest grows; which grants all who step within it prophetic visions that unerringly prove true.||||||||||||
+joinPwyllSpared1|And in neighbouring Pwyll, Lludd - in time - comes to be the town's mayor, and guides his people through this new age of wonders.||||||||||||

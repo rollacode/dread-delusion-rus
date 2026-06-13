@@ -1,0 +1,5 @@
+Quest Group:|Hallow Quests|||
+ID|English|Voidspeak|French|German
+testTitle|Potion Quest|Pot Quest||
+testMain|Find the magic potion! (Main scenario)|Find the thing!||
+testSub1|This is a sub-quest.|suuub||

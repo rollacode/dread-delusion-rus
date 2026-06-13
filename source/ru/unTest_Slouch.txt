@@ -1,0 +1,5 @@
+ID|Key|isChoice|Choices|Can Exit|Return|Next|Conditions|Actions|English(EN)|French(FR)
+1||||||2|||Union troops ransacked m'house last week.|
+2||||||3|||Said they were looking fer idols and godthings. Items of worship, an' all that.|
+3||||||4|||I said, look 'ere, if I DID have a fancy idol, you think I'd be living in this dump?|
+4||||||0|||Godsdamn Union, sticking their noses where 'ey don't belong.|

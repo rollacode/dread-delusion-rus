@@ -1,0 +1,15 @@
+ID|Key|isChoice|Choices|Can Exit|Return|Next|Conditions|Actions|English(EN)|French(FR)
+1||||||2|||Ah, hello. I do say we haven't been acquainted.|
+2||||||3|||Although, I must say, I could've sworn I locked the door. So, tell me, friend...|
+3||||||4|||...what the bloody hell are you doing in my house?|
+4|||5,6,7|||||||
+5|C1|1||||14|||Uh, I was just leaving.|
+6|C2|1||||8|||Just admiring the decor. Did you decorate this yourself?|
+7|C3|1||||11|||I've come to rob you.|
+8|A1|||||9|||Ah, uh, well actually, I did!|
+9||||||10|||My friends told me: you CANNOT match silks from Byonne with carpentry from Lundel! It would be simply TOO BOLD.|
+10||||||0|||Too bold, they said! Well, I showed them, didn't I?|
+11|A2|||||12|||Bwahaha, you - rob ME?|
+12||||||13|||...do you have the faintest idea who I am? Robbing me would be quite inappropriate.|
+13||||||0|||No, no. I think you shall be leaving. Farewell.|
+14|A-leave|||||0|||Very good.|

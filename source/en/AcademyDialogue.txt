@@ -1,0 +1,379 @@
+NPC Name:|Endless||||
+ID|English|French|German|Spanish|Italian
+p1|Goodbye.||||
+p0|Farewell.||||
+pq1|Can I ask you some questions?||||
+pq2|Okay, I think I get it.||||
+pq3|Got it.||||
+pq4|Actually, I had other questions.||||
+pq5|That's all I wanted to know.||||
+pVela|What do you know about Vela Callose?||||
+door1|<<The enchanted mask is deathly still, but its stoic eyes track you as you approach.>> ##The [[Erudite Academy]] is closed to all but a chosen few. Present your recommendation, or leave.||||
+p6|Here's my recommendation. ||||
+door2|<<The mask is silent for a long while. Just as you are about to say something, it responds.>> ##Recommendation accepted. You may enter.||||
+p7|How do I get a recommendation?||||
+door3|This cipher-spell cannot answer questions. Please direct enquiries, in a written letter, to the Erudite Academy Administration Facility in Riova. Average response time is currently... ##<<A pause.>> Seven years, three months and two days. ||||
+p8|Never mind.||||
+explorer1|<<The scholar seems to be absorbed with their looking glass. They peer through, scribble something in their notebook, then peer again. They do not look at you.>> ##A traveller, hm? Apologies - I'm on Academy business, and this map won't make itself...||||
+explorer2|<<The scholar seems engrossed in their studies.>> ##Ah, you're the fledgling cartographer, correct? Not ((lost)), I hope? ||||
+p10|Can I get a copy of your map?||||
+explorer3|Look, I don't have time to pander to your every want. The Chief Cartographer needs this urgently... ##<<They turn to look at you, then pause - as if realising something.>>||||
+explorer4|Actually, you know what? Maybe you ((can)) have a copy. As long as you're willing to work for it.||||
+p11|I can do that. What do you need?||||
+explorer5|We're making a new kind of map. A magical map that tracks the shifting movements of these islands and... ((corrects)) itself.||||
+explorer6|The real work is with this cipher spell we're weaving together. But I need someone to go out and anchor the spell to specific landmarks.||||
+explorer7|Take this [[Cartography Notebook]]. When you get to a landmark, [[equip it]], and [[use]] it to make a cipher chart. The map will show up in your journal.##((If you obtain a ))[[compass]]((, you'll be able to see yourself on the map too.))||||
+p12|About these cipher-charts I'm making...||||
+explorer8|When you get to a landmark, [[equip]] your cartography notebook, and [[use]] it to make a cipher chart. The map will show up in your journal.##((If you obtain a ))[[compass]]((, you'll be able to see yourself on the map too.))||||
+explorer9|There are four scholars working on this map, including myself. Together we cover [[Hallowshire]], the [[Endless Realm]], the [[Clockwork Kingdom]] and [[Pwyll]]. You should also visit my colleagues, to see what landmarks they need.||||
+p13|So, what landmarks do you need for this region?||||
+explorer10|Hallowshire is a large place. In the centre, we'll need the [[Hallow clocktower]] in the middle of town. Then, to the east, we'll want [[the biggest farmstead]].||||
+explorer11|Next, there's a [[ruin entwined with a tree]] to the west. And finally, to the south, find the point at which the [[river splits in two]]. ||||
+p14|So, is there any reward?||||
+explorer12|Well, you'll get access to the [[map]] itself. But I suppose we can throw in a few coins with each cipher-chart, too.||||
+explorer13|And if you manage to map the [[Hallowshire region]], I'd consider giving you [[a recommendation]] to the [[Erudite Academy]]. Can you see it, flying up there in the sky? Being allowed access is a real privilege, believe me. ||||
+p15|Okay, got it.||||
+explorer14|You're sure? Very well.||||
+p16|Actually, I'll pass.||||
+explorer15|Suit yourself.||||
+p17|I have cipher-charts to hand in.||||
+explorer16|Excellent. Yes, these will do nicely. The detail here is impressive, for one of your... limited experience. ##Please, take this in recompense. ||||
+explorer16b|Ah, most impressive. You're turning out to be quite the asset to this endeavour. ##Please, take this in recompense. ||||
+explorer16c|More perfect charts. I'd expect nothing less from one of your skills. I don't know what we'd do without you. ||||
+explorer17|It seems that you've accrued quite the collection of cipher-charts, doesn't it? I must admit, I'm impressed. ##Take this; it's a [[letter of recommendation]] that will grant you entry to the [[Erudite Academy]]. ||||
+explorer18|You should speak to the [[Chief Cartographer]]. I'm sure he'll have work for someone like yourself.||||
+p18|What's this Academy you mentioned? ||||
+explorer19|The [[Erudite Academy]]? It's only the most esteemed academic institution in the Union. You can see it, up there in the sky - it's a flying island that travels around the Apostatic Union, to where it's needed most.||||
+explorer20|We've been stationed on these Oneiric Isles for the past year or so. There's an elevator platform that will take you to the island, but you can't get in without [[a recommendation]] from a scholar like myself. ||||
+p19|Can you tell me about this island?||||
+explorer21|This archipelago is known as the [[Oneiric Isles]], which is on the far fringes of Apostatic Union territory. Most people would consider this place something of a ((backwater)), but it holds a certain rustic charm, don't you think? ||||
+explorer22|These isles are orbited by a small [[neuron star]] with a reddish hue. Quite peculiar, wouldn't you say? Quite different from the twin stars of my home in Venna, which bathe the lands in golden rays as they dance.||||
+explorer23|You're currently in the centre-most island of [[Hallowshire]]. Just over there - <<he waves his hand vaguely>> - is the central settlement of [[Hallow Town]]. It was founded by refugees after the World Rend, some four hundred years ago.||||
+explorer27|Back then, folk worshipped some fertility god called... ((Paeguth)), I think. But after the God War, the Apostatic Union swooped in and put a stop to all that. Now everything's nice and secular.||||
+explorer28|...At least, that's what the Union would have you believe. Truthfully, there's still plenty about these parts who follow the ((old)) ways. ##A word of advice; I'd keep one eye over your shoulder, friend. ||||
+p20|Can I ask you some questions?||||
+p21|That's all I wanted to know.||||
+explorer24|By all means.||||
+explorer25|My pleasure.||||
+explorer26|Ah, and it looks like you've completed an entire map region. Well done; I'll throw in some extra coin for your efforts.||||
+expEndless1|<<The scholar has one eye pressed to her looking glass; her face crumpled into a grimace.>> ##What a wretched place, eh? Even the trees barely cling to life...||||
+expEndless2|I cannot fathom why I was sent ((here)), of all places, to make this damned map. Why must we chart these isles? Does the Academy plan to start grave digging? There's naught else to do!||||
+expEndless3|Gods, I wish I were anywhere but here. Even ((Slev)) would do. ||||
+expEndless4|I've spied a few points of interest through my looking glass, but I'm loath to leave my post. The local wildlife appears... ((unseemly)). ||||
+expEndless5|Can you see that heap of stone buildings over yonder? That's [[Sepulchre]], the only settlement in the Endless Realm that's above ground. We need to scout that, for a start. ||||
+expEndless6|Next, there's a [[mausoleum]] to the far south of the island that should do nicely. And finally, to the north, I've spotted an enormous vat of formless flesh. I'm guessing it's one of those [[Flesh Farms]] I've heard about.||||
+expEndless7|You're in the [[Endless Realm]], a gods-forsaken place. Sometime before the World Rend, this was just another Skyrealms backwater - until their monarch botched some spell and turned everyone into walking corpses. ||||
+expEndless8|For a long time, the Endless were at war with the living; I'm sure you've heard the old rhymes about the [[Cadaver Crusades]]. Those weren't just old wives' tales - the Endless really did used to eat people. <<She shudders.>>||||
+expEndless9|But times have changed. The Endless say they've mended their ways and only eat ((mindless meat)), whatever that is. ||||
+expEndless10|And because the Endless are so wretched that even their ((gods)) left them, it makes them allies of convenience with the Apostatic Union. ||||
+expEndless11|Still, Just because we're tolerated here, doesn't mean we have to ((like)) this place. The first person I met here, I swear I heard their ((stomach growl.)) First chance I get, I'm going back to the Academy.||||
+mapHinter1|Oh my, what's all that commotion over yonder? I appear to be quite ((lost.))||||
+mapHinter2|I bought a map of these [[Oneiric Isles]] back in Riova, but it seems to be decades out of date. <<He grumbles.>> That's the trouble with these fringe islands, every few decades they've floated into different positions...||||
+mapHinter3|Take my advice, traveller - if you're looking to explore, make sure you find an accurate [[map!]]||||
+p24|Do you know where I can find a map?||||
+mapHinter4|Well, I noticed that the [[Erudite Academy]] is flying over [[Hallowshire]], to the south of here. Can you see it up there, in the sky? It travels all over the Apostatic Union, so I've heard... ||||
+mapHinter5|I met one of their scholars in a [[red tent]] in the forest underneath [[Pwyll Village]], though I've seen them in [[other places]] too. Believe it or not, they're working on a map of the region right now, only... it's not quite ready. ||||
+mapHinter6|Still, I'd try asking them. Worth a shot, eh?||||
+p25|Where are you trying to get to?||||
+mapHinter7|Oh, I'm trying to get to the [[Endless Realm.]] It's said to be a place where people never die, even though the flesh peels from their bones!||||
+mapHinter8|As a boy, my mother would scare me with tales of the Cadaver Crusades; when the Endless would hunt the living and feast on their still-warm bodies. It would scare me witless, but still... I always dreamed of going there, someday.||||
+mapHinter9|And I have it on good authority that they've reformed their ways. They only eat non-sentient meat, and are on good terms with the Apostatic Union. So I said to myself, what do I have to lose?||||
+mapHinter10|<<He gulps.>> Well, I suppose they could still eat me. ||||
+mapHinterEnd1|After a long and wearisome journey, I'm finally ((here!)) The ancient kingdom of Verdant, now twisted by cruel cipher into a land of the ((endless))...||||
+mapHinterEnd2|But it seems as though the rumours are true; they really ((do)) shut up shop when the [[neuron star is brightest]] in the sky.||||
+mapHinterEnd3|Alas, I was hoping to get a potion of Blister Obliteration. My feet are killing me... ||||
+mapHinterEnd4|it seems as though the rumours are true - the endless really ((do)) shut up shop when the [[neuron star is brightest]] in the sky. ||||
+expCwk|text5||||
+wannabe1|<<The youth is fumbling with a teacup, a spoon and an assortment of other objects, which all appear to be floating.>> ##Gods-damn wizards wouldn't know a good spell if it... hmm? <<The objects clatter to the floor.>>||||
+wannabe2|Are you trying to get into the Academy too? I wouldn't bother. You could enchant a silkslug to shit gold and they'd still ignore you. They won't let you in without a recommendation.||||
+p31|What's this about an Academy? ||||
+wannabe3|The Erudite Academy. You've not heard of it? Well, it's right above us - that big hunk of rock overhead.||||
+wannabe4|The Academy flies all over the Apostatic Union, just so their fancy wizards can gloat at all the poor, ((talented)) saps they won't let in.||||
+p32|Uh, surely they must do more than that?||||
+wannabe5|<<He scoffs.>> Well, supposedly they make the most advanced cipher spells in the Union. Riova gives them a free pass to do the kind of magic that would get most scholars thrown in an Inquisition jail.||||
+p33|So, how do you get in?||||
+wannabe6|Well, it turns out being an ((exceptional)) cipher scribe means nothing to them. To visit the Academy you need a recommendation from an accredited scholar. ||||
+wannabe7|I've seen some of their scholars exploring the islands nearby. You could try asking them for a recommendation, but I refuse to pander to pompous academics. ||||
+p34|Alright, I get it. ||||
+wannabe8|No problem. <<He goes back to playing with his assortment of objects.>>||||
+p35|Uh... why are you playing with all that ((stuff))?||||
+wannabe9|Why, these are demonstrations of my most sophisticated cipher spells! See this spoon? <<He shoves the spoon into your hand. It is damp, sodden.>> ##I've created a spell to make any object ((sweat)). Incredible, no? The applications are... ((limitless.))||||
+p36|I can't think of a single use for sweaty spoons.||||
+wannabe10|Well, that just says more about your lack of imagination than anything else. ||||
+p37|Wait, is this... human sweat? ||||
+wannabe11|Well observed. The spell diverts liquid and salt from the caster's ((own body)) onto the object in question. The only downside is that it makes you very thirsty. ||||
+wannabe12|But, that's just ((one)) of my spells. See this teacup? Put it to your ear and you'll hear a man crying. That's a real man, though I have no idea where he is. Oh, and this hammer? It's the safest hammer in the world, as it can't actually hit anything...||||
+wannabe13|<<He continues like this for some time. Eventually, you seize a chance to interrupt his monologue.>>||||
+wannabe14|I've seen you coming and going from the Academy. It's not fair! Did you enchant a rock to sing, or something?||||
+wannabe15|Hmph, well ((you've)) been up there.||||
+p38|I'll get going. You look... busy. ||||
+inq1|<<The Inquisition agent looks you up and down with a sneer.>> ##A new face? You're not another of those snivelling scholars, are you? ||||
+inq2|This place fills me with disgust. A bunch of egotistical idiots, playing with powers they fail to understand or control.||||
+inq2b|But lately I've caught wind of something that could finally be their undoing. This place harbours a dark secret - and one I intend to uncover.||||
+inq3|<<She glances at you with an inscrutable expression.>> ##Hm. You're back.||||
+p41|What's this secret you're looking for?||||
+inq4|I've been looking for dirt on this place for months. The Academy plays with fire; it flouts Union regulations at every turn, though the Council - in their ineptitude - always turns a blind eye.||||
+inq5|But recently my equipment detected something; ((a class D god entity)). Only a faint signal, so my superiors put it down to faulty equipment. But if it ((is)) true? God worship is a serious felony. The Council would ((have)) to act! ||||
+inq5b|If they're really harbouring some sort of minor god, it would be well hidden. I could really use the help of an outsider like yourself.||||
+inq6|The one advantage we have is that most of these blundering old fools don't seem to like each other very much. I've not had much luck talking to them - they seem to hate me as much as I hate them. But, ask around and you might be able to glean something I've missed. ||||
+p42|I've asked around. Lots of bickering, but nothing solid.||||
+inq7|Hmm, that won't do. We need hard evidence.||||
+inq8|Perhaps you could try that Endless woman - the one that looks like a walking corpse. She's been at the Academy the longest - who knows what she's seen here?||||
+p43|One of the scholars was harbouring a god. I have proof. ||||
+inq9|<<She snatches the notebook from your hands. She flicks through it in silence, her face slowly changing from its stoic frown to a maniacal grin.>>||||
+inq10|And this god - you've seen it? Yes. ((Yes.)) This will do nicely. ##Here, take this loot as recompense. You have done a great service to the Inquisition. ||||
+inq11|I'll have this scoundrel apprehended, and before long, the full force of the Inquisition will be brought down upon this place. They won't be able to ((sneeze)) without us inspecting the discharge.||||
+p44|Why do you hate the Academy so much?||||
+inq12|Do you know what cipher magic ((is?)) It's the act of altering the very language of the universe. Yes, it can prove useful in certain situations, but if misused - it has the potential to destroy the fucking world. ((Again.))||||
+inq13|If you ask me, the fact that we let this gross abuse of reality take place in the Union's universities is bad enough, but at least the Inquisition can keep ((those)) fools in line. But ((this)) place?||||
+inq14|The Council in Riova has waived all but the most severe restrictions on the Erudite Academy's research. Forget the Wikkans - this damned place is the greatest threat to the Apostatic Union we face. ||||
+p45|Okay, I'll keep an eye out.||||
+inq15|Ah, you are truly a credit to the Apostatic Union. ##Please, return to me if you find anything of interest. ||||
+p46|I'd rather not.||||
+inq16|Hmph. I cannot force you to help. But I would ask you to stay diligent nonetheless - for the good of the Union.||||
+carto1|<<As you approach, the man's face contorts into a ghoulish expression.>> ##Really, ((this)) is what passes for a scholar, these days? Please, refrain from getting your muddy footwear on the flooring.||||
+carto2|<<He turns away and sighs.>> Well, seeing as you're here, perhaps you may be of some use. Back in Venna I had twelve servants - in this damnable place, nary a soul will lift a finger to help. Perhaps you're different, hm?||||
+carto3|I am Giovanni Borri, of the Borri family. I'm destined for great things - father says so - but for now, I'm merely the Chief Cartographer of this wretched place. ||||
+carto4|Ah, you've returned. I see you've brought more... ((mud)) with you.||||
+carto5|You know, all these Inquisitors make me feel oddly at home. It's just like being back in Riova. And why not? I have nothing to hide.||||
+p51|I'd like to help with mapping the island.||||
+carto6|Ah, excellent! We need all the help we can get. It's imperative we impress the Council with our efforts, so we can raise my... I mean ((the Academy's)) status. ||||
+carto7|Our scholars are already mapping the islands with dynamic cipher-charts of the terrain. But, I also want some prestigious landmarks to embellish the map. That will really show the Council we mean business, hmm? What do you say?||||
+carto8|Take a notebook and visit the following locations: /LOCATIONS||||
+carto9|loc2||||
+carto10|loc3||||
+carto11|Return to me when you're done. I'll pay you for each, but there's a handsome reward for getting them all. ||||
+p52|What are the locations you need, again?||||
+p53|I have cipher-charts to hand in. ||||
+carto12|Ah, splendid! Yes, just leave them on the desk there, I'll inspect them when I get a moment. ##<<He scatters a few coins on the table.>> There! Happy, yes? Now please leave me be.||||
+p54|I've found all your ((prestigious landmarks)).||||
+carto13|<<Just as you are about to leave, he beckons you to stop.>> ##Hold on, just a moment. It seems you've found ((all)) of the landmarks!||||
+carto14|This really is wonderful. I knew I could count on you. From the moment you walked in, I knew you were a person of ((quality)). ||||
+carto15|Please, take this as recompense. I'll be sure to include your name in my report to the Council - maybe in a footnote somewhere.||||
+p55|What does the Academy do with cartography? ||||
+carto16|Traditionally, not much. It's a rather menial task for navy vessels and merchant mapmakers. But the trouble with living on floating bits of rock is they have a habit of moving around - and old maps become useless. So the Academy is working on a more ((inventive)) solution.||||
+p56|What, like... magic maps?||||
+carto17|Aha, you are one step ahead, I see. ##Because the the central islands of the Apostatic Union are held fast with powerful magic, there's not been much need for enchanted cartography - until recently.||||
+carto18|You see, these Oneiric Isles lie on the fringes of Union territory. They drift around, crash into each other... even break apart. New maps are produced and circulated all the time, but even so - captains can't rely on them out here.||||
+carto19|So the Academy is working on a network of cipher spells to track an island's movements, to update maps ((instantly)). Rather ingenious, wouldn't you say? Of course, the scholars here do all the clever calculations. I provide the... impetus.||||
+p57|How did you become Chief Cartographer?||||
+carto20|Well, it's a funny thing. I had no real interest in maps before this position. Fiddly things, wouldn't you say? All those tiny drawings, and so easy to get them the wrong way round...||||
+carto21|Ahem. But when father decided I needed some academic experience to continue my political career, the only position he could wrangle was Chief Cartographer of this dismal place.||||
+carto22|Honestly, I would have much rather been the Aetherist Commander. At least neuron stars are a bit more fun. ||||
+carto23|Anyway, might as well make the best of it, hm? I sent out our junior scholars to map these Oneiric Isles. This may be a dreary backwater, but at least there are discoveries to be made.||||
+p58|Okay, I think I get it. ||||
+carto24|Good to hear it.||||
+p59|Have you witnessed anything strange, or... ((forbidden)) lately?||||
+carto25|Hmm, what's this? A sudden interest in the... integrity of our establishment? If I didn't know better, I'd say that Inquisition agent has you under her thumb...||||
+carto26|<<He flashes a smile.>> No matter. Between you and me, my allegiance lies more with the Council and their Inquisition, than most of the dusty old codgers in this place. I'm sure they're flouting Union regulations left and right!||||
+carto27|I'd check that Aetherist fool up in the tower. He's always prattling on about the importance of the cosmos, and how he flew out into the night sky before most of us were even birthed. If anyone's a rulebreaker, it's him. ||||
+newCarto1|The most important region we need mapping is [[Hallowshire]]. I'll note those locations in your [[log]] - as I'm sure whoever marks them will be [[rewarded.]] ||||
+cwkCarto1|<<The scholar looks jittery at your approach.>> ##Thank the stars, I thought you were one of the King's goons. You weren't observed coming here, were you?||||
+cwkCarto2|As you've no doubt already discerned, my presence on this island is a matter of utmost secrecy. The Inquisition is sorely in want of up-to-date intelligence from the Clockwork Kingdom, whereas the Academy has cartographic expertise and a bottomless need for funding...||||
+cwkCarto3|So a deal was struck, and now here I am playing at bloody ((espionage)). I'd better get tenure for this.||||
+cwkCarto4|You mustn't let slip to ((anyone)) here about our presence, understand? ||||
+cwkCarto5|I'll tell you one thing: our old Kardovan maps are ((severely)) out of date. Everything's changed so much, and I dare not leave this platform lest I alert the King to my presence.||||
+cwkCarto6|The obvious starting place is the city of [[Ferropolis]], right in the centre of the island. Fifty years ago it was just a mining outpost, and now it seems to be on ((stilts)). At least that makes it a good landmark.||||
+cwkCarto7|Next, there's a [[fenced-in compound]] at the far northern tip of the island. I haven't been able to ascertain its purpose through all these trees, but it could be some kind of magazine or military stockpile.||||
+cwkCarto8|Finally, I've spotted a sizeable [[signalling tower]] at the far eastern end of the island. Proceed carefully, though - things look a little ((weird)) over there. I'd swear at one point I saw the forest ((pulsating))...||||
+cwkCarto9|You're in the domain of the [[Clockwork King]] - a colossal engine of cipher magic that rules with an iron first. I wouldn't have believed it myself, except that I've seen the things it can do.||||
+cwkCarto10|Before the God War this island was known as [[Kardova]]. We loaned the natives absolutely oodles of gold to cast off their god and build a shipyard. And what did we get in return? A rabble of techno-monarchist fanatics defaulting on their bloody debt.||||
+cwkCarto11|Since then they've been nothing but trouble. Obviously the Union can't ignore that degree of arcane power; it's like a seven-year-old walking around with a barrel of gunpowder. At one point they even seemed intent on annexing Hallowshire. ||||
+cwkCarto12|The problem is, nothing stays still. Every few years the King reconfigures the landscape as easily as a toddler rearranging wooden blocks. That's why the Inquisition brought us in.||||
+cwkCarto13|Except... nobody warned me it would be such a ((mess)). Have you seen those mad machines clanking around out there? Or this unseasonal snow? And where did all the ((people)) go?||||
+cwkCarto14|I mean, what in blazes has been ((happening)) here? ||||
+aeth1|<<The old man is hunched in his chair, wheezing heavily. Each breath reverberates like a broken machine. Suddenly, it stops altogether. You wait a moment, then another...>||||
+p71|Uh... hello?||||
+p72|((Reach to check his pulse))||||
+aeth2|HEEEUUURGH! <<He lurches awake, eyes peering from a mound of wrinkles.>> ##What's the hull integrity? Are we out of orbit?||||
+p73|Um, I think the hull integrity is... fine?||||
+p74|What are you talking about?||||
+aeth3|<<He is still for a moment, blinking.>> ##Ah, apologies. Thought I was back in the cosmos for a moment there, hehe.||||
+aeth4|I'm Jerome Verrier, the Head Aetherist of this place. Pleased to meet you. So, you want to go into the cosmos, or what? ||||
+aeth5|Ah, it's you again! ##...wait, ((who)) are you again?||||
+p75|Uh, I'd like to go into the cosmos. Very much. ||||
+aeth6|t1||||
+aeth7|t2||||
+aeth8|t3||||
+aeth9|t4||||
+aeth10|t5||||
+p76|Can you remind me how to get to the cosmos outpost?||||
+p77|I sailed to the cosmos outpost. ||||
+aeth11|t1||||
+aeth12|t2||||
+aeth13|t3||||
+p78|So, what is aethology?||||
+aeth20|Aethology is the study of the aether. It is a noble art, one of the oldest. We track the neuron stars, behold the beauty of the infinite cosmos - and even travel there ourselves.||||
+aeth21|But this newfangled Union would rather throw coin at more rudimentary magic. Cipher spells that help trade, war, expansion. The youth of today have their eyes on their purses, not on the stars. ||||
+p79|How long have you been an aetherist?||||
+aeth22|<<He chuckles.>> Now that's a question. ##Before the God War, before the forming of the Apostatic Union itself, I was an aetherist in Byonne. I was captain of my first cosmos vessel before I was twenty, would you believe.||||
+aeth23|It's a dangerous business, visiting the cosmos. The air is very thin; cipher seals need to keep the ship together and prevent leaks. Complex magics recycle the air. One faulty spell, one flaw in the cipher and your whole crew could die.||||
+aeth24|But oh! The beauty, the majesty! To be out there, witnessing the throb and pulse of the neural network, first hand. There's nothing like it.||||
+p80|What can you tell me about the cosmos?||||
+aeth25|As you leave the planet's atmosphere, you see it: The neural network. ((The cosmos.))||||
+aeth26|On this planet we have hundreds of neuron stars, as you know. The one here orbits these islands every twelve hours, and glows red. Others glow blue, yellow, purple; of varying sizes and orbital trajectories, all over the globe...||||
+aeth27|And they're all connected by synapses. But those synapses also stretch out to the neural network; to the cosmos. And when you see it? There aren't just hundreds of neuron stars, no! They fill your vision. They never end. ||||
+aeth28|We have, with magical means, peered inside the fabric of our very skulls. Our minds look just like the cosmos. An uncanny reflection. We have been debating what this means for hundreds of years, but truly? Your guess is as good as mine.||||
+p81|Have you seen any signs of... ((corruption)) in the Academy?||||
+aeth29|Corruption? Ha! That Giovanni Borri is as corrupt as they come. He has friends in powerful places, which is the only reason he's here. ||||
+aeth30|They made him Chief Cartographer, but the young idiot wouldn't know a map if he was looking right at one. He'd probably wipe his arse with it. And now he's sent all our junior scholars out on some fool's errand... ||||
+engi1|<<The woman tinkers with a small crystal, brows furrowed. She taps at it with a stylus, before it seethes with magical energy and she drops it, cursing.>>||||
+engi2|Gods-damnit! ((You)) broke my concentration. It'll take hours to recalibrate that. ||||
+engi3|<<She glares at you for a moment.>> But, seeing as you're here, you might as well make yourself useful. ||||
+engi4|I'm Natalya, Chief Engineer here. ##Now tell me - how would you like to travel anywhere, instantly?||||
+engi5|<<Natalya looks preoccupied with a complex crystal gadget.>> ##Welcome back. Let's keep this brief, I've plenty to do. ||||
+p91|Instantaneous travel? Sign me up.||||
+engi6|That's the spirit. You see this big chamber, here? I had it brought up from the islands below. It's a portal chamber. ||||
+engi7|It's tech from this Academy, but it's actually pretty old. The Erudite Academy moves around a lot, and it seems one of my predecessors tried to set up a portal network on these very islands, a long time ago.||||
+engi8|It looks like they never got it working, but I think I've found the missing link. I've calibrated a crystal to act as a key, of sorts. It should activate the portals and allow for safe travel. But I just need someone to test it out...||||
+p92|Sounds dangerous.||||
+engi9|Dangerous? Pfft. The chance of the portal ripping you up and sending your limbs to completely different continents is, uh, quite low. I think. ||||
+p93|Sure, I'll do it. ||||
+engi10|That's what I wanted to hear! See this crystal key?## <<She reveals a glimmering device - a marriage of clockwork and crystal - and hands it to you.>>||||
+engi11|It will allow you to activate the portal chambers. Once activated, you can teleport to any of the other portals you've found.||||
+engi12|The only trouble is that I've only found ((one)). But the Academy records state there should be many more scattered around the island. ||||
+engi13|You don't need to find them ((all.)) If you can link [[this one]] to a portal chamber in the [[Endless Realm]] and another in the [[Clockwork Kingdom]], I'll reward your efforts. ||||
+p94|I'll pass, thanks.||||
+engi14|That's your choice, but you're missing out on ((history)), friend. ||||
+p95|Can you remind me about these portals? ||||
+engi15|No problem. That crystal key I gave you? ||||
+p96|I activated those portals for you. ||||
+engi16|You did? Excellent work! And, I'm guessing you're still in one piece? No severed limbs or appendages? Wow, what're the chances these old hunk o' junks would actually ((work?))||||
+engi17|...uh, I mean of ((course)) they worked. And I can't thank you enough for finding them. Here, take this - it's the least I can do. ||||
+p97|How did you end up at the Academy?||||
+engi18|What, I don't look like I belong here? <<She smirks.>>||||
+engi19|Well, you're not exactly the first to think that. I grew up in the slums of Slev, scraping a living through... unsavoury means. I always had a knack for cipher-tech, and by the time I was a teenager I was making bombs and traps for a local gang.||||
+engi20|Well, one day we pulled a heist on a wizard. All went tits-up, and the gang scarpered; but the wizard caught me. He threw me in his cart - I coulda sworn he was gonna take me to the Inquisition, have me hung...||||
+engi21|...But he took me here. Took a bit of getting used to - got into some scrapes, nearly been thrown out a bunch of times. But they stuck with me, and now it's home. ||||
+p98|What's with all the crystals?||||
+engi22|The Academy has been tinkering with crystals for as long as anyone can remember. They're technically called epoch crystals - you find 'em in the earth. They're especially useful for teleportation, levitation - anything that's too powerful for a normal spell. ||||
+p99|So wait, what exactly ((are)) epoch crystals?||||
+engi23|They form in the earth, over hundreds of years. They're actually what makes all these islands levitate - naturally occurring epoch crystals are embedded deep in the rock.||||
+engi24|They form where there's been large human societies - or that's the theory. Think of 'em like a sort of societal residue. All those hopes, dreams, fears, emotions - some trace of them gets left behind in the crystal. ||||
+engi25|Anyway, they can be a conduit for cipher magic. Whatever goes on in a spellcaster's mind when they weave a spell - that can be reflected a hundredfold by an epoch crystal. They amplify magic. ||||
+p100|What can you tell me about portals? ||||
+engi26|Portals are tricky; they're not outright banned by the Union, but the Inquisition keeps a close eye on them. After all, if you open a portal to the ocean? Or inside a neuron star? You're gonna be pretty fucked. ||||
+engi27|Not to mention most portal spells are unstable, often dangerous. If you ask a merchant captain whether she'd rather ferry her goods by airship or ((a portal)), she'd say airship every time.||||
+engi28|But we're trying to change that. We know the ancient Emberians could teleport goods and people safely, all around their empire. So it's ((possible)). We just need to refine the cipher... stabilise the magic. We'll get there. ||||
+p101|Okay, I think I get it. ||||
+engi29|Right. Is there anything else you wanna ask? ||||
+p102|Have you witnessed anything strange, or... ((forbidden)) lately?||||
+engi30|If anyone's suspicious, it's that Dohn Ghee downstairs. He's an old Wikkan loyalist, don't you know? ##How he managed to escape the post-war purges, I don't know - but I bet you'll find him muttering to the old gods in his sleep. ||||
+ghlem1|<<The woman's flesh hangs loosely from her bones. Ruptures in the skin reveal muscle, sinew and patches of exposed bone. She glances at you with cloudy eyes.>>||||
+ghlem2|You know it's rude to stare, mortal. ##My name is Ghlem; the Chief Historian of this Academy.||||
+ghlem3|<<Ghlem glances at you with her cloudy eyes.>> ##Back again, mortal?||||
+p111|You don't seem quite like the... other scholars.||||
+ghlem4|Your skills of deduction are quite exemplary, mortal. I am an Endless, and so - quite unlike the rest of this bunch - I look like a rotting corpse.||||
+ghlem5|But I've also been here the longest. In fact, I've been at the Adademy since before any of these scholars were even born. ||||
+p112|How did you end up here?||||
+ghlem6|I left my homeland over two centuries ago. Back then, my kind indulged their insatiable hunger by waging constant war on the living; the Cadaver Crusades. It was repulsive, and so I left. ||||
+ghlem7|I wandered for a long time, half-starved, before the Erudite Academy found me. I think they brought me in more as a research specimen, but it soon became apparent I was a brighter spark than most of them.||||
+ghlem8|I became a historian, on account of me being older than most of their books. Sooner or later my superiors all died, and so here I am - Chief Historian. ||||
+p113|And the other scholars accept you?||||
+ghlem9|It varies. Many in the Apostatic Union think us Endless should be burned at the stake; but here at the Academy, your kind seem to be more accepting. ##Although that buffoon Giovanni clearly wants me thrown out with the outhouse slop.||||
+ghlem10|When I first came here, I hid my flesh in silks and bandages, to hide my shame. But over the years I ceased to care. If people want to gawp, let them gawp. ||||
+p114|Thanks for indulging my curiosity. ||||
+ghlem11|That's quite alright, mortal. Most of your kind just scarper at the sight of me. Think I'm infectious, or something. ||||
+p115|Can I ask about some history? ||||
+ghlem12|Of course, mortal. I've read every book in this place, and let me tell you - most of them are wrong. I should know, being older than the World Rend. ||||
+p116|Can you tell me about the Apostatic Union?||||
+ghlem13|The Union is a relatively young conglomerate of states. It was formed forty years ago, when the victors of the [[God War]] unified under one banner. ||||
+ghlem14|But the lands that make up the Union can trace their history back four hundred years, when the survivors of the World Rend fled to the skyrealms. They were feudal kingdoms then, allied to the Wikkans and their gods.||||
+ghlem15|[[Venna]] has always been a diplomatic hub; and its principal city, [[Riova]], is now the capital of the Union. ##[[Lundel]] is a noble land, full of castles and windswept plains. ||||
+ghlem16|[[Byonne]] is a place of culture and learning. The best universities, the best theatres; the best wines. ##And lastly, [[Slev]] is the northernmost land - and a cold, harsh one at that. Its cities are rife with corruption and gangs. ||||
+ghlem17|But, half a century ago, the rulers of these lands chose to break free of the Wikkan covens. Astoundingly, they chose to fight their own gods; and even more astoundingly, they won... and the Apostatic Union was born. ||||
+p117|((Keep listening))||||
+p118|Okay, I think I've heard enough.||||
+ghlem18|Okay, mortal. Now where were we?||||
+p120|Can you tell me about these islands?||||
+ghlem19|This archipelago, with [[Hallowshire]] at its heart, is known as the [[Oneiric Isles]].||||
+ghlem20|To the east of Hallowshire lies Kardova - more recently known as the [[Clockwork Kingdom.]] To the west is the [[Endless Realm]], where my kind originates. ||||
+ghlem21|But these islands have not always existed together. Islands in the skyrealms drift with the current, and if you go back a hundred years or so - neither Kardova or the Endless Realm were part of this archipelago.||||
+p121|What about Hallowshire?||||
+ghlem22|For many years, Hallowshire has existed as an independent territory; in league with the Wikkan cult of the worm, who worship the fertility god [[Paeguth]]. ||||
+ghlem23|But recently it has been absorbed into the Apostatic Union's borders; making it the southernmost territory of the Union.||||
+ghlem24|As you have no doubt noticed, there is a great deal of friction between the locals and the Apostatic Union's soldiers. When townsfolk have relied upon a god for so long, they don't take kindly to having that god suddenly outlawed.||||
+p122|Okay, I think I get it. ||||
+ghlem25|Assuredly. ||||
+p123|Can you tell me about the Erudite Academy?||||
+ghlem26|The [[Erudite Academy]] is over two hundred years old. Unlike the other universities in the Apostatic Union, it is not tied to a single state; it exists independently.||||
+ghlem27|For much of its history it was a fringe establishment, refusing to align with gods or Wikkan covens. In fact, many of the treatises and polemics that laid the ground for the God War originated from this very establishment.||||
+ghlem28|And so, it should come as no surprise that - since its inception - the Union has favoured the Erudite Academy with high profile commissions and secretive projects. ||||
+ghlem29|As you can see, the Academy exists on a flying island. It moves between territories, to where it is needed most. We have been stationed on these Oneiric Isles for about a year now.||||
+p124|Can you tell me about the distant past? ||||
+ghlem30|Well, that is quite a question. I will try to be brief.||||
+ghlem31|For most of human history, civilisation thrived far below - on the world's surface. Feudal kingdoms flourished, under the patronage of powerful gods, and the Wikkans mediated between mortals and the divine. ||||
+ghlem32|But advances in magic and technology led to the rise of the Emberian Empire. Huge cities spread across the world, linked by unfathomable spells, and the Wikkans fled to the skyrealms.||||
+ghlem33|But then, of course, we had the World Rend - four hundred years ago. We cannot say exactly ((what)) the World Rend was - only that it destroyed the world's surface, and forced humans to flee to these skyrealms. ||||
+ghlem34|Believe it or not, I was alive during the World Rend. I remember an intense flash, a burning heat - and a terrible sound like a thousand screams. Our island crashed into another during the commotion. I have known nothing like it. ||||
+p125|That's all I wanted to know.||||
+ghlem35|My pleasure, mortal.||||
+p126|Have you heard of anything... ((untoward)) going on here?||||
+ghlem36|Oh, this place has secrets, that's for sure. There's a [[chamber]] underneath this building - accessible from the garden outside - that I've seen someone entering in the dead of night. ||||
+ghlem37|There's no doorway, though I've seen a number of [[suspicious candlesticks]] around the Academy. Mortal wizards do ((love)) to hide their dirty little secrets with enchanted candles!||||
+herb1|<<The man mumbles to himself as he grinds a mortar and pestle. He seems oblivious to your presence, until he mutters...>>##I'll be just a moment, young'un.||||
+herb2|<<He stares at the concoction of herbs, frowning. Suddenly, he hawks a gob of phlegm and spits it into the bowl, grinds, and sets it aside; seemingly satisfied.>>||||
+herb3|Now then. I'm Dohn Ghee, Prime Alchemist of this old Academy. What can I do for you?||||
+herb4|<<Dohn Ghee's eyes glint from beneath his bushy eyebrows.>> Back again, eh?||||
+herb5|<Dohn Ghee scowls at you from behind the bars.>> ##Damn these Inquisition bastards. I wasn't hurting a soul, y'hear?||||
+p131|Can you teach me about alchemy?||||
+herb6|Better than most, I'd wager. ##With alchemical equipment, you can combine ingredients to make new concoctions. Feel free to use the equipment in my study.||||
+herb7|Now, the Academy has been floatin' over these Oneiric Isles for about a year now, and I've gotten a flavour for the herbs that grow here.||||
+herb8|Brew two [[Eyes of Paeguth]] for a potent [[Health]] potion. Just the same, [[Paradoxicus]] revitalises [[Mana]] and [[Jitterseed]] will restore [[Stamina]]. ##But there are plenty more potent combinations, mark my words. ||||
+p132|Are there any... rarer herbs?||||
+herb9|<<He betrays a sly grin.>> ##Ah, well that depends who's askin'. That damned Inquisition have banned the use of some of the most potent alchemical herbs, to the chagrin of those who know better.||||
+herb10|<<He leans closer.>> ##But to those who know where to look, you can still find [[Death's Veil]] around these parts. It's a shroom that grows from the cursed remains of a corpse. Macabre stuff, but extremely useful.||||
+herb11|Combine it with an [[Eye of Paeguth]] for an [[Elixir of Restoration]]. You could be on death's door, but one o' those would fix you right up.||||
+p133|Is it possible to make poison?||||
+herb12|Of course. Mix an [[Eye of Paeguth]] with [[Jitterseed]]. The latter reverses the healing effects of the former; making a concoction that'll eat through skin. Coat your weapons with that an' your enemies will be sorry.||||
+p134|Can you combine ingredients other than herbs? ||||
+herb13|You can. When an alchemical experiment fails to produce something useful, you'll often get a type of alcoholic [[spirit]]. Mix these with herbs and you can make all sorts of beverages. They'll get you right plastered, too. ||||
+herb14|The ancient alchemists write of refining base metals into gold, but the art has been lost forever, erased from existence itself. Such powers were deemed too dangerous and unstable.||||
+p135|Thanks for the information.||||
+herb15|Any time.||||
+p136|How did you become the Prime Alchemist? ||||
+herb16|<<He is silent for a moment; looking past you in contemplation.>> ##I come from Lundel. A beautiful and wild place, where the wind and rain will shape a man.||||
+herb17|My father was the court alchemist for the King. He worked with the Wikkans and the local gods to ensure the prosperity of the realm. It was a noble position, and one I inherited on my two-and-twentieth year.||||
+herb18|<<He sighs.>> But my tenure was cut short by the God War. Lundel fell into civil war, and my liege was slain. The Wikkans became traitors, my gods became outcasts. ||||
+herb19|I fled to this Academy - and good thing I did. My... past allegiances would've seen me hung by this newfangled Union, were it not for the protection of this place. I warrant there are still some who would wish that fate upon me, even now. ||||
+p137|Do you know of any... ((unsavoury)) happenings in the Academy? ||||
+herb20|Well, if there's any wrongdoing, it'll be that blasted engineer up above me. I can always hear her banging an' clattering. Tell me, what can possibly be so important as to warrant so much damned noise?||||
+p150|I found the god you've been hiding.||||
+god1|<<He grimaces.>> I clearly didn't hide it well ((enough)). ##Its name is Xanarrib. Must be one of the last gods on Union soil, I suppose.||||
+p151|What were you doing with it?||||
+god2|Oh my. It's ((fascinating)) research, if I do say so myself. ##As you are no doubt aware, gods draw power from human belief. A devout follower is like a source of ((food)) to them.||||
+god3|So I have been examining this process. Gods do not have organs; simply a nucleus surrounded by strange matter. This turns out to be remarkably similar to the human mind; full of neural synapses. The implications are astounding!||||
+p152|Is it ((safe)) to harbour a god? ||||
+god4|Ah, quite safe, I assure you. Before the God War, Xanarrib was a god of revenge for a nearby village - but I have muted its power with cipher wards.||||
+god5|Just last week, that oaf Giovanni lost my favourite pen. Not a moment after I found out, he stubbed his toe and was in quite a lot of pain. If Xanarrib was at its full strength, I'm sure Giovanni would have fallen out a window to certain death, or something.||||
+god6|In fact, thinking of it, maybe I muted its power a little ((too)) much...||||
+p153|I found your journal. It's fairly... ((incriminating)).||||
+god7|Hmph. Yes, it's true. The Apostatic Union has outright banned this kind of research, even in this Academy. ##The fools! Do they realise what could be achieved if they did not ((run)) from what they fear? ||||
+god8|Please, I would ask you to return the journal to me - and forget this whole business. If the Inquisition were to get their hands on that journal, they would punish the whole Academy for my deeds. ||||
+p154|Okay, have the journal.||||
+god9|<<He grabs the book hastily.>> ##You have my sincerest thanks. I will see to it that Xanarrib is relocated - just as soon as I've finished my study. ||||
+p155|I think I'll hold on to it, actually. ||||
+god10|I do hope you reconsider. The Academy should not be punished unduly. ||||
+p156|Okay, I've heard enough. ||||
+god11|Indeed. But please, I would ask for your discretion in this matter. ##Now, was there anything else? ||||
+god12|<<Jerome scowls at you.>> ##Damn these Inquisition bastards. They won't even let me ((piss)) if a guard's not in there with me. ||||
+god13|I've been assigned to guard this old fool, until his case can be brought to trial. ##What does he even ((do)) with all this junk? ||||
+god14|A god, right here in a Union institution? What in the ((realms)) were they thinking? ||||
+god15|This academy is now under Inquisition occupation. We've got our eyes on you. ||||
+pwyllCarto1|<<The scholar has one eye pressed to his looking glass. As you approach he squints, takes a deep breath and is suddenly still.>> ##Aaaah...||||
+p181|Uh, are you okay?||||
+p182|Pleased to meet y-||||
+pwyllCarto2|((-CHOOOO!))##<<As the scholar sneezes, he sprays a thick globule of mucus over his looking glass lens. He wipes his face and looks perturbed.>> ||||
+pwyllCarto3|These... <<sniff,>> ((bloody)) mushroom spores! Why did I have to be sent to Pwyll, of all places, to make this [[damned map]]?||||
+pwyllCarto4|<<The scholar wipes his nose with his sleeve.>> If only that beady-eyed creature hadn't run off with my handkerchief... ||||
+p183|So, what landmarks do you need for this region?||||
+pwyllCarto5|<<He sniffs, wipes his nose on his sleeve, then points to the towering fortress behind you.>> ##Well, the first one I was supposed to chart was the old God War fortress over there, called the [[Blinding Light.]] Only... I heard it's infested with ((pirates)) and ((smugglers)), so... I was going to wait until I felt better... <<He looks sheepish.>>||||
+pwyllCarto6|Then there's ((another)) fortress to the south-east of the island, but... <<he sniffs.>> Have you seen the [[huge creature]] that's floating above it? No, no - that one will have to wait. ||||
+pwyllCarto7|And finally there's the [[Sacred Shroom]], as the locals call it, to the north-west. Only... that's the largest mushroom I've ever seen, so it would surely ((destroy)) my sinuses... ||||
+p184|Can you tell me about this island?||||
+pwyllCarto8|<<He swallows and rubs his bloodshot eyes.>> Oh, you mean [[Pwyll]]? Well... it's the northern-most island of these Oneiric Isles. ##The local neuron star, that orbits all the islands every twelve hours or so, is brightest when it passes Pwyll. ||||
+pwyllCarto9|Decades ago, the locals had a particularly nasty god - which meant they were more than willing to take up arms in the God War. <<He sniffs.>> This place became a frontline in the fighting; that's why there are so many old fortresses about.||||
+pwyllCarto10|Of course, when the war ended it went back to being a sleepy sort of place. Though it's technically part of the Apostatic Union, you'll find that few in the heartlands have really heard of Pwyll - unless they're particularly fond of the [[scryshroom tea]] they make here. ||||
+pwyllCarto11|If you want to meet the locals yourself, I'd head up to [[Pwyll Village]] above us. But if you'd rather be in ((civilisation)) - and I wouldn't ((blame)) you - take the road north to [[Hallowshire]] where the Apostatic Union has a larger presence. ||||
+pwyllCarto12|And more than anything, as I'm sure you've noticed, Pwyll is ((covered)) in blooming mushrooms! The spores stick to your clothes, they get in your hair, your nose - it's enough to make anyone... ||||
+pwyllCarto13|<<He pauses and suddenly becomes very still.>> ##...((I think I'm going to sneeze...))||||

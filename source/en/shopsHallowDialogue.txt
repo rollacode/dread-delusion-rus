@@ -1,0 +1,126 @@
+NPC Name:|Shops||||
+ID|English|French|German|Spanish|Italian
+p1|I'd like to look at your wares.||||
+p2|I want to create something through alchemy.||||
+p3|That's all, thank you.||||
+p4|Let me see what you have for sale.||||
+p5|I want to upgrade my equipment. ||||
+p6|Farewell. ||||
+p7|I'd like to rent a room.||||
+p8|I'll take it.||||
+p9|Actually, I've changed my mind.||||
+p10|Can I ask you some questions?||||
+p11|Do you know of any work going?||||
+p12|Thanks, that's all I wanted to know.||||
+p13|I had another question...||||
+p14|That's all I wanted to ask.||||
+p15|That's all, thank you.||||
+p16|I'll take a lockpick.||||
+p17|I'll take five lockpicks.||||
+p18|I'm okay, thanks.||||
+p19|What's with the skull?||||
+p20|What can you tell me about Hallow?||||
+ps1|Please, peruse our selection of potions. Oh and, if you need something specially brewed, I can assist with alchemy. ||||
+es1|We've weapons and equipment for sale. If you've brought ore, I can also modify your gear.||||
+ik1|Welcome to the Wobbly Noggin. If you're in need of a rest, we've beds and ale aplenty. ||||
+ikBedTaken|Uh... you've already rented the room.||||
+ik2|The skull suite's vacant. It's yours for two coins. ||||
+ik3|Thank you. It's just up the stairs there - just look for the wall of bone. You can't miss it.||||
+ik4|Sorry, friend. Looks like you don't have enough.||||
+ik5|No problem. Can I help with something else?||||
+ik6|Talk is free, friend. ||||
+ik7|Hmm. Well I've heard Vernon Berwig's looking for adventurers. Not sure what he's after, but he's the richest man in town, so I daresay it's worth a punt. Go to the Winged Merchants Guild on the main road if you're interested..||||
+ik8|Well, most of us are simple farmers. Folk 'ave been round here since the world rend, making ends meet. After the God War we joined the Apostatic Union, but they mostly left us to our business... until recently.||||
+ik9|The Union 'as seen fit to take a more... direct hand in our affairs, see. They claim our crops grow with illegal god magic. That organised cultism runs rife. But in trying to stomp that out, they've started a gods-damn famine.||||
+ik10|Most of us are thinking we'd be better off without the damn Union, frankly.||||
+ik11|Oh, you noticed? Heh. Big fella, 'aint he? ||||
+ik12|He's a relic of the God War. One of the old gods, who got a voidsteel spear right through the peeper. His noggin wobbled, then he came crashing down onto this pub.||||
+ik13|You wanna know the funny thing? The pub was already called the Wobbly Noggin. On account of the... uh... state of most of the patrons. ||||
+p20a|I'd like to buy a drink.||||
+ik14|Sure thing. We recently got a big shipment of [[Fine Wine]] from Riova, so I can give you a good deal on a bottle. ##Though if you're looking for [[Cipher Wine]], we've been short ever since the [[Clockwork Kingdom]] shut its borders.||||
+lp1|Greetings, friend. I'm in the business of selling... alternative keys, if you catch my drift. Two gold apiece.||||
+lp2|A fair trade. And remember - you 'aint never been here.||||
+lp3|Looks like you don't have the coin, friend.||||
+npc1|Past few months, the famine's got real bad. Folk are starting to get scared. ||||
+gd1|Hail, peasant. May the Apostatic Union shine resplendent. ||||
+p21|What can you tell me about the Union?||||
+p22|Can you give me directions around town?||||
+p23|Uh, I'll just be going.||||
+gd2|The Union is the last bastion of sense in this broken world. We're committed to stamping out the remnants of god worship and cultism. Only human-made magic is permitted in the Union. ||||
+gd3|If you see anything suspicious - an illegal shrine, or a forbidden text - report it straight away. This town is rife with cultism. ||||
+gd4|Sure. On the low-end of the town is a tavern with a giant skull. That's the Wobbly Noggin; you can rest up there.||||
+gd5|Further into town you have the high street, with a few well stocked shops. Several alleys lead down to the docks, or you can carry on straight to the clocktower.||||
+gd6|Just past the clocktower is the Union Council building. It's where the local Polymath lives. You can always stop by if you're looking for work. ||||
+rest1|Welcome to the Wobbly Noggin, friend. You look like the adventurin' sort; so, take some advice from an old fool. If you're exploring the countryside, come back an' [[rest often]].||||
+pRest1|Uh, stupid question - but why should I rest often?||||
+rest2|It might not feel like it at the time, but almost everything you do [[builds fatigue]]. Your stamina threshold will lower and you'll find yourself weaker. ##You won't just be worse at swinging a sword; you'll even fumble at [[picking a lock]] and other skills.||||
+rest3|But, finding a [[safe place to rest]] will restore your fatigue to full. So always consider stopping off at an inn. ||||
+p24|Thanks for the advice.||||
+day1|Keep an eye on the neuron star, friend. It's got a twelve hour pulse cycle, and most of the shops close when it's dark. ||||
+day2|If you're used to the longer days and nights of some mainland Union countries, you may find it strange. ||||
+pDay1|What can you tell me about neuron stars?||||
+day3|Well, I don't know where you're from, but many people live their whole lives in the cycle of a single neuron star - believing all days and nights to be the same. ||||
+day4|But the world is wrapped in a blanket of interconnected neuron stars, and each one is different. They all travel in regular movements, though - and 'pulse' brighter at certain times.||||
+day5|Hallowshire's star circles all the surrounding islands every twelve hours. It pulses brightest at noon, and shrinks to be darker at night. ##People here will sleep more often, and for less time, than a place with a longer cycle.||||
+day6|Of course, there are some places so far from a neuron star that they're trapped in perpetual night - and others where a single day can last hundreds of hours.||||
+pDay2|What happens at night, around here?||||
+day7|Well, at night the [[shops shut]] in town, and most locals sleep. ##You may find that out in the countryside there are [[other things]] that only occur at certain times, too.||||
+scope1|Ah, the view from here is superb, is it not? ##If only I had a [[telescope]], I bet I'd even be able to see the creatures in the forest... ||||
+scope2|There's probably one for sale in town. But what with the famine, all my money goes on bread.||||
+scope3|Ah, the view from here is superb, is it not? All one needs is a [[compass]] and a [[map]], and you'd have quite the adventure, I'd wager.||||
+pScope1|Do you know where I could find a compass?||||
+pScope3|Do you know where I could find a telescope?||||
+scope4|The [[Emporium of Oddities]] here in town sells an assortment of goods for the budding explorer. I picked up a [[telescope]] from there, myself.||||
+pScope2|Do you know where I could find a map?||||
+scope5|As it happens, I do. ##I've heard the [[Erudite Academy]] is in town, and they have a number of cartographers. I'd look out for one of their [[red tents]] on your travels. ||||
+scope6|I hear they're sold out around Hallow Town. Too many adventurers and merchants passing through I suppose.##If you need a [[compass]], you'll have better luck in a rural place like [[Pwyll Village]]...||||
+walk1|This used to be such a quiet place. Since the Apostatic Union's stepped up its presence here, there are guards patrolling the streets night and day. ||||
+docks1|Merchant ships have been stopping in Hallow less and less since the famine. We've got less goods to sell and grain is getting more expensive by the day. ||||
+use1|Welcome to [[The Bubbling Brew]]! We sell a wide array of useful items; from healing potions to alchemy ingredients. ## There's also an [[alchemy station]] in the corner; if you possess some alchemical ability it's free to use, and I can assist with the process.||||
+pUse1|What can you tell me about alchemy? ||||
+use2|Alchemy is the art of transmuting two base ingredients into something entirely new. All you need is an [[alchemy station]] to start the process.||||
+use3|If it's the first time you're combining new ingredients, you'll have no idea what the result will be. It's best to experiment to find out new combinations. ||||
+use4|Some combinations are doomed to fail, and will produce a type of alchemical spirit - but these may still prove useful in other experiments.||||
+wpn1|The countryside is teeming with goblins and unsavoury creatures - only a fool ventures forth without a sharpened blade. Here at [[A Fair Blade]] We've plenty for sale, and you can use our [[crafting station]] to modify your gear.||||
+wpn2|Use the [[crafting station]] in the corner to upgrade your weapons and equipment. ##You'll need [[metal ores]] to upgrade combat gear, and [[thread]] to upgrade clothing.||||
+wpn3|There's plenty of mines in the countryside. Since the famine struck, many have been abandoned. You might find scraps of ore left within.||||
+tailor1|Ah, welcome to [[Glorious Garments]]! I can tell you are a customer of exemplary taste; I have a selection of fine attires to choose from. ##If you are interested, I can also explain the specifics of [[tailoring]].||||
+pTailor1|How do I upgrade my clothing? ||||
+tailor2|First, you'll need to find a [[crafting station]]. There's one in the weapon shop nearby - [[A Fair Blade]]. ##You can use them to modify both metal equipment and clothing.||||
+tailor3|Most of our wares are made with [[thread]] from the [[silkslug]] native to this region. It is a most marvelous creature; it produces a silk of unrivalled strength and durability.||||
+tailor4|There is a picture of a silkslug on the wall just beside you. If you happen to see one out in the countryside, you should try harvesting its silk. ##It's quite a messy procedure, though. Make sure you take rags for the excess mucus...||||
+cult1|<<The cultist looks at you, weariness in their eyes.>>##So, someone's finally found me. It was only a matter of time, I suppose. I've been hiding right under the Union's nose.||||
+cult2|Please, I beg of you - don't tell the guards. It won't just be me they'll throw into the cell. The clothier will be ruined, and... he's been so kind. ##I've a few possessions around. Help yourself to whatever you find.||||
+book1|Ah, welcome to the [[Emporium of Oddities]]. We have spells and equipment for the budding adventurer, and you are welcome to peruse the books I have lying around.||||
+pBook1|Tell me more about your shop.||||
+book2|After I graduated from university in Byonne, I spent a long while travelling the skyrealms. Much of what I have for sale was accumulated from my travels, and the cipher spells were written by my own hand.||||
+book3|I also pay merchants good coin to import the latest treatises and scriptures from Riova - and I invite the townfolk to browse my selection. It's a sort of humble library, I suppose.||||
+thief1|<<The woman eyes you up and down.>> ##You look like someone who can take care of themselves. A word of advice, if you'll hear it...||||
+thief2|While the countryside starves from the famine, the merchants here are just as rich as ever. They won't let you root around their houses in the daytime, but at night... well, that's a different story.||||
+thief3|Just make sure you stock up on [[lockpicks]] if you're planning any unsavoury activities. Picks break all the time, so you can never have too many. ##There are places you can buy them, if you know the right people.||||
+thief4|I hear the guards know about this place, but they turn a blind eye. Someone's lining their pockets for sure. ||||
+lostPurse|Welcome to the Lost Purse. ||||
+lostPurse1|<<The barkeep shoots you a glare.>> ##Welcome to the [[Lost Purse]]. The guards don't come down this way, so we sell items you won't find in more... ((reputable)) establishments. Cause a ruckus - or go yappin' about what you see here - and it won't end well for you.||||
+pPurse2|How 'come the guards don't know about this place?||||
+pPurse1|Let's see what you're selling.||||
+lostPurse2|Oh, they know about us alright. Let's just say it's in their interest to turn a blind eye. We'll leave it there, ((friend)).||||
+outCold|<<They seem to be out cold.>>||||
+barSleep|<<They've had one too many.>>||||
+thiefSleep|<<Luckily, they're a heavy sleeper.>>||||
+sleep|<<They're fast asleep.>>||||
+tutRest1|Welcome to the Wobbly Noggin, friend. You look like the adventurin' sort; so, take some advice from an old fool. If you're exploring the countryside, come back an' [[rest often]].||||
+pTutRest1|Uh, stupid question - but why should I rest often?||||
+pTutExit|Thanks for the advice.||||
+tutRest2|It might not feel like it at the time, but almost everything you do [[builds fatigue]]. Your stamina threshold will lower and you'll find yourself weaker. #You won't just be worse at swinging a sword; you'll even fumble at [[picking a lock]] and other skills.||||
+tutRest3|But, finding a [[safe place to rest]] will restore your fatigue to full. So always consider stopping off at an inn.||||
+tutStar1|Keep an eye on the neuron star, friend. It's got a twelve hour pulse cycle, and most of the shops close when it's dark. ||||
+tutStar2|If you're used to the longer days and nights of some mainland Union countries, you may find it strange. ||||
+pTutStar1|What can you tell me about neuron stars?||||
+tutStar3|Well, I don't know where you're from, but many people live their whole lives in the cycle of a single neuron star - believing all days and nights to be the same. ||||
+tutStar4|But the world is wrapped in a blanket of interconnected neuron stars, and each one is different. They all travel in regular movements, though - and 'pulse' brighter at certain times.||||
+tutStar5|Hallowshire's star circles all the surrounding islands every twelve hours. It pulses brightest at noon, and shrinks to be darker at night. ##People here will sleep more often, and for less time, than a place with a longer cycle.||||
+tutStar6|Of course, there are some places so far from a neuron star that they're trapped in perpetual night - and others where a single day can last hundreds of hours. ||||
+pTutStar2|What happens at night, around here?||||
+tutStar7|Well, at night the [[shops shut]] in town, and most locals sleep. ##You may find that out in the countryside there are [[other things]] that only occur at certain times, too. ||||
+lightHouse1|Ah, the view from here is superb, is it not? ##If only I had a [[telescope]], I bet I'd even be able to see the creatures in the forest...||||
+lightHouse2|I heard there's one for sale at the [[Emporium of Oddities]], in town. But what with the famine, all my money goes on bread.||||

@@ -1,0 +1,163 @@
+NPC Name:|Shops||||
+ID|English|French|German|Spanish|Italian
+p1|Goodbye.||||
+p2|I could do with your help. Will you follow me?||||
+p3|@@Just this once. You won't regret it. ||||
+p4|Okay, I'll be going.||||
+p5|Okay, you can stop following me now.||||
+p6|||||
+p7|||||
+p8|||||
+p9|||||
+union1|Hmph, I've heard of you. Rotten no-gooder. Go on, get out of here.||||
+union2|You want me to follow you into battle? You must be joking. I wouldn't follow you into an alehouse.||||
+union3|Hail, peasant. The Apostatic Union shines on us today.||||
+union4|I'm sorry, friend - I can't lend my sword to just anyone. Only to those who have some status within the Union. ||||
+union5|%%Hmm, well I suppose it can't hurt... ((just)) this once. Lead on.||||
+union6|&&I'm sorry, rules are rules. Now off with you.||||
+union7|Ah, I've heard of you. You've been doing great things in Hallowshire, I must say.||||
+union8|If there's trouble afoot, I'll take your word for it. Lead the way.||||
+union9|It looks like our work is done, then.||||
+outlaw1|Oi, you're that rotter, aren't you? Well, you can fuck right off. ||||
+outlaw2|I'd sooner stick my knife in yer gut. Now get gone before I go an' do just that.||||
+outlaw3|Hmph. Got nothing to say to the likes of you. ||||
+outlaw4|You think I'm gonna take orders from someone like you? Go on - sod off.||||
+outlaw5|%%Well if there's loot involved, I guess I may as well see what's what.||||
+outlaw6|&&I'd sooner stick my knife in yer gut. Now get gone before I go an' do just that. ||||
+outlaw7|Hey, I've 'eard of you. You're alright, you know that?||||
+outlaw8|Aha, well if there's something going down, I'll 'ave my piece of the action, for sure.||||
+outlaw9|Alright. It's been a laugh, y'know.||||
+wikkan1|We've heard of you. You've committed great misdeeds against our coven. I will say no more on the matter. ||||
+wikkan2|With a flick of my wrist I could fill your eyesockets with maggots. Pester me no more.||||
+wikkan3|I am an acolyte of the Wikkan Coven of the Worm. Forgive me, stranger, if I do not tarry long; there is much occupying my thoughts.||||
+wikkan4|I am afraid I cannot lend my assistance to just anyone. I hope you understand.||||
+wikkan5|%% There is a whisper from my inner-worm, that your words have weight. Very well. I will accompany you.||||
+wikkan6|&& My inner-worm tells me not to trust you. Now, begone.||||
+wikkan7|Ah, I have heard tales of you. You have done a great service to Paeguth; and for that I am ever in your debt. ||||
+wikkan8|I would gladly assist you, friend.||||
+wikkan9|Very well. I hope I was of some use.||||
+wikkan10|Greetings, traveller. ##Have you seen the spiked [[godshells]] around here? I'm a collector of the precious [[godlets]] that dwell within.||||
+p21|I have some godlets to sell. ||||
+wikkan11|Most wonderful. For every godlet you give me, the [[Wikkan Coven of the Worm]] will grant you favour.||||
+p22|Here's one godlet.||||
+p23|Here's five godlets. ||||
+p24|Take all the godlets I have.||||
+wikkan12|Ah, a most generous donation. Please, take this in recompense; the Wikkan Coven of the Worm is ((most)) grateful.||||
+p25|Actually, I've changed my mind.||||
+wikkan13|Please; be careful with those godlets, traveller. We hope you will reconsider...||||
+p26|Uh, what exactly is a godlet? ||||
+wikkan14|In centuries past, the skyrealms thrived with all manner of gods. Every city, every town would be under the thrall of some deity, and we Wikkans negotiated the contracts between god and mortal.||||
+wikkan15|But during the God War, so many gods were struck down. So many lost! ##Although... it is very difficult to actually ((kill)) a god, so long as faith remains...||||
+wikkan16|So, we nurture those lost deities back into a physical form. The [[godshells]] protect the gestation period; and when they are ready, we harvest their precious bounty. ||||
+wikkan20|Greetings, most venerable friend. The [[Wikkan Coven of the Worm]] has been watching you for some time; and we are most pleased. ||||
+wikkan21|By all means, make yourself at home in this place. It is reserved only for those loyal to our cause.||||
+wikkan22|The [[grimoire]] over there will prove a great boon to your [[Lore]] skill. You may also rest in the [[bed]] downstairs, and help yourself to whatever [[items]] you find here. ||||
+outlaw10|Yer boots look well worn, friend. ##Don't s'pose you've seen any [[spiky green shells]] around these parts? I'm lookin' to buy the [[tiny critters]] inside 'em. Godlets, they're called.||||
+outlaw11|Ah, I knew I 'ad the measure of ya. Right, let's see 'em; I'll give you a fair price, and even put in a good word with [[some friends o' mine]].||||
+outlaw12|That'll do nicely. Right then, 'ere's your pay. Keep 'em coming and this could open doors for you, friend.||||
+outlaw13|Look, you won't get a better deal nowhere else, see? So, I'll be 'ere when you change yer mind.||||
+outlaw14|Y'know, I 'aint got a clue. <<She lets out a raspy chuckle.>>||||
+outlaw15|All I know is, both the Union and the Wikkans want 'em bad. And ((that)) means they're worth summin'. So, bring me more o' the critters and I'll see you get a fair share of the profit.||||
+outlaw20|Eheh, you're what passes for an [[outlaw]] these days? <<He spits on the floor by your feet.>>||||
+outlaw21|Well, no matter. The bosses say you're alright. So, I guess you're alright.||||
+outlaw22|You'll be wanting to practise your [[Lockpick]] skills on that chest over there. Or grab some shuteye in the [[bed]] there. Help yourself to [[anything else]] you might find useful.||||
+union10|Hail, peasant. Are you in need of work? ##[[Godshells]] have been found in the region. They contain [[godlets]]; dangerous, occult specimens. We want them brought to us. ((All)) of them. ||||
+union11|Excellent; hand them over. Know that the [[Apostatic Union]] will reward its most loyal subjects.||||
+union13|Yes, yes; this looks about right. Here's your coin. I've made a note of your contribution in my ledger.||||
+union14|Need I remind you that those godlets pose a grave threat? You must hand them over at once!||||
+union15|A godlet is a pathetic remnant of a once terrible entity - a god. Though we destroyed many in the God War, they have a tendency to sprout again like weeds. ||||
+union16|Pockets of Wikkan resistance still linger in Hallowshire, and it seems they are trying to revive their most foul and nefarious deities.||||
+union17|Needless to say, this is a threat to the safety of the Oneiric Isles, and the Apostatic Union as a whole. It is our duty to eradicate these verminous godlets.||||
+union20|Ah, welcome. This room is normally reserved for dignitaries visiting from Riova, but I understand the polymath has made an exception on account of your... ((services)) to the [[Apostatic Union]].||||
+union21|The enchanted mask over there will grant a boon to your [[Charm]] Skill, should you require it. You may also help yourself to the [[amenities]], or rest in the [[bed]] over there.||||
+union22|Just - would you please, uh, remove your most ((elegant)) footwear? We wouldn't want to get mud all over the furnishings now, would we...?||||
+hallowshireoutlaw1|You can stay, but if you hear those little bastards coming for the barricades, lend a hand, aye? No freeloaders here.||||
+hallowshireoutlaw2|Goblins out for your blood, moth eggs on every damn thing, never seeing daylight…still, it could be worse. Least we're our own bosses down here.||||
+hallowshireoutlaw3|Was that a moth?! Catch it, catch it, splat the thing!||||
+hallowshireoutlaw4|Come to sample our famous hospitality, eh? It's not much, but it's…an abandoned mine.||||
+hallowshireoutlaw5|Watch yer head. And yer back.||||
+hallowshireoutlaw6|Can't talk. I'm on watch.||||
+hallowshireoutlaw7|Buy us a drink, will yer? Boss has cut me off.||||
+hallowshireoutlaw8|Come down to sneer at us, have you? How are things up there then, with the Inquisition breathing down your neck and every island more dead than the last? Perhaps you should stay a while, learn what freedom looks like.||||
+wizardoutlaw|What are you doing up here? If you don't know how to mitigate the curvature lag effect for a field-defined velocity cantrip - and looking at you, I'm guessing you don't - then you can't help me, so get out of my way.||||
+wizardoutlaw2|Off to see the wizard? He's upstairs. Go on up, I don't care.||||
+wizardoutlaw3|Hm. Guess you're not a threat. Don't think I won't second-guess that if I need to, mind.||||
+wizardoutlaw4|I wonder if there's a spell to conjure up a feather bed?||||
+wizardoutlaw5|His Wizardliness isn't keen on visitors - that's why we're here.||||
+rustburgoutlaw1|Don't worry, I'm not gonna go sticking this in your guts. Not getting paid enough for that. Those lads up the road might not be so gentle, though, and I reckon there's more driving them than just coin. But that's none of my business, I 'spect.||||
+rustburgoutlaw2|Rustberg's ours now. Not like anyone else wants it, after all.||||
+rustburgoutlaw3|Keep movin'. That's right.||||
+rustburgoutlaw4|Come to look for buried treasure, have you? Well, you're too late. Firstly, it's all ours, and second, it's not treasure, it's junk.||||
+rustburgoutlaw5|Easy now.||||
+rustburgoutlaw6|If you're just passing through, then go ahead and do that. Otherwise turn right round.||||
+rustburgoutlaw7|The folk in Rustberg used to make their living from scrap, you know. Now it's just us, and we make our living from scrapping. Heh.||||
+rustburgoutlaw8|Where have you come from, then? Want to swap with me? I'll go exploring the wide world and you can sit here and let your arse rust.||||
+houseoutlaw1|This is a nice little bolthole we've got here, so don't go telling anyone about it.||||
+houseoutlaw2|Look how these rich bastards used to live! The place I grew up in was smaller than the outhouse here. Still, it's ours now...||||
+airshipGuild1|<<The woman casts you an indifferent gaze.>> Greetings traveller. Welcome to the... Ah... <<She yawns, then rubs her temples.>> ...The Pwyll port of the Winged Merchants Guild. ##I'm the local harbourmaster. Can I help you? ||||
+airshipGuild2|Pwyll Harbourmaster of the Winged Merchants Guild, pleased to make your acquaintance. <<She blinks sleepily.>> Uh, again. ||||
+p101|What does the Guild do here in Pwyll?||||
+airshipGuild3|<<She takes a sharp intake of breath, as if the question was a particularly confounding riddle.>> Well; we oversee the transfer of goods, impose tariffs, check for contraband - that sort of thing. ||||
+airshipGuild4|Pwyll is a pretty... ((quiet)) place, so we don't get much traffic. Once a week a merchant ship - usually a cog or a sloop - comes from Hallow Town with exports from the Union heartlands. Maybe, ((maybe)) once in a while we'll get a dhow from Al-Asfara.||||
+airshipGuild5|And after we unload their goods, what do they want? Scryshroom. Always fucking scryshroom! I swear, if I have to winch one more crate of the stuff...||||
+p102|I want to purchase a ship, and I have a writ of permission right here. ||||
+airshipGuild6|<<She snatches the document and eyes it suspiciously.>> What the... ##Well, it looks like you really ((do)) have permission to buy a ship. ##But, all we have is a small cog, and that'll still set you back some [[200 coin]]. ||||
+p103|Okay, I'll take it. ||||
+airshipGuild7|Hmph - looks like you don't have enough coin. ||||
+airshipGuild8|Alright, well... first thing, take this [[deed]] to your airship. It's legal proof of ownership, so don't lose it!||||
+airshipGuild9|Next, I'll arrange for the cog to be brought to this port. You should be able to see it [[docked at the jetty]] outside when we're done here. ||||
+airshipGuild10|Now, if you have this writ of permission, I assume you're well versed in the nuances of sailing and the intricacies of Union trade law, or the polymaths would never have approved you. ##But just in case... do you have any questions? ||||
+p104|Actually, I've changed my mind.||||
+airshipGuild11|Okay, well do come back if you want to make the purchase. ||||
+p105|I want to purchase airship upgrades.||||
+airshipGuild12|Of course. Just let me get the ledger... ||||
+p106|How can I get my ((own)) airship? ||||
+airshipGuild13|<<She smirks.>> What, you think we just ((hand them out)) to bright-eyed travellers? ##It takes a lot of coin to buy a sailing vessel, you know. Most Union merchants only have ((shares)) of the ships they use. ||||
+airshipGuild14|Plus, even if you had a bulging coinpurse under those... <<She vaguely gestures at your clothes,>> ((fine garments)) you're wearing, these days you need a writ of permission from the Riovan Port Authority. ##And ((trust me)), you're not gonna find one of those lying around out here in the sticks. ||||
+p107|I want to ask about sailing and maintaining my vessel. ||||
+airshipGuild15|What would you like to know?||||
+p108|Can you tell me the basics of sailing a ship?||||
+airshipGuild16|Your ship can lay anchor at any [[Airship Dock]], like this one, which are found in every major town. ##Every dock also has an [[Airship Upgrade Station]], where you can modify your vessel.||||
+airshipGuild17|You can also [[lay anchor]] almost anywhere in the world. Just stop your vessel and, if you're courageous or foolhardy enough, you can [[climb down the chain]] to get to ground level. When you're ready to depart, just [[climb back up]] again.||||
+airshipGuild18|And remember that If you ever lose track of where your airship is, you can [[recall]] it to any  [[Airship Upgrade Station]]. ||||
+p109|How do I upgrade my vessel?||||
+airshipGuild19|Every dock has an [[Airship Upgrade Station]] where you can outfit your ship with different components. ##New components can be [[bought from a harbourmaster]] like myself. ||||
+airshipGuild20|There are three component types: [[Hull]], [[Sails]] and [[Cabin]]. You'll find that, as well as altering how your airship looks, they will also change how it handles in the skies.||||
+airshipGuild21|Also, remember that different harbourmasters have different types of upgrades for sale. Always check in at your local [[Airship Dock]] to see if they've something you want. ||||
+p110|That's all I wanted to know.||||
+airshipGuild22|Excellent. Was there anything else? ||||
+p111|Farewell. ||||
+airshipGuild23|<<The man beams at you with well-practised hospitality.>> Greetings friend. On behalf of the Winged Merchants Guild, I humbly welcome you to the [[Airship Dock]] of Hallow Town. ||||
+airshipGuild24|I am the harbourmaster here. <<He opens a leather-bound book, revealing pages of elegant handwriting.>> ##Now tell me, will you be importing? Exporting? Do you have customs to declare, or...?||||
+airshipGuild25|<<He eyes you up and down, then swallows.>> You ((are)) a member of the Guild, are you not? ||||
+p112|I want to purchase a ship, and I have a writ of permission right here. ||||
+p113|Wait, which Guild was that again?||||
+p114|Uh,of course. I just left my airship... at home. ||||
+p115|...No.||||
+airshipGuild26|<<He carefully closes the book, letting out an exasperated sigh.>> ((Well.)) I suppose I could spare some time to elucidate the curiosity of a non-Guild member. But, please be brief, as these jetties won't manage themselves... ||||
+airshipGuild27|<<The harbourmaster dabs his forehead with an expensive-looking handkerchief>>. Ah, you again. You'll have to excuse my exasperation - our esteemed guildmaster Vernon Berwig has been... <<He clears his throat.>> ((Unable)) to attend to his duties, of late. Things are quite chaotic here. ||||
+airshipGuild28|<<The harbourmaster sighs, then feigns a cheerful smile.>> ##Ah, you again. How may I help?||||
+p116|What does the Guild do here in Hallow Town?||||
+airshipGuild29|Oh, I assure you we are quite busy. As the principle port in the Oneiric Isles, Hallow Town receives regular shipments from the Apostatic Union heartlands. ##Our most common imports include wines from Byonne, olives and spices from Vena, Textiles from Lundel and raw iron from the mines of Slev.||||
+airshipGuild30|Our exports include Pwyllian scryshroom tea that lets one divine events yet to pass; the latest poetry from the tomb-cities of the Endless, and - when we can get our hands on any - the potent vision bottles of the Clockwork Kingdom that imbue the most fantastical dreams. ||||
+p117|I want to purchase a ship, and I have a writ of permission right here. ||||
+airshipGuild31|<<He inspects the document without concealing his surprise.>> My, my - I think this is actually ((genuine)). ##Well, in that case - I have a small cog for [[200 coin]], if it pleases you? ||||
+p118|How can I get my ((own)) airship? ||||
+airshipGuild32|Well, I can assure you they are... <<He clears his throat>>, ((rather)) expensive. ##We also cannot trade vessels with anyone who does not have a writ of permission from Riova, for matters of Union security, etcetera.  I'm ((quite)) sorry. ||||
+airshipGuild33|Welcome to the Winged Merchants Guild, breather. What'chya after?||||
+p119|What does the Guild do here in Sepulchre?||||
+airshipGuild34|<<He chuckles.>> Surprised to see a Guild establishment out here with us rotters? I can't blame 'ya. But, since relations have improved with the Union, we've been getting a fair bit of traffic. ||||
+airshipGuild35|At first, the guild insisting on this place havin' a flesh-and-blood harbourmaster. Only, they kept quitting! Something, I gather, about the cuisine...||||
+airshipGuild36|So, they relented an' allowed ((yours truly))... <<He feigns a bow>>, into the Guild. An' they were bloody right to do so! I've been a captain since the time of the Hooded King, an' in the past six centuries I've sailed more ships than the rest of the Guild lumped together! ||||
+p120|I want to purchase a ship, and I have a writ of permission right here. ||||
+airshipGuild37|<<He looks at the slip of paper and nods.>> Yup, this looks legit. Well then breather - you wanna become a captain of y'er own ship, or what? I can sell you a cog for [[200 coin.]]||||
+p121|How can I get my ((own)) airship? ||||
+airshipGuild38|<<He clicks what's left of his tongue>>. Unfortunately breather, you won't get one without a writ of permission from Riova. An' trust me - they don't give 'em out easy. ||||
+airshipGuild39|Welcome to the Ferropolis [[Aircraft Dock]]. As a certified harbourmaster of the Winged Merchant Guild, I'll do what I can to help.||||
+p122|What does the Guild do here in Ferropolis?||||
+airshipGuild40|<<She sighs.>> In recent months, not a lot. The King has disallowed free passage into the Clockwork Kingdom, so only a handful of captains are licensed to ferry goods.||||
+airshipGuild41|Welcome to the Winged Merchants Guild. As harbourmaster, how can I assist you? ||||
+p123|I want to purchase a ship, and I have a writ of permission right here. ||||
+airshipGuild42|Ah, well if all the paperwork is correct, I can sell you a small cog for [[200 coin.]] What do you say? ||||
+p124|How can I get my ((own)) airship? ||||
+airshipGuild43|Unfortunately, only those bearing a writ of permission from Riova may purchase a vessel. I'm terribly sorry. ||||

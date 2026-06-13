@@ -1,0 +1,713 @@
+cae|||||
+ID|English|French|German|Spanish|Italian
+p1|Goodbye.||||
+p0|Farewell.||||
+pq1|Can I ask you some questions?||||
+pq2|Okay, I think I get it.||||
+pq3|Got it.||||
+pq4|Actually, I had other questions.||||
+pq5|That's all I wanted to know.||||
+hc1|<<The device lurches on unstable legs, thick blood oozing from its seams with each shuddering movement. >>||||
+hc2|<<A woman's voice, hoarse and raspy, echoes from within the device.>>##Your service is... ((required)), prisoner XVII.||||
+p10|That's not my name.||||
+hc3|<<A cackle lapses into a sputter of coughs.>> ##You forfeited... the ((right)) to a name, when you betrayed... the [[Apostatic Union.]] A number is all you deserve. ||||
+hc4|But I offer you the chance of penance. An opportunity to atone... for your vulgar crimes.||||
+p11|I'm not gonna take orders from a coffin.||||
+p12|Uh... do you need some help?||||
+hc5|<<A cackle lapses into a sputter of coughs.>> ##This iron coffin is an honour, a ((privilege.)) The pain it delivers... only serves to sharpen my reason. ||||
+hc6|Your base crimes against the [[Apostatic Union]] would not merit... such exquisite torment. But I can offer you redemption of a... different kind.||||
+hc7|I am the [[High Confessor]] of this... [[Inquisition]] combat tribunal. We are tracking the most dangerous of criminals. ##And ((you))... will help us. ||||
+p13|How, exactly?||||
+p14|There's no way I'm helping the Inquisition.||||
+hc8|<<She wheezes.>> Oh, but you ((will)). Your sentence... obligates such military service. Refusal would result in... ((unspeakable)) horrors performed on your person. ##So... listen closely. ||||
+p15|What's in it for me? ||||
+hc9|<<She wheezes.>> You should be glad of such a... ((righteous)) opportunity to serve penance. But success could bring benefits. Even your ((freedom.)) ##So... listen closely.||||
+hc10|Our target's whereabouts have been known... for some time. A backwater archipelago on the very fringes... of Union territory.||||
+hc11|Known as the [[Oneiric Isles]], these flying islands... are host to a manner of outcasts and miscreants. ##We arrived a few hours ago, but met with... fierce resistance.||||
+hc12|Our target... is in the [[Blinding Light]] fortress; the last remaining holdout of the [[Dark Star Mercenaries...]] ||||
+hc13|...for our quarry is their leader, the notorious... [[Vela Callose]].||||
+p16|I guess I have no choice. ||||
+p17|Never heard of her. ||||
+hc14|She is the daughter of Admiral Callose. Groomed for command, but she set off on her own to found a warband... of thieves and pirates. ||||
+hc15|The Dark Stars were tolerated in the Union, until Vela became enthralled with... delusions of grandeur. Claimed she could create... some sort of ((heaven)). ||||
+hc16|((Vela Callose?)) This is suicide! ||||
+hc17|Not so. It is true that our agents have met with... fierce resistance. But my drones calculate a... one in three-hundred-and-sixty-four chance of success. It's ((entirely)) possible. ||||
+hc18|Before you go, take this [[Inquisition Journal.]] ## <<A mechanical arm thrusts a peculiar device in your direction.>>## It will keep track of your mission. ||||
+hc19|My [[drones]] can offer guidance. And closer to the Blinding Light, [[Inquisitor Ignavus]] can assist you further. ||||
+hc20|Oh and... don't try to run. These [[flying islands]] are... unstable, and many a fool has fallen to their death.||||
+coop1|<<As you approach, the Inquisitor takes in a deep breath of air.>> Do you ((smell)) that, Prisoner XVII?||||
+p20|Uh... Engine grease?||||
+coop2|<<He shakes his head.>> These Inquisition ships run on odourless cipher magic; state of the art from those boffins at the Erudite Academy.||||
+coop3|No, I was actually talking about... <<he breathes in.>> ((mushroom spores)).||||
+p21|Uh... The smoke of battle?||||
+coop4|<<He sniffs exactly twice.>> I suppose there ((is)) a hint of that.||||
+coop5|But I was actually talking about... <<he breathes in.>> ((mushroom spores)).||||
+p22|Uh... Mushrooms?||||
+coop6|<<He clicks his fingers.>> ((Exactly))!||||
+coop7|<<He turns to you, a beaming smile across his face.>> ##I've never seen this many mushrooms in my ((life.)) ||||
+coop8|Such wide stalks. Such healthy gills. <<He takes a long breath.>> Ah, and such ((potent)) spores! ##We have mushroom forests back home in Lundel, but nothing like this.||||
+coop9|<<He waggles a finger at you, while turning his gaze back at the mushrooms.>> ##Prisoner XVII, if you get back alive, remind me to get a batch of [[Scryshroom Tea]] for my wife. They make it here in the Oneiric Isles, and I hear it's to ((die)) for.||||
+p23|Um, okay.||||
+coop10|<<He slaps you on the shoulder.>> That's damn good of you, Prisoner. ##Ah, but where are my manners?||||
+p24|Um, no.||||
+coop11|<<He frowns.>> You know, you're right, Prisoner. We've not even been introduced and I'm already asking for favours. That was damn impolite of me.||||
+p25|Um, who are you?||||
+coop12|<<He slaps himself on the forehead.>> Ah, where are my manners?||||
+coop13|<<He holds out his hand in greeting.>> ##Inquisitor Ignavius of the Twelfth Inquisitorial Tribunal, pleased to make your acquaintance. ||||
+p26|((Shake his hand firmly.))||||
+coop14|<<He grips your hand with an equal firmness.>> I see I'm in good company, Prisoner. ||||
+p27|((Slap his hand away.))||||
+coop15|<<He laughs.>> A classic ((Slevian Slap)). Well, it'll do. ||||
+p28|What are we ((doing)) here, Ignavius?||||
+coop16|<<He pulls his hand back.>> Hmph, straight to business, eh Prisoner? So be it.||||
+coop17|<<He points at the fortress ahead.>> That's the [[Blinding Light]] - the fortress of Vela Callose, leader of the Dark Star mercenaries. ||||
+coop18|The High Confessor told me you'd be joining the assault. And not a moment too soon - we need all the help we can get.||||
+coop19|I've sent all my agents, but so far none have reported back. We expected heavy fighting, but it seems those Dark Star ruffians are a tougher bunch than we gave them credit for. ||||
+coop20|Your orders are to [[capture Vela alive]]. A tall order, I'll admit - but I think you're up to the job, Prisoner. ##So - any questions?||||
+p29|How do I get to the Blinding Light?||||
+coop21|Why, do you see that great big [[cannon]] looming overhead? That's part of the Blinding Light fortress, and is where you need to get to.||||
+coop22|Just stride into that main gate, making sure to slay any pesky Dark Stars that get in your way. Once you're in the compound, find a [[lift mechanism]] that will take you up the [[battlements]]. That's where Vela has been holed up. ||||
+p30|Is there a way I can avoid bloodshed?||||
+coop23|Ah, the ((sneaky)) sort, are we? Well, you're in luck. My agents reported that there's a [[side entrance]] to the right of the fortress, which leads into a maintenance tunnel of some sort. I'm sure the Dark Stars laid plenty of [[traps]], but surely nothing you couldn't disarm with a deft hand, eh?||||
+coop24|Once you're inside, you could try and [[avoid detection]] by keeping to the walls. These old God War forts have plenty of nooks and crannies, so just... <<he puts a finger to his lips,>> keep quiet and out of sight, yes? ||||
+p31|What if I want to practise my combat skills?||||
+coop25|Ah, well we established a small boot camp of sorts, just here! I always make sure to remind my combat echelon of the fundamentals before a tricky mission, so you'll find plenty of [[target dummies]] and [[tutorial signs]] just below.||||
+p32|I need to know more about Vela and this mission.||||
+coop26|<<He nods.>> Yes, I'm sure you have plenty of questions. What do you want to know?||||
+p33|Okay, I guess I'll get going.||||
+coop27|<<His smile beams.>> Ah, that's the spirit, prisoner. I'm sure you'll make short work of those ruffians.||||
+coop28|And when you're done, be sure to [[check in with me]] after the mission. I've taken quite an interest in these Oneiric Isles of late, and I'm sure I can fill you in with plenty of [[useful tidbits.]]||||
+coop29|<<He grins.>> Inquisitor Ignavius of the Twelfth Inquisitorial Tribunal, pleased to make your acquaintance.||||
+coop30|As the Second Inquisitor of this tribunal, you can address me with any queries that may be too ((trifling)) for the High Confessor's attention. Together, I'm sure we'll catch this Vela scoundrel in a jiffy. ||||
+coop31|<<He takes in a deep breath.>> And in the meantime, we can bask in this delightful countryside. There are such ((potent)) spores here! I bet the [[Scryshroom Tea]] is to ((die)) for.||||
+coop32|Ah, Confessor XVII! I just ((knew)) you'd survive the assault. The drones were all but ((certain)) you'd meet a gruesome end, but you sure showed them, eh?||||
+coop33|Greetings, Confessor! Have you stopped in for a little chat? How delightful. ||||
+coop34|<<He grins.>> Inquisitor Ignavius of the Twelfth Inquisitorial Tribunal, pleased to make your acquaintance.||||
+coop35|Terribly unfortunate business with the High Confessor, eh? I always thought she was a damn fine woman, but who'd have thought she'd have such ((skeletons)) in her coffin? Uh, I mean closet. Bad choice of phrase, there.||||
+coop36|Anyway, it looks like I'm the acting High Inquisitor of this tribunal, while this matter is reserved. Quite the responsibility, eh? I might need some wine to steady my nerves...||||
+coop37|As for ((your)) duties? Uh... well... I would simply carry on with what you were doing, uh... whatever that was. ||||
+coop38|Confessor, the drones have informed me that there's been an awful lot of commotion in the lower decks - as if some of our guests have been ((preparing)) for something. But of course, I told them you couldn't possibly be organising anything, as our orders are to stand down for the foreseeable future! ||||
+coop39|Anyway, just keep the racket down, you hear? I know it's terribly ((boring)) waiting around like this, but if you could keep your strange hobbies ((away)) from the ship? Much obliged. ||||
+coop40|Ah, Confessor XVII! All going well, I hope? ||||
+coop40b|Ah, Prisoner XVII! All going well, I hope? ||||
+p34|I got you some Musroom Wine. ||||
+coop41|Confessor! This is entirely unexpected. How thoughtful of you.||||
+coop42|<<He removes from his belt a tiny metal goblet. He uncorks the wine and gently pours it before taking a sip.>>||||
+coop43|<<He frowns, and is silent a moment.>> ##Confessor, this is... ((excuse me))...||||
+coop44|...((Damn)) fine wine! ||||
+coop45|<<He takes another sip.>> I've tried an extraordinary number of vintages in my time, and this - this is one of the best.||||
+coop46|My wife is going to love it. Please, take this in recompense.||||
+p35|About the mission...||||
+coop47|Ah, yes! What about it?||||
+p36|Tell me about Vela and the Dark Stars. ||||
+coop48|Vela Callose. Now ((that's)) a name that'll make hairs stand on end.||||
+coop49|She's the daughter of old Admiral Callose of the Apostatic Union Navy - but instead of following in her father's footsteps, she founded the most accomplished mercenary band since the God War.||||
+coop50|Sure, she's currently the most wanted criminal in the Union. But you've got to hand it to her - for years, the Union itself relied on Vela and her Dark Stars to do the jobs the Navy were unwilling - or ((unable)) - to do themselves. ||||
+coop51|<<He sighs.>> It's a pity she turned down such a dark path. In the later years of the Dark Stars, their number of villainous deeds far exceeded those of noble intent. ||||
+p37|What of the Dark Stars' villany, then? ||||
+coop52|Well, there was the Astral College heist in Byonne, where they made off with an ((artificed star)) among other priceless treasures. ##Then there was the sinking of the merchant freighter Popinjay, and all those hostages slaughtered at the Siege of Saracolco... ((I could go on)).||||
+coop53|In the end, they say she lost the plot. Started yammering about some sort of ((heaven)). The Inquisition ruled this was tantamount to cultism - ((Article CXII, claims of a religious nature)) - and warranted her arrest.||||
+coop54|Of course, I think the Polymaths over in Riova had wanted her gone long before all this. Got too big for her boots, and finally they had their warrant. ##Even Vela's ((own)) mercs got so riled up they mutinied against her.||||
+coop55|She's been hiding out here for years, but the Inquisition finally got the go-ahead to make a move - so here we are.||||
+p38|Thanks for the info.||||
+coop56|Of course. Was that all?||||
+p39|Why are you using prisoners like me?||||
+coop57|<<He grins.>> Ah, because rigorous labour is a tonic for the ills of one's ((mind))! ||||
+coop58|We're not like some common judiciary back in Union homeland, where prisoners are thrown in a pit with a scrap of mouldy bread, no matter their crime.||||
+coop59|<<He taps his forehead.>> We recognise the ((twisted intellect)) of our guests. And if we can ((un))-twist that reason with the right application of punitive employment, we will have enlightened the world, just a little.||||
+coop60|<<He clears his throat.>> We're also authorised to use any method at our disposal when a mission is going... Ah.. how do they say it in Slev? ((Udders up)).||||
+p40|What do you think of the High Confessor?||||
+coop61|<<He strokes his chin.>> Many in the Inquisition think it a ((travesty)) that a Confessor - that is, a prisoner still serving their penance - has been granted control of an entire Tribunal. Normally, it would be the job of a High Inquisitor.||||
+coop62|Indeed, there's also the ((nature)) of her crimes, and how they relate to the very criminal she has been tasked to apprehend...||||
+coop63|But personally? I think, despite her ((quirks)), she's proved herself as one of the most accomplished agents within our ranks.||||
+p41|That's all I wanted to know.||||
+coop64|Splendid. Was there anything else?||||
+p42|I had questions about the Skyrealms. ||||
+coop65|By all means, ask away. ||||
+p43|Tell me about the Apostatic Union. ||||
+coop66|<<He glanced you up and down.>> Well surely you've ((been)) there - Union ((heartland)), I mean?||||
+coop67|Well, the Union is the most ((civilised)) place in the Skyrealms since the World Rend. You may not agree, but to my mind it's the truth.||||
+p44|What's its history?||||
+coop68|For the past four hundred years, the skyrealms have been under the control of the Wikkan covens and their gods. It may be true that some preached tolerance - but others were tyrants who twisted their poor followers into cruelty and ignorance. This you cannot dispute.||||
+coop69|You see, the Wikkans acted no different from the worst Slevian cartels. They forbade the weaving of cipher magic and the advancement of reasoned debate. They locked us in blood-contracts with gods who stunted our advancement.||||
+coop70|But forty years ago, in the God War, the Apostatics cast off our shackles. ##<<He sighs.>> It's true that a lot of blood was spilled - both mortal and divine. But now, in Union territory, reason and discourse have replaced ignorance and fear.||||
+p45|What's Union heartland like?||||
+coop71|<<He sniffs.>> Well, depends where you go. I'm from Lundel - a place full of windswept hills, soggy marshes and crumbling castles, circled by a blue neuron star. We also have a... ((weakness)) for ale.||||
+coop72|There's also Byonne, known for its universities and fine wine, and Slev - a rugged, wet land where criminal elements are rife.||||
+coop73|But many would consider the most important Union realm to be Vena. It's a warm, beautiful archipelago full of orchards bathed in yellow starlight, and home to the Union's most important city - Riova.||||
+coop74|Riova is where the Union council of Polymaths meet. It's a city full of floating houses all strung together with bridges and ropes, with gondolas drifting between them. When you're in the middle, it's said you can't see a hint of sky; there's buildings in every direction.||||
+coop75|But wherever you go in the Union heartlands, there's nowhere as rugged and ((wild)) as this. ##<<He takes a lungful of air.>> Ah! Nary a sewer for miles.||||
+p46|That's enough about the Union.||||
+coop76|<<He nods.>> Anything else?||||
+p47|Tell me about the Oneiric Isles.||||
+coop77|Well, the Oneiric Isles are the archipelago we're on now. It's always been at the fringe of Union territory, and has only recently had a regional council installed in Hallowshire.||||
+coop78|But there are also islands outside of Union control. To the east lies the Clockwork Kingdom, ruled by a machine monarch - while to the west lies a rather frightful place of undying souls, known as the Endless Realm.||||
+p48|Tell me about Hallowshire.||||
+coop79|Though Hallowshire has technically been under Union control since the God War, it's been somewhat... ((neglected)) until recently. ||||
+coop80|That means there's still cultists lurking among the hills, not yet flushed out. There are even whispers of ((gods)) lurking in nasty nooks and crannies.||||
+coop81|But, no need to worry. A Union Council chamber has just been built in Hallow Town, and this place now has its very own Polymath! With such an esteemed education, she'll have this place sorted out in no time.||||
+p49|Tell me about the Clockwork Kingdom.||||
+coop82|Hmph, well the less said about that place, the better. It used to be known as [[Kardova]], and during the God War they aided the apostatics in overthrowing the Wikkans and their gods. They even made the Blinding Light fortress, as well as many other war machines.||||
+coop83|But they always were a little big for their boots. Despite having the best alchemists and aetherists in the Skyrealms, they got the mad notion of making some sort of ((magical utopia)) where every foolish peasant could cast a spell. Utter nonsense, I say.||||
+coop84|Only, for a while it seemed like the buggers actually got it to ((work)). The stuff that was coming out of the newly formed Clockwork Kingdom was making even the Erudite Academy scholars blush with envy!||||
+coop85|At least, until their mechanical King went mad, and threw the whole place into chaos. Now it's a frozen wasteland full of malfunctioning robots and rotting crops. ||||
+coop86|Which is a ((damn)) shame, because there was a lovely little teahouse in Ferropolis that my wife ((adored)). Ah, well. ||||
+p50|Tell me about the Endless Realm.||||
+coop87|Did you ever hear the stories of the Cadaver Crusades? Led by those nasty ghouls that plundered the living to eat their flesh? <<He visibly shivers.>>||||
+coop88|Well, turns out those weren't just stories. Those monsters actually ((exist)), and have a little kingdom right over yonder, ruled by their so-called Queen of Silver! I tell you, you couldn't make it up. ||||
+coop89|Last I heard, they packed in all that flesh-eating business, and started farming some sort of... ((mindless meat)). Fancy that - ghouls with a conscience!||||
+p51|What island are we on now?||||
+coop90|Oh, this little isle is known as [[Pwyll]]. Just a handful of mushroom farmers here, really - but its remote location has always made it a haven for smugglers and pirates.||||
+coop91|Perhaps that's why Vela came here to lick her wounds, after the Dark Start mutiny. ||||
+p52|That's all I wanted to know about these islands.||||
+coop92|Very good. Was there anything else? ||||
+p53|Tell me about yourself. ||||
+coop93|Me? Oh, there's not much to tell - I'm just a humble servant of the Apostatic Union. ||||
+coop94|Time ago I was a councillor, would you believe. Only... a rather ((embarrassing incident)) involving a lost shipment of hallucinogenic scryshrooms saw me... ((ahem)) demoted to a less public facing role.||||
+coop95|So here I am, working for the esteemed Inquisition. Only, one can't help if their thoughts often drift to home comforts, eh? I have a lovely little cottage back in Lundel with my wife. One day I'll pack all this in, and get back to growing button caps in my garden. ||||
+p54|That's all the questions I had.||||
+coop96|Excellent. Now, will there be anything else?||||
+p55|Goodbye.||||
+coop97|Best of luck out there. ||||
+p56|I got you some Scryshroom Tea.||||
+coop98|Ah, Confessor! This is exactly what I was looking for. How thoughtful of you.||||
+coop99|<<He removes from his belt a tiny metal teapot. He slips some loose tea in the filter, and to your surprise, you notice it already contains boiling water.>> ##If you would be so kind as to wait a moment, Confessor - I really must let this brew.||||
+coop100|<<You wait for an uncomfortable few minutes, in total silence, while the Inquisitor stares at his miniature teapot.>> ##<<Finally he seems satisfied. He pours the liquid into a cup and takes a sip.>>||||
+coop101|<<He frowns, and is silent a moment.>> ##Confessor, this is... ((excuse me))...||||
+coop102|...((Damn)) fine tea!||||
+coop103|My wife is going to love it. Please, take this in recompense.||||
+coop104|<<He takes another sip.>> I've tried an extraordinary number of teas in my time, and this - this is one of the best. ##My wife is going to love it. Please, take this in recompense.||||
+coop105|<<Beads of sweat appear on the Inquisitor's forehead, and he seems to be staring at something only he can see. He mutters to himself,>> ((Damn fine tea, indeed...)) ##<<You think it is probably best to leave him be.>> ||||
+coop106|Ah, Prisoner XVII, I believe you are wanted by the [[High Confessor.]] Best not to keep her waiting, yes?||||
+coop107|But by all means, come back and speak to me afterwards; we've much to discuss. ||||
+p57|About that tea you wanted...||||
+coop108|Yes - [[Scryshroom Tea]], for my wife. They make it here in [[Pwyll Village]], just south down the road from the Blinding Light fortress. ||||
+coop109|Ah, that's very good of you, confessor - but let's wait until this assault is over, yes? Come meet me in the [[Blinding Light]] once we've apprehended this Vela woman.||||
+p58|What was that tea, again?||||
+p59|Never mind.||||
+agentCruel1|Oh, it's ((you.)) ##The [[High Confessor]] wants to speak with you, up on the platform.||||
+agentCruel2|<<He mutter under his breath,>> ((Though what she sees in a wretched prisoner is beyond me.))||||
+agentCruel3|So, she gave you the rank of [[Confessor]], eh? Well, I suppose we'll be working together, then...||||
+agentCruel4|Just remember - the rank of Confessor will stick to you like a birthmark. It marks you as a ((prisoner)), seeking penitence through duty. Even ((she)) cannot escape that tainted rank. ||||
+agentKind1|<<You catch a beaming smile behind the agent's visor.>> Ah, so you're the one who squared up to Vela? And to think, we had you locked in a cell!||||
+agentKind2|<<The agent chuckles.>> Well, you really showed ((us)) how it's done. ##Anyway, I think the [[High Confessor]] wants to see you. I wouldn't keep her waiting...||||
+agentKind3|Oh, if it isn't our newest Confessor! <<She bows her head politely.>>||||
+agentKind4|I'd love to help you with your mission, but I don't have the security clearance to know all the ins-and-outs. You should speak with [[Inquisitor Ignavius]], on the platform opposite the High Confessor. ((He'll)) know what to do. ||||
+caerAgent1|Hmph, you the one they sent from the Twelfth Tribunal?||||
+caerAgent2|Like I told my handler, it's just a Class F godlet - ((our)) tribunal has this under control. No idea why we have to wait for some fool from your bunch of prisoners and misfits. ||||
+caerAgent3|<<He shrugs.>> I mean, ((no offence)).||||
+hc50|<<The High Confessor is giving orders to the agents around her; pointing with her mechanical limbs and shouting between bouts of coughing. Eventually, she notices you.>>||||
+hc51|Ah! Prisoner... XVII, wasn't it? Our drones... have been tracking you. It seems that Vela has escaped.||||
+p100|I couldn't apprehend her. I failed. ||||
+hc52|<<A high-pitched laugh reverberates through her coffin.>> ##Nonsense. I was certain... you would be cut into tiny pieces. It's astounding you made it this far.||||
+hc53|But your sentence... still stands. You may yet prove your usefulness. ||||
+p101|I played your little game. Will you let me free? ||||
+hc54|<<The device shifts ominously towards you.>> ##Need I remind you, ((prisoner)), that your sentence remains unfulfilled? ||||
+hc55|We must... ascertain where Vela has fled to. Luckily for us, I know... just who we can ask.||||
+hc56|<<She laughs to herself, but this turns into a pained series of retches. After a moment, you think she may have vomited.>> ## Excuse me. ||||
+hc57|The Oneiric Isles are home to a number of [[former Dark Star mercenaries.]] ||||
+hc58|My superiors would rather I ((executed)) them, but... <<She is silent a moment.>> ##...They are of more use to us ((alive.)) If anyone knows where Vela went, ((they)) will. ||||
+hc59|I would start with [[Jack Basalt]], a former Navy captain turned sellsword. We have already contacted him and arranged... a meeting. ##You can find him at the [[Wobbly Noggin pub]] in [[Hallow Town]], in the centre of the Oneiric Isles.||||
+hc60|Basalt has promised... to direct us towards his comrades, in exchange for the Polymath's Pardon. He can help you find... the others. ||||
+p102|Got it.||||
+p103|Which way is it to Hallow Town?||||
+hc61|Follow the road south, through the [[village of Pwyll]], and cross the [[Gatebridge]]. This should get you to [[Hallowshire]]. ||||
+hc62|You will need to acquire an [[Apostatic Union Passport]] to cross the bridge. I wish I could grant you one myself, but... we are undersupplied. ##Perhaps the locals in the [[village of Pwyll]] could help you. ||||
+p104|Why ((me)), of all your agents? ||||
+hc63|The Dark Stars... are deeply mistrustful of the Inquisition. You could say... we've had a few run-ins in the past.  ##As one of our newest and most... ((amenable)) operatives, you may have better luck than another of my agents. ||||
+hc64|Good. And be ((careful.)) These islands are on the very fringe of Apostatic Union territory. There may be worshipers, or even ((minor gods)) who have fled the Union's purges tucked away here. The only assuredly faithless place is [[Hallow Town]]. ||||
+hc65|And beyond Hallowshire's borders, there is... ground even Union boots won't tread upon. ##To the east, the [[Clockwork Kingdom]] is in full-blown crisis. While the people of the [[Endless Realm]], to the west, are cursed to never die. ||||
+hc66|My tribunal will establish a command post in this fortress, the [[Blinding Light.]] Return here to recuperate, if you wish. ||||
+hc67|Oh and, one more thing... ||||
+hc67b|From now on, you'll be known as [[Confessor XVII]]. This doesn't change your crimes, or your sentence... but it sounds a little better than 'prisoner', eh? ||||
+p105|Okay, I'll be going. ||||
+hc68|Farewell... Confessor. ||||
+p106|I have some questions...||||
+hc69|Very well.||||
+hc70|Welcome back, Confessor XVII. ||||
+hc71|So you found Captain Basalt? To think that the shame of the Union Navy is... working for the Inquisition. If you had told me five years ago... <<She chuckles.>>||||
+hc72|You found the Emberian Knight? Well done, Confessor. There are few... that can match her swordplay. She'll be an asset indeed. ||||
+hc73|The Duchess has arrived, thanks to you. Even in this thing I can sense her power. Cipher radiates from that woman... like light from a neuron star. ||||
+hc74|You found Caxton Frost's price. Good. He has already set about... repairing this fortress. Evidently he is... quite familiar with its workings.||||
+p107|About my mission...||||
+hc75|What do you... want to know?||||
+p108|What do I do next? ||||
+hc76|You must hurry to the [[Wobbly Noggin]] in [[Hallow Town]], to meet with Jack Basalt.||||
+hc77|Follow the road south, through the [[village of Pwyll]], and cross the [[Gatebridge]]. This should get you to [[Hallowshire]]. ||||
+hc78|Now that you've spoken with Basalt... you should know where to find the other three [[Dark Star mercenaries]]. Find them. Interrogate them. And bring them... back here. ||||
+hc79|The Emberian Knight... was Vela's second in command, and possessed combat skills... far beyond a seasoned swordsman. ||||
+hc79b|Reports place her in Hallowshire, so... ask around [[Hallow Town]].||||
+hc80|Caxton Frost was an archaeologist... for the [[Clockwork Kingdom]], before he sold his intellect to the Dark Stars. ||||
+hc80b|We've no sign of him... but he may have returned to his King, far to the [[east.]]||||
+hc81|The Duchess... was a fearsome cipher witch. Cursed with an endless lifespan, like all her kin.||||
+hc81b|We have reports that she has returned... to the [[Endless Realm]], in the [[west]].||||
+hc82|UNDERLANDS 1||||
+hc83|UNDERLANDS 2||||
+hc84|UNDERLANDS 3||||
+hc85|CUTTER 1||||
+hc86|CUTTER 2||||
+hc87|CUTTER 3||||
+hc88|CRADLE 1||||
+hc89|CRADLE 2||||
+hc90|CRADLE 3||||
+p109|Tell me about Vela Callose. ||||
+hc91|That name... commands fear and respect, across the skyrealms. Her mercenary band... the [[Dark Stars]]... have toppled tyrants, spurred uprisings... ((killed gods)). ||||
+hc92|<<She takes in a strained breath.>> Even someone... as integral to the machinery of the Inquisition as I... can muster ((admiration)) for that girl, and her achievements. ||||
+hc93|<<You hear a thump from within the coffin.>> But that woman ((betrayed)) us. She could have done... even ((greater)) things. But she dragged us through the mud chasing... dark and ominous portents. ||||
+hc94|Her delusion... of making some ((heaven)) in these skyrealms... will be the end of us all. The Union Navy wants her apprehended. ##But if I... get my claws on her... she will not survive 'till the morrow. ||||
+p110|Tell me about the Inquisition.||||
+hc95|We are an elite arm of the... Apostatic Union. Specialising in... espionage, intelligence and... counterworship. ||||
+hc96|As you know, to be apostatic is to... renounce one's faith. We threw off the shackles of our gods... in the [[God War]], some forty years ago. ||||
+hc97|But though the flames of war... have subsided, there are still lingering threats. Wikkan covens... lurk in dark corners of the Union. Their priests... nurture shrivelled godlets and perform... foul consecrations.||||
+hc98|Each division of the Inquisition... is known as a tribunal. One hundred operatives, plus... serving prisoners and drones. We have full authority... to enforce Union law, how we see fit. ||||
+p111|That's all.||||
+hc99|Very... good. ||||
+p112|I wanted to ask you something.||||
+hc101|Very well, but... <<With a shudder, the machine squats slightly. >> ## You'll have to speak up. It is most... echoey in here. ||||
+p113|What's with this fortress?||||
+hc102|Its name... is the [[Blinding Light]]. ##It was a God War fortress, some forty years ago. A marvel of Kardovan engineering. That giant cannon... blasted voidsteel spears through the heart of many a god. ||||
+hc103|At the height of the Dark Stars' infamy, Vela Callose procured... this fortress. Restored it... from a heap of scrap. For the past few years, since the Dark Stars mutinied against one another, Vela has been hiding here. ||||
+hc104|Believe it or not... I have been here before, long ago. It is... strange, to be back.||||
+p114|Why are you in that metal coffin? ||||
+hc105|You are not... the only member of this tribunal... to have betrayed the Apostatic Union. ||||
+hc106|In my former life I committed... heinous crimes. <<She lets out a metallic sigh.>> ##Unlicenced... spellweaving. Conversing... with gods. Abetting... armed conflict. I could go on. ||||
+hc107|This iron coffin is an honour, a ((privilege)). The pain it delivers... the ((exquisite)) torment... sharpens my reason. ||||
+hc108|And... it was specially designed... to insulate my mind. Lest I hear the gods' cruel whispers... and forget my penance. ||||
+p115|If I say I saw a ((ghost)), would you think I was crazy?||||
+hc109|<<The machine hesitates.>> What... did it look like?||||
+p116|A young woman, in a cloak.||||
+p117|Very... spectral. ||||
+hc110|<<The High Confessor is silent for a moment. When she speaks, she speaks slowly.>> ##Ghosts are traces... of trauma. Remnants of human suffering, lingering in the air...||||
+hc111|...and the Oneiric Isles have known much hardship. The Endless Realm in particular... is infested with spirits. ||||
+hc112|I would not... pay any heed... to the words of apparitions. They are tormented things and will... lead you astray.  ||||
+p118|There's a ((god)) in this fortress. ||||
+hc113|god1||||
+hc114|god2||||
+hc115|god3||||
+p119|That's all.||||
+hc116|Very well, Confessor. ||||
+p120|I'll be going.||||
+hc117|<<The machine nods jerkily, which you take to mean goodbye.>>||||
+hc120|My... haven't you been busy? All of the former Dark Stars... have returned. ##<<She cackles and coughs.>> Just like... old times. ||||
+hc121|Together we've conceived... a plan. According to Orlaith, Vela has fled to the [[Underlands]], and what's more, she knows ((where)). ##You will take these Dark Star criminals as your... companions. You will pursue Vela. You will ((not)) fail.||||
+p121|I'll not go to the Underlands! That's a death sentence. ||||
+hc122|<<She jabs a mechanical limb in your direction.>> And so what if it ((is))? Must I remind you... that you are still my ((prisoner))? ##You have explored these islands as ((penance)) for your crimes. And if I send you to your certain demise, you will do so gladly. ||||
+p122|What's down there, exactly?||||
+hc123|Centuries ago, the Emberians... built an empire of metal and magic, in defiance of the gods. It stretched across the world's surface... and humanity ((prospered)). <<She spits the word.>>||||
+hc124|But four hundred years ago... the [[World Rend]] blasted that empire to dust. Only the Skyrealms... survived. All that's left down there... are cursed ruins, haunted by ghosts... and patrolled by mechanical horrors. ||||
+hc125|The very air is poisoned... with a thick miasma. Traversing that place will be.. difficult. But I have the utmost faith that you will die nobly for our cause. You may even... ((succeed)).||||
+p123|Okay. So how will we do it? ||||
+hc126|Caxton Frost has finished repairing the [[Blinding Light]]. We can launch a small [[cutter airship]]... on an expedition to the Underlands. ||||
+hc127|But first... I will let you do the honours... of [[activating the Blinding Light]]. ##Go to the main control panel... and set the alert... for battle stations. ||||
+caer1|What do we have here? Another wretched soul caught in the Inquisition's web, no doubt.||||
+caer2|Tell me, has your High Confessor sent you off to die?||||
+p501|Yes.||||
+caer3|<<A melancholic smile spreads across her lips.>>##She can be terribly cruel, can't she? ||||
+p502|No.||||
+caer4|So you're loyal to that absurd institution? You really are a lost cause. ||||
+caer5|Before long, those Inquisition bastards will have locked up half the Skyrealms. And for what? Praying to a family deity? Having a little ((hope))?||||
+p503|Are you... a ghost?||||
+caer6|<<She smiles, gesturing at herself.>> Are you ((shocked)) by a little apparition?||||
+caer7|<<Her gentle laugh seems to echo around you.>> My, my, you won't get far if that's the case. ||||
+caer8|<<She gazes into the distance.>>||||
+caer9|<<She gazes into the distance.>> ##Well stranger, you'd best watch yourself out there. Mark my words, something's brewing on these islands. The stage is set, the curtains drawn; and the performance is set to bring the house ((down)).||||
+caer10|<<She smirks at you.>> And something tells me you have your own role to play.||||
+caer20|See that looming fortress? It's struck fear into the hearts of many who were braver and stronger than you, stranger.||||
+caer21|It was made in the God War, so the apostatics named it the [[Blinding Light]] to ridicule the gods they planned to butcher.||||
+caer22|Ironic, that it should fall into the hands of someone so ((blinded)) by ambition and zeal; for Vela has claimed it in pursuit of her own twisted heaven, and the Blinding Light now turns its guns towards the faithless souls who made it. ||||
+caer23|<<Her spectral eyes glisten.>> Tell me, stranger. If a hated enemy stood between you and your most cherished ideal, would you strike them down? Would you have the ((arrogance)) to take a life in pursuit of your fantasy?  ||||
+p504|Yes, I would kill for my beliefs.||||
+caer24|At least you're the honest sort; and you're hardly alone. The Skyrealms are stained with the blood of those who stood on the wrong side of history. Even the ((gods)) proved fallible, in the end. ||||
+p505|Never. ||||
+caer25|<<She grins.>> So you're a butcher ((and)) a liar? ##Don't think I haven't been watching you, stranger. Moments after the Inquisition shoved you out of their prison, you've been killing Vela's comrades with nary a hint of remorse. ||||
+caer26|<<She smiles weakly.>> A kind heart is a rarity, it seems; but so far you're true to your word. ||||
+caer27|Still, I fear that in a world like this, such a heart will only see you dead in a gutter by the sword of someone far less scrupulous. ||||
+caer28|Still, you've piqued my curiosity, stranger. I'll have my eye on you. ||||
+hc130|Ah, do you feel that? The Blinding Light takes to the skies once again!||||
+p531|You never said this was an airship.||||
+hc131|<<She scoffs.>> Have you not... seen the grand painting, or its many reproductions: ((The Blinding Light Impales a Horror))? Or heard the numerous songs and stories, embellished as they may be? ##I cannot be blamed... for your ignorance. ||||
+p532|Can't we just fly this whole ship after Vela?||||
+hc132|This flying fortress is too large... to make the descent. The storms that permanently rage above the Underlands would tear it to shreds.||||
+hc133|But we can launch a small cutter vessel with a reinforced hull... that may survive the journey. The tribunal can monitor your progress from the safety of the skies. ||||
+p533|So what next? ||||
+hc134|You and the former Dark Stars will assemble into a counterworship strike force... and pursue Vela. ##Your mission is... as follows. ||||
+hc135|You will make your way to the [[hangar]] of the Blinding Light, where there is a small [[cutter airship]] ready to descend to the Underlands. ||||
+hc136|Jack Basalt will pilot the craft, while the Duchess' magic... will shield it from the unrelenting chaos of the understorms. Caxton Frost... will disarm whatever ancient security systems you find on the surface.||||
+hc137|Once you land, Orlaith will guide the way... to the [[Cradle]]. Exactly what the Cradle is, we don't know; but Vela... thinks it can rewrite the very fabric of ((reality)). ##Needless to say, she must be ((stopped)). ||||
+hc138|<<She pauses. A ghastly rattle issues from within her workings: is it a sigh? She sounds almost... moved.>> Listen, Confessor.  If it were up to me, we'd have a whole ((naval fleet)) hurtling down there. But the Union Navy doesn't want to hear it. They think this coffin they stuffed me in... has clouded my reason.||||
+hc139|I have the authority to send only the most ((expendable)) of my tribunal. ##<<She points a mechanical limb in your direction.>> But, loath as I am to admit it, you've proven yourself just as capable... as any operative under my command. ||||
+hc140|So it falls solely on ((your)) team to stop Vela at any cost. Remember... that she meddles with forces beyond our comprehension, and threatens the stability of not just the Apostatic Union... but the whole of the skyrealms. ||||
+hc141|Is your mission clear, Confessor XVII? ||||
+p534|All clear. I'm ready.||||
+hc142|Good. Make your way to [[the hangar]] to depart. ||||
+p535|I have questions. ||||
+hc143|Very well, but make them quick. We are ready... to depart.||||
+p536|Do we know what Vela's doing, down there? ||||
+hc144|Long ago, before the Dark Star mutiny... Vela found a map to some ancient thing. Powerful and dangerous beyond belief. The Emberians called it... the [[Cradle]]. ||||
+hc145|Orlaith was with Vela when she discovered the map. She thinks... she can get you there. For all our sakes... she'd better be right. ||||
+hc146|Because while we know next to nothing about this Cradle, what we ((do)) know... chills me to the bone. If our intel is correct, and the thing ((works)), Vela could rewrite the very language of cipher... that ties reality together. ||||
+hc147|That means she could unravel existence itself. She could ((end the world)) as we know it. ||||
+p537|What dangers can we expect in the Underlands?||||
+hc148|I won't lie to you... Confessor XVII. There are many. ##Your first challenge will be... the understorms. Since the World Rend, a raging tempest has engulfed the surface. To get through unscathed... will take all of the Duchess' cipher craft. ||||
+hc149|As soon as you land, you will be cursed... by the thick miasma that lingers in the ruins. Unless you can find some way to counteract it, you will suffer... weakness of mind and body. ||||
+hc150|And then there are the... dangers that stalk the rubble. Those few who have returned from the underlands alive have told of... soldiers made of metal, who never tire in their patrols... and vengeful wraiths who can cut a person in twain. ||||
+p538|Can we trust the loyalty of the team?||||
+hc151|It is true... that while your comrades are Dark Stars no longer, they may feel conflicting loyalties... when faced with their former leader. ||||
+hc152|And as many who meet Vela are swayed... by her radical ideals, I cannot even be sure of your ((own)) loyalties, Confessor.||||
+hc153|But I know Vela. These past few years... she has been watching her back with a frenzied paranoia. She will not trust... anyone meddling with her plans. ||||
+hc154|Should any of you prove traitorous to the Inquisition... I know it is ((Vela)) who will cut you down. ||||
+p539|Tell me again about our Underlands mission.||||
+caer30|[[Hallowshire]] fields used to be sown with Wikkan seed; for their deities, though diminished, could ensure a good harvest. The god-contracts were modest; the blood-price was equitable. ||||
+caer31|Of course, the Apostatic Union sniffed it out eventually. They sent over that [[Polymath]] and her retinue to stamp out any smouldering divinity, and now the common folk starve; their fields barren and desolate.||||
+caer32|The Union claim it's in the name of ((reason)) and ((progress.)) <<She lets out a discordant sigh>>. ## I admit, those old Wikkan contracts can be... deceitful. Many don't realise the weight of their signature until the curse sets in...||||
+caer33|But the Union would smother the Skyrealms in a tangle of bureaucracy, until we worship naught but deadlines and shipping manifests. Their only saving grace is their honesty; for at least the people ((know)) they are trampled upon.||||
+caer34|So what about ((you)), stranger? Would you rather be enveloped in a sweetened lie, blissful in your ignorance; or would you choose the bitter ((truth))? ||||
+p600|Everyone deserves to know the truth. ||||
+caer35|<<She smiles wryly.>> But could we ever ((know)) the truth, for certain? Perhaps we are all but actors in another's dream, destined to be forgotten with the morning light... ||||
+caer36|If the Union discovered it was thus, and wrote it in all their books; would we be enlightened? Or just more lost? ||||
+p601|If a false belief brings joy, let it be. ||||
+caer37|<<She smiles warmly.>> Said with compassion, stranger. ##I would agree wholeheartedly, if I didn't know the darker side of such tolerance.||||
+caer38|For when fantasies collide, the bloodshed is assuredly real. The God War is testament to that. ||||
+p602|The idea of truth is a lie; we are all deluded.  ||||
+caer39|<<She smiles.>> My mother once told me: there are as many worlds as people in it. ##I think she would have liked you, stranger. ||||
+caer40|Can you ((smell)) it, stranger - that rancid stench on the wind? The [[Endless Realm]] is trapped in a perpetual decay; for everything here rots, but nothing ever dies. ||||
+caer41|Its people huddle in underground tomb-cities, sealing their frail bodies from the outside while they indulge in nostalgic reverie. They have achieved what many mortals lust for; a life unending.||||
+caer42|But is such a wretched existence preferable to death? Tell me, stranger; if those Union scholars are right, and there is nought after life but a dreamless sleep - does that nothingness negate what came before? Is our existence rendered pointless by impending oblivion? ||||
+p603|It's true. Death makes our lives meaningless. ||||
+caer43|<<She chuckles.>> Hearing ((you)) say it, it sounds rather morbid. ||||
+caer44|<<She gestures around herself.>> So what's all ((this)), then? The collective achievement of us mortals, the ((wonders)) of civilisation? Is it all just some shared delusion; a denial of our inherent futility? ||||
+caer45|<<She grins.>> You know, don't answer that. Even as a spirit it gives me the chills. ||||
+p604|Brevity is beautiful. Eternal life would be torture. ||||
+caer46|<<She nods.>> Many of the Endless would share your sentiment, after being prisoners of their bodies for so long. It is said that even those Endless who are cut to pieces are still... conscious.||||
+caer47| I have no doubt that, after enough time, we'd all beg for nothingness.||||
+p605|It's pointless to think about it. ||||
+caer48|<<She smiles.>> Said with the wisdom of a thousand lifetimes. ||||
+caer49|No matter what spells we weave or bargains we strike, the end comes for us all, eventually. ||||
+caer50|Change is a force that sweeps through the Skyrealms unhindered; none can escape it. The Wikkans tried to resist and were ground to dust. But for some, the maelstrom of change is like wind for their sails.||||
+caer51|In the aftermath of the God War, the Skyrealms had a chance to choose their own masters. But here in the [[Clockwork Kingdom]] that was not enough. Their cipher scribes and machinists committed to ((build)) their monarch from metal and magic.||||
+caer52|It was to be a realm where any common labourer could draw on the power of a god; where every belly would be full. But to embrace such drastic change is also to roll the dice of fate, and the denizens here have found their luck wanting.||||
+caer53|So what do you think, stranger? Though their people lie rotting in the barren fields, was it noble of them to ((try)) to reach for the heavens, despite the risks?||||
+p606|We should always strive to be better, no matter the cost. ||||
+caer54|<<She nods.>> A noble sentiment, for sure. But the road to radical change is slippery with blood, and reality is never as sweet as our dreams... ||||
+p607|Idealism is well and good, but not when lives are at stake.||||
+caer55|<<She nods.>> A pragmatic answer. But a ruler would soon learn that their hands will never be clean from blood; and doing nothing is still a decision.	||||
+p608|I'd rather leave such dilemmas to the ruling classes. ||||
+caer56|<<She nods.>> The burden of choice is a heavy one, and there is never a correct path. I don't blame you for feeling like this, stranger.||||
+caer57|Vela spent countless nights here, hunched at her desk by the light of a candle. While the rest of her crew slept, she would pore over sky-charts and scour old tomes for shreds of arcane knowledge. ||||
+caer58|Back then - when I was flesh and blood - I thought she was driven by a pure desire to carve out a better world. But in time I came to think of her as little more than a frightened girl, trying to fix something ((broken)) inside herself. ||||
+caer59|For there is a thorn in Vela's heart that she cannot remove. Sometimes its maddening scratch pushes her to greatness; other times, it twists her into cruelty and barbarism.||||
+caer60|<<The ghost looks into your eyes.>> Listen, stranger. Whether you wish it or not, you ((will)) cross paths with Vela; I see it clear as day. But what will happen next is a tangle of infinite possibilities; a dark void that swallows any attempt at foresight.||||
+caer61|If you wish to understand the woman your fate is bound to, seek an old manor that drifts on the [[north-eastern edge of Hallowshire]]. I will meet you there.||||
+caer62|For many years this manor gleamed with opulence. Wikkan blood paid for its walls and the spoils of battle filled its rooms; as it belonged to [[Admiral Callose]], who rose to prominence in the God War. ||||
+caer63|Yet happiness bloomed here. With her sister Isabet, Vela's formative years were joyful; as they played under the watchful eye of their mother. ||||
+caer64|But our folly is to assume our privilege, once attained, will endure. A single spilled candle can raze a timber-built town to the ground - something similar happened here.  ||||
+p609|That's tragic.||||
+caer65|For Vela, her world came crashing down. In later life she would recognise the price others paid for her privilege; but to that child? She had simply lost her home, her ((family)).||||
+p610|Good riddance.||||
+caer66|Was this place a stolen bounty? Or a child's cherished home? In truth it was both. Morality is not some equation with a right answer; it is messy, murky...||||
+p611|I don't care for old stories.||||
+caer67|So that's what the world is to you, stranger? Just an old story with forgettable characters? <<She smiles.>> ##Well, I hope I'm not boring you. ||||
+caer68|Vela and her father were away when this manor was ablaze. But Vela's sister Isabet, and their mother, were burned alive. ||||
+caer69|Isabet was a prodigy. From a young age, Vela and Isabet would stow away to explore Emberian ruins, much to their father's ire. Isabet could pull apart that ancient wreckage and put it back together, working as if it were new. ||||
+caer70|Had Isabet lived, she would have thrived. I can see her now, as one of the most respected archaeologists of the skyrealms.||||
+caer71|Vela never recovered from Isabet's death. In every arcane tome, every forbidden volume, Vela would search for some way to bring Isabet back. But though the Skyrealms teems with creatures who make a mockery of life - ((myself)) included - Vela never found an answer. ||||
+caer72|For the grammar of cipher magic contains strict rules. The [[Mortal Principle]], long studied but little understood, prevents a body from being revived. People can be plucked from the jaws of death, or their lives extended unnaturally; but for the charred remains of Isabet, nothing can be done.||||
+p612|Could Isabet be revived as an Endless?||||
+caer73|The ritual that created the Endless ((has)) been repeated, on rare occasions... but it requires a ((living)) subject.||||
+caer74|The same applies for ghosts like myself. We are imprints of trauma; an echo of a mind created in a single, terrifying moment. But without a living body? Not possible. ||||
+p613|Couldn't a god revive her?||||
+caer75|Vela thought as much. She even went as far to capture one, imprisoning the poor thing with chains of voidsteel in the Blinding Light. ||||
+caer76|But its powers, though incredible, were limited. It could only save a single living soul from near-death. Were you to give it a corpse, it could not create life from nothing.||||
+p614|So ((this)) is the thorn in Vela's heart. ||||
+caer77|<<She nods slowly.>> I think it was Isabet's loss that drove Vela to quit the Union Navy. With her father an admiral, she could have risen to the very top; but she just... didn't see the point of it. ||||
+caer78|So she took her father's dream and inverted it. The Dark Stars were born; its black star motif a cynical mockery of the symbol of the Apostatic Union.||||
+caer79|<<She smiles.>> But we've had enough storytelling for one day, eh? There is an island with an [[Airship Cove]] on the [[western-edge of the Endless Realm]]; meet me there when you're ready, and I'll continue my tale. ||||
+caer80|This is where it all started; the mercenary outfit known as the Dark Stars. ##Vela, Jack Basalt and Orlaith. Just the three of them in a cave with a rickety sloop, barely skyworthy.||||
+caer81|On one of their first jobs they found ((me)). Or rather, the ((real)) me, before I looked like a rubbish painting. <<She grins.>> ##The three of them damn near killed me.||||
+p615|So, wait, you ((fought)) Vela?||||
+caer82|That's right, stranger. They'd been hired by a Riovan noble to round up Wikkans in Hallowshire, back before the Union was here in full force. ||||
+caer83|So I woke up one morning with Orlaith's sword at my throat. In her full Emberian armour, it was quite the shock. Though, not as much of the shock I gave ((her)) - a bolt of pure electricity, surging through all that metal...||||
+caer84|And so we fought; me and my godlet, versus the three of them. I almost escaped, but... seeing Vela fight is something ((else)).||||
+caer85|Usually I can scry what someone plans to do, but Vela's thoughts are bristling with possibilities. Before I knew it she was behind me with a dagger to my neck. ||||
+p616|Get to the point, ghost. ||||
+caer86|<<She grins.>> As you wish. ##Vela, Orlaith and Basalt assaulted me, one morning. I put up a good fight, but... I ended up with Vela's dagger against my throat.||||
+caer87|I thought I was dead. But she simply asked, "How would you like to be a merc?" ##And so they brought me back here, to their hideout: and three became four. ||||
+caer88|You have to understand, stranger. I'd spent my youth cowering from the Union and their agents. My parents taught me all I know of Wikkan magic, of how to hear the language of cipher in all things; but when my parents vanished, I was left with no-one. ||||
+caer89|When I told Vela my story, she wept and embraced me. It had been... a ((long)) time since I'd felt the touch of another person.||||
+caer90|And looking into her eyes was like... staring into the void. Normally, stranger, I can read people; catch a glimpse of what's to come. But Vela? Her future was a tangle of infinite possibility. She was unreadable. It was ((intoxicating)). ||||
+caer91|Those first few years with the Dark Stars? It was the first time I felt like I ((belonged)) somewhere. My comrades didn't fear my cipher, they ((relied)) on it. ||||
+p617|You never mentioned you were a Dark Star.||||
+caer92|<<She smirks.>> That wouldn't be very ((mysterious)) of me now, would it? I have a certain reputation to uphold, being a ghost and all. ||||
+caer93|Besides, as far as I'm concerned, the Dark Star company that ((I)) knew... is gone.||||
+p618|You had it tough, growing up. I'm sorry.||||
+caer94|No more than any other Wikkan in living memory. In truth, I was lucky. Vela, for all her flaws... she ((saved)) me. ||||
+caer95|In those early days of the Dark Stars, Vela took contracts from anyone - the Union, the Wikkans, even outlaws - but it was about the ((cause)), not the coin.||||
+caer96|She couldn't stand the thought of being like her father, whose military campaigns had wrought so much upheaval. So if a contract smelled fishy, we turned it down and went hungry. We didn't mind.||||
+caer97|But when we took a job? ((Nothing)) could stop us. It wasn't long before our numbers swelled and we outgrew this tiny cave. Soon enough, everyone from the lowest ruffian to the loftiest noble knew of the ((Dark Stars)).||||
+p619|What made people want to follow Vela?||||
+caer98|Vela cajoled us all with intoxicating dreams. We weren't just gonna get rich; we were going to ((build)) something that neither the Union nor the Wikkans had. A place free from gods or masters. A paradise. A ((heaven))...||||
+caer99|Those times were the happiest of my life. We fought together, drank and danced together, ((dreamed)) together. But... it was not to last. ||||
+p620|So what went wrong?||||
+caer100|To pay the new recruits Vela had to be less ((scrupulous)) with her contracts. I clashed with her at times - when she slew the minor god Cernun, I flew into a rage... I never wanted the blood of a god on my hands.||||
+caer101|But it was when she found that damned Emberian ((key)) that things really got out of hand.||||
+caer102|There's an island, drifting to the [[north-west of the Clockwork Kingdom]], that contains the wreckage of the [[Black Goblin Airship.]] Meet me there, and I will finish this story. ||||
+caer103|This pile of junk was once the most fearsome pirate ship of the Skyrealms;  the [[Black Goblin]]. Merchants from Puria to Al-Asphra feared its volley of cipher-inscribed cannonballs. ||||
+caer104|The Union Navy paid us a fortune to headhunt its captain. In the end, we got the coin ((and)) the ship. Few dared cross the Dark Stars, after that. ||||
+p621|How did you win the ship battle? ||||
+caer105|We were going up against a galleon with a tiny schooner. We had two guns; they had twenty per side. By anyone's measure, it was pure suicide. ||||
+caer106|But I've always had a certain... ((knack)) for foresight. I knew they would commit their starboard, so we had the better of them. ||||
+caer107|Before they knew it, we had one of our guns pointing straight at their rear. But this was not ((any)) old gun. It was one of Caxton Frost's cannons. A single blast from that thing tore straight through the whole ship, setting it ablaze. ||||
+caer108|In the confusion, our boarding party was on deck. We were eight against a hundred, but with a few words from the Duchess they found their swords to be... ((awfully)) heavy. Orlaith cut through swathes of them, carving a path to their captain.||||
+caer109|By the time Vela had her sword to his neck, he had soiled himself. The ship was ours, and that night we got so ((plastered)) from their stores of rum I accidentally ((exploded)) a silkslug. That poor thing... ||||
+p622|So what went wrong?||||
+caer110|After the Black Goblin, came the Blinding Light. A mercenary company with a galleon is impressive; but with a God War ((fortress?)) None could best us. ||||
+caer111|But it was around then that Vela and Orlaith stumbled upon a ((map)), deep in some Emberian ruin. It told of the Cradle, buried far below in the Underlands, which held the power to change ((everything)).||||
+caer112|Vela was always ambitious. We thought she really ((could)) build her fantasy; a heaven of her own making. But now she was speaking of something else entirely. She wanted to become a ((god)). To change the very fabric of reality...||||
+p623|But why? To what end? ||||
+caer113|She claims that she would right all the world's wrongs. Balance the scales, so the common folk can live like nobles and rulers no longer lust for war.||||
+p624|So what happened next? ||||
+caer114|The crew was split. Some were eager to follow her to the Underlands, especially if it would make them even more rich. But many of us thought she had crossed into ((madness)). ##Her fame had twisted to infamy, and even the Inquisition now considered us criminals. ||||
+caer115|From infancy, I had learned to listen to the language of the cosmos. Cipher flows through all things; its grammar and syntax weave through our bodies and dreams alike. To ((change)) those rules, for me, would be a bigger heresy than slaying a thousand gods...||||
+caer116|So when Orlaith raised her sword against Vela and stirred the crew of the Black Goblin to ((mutiny))... I was willing to spill my own blood for the cause.||||
+caer117|...and spill it I would. ||||
+caer118|In truth, I knew the Black Goblin stood no chance against a God War fortress. The Blinding Light's guns tore through our hull in moments, leaving us sinking towards the clouds.||||
+caer119|Through the smoke and the chaos, I saw Vela board our ship. She was ((furious)). Her and Orlaith were like sisters; she couldn't take the betrayal. Through the haze of battle I saw their blades clash, and I saw Orlaith, her defence broken, hurled from the side of the ship.||||
+caer120|And then a ((crash)) like I've never felt before. The ship had run aground. When I came to - in this very spot - Vela stood overhead, staring right at me. I was bloody, wounded... but Vela just turned and walked away. ||||
+caer121|It was at that moment... ((I)) was born. This spectral echo of my former self. ##I tried to scream, I tried to cry; but I had not yet learned how to... coalesce into a body, a shape.||||
+caer122|So I watched my corporeal body, my former self, lie there... barely clinging to life. I watched the Inquisition agents arrive, and I saw her scream as they dragged her away. ||||
+caer123|I watched as they threw her in a cell, and their instruments of agony tore into her flesh. I watched as her will broke, and she spilled every secret she knew. I watched as they destroyed her. ||||
+p625|I'm so sorry.||||
+caer124|Spare no tears for me, stranger. I have long abandoned self-pity. ||||
+p626|Does that mean... another version of you still lives? ||||
+caer125|<<She grins.>> Of course, stranger. It's only in those old fairy tales of the middle ages that one has to ((die)) to become a ghost. ||||
+caer126|In fact, you're well acquainted with my corporeal self. <<She winks.>> I'm sure you can figure out who.||||
+p627|So is it revenge you're after?||||
+caer127|When I saw Vela standing over me, in that moment of my creation? It was not hatred I felt. It was... ((heartbreak)). ||||
+caer128|For I loved her, stranger. I loved her dearly. And suddenly I saw all those possible futures I had scried - all those joyous fantasies - just... melt away.  ##The Vela I saw was the Vela I had always feared. ||||
+caer129|So no, stranger, I seek no revenge; I hold no hatred in my heart - if I can be said to have one at all. ||||
+caer130|<<She closes her eyes.>> I just want this all to stop. I want to see her ((smile)) again...||||
+p628|Thanks for the story. ||||
+caer131|I'm glad you listened, stranger. Soon enough you'll face Vela again, and now you may have one single advantage over her...||||
+caer132|...you may ((understand)) her. ||||
+chainedGod1|It seems that Vela Callose drove her sword through your chest. ||||
+chainedGod2|You were moments from death. I plucked you from certain peril and mended your broken heart, before the void could claim you. ||||
+chainedGod3|Truth be told, I have been watching you with great interest. This quest that you have undertaken is not without peril, and for some time I have been poised to save you from certain defeat. ||||
+chainedGod5|That you have escaped death for this long, without my aid, is nothing short of remarkable. ||||
+chainedGod6|But now it seems we have a common foe. ##Vela Callose, in her ((arrogance)), chained me here in shackles of voidsteel. I wish to be free, and so she must die.||||
+chainedGod7|A valiant effort, human. <<The words ring through your throbbing head.>>||||
+p651|Vela - I was... so close...||||
+chainedGod8|Do not be disheartened. Vela's blade has cut down many foes more powerful than yourself. ||||
+p652|Here we are again.||||
+chainedGod9|And once again I have plucked you from the jaws of death...||||
+chainedGod10|...but the number of times I have done so is relatively few, human. You have done well to evade defeat thus far. The High Confessor was wise to entrust you with this burden. ||||
+chainedGod11|...And I have done so near countless times, across every strip of land on these Isles. ##Without my assistance, human, you wouldn't have had the slightest chance of getting this far.  ||||
+chainedGod12|...One of many times, I might say - though there is no shame in that. You have performed your task admirably. ||||
+chainedGod13|But confronting Vela ((again)) will prove a formidable challenge. The Emberian craft she has commandeered will not be so easily assailed a second time. ##To fight your way through, you will surely need my assistance. ||||
+chainedGod14|<<The entity rattles its chains.>> These voidsteel shackles are bound with Vela's magic. Only by her hand - or her ((death)) - will I be freed. I am placing my ((trust)) in you, human. ||||
+p653|I won't let you down.||||
+p654|I guess I have no choice.||||
+chainedGod15|<<The deity nods its conjoined heads.>> ##Now make your way to the [[High Confessor]]. I believe she wishes to speak with you... ||||
+admiral1|<<An authoritative voice booms from the ship's sound relays. You assume it belongs to Admiral Callose, of the Union Navy.>>||||
+admiral2|...is simply ((out of the question.)) Need I ((remind)) you, High Confessor Caer, that your position of authority in this tribunal is in spite of your numerous crimes against the Union, most of which were committed alongside ((Vela)) herself. ||||
+admiral3|I care not if you sent an incorrigible band of felons to find my daughter; considering your ((history)) with Vela, I cannot in good conscience allow you - or your ((lackeys)) - anywhere near her. ||||
+admiral4|So, you will use that dilapidated old relic of an airship to ((hold the flank)). You will not interfere with this operation, which is solely in the hands of the Apostatic Union Navy. You are ((Dismissed)).||||
+hc171|That insufferable ((fool.)) Of all the people responsible for this nightmare, he... is hardly blameless. If he had just been a ((father)) to Vela, when she needed one...||||
+hc172|<<A loud clang rings out from the coffin.>> And now he would beat her at her own twisted game! They want to ((steal)) it, Confessor XVII. The Navy... wants the Cradle for themselves, so the Union's subjugation of the Skyrealms... is absolute.||||
+p551|Uh, I thought you were on the Union's side?||||
+hc173|Never. I ((despise)) these loathsome bastards. But I sing along to their tune, to keep myself... from a prison cell, same as you. ||||
+hc174|And besides. This is the only way I can stop Vela. That's... all that matters to me now. ||||
+p552|So what are we going to do? ||||
+hc175|<<A sigh rings out.>> I suppose I will have to ((hold the flank))... just as Admiral Callose demands. It is too late, with too much at stake, to rock the boat now. ||||
+p553|So we just give up?||||
+hc176|I did not ((say)) that, Confessor. We have... a card to play, yet. ||||
+p554|There must be a way. ||||
+hc177|There is always a way, Confessor. We have... a card to play yet. ||||
+p555|We should just let the Union have it. ||||
+hc178|Even if we let them, they would never succeed. Vela would sooner spark another ((World Rend))... than let her father have the Cradle. A scenario... that is looking more likely with each passing moment. ||||
+hc179|No, there is another way, Confessor. We have... a card to play yet. ||||
+hc180|While you were off getting yourself ((killed)), the rest of your team managed... to escape the Underlands aboard the cutter, thanks to Frost's repairs. ||||
+hc181|As you have no doubt noticed, the Cradle... has made its ascent to the Skyrealms. The Union Navy, finally realising the ((gravity)) of the situation, showed up... in full force. ||||
+hc182|But they can't punch through... the Cradle's defensive shield. Some sort of highly advanced Emberian tech. So for the moment... They are at a stalemate. ||||
+hc183|So all ((we)) have to do... is slip past both. Pilot the cutter... and sneak your strike team past the largest fleet in the world, and through an impenetrable Emberian shield... to stop the most dangerous person alive. ##What could be simpler? ||||
+p660|That's impossible.||||
+hc184|In our current situation... I would agree. But there are secrets scattered around these isles that may be able to help us. ||||
+p661|How would we get past the fleet?||||
+hc185|In its current state, the cutter would be detected at once... by the Navy's aeronautical wizards. But Caxton Frost has an idea.||||
+hc186|There are legends... of an ancient Emberian sky-craft. A phantom vessel, able to break any barrier... or evade any pursuit. Said to be wrecked in the World Rend... never to be seen again.||||
+hc187|Many have searched... for the [[crashed vessel]]. Without success. Scryers find nothing, or... suffer apoplexy. The Union Navy considers it... merely a myth.||||
+hc188|Frost... believes otherwise. There were rumours... of a particular island, with an Emberian wreck, that has been drifting through the Skyrealms. That very island... has strayed into the Oneiric Isles.||||
+hc189|Search the [[most distant islands]] in the Oneiric Isles, and find... whatever [[power]] it is that hides the wreck... from scrying minds. ##Then... you might slip past the Navy blockade. ||||
+p662|So how can I actually ((get)) to those islands? ||||
+hc190|You cannot pilot the cutter, as Frost... needs to modify it... before your assault on the Cradle. ||||
+hc191|No... it seems you will need [[your own airship.]]||||
+hc191b|...You will, of course, need your own [[airship]]. Remember to use the [[Writ of Permission]] I gave you.||||
+hc192|Take this [[Writ of Permission.]] It will help you bypass the bureaucratic... ((nightmare)) of purchasing a vessel from the [[Winged Merchants Guild.]] ||||
+hc193|As for the hefty fee you will no doubt be required to pay... I cannot help you. Our coffers... are empty, I'm afraid. ||||
+hc194|And take this time... to make sure you are [[fully prepared]] for the fight ahead. I do not think this situation... will resolve any time soon, and assaulting the Cradle... will be no easy task. ||||
+hc195|Now, you should get going. I have... my own ((troubles)) to attend to.||||
+p663|Got it. ||||
+hc196|Good. you are dismissed. ||||
+p664|What troubles?||||
+hc197|Oh, it is a rather... ((delicate)) matter. If I am honest, your help... would be appreciated.||||
+hc200|Oh, Confessor XVII. I have another... assignment for you. This one is of a more... ((delicate)) nature.||||
+hc201|As you have no doubt noticed, there are tensions between this tribunal... and the wider Union. Both the Navy and my Inquisition superiors... have begun to ((question)) my loyalty to the cause. ||||
+hc202|So they have asked me... to issue a command they know I will find... <<She inhales throatily, >> ((disagreeable)). ||||
+hc203|There is a [[small house]] in the [[western forest of Hallowshire]], where our agents have stumbled upon a certain [[godlet]].||||
+hc204|This tiny stunted god would be of little significance, only... my superiors ((know)) that in years past, it was in my care. That I was... ((fond)) of the thing. ||||
+hc205|<<She is silent a moment.>> This is not the time... to arouse their suspicions. You must go to this godlet. You must... <<she swallows, slowly.>> ...((slay it)), on my orders. And then... we will continue as normal. ||||
+p665|Okay, I'll kill it for you.||||
+hc206|Thank you... Confessor. ##Remember: you will find it in the [[western forest]] of Hallowshire. ||||
+hc207|Take this [[Void Scalpel]]. Only Voidsteel can harm a god. Use it to slit its throat. ||||
+p666|Tell me about this godlet.||||
+hc208|<<She slams the inside of the coffin.>> Does it ((matter)), Confessor? They are the shrivelled, pathetic forms of diminished gods. There have been thousands scattered around the skyrealms... since the God War.||||
+hc209|The Inquisition destroys more of them... every day. ((This)) one is no different. ||||
+p667|I refuse to do this.||||
+hc210|If you do not have the stomach for it... I will find another. ||||
+p667b|Fine by me.||||
+p667c|About that godlet you needed killing...||||
+hc211|I have heard a report... that the godlet is dead. ##<<She sighs.>> Thank you, Confessor. ||||
+p668|I found...||||
+p669|I was able to...||||
+p670|I didn't... ||||
+hc212|<<She slams a mechanical limb into the ground.>> I do not want to hear... the details, Confessor. I am grateful for your assistance, and that... is all. ||||
+hc213|<<She lets the silence hang. But as you turn to leave....>>## Except... for one thing. That damned ((ghost)). Was she there? ||||
+p671|She was there.||||
+hc214|That accursed spirit has haunted me for years. I suspected... that she might try and stop you. ||||
+p672|She hinted that you're... the same person.||||
+hc215|Ghosts are nothing but... vestiges of trauma, singed upon reality. She is but an echo of my former self. Trapped in... naivety and idealism. ||||
+hc216|<<She sighs.>> When I sailed with Vela, I wanted to use my Wikkan magic to heal this broken world. I thought there was always a... ((compromise)) to be found. ||||
+hc217|But it took months of Inquisition torture, and many more confined in an anti-cipher chamber, for my shattered mind... to see the ((truth)). ||||
+hc218|There is only one thing... myself and that ((spirit)) agree on. That Vela... must be stopped. But only ((I)) have the guts to see it through. ||||
+hc219|<<She breaks into a coughing fit, that settles into wheezing.>> We did the right thing, Confessor. We are ((doing)) the right thing. ||||
+hc220|<<The High Confessor's coffin is being escorted away by her own agents.>> ##Let go of me, you fools! <<She coughs uncontrollably.>> ||||
+hc221|<<She sees you.>> ((Confessor))! There you are, you ((traitor)). Do you know... what you have done?||||
+hc222|You think appeasing that damned ((spirit)) will stop this madness? That thing is not even ((real)). Just a shadow of my former self. A vestige of trauma... singed upon the skies. ||||
+p673|I'm sorry.||||
+p674|You deserved this. ||||
+hc223|<<She exhales a deep, raspy breath.>> Listen, Confessor XVII. They'll throw me in a cell with no lock, from which I'll never see the light of a neuron star again. But I won't... ((resent)) you. I won't curse your name. So long... as you do ((one thing)).||||
+hc224|((Vela.)) Crush her skull, and shatter her bones. For what... she ((did)) to me...||||
+hc225|<<You hear her faintly sobbing inside the coffin.>> ||||
+hc226|Ah, so it seems as though you have secured... all the necessary components, Confessor. Basalt informs me... that the cutter is ready.||||
+hc227|This will be your... ((final)) mission. For after this, I will declare your penance... fulfilled. You will be free to roam the Skyrealms once more.||||
+hc228|But I wanted to offer you... a place here, in this tribunal. If you wished to... serve the Inquisition alongside me. ||||
+p675|Thank you. I'd gladly join the Inquisition.||||
+hc229|That is... good to hear, Confessor. You will make... an exceptional agent. ||||
+p676|I'd rather find my own path.||||
+hc230|I respect your wishes, Confessor. Perhaps I would do the same, were I not bound... to this coffin. ||||
+p677|I despise this institution. I'd sooner see it burn.||||
+hc231|<<She chuckles gutturally.>> In truth, I don't blame you, Confessor. Though I guess I'll have to... watch my back. ||||
+hc232|But... back to the task at hand.||||
+hc233|You will assemble your strike team... for this final assignment. You will approach the [[Cradle]] in the [[cutter]], and fight your way through Vela's defences.||||
+hc234|We've seen no sign of aberrant behaviour, from the Cradle. So we can only assume... that Vela has not yet awakened the creature within. You must ((kill)) her... before she can do any harm.||||
+p678|Okay.||||
+p679|((Kill)) her? Why not capture?||||
+hc235|You did not... sail with her, back in those days. You did not ((love)) her, as I did. You were not ((betrayed)) by her, and left to die!||||
+hc236|<<She gasps for breath.>> If left to enact her plans, Vela will be the death of us all. That woman deserves nothing better than death. ||||
+p680|Actually, I want to help her.||||
+hc237|<<She laughs maniacally.>> You wouldn't believe how many people I've heard those words from. Vela has a way of creeping into your mind. Making you ((adore)) her||||
+hc238|But do not be swayed by her rhetoric. She will be the death of us all.||||
+hc239|Anyway, it matters not. If you will not do the deed, Orlaith ((will)). ||||
+hc240|Just get the cutter docked with the Cradle, and the rest of your team will begin the assault. Expect fierce resistance. ((Sacrifices)) may be necessary... We may not all meet again.||||
+hc241|But know this: I have come to... ((respect)) you, Confessor. I trust that when it comes to it... you will do the right thing. ||||
+hc242|Thank you for what you did back there, stranger. Not all would have done as you did.||||
+hc243|Don't spare any tears for the High Confessor. It hardly pleases me to see my true self brought so low, but... she dug her own grave by siding with these authoritarian ((bastards)).||||
+hc244|<<She smirks.>> Oh, don't worry; they can't see or hear me. I may be a ghost, but I can still weave a simple concealment spell.||||
+p681|Do I have to follow Inquisitor Ignavius' orders, then?||||
+hc245|I wouldn't worry about ((him)); that bumbling fool hasn't the slightest clue what's going on. ||||
+p682|What should I do? ||||
+hc246|My ((personal)) feelings for the High Confessor aside, her plan is still your best chance of getting close to Vela. ||||
+hc247|You just have to find the [[crashed Emberian ship]] and its [[engine]], so you can slip onto the Cradle. ||||
+p683|How do I find this engine?||||
+hc248|The High Confessor said it was aboard the crashed ship on an island somewhere, right?||||
+hc249|Search for it by sailing to the [[most distant islands]] - then you could use this device to sneak the cutter through the Union Navy blockade. ||||
+p684|Thanks, Caer.||||
+hc250|Good luck, stranger. ||||
+hc251|Welcome back, Confessor.||||
+hc252|Remember: you will find it in the [[western forest]] of Hallowshire. ##Use the [[Void Knife]] I gave you. Only Voidsteel can harm a god. Use it to slit its throat. ||||
+hc253|Changed your mind, have you? ||||
+p684b|About my mission...||||
+caer200|Looks like you've done it, stranger. The cutter's been fitted with those fancy gadgets, and you're all set to slip aboard the Cradle without anyone being any the wiser. ||||
+caer201|If you really manage to pull it off, I doubt the Inquisition will notice if a single Confessor goes missing in the chaos. <<She winks.>> ##So tell me, stranger - if you make it through this, what will you do next? ||||
+p685|I have no intention of leaving. I'll stay with the Inquisition. ||||
+caer202|<<She frowns.>> Freedom beckons, and yet you'd rather stay a ((prisoner))? For ((these)) idiots?||||
+caer203|Well, each to their own, stranger - but I expected better from ((you)) of all people.||||
+p686|I'll just see where the wind takes me. ||||
+caer204|Ah, a free spirit, eh? I've no doubt you'll make ((quite)) the adventurer. ||||
+p687|I'll have my revenge on these Inquisition pricks. ||||
+caer205|<<She chuckles.>> Now you're speaking my language. If I had a body of flesh and blood, I'd gladly join you, stranger. ||||
+caer206|But... I suppose you shouldn't count your eggsacs before they've burst, eh? That Cradle isn't going to assault itself. ||||
+caer207|It seems like your companions are ready for the fight ahead. All you have to do is take the [[cutter]] and depart for the [[Cradle]]. If anyone can get to Vela, you lot can. ||||
+caer208|And if anyone can stop her... well. I don't know. Many wise heads have been turned by Vela's grandiose dreams before. I fear you may be tempted too.||||
+caer209|I won't tell you what to do when you meet Vela face to face. That's for ((you)) to decide, stranger. But I trust when it comes to it... you'll do what's ((right)). ||||
+caer210|Bastards! Are these Inquisition ((scum)) friends of yours, stranger? Or should I say ((Confessor)), now? ||||
+p688|I've been sent here to kill a godlet.||||
+p689|I've been given a task that I don't want to do.||||
+caer211|She's sent you to kill Danu, hasn't she? ||||
+caer212|<<Her eyes burn with fury.>> That ((bitch))! ##So she would betray us, and everything we once held dear? Just to get to ((Vela))? ||||
+p690|Do you know this place?||||
+caer213|((Know)) it? It's my ((home)). The last place I settled, with my parents, before they... <<She chokes on her words.>> ||||
+p691|Just get out of my way. ||||
+caer214|Listen, stranger. You don't have to do this. The High Confessor, you - you don't ((owe)) her anything! She's ((using)) you! ||||
+caer215|<<Spectral tears fall from her face, shimmering in the light as they dissipate.>> ##((Please)), stranger. Use that [[knife]] to cut its bonds, not to... to... ||||
+caer216|<<She sniffs and swallows, but says nothing more.>>||||
+caer217|<<The godlet emits a soft, sad sound that seems to echo through your bones.>>||||
+caer218|Her name... is Danu. ##In the middle ages she was a patron god of a powerful kingdom; a prophet who could predict - and ((change)) - the fate of empires...||||
+caer219|But after the God War, she was just... my ((friend)).||||
+caer220|My parents had been charged with keeping her safe from the Inquisition. Danu was grateful, and taught me how to master my ciphestry - how to read the threads of possibility that spill from all things, and catch glimpses of likely futures. ||||
+caer221|And... when my parents disappeared? It was just me and Danu. ||||
+caer222|When Vela found me and I became a Dark Star - I left Danu here, with charms and sigils for protection. Even now, in ((this)) form, I still look over her... ||||
+p692|So why does the High Confessor want her dead?||||
+caer223|Because she means a lot to me - to ((her)). ##It's... a test of loyalty. ||||
+p693|Enough of the sob story, already. ||||
+caer224|((Please)), just ((listen)) to me, stranger.||||
+caer225|I am the ghost of the Dark Star [[Caer]]. I was born of the trauma she felt when she fell to her doom in the mutiny. ##But Caer did not ((die)); her heart still beats. ||||
+caer226|She was tortured for months by the Inquisition. Driven to madness with unspeakable tools and devices and then, when they were done with her, they threw her in a cipher-insulated cell. For the first time in her life she could not hear the language of the cosmos.||||
+caer227|For ((Caer)), It was like being deprived of ((air)). Not... that I can know for sure, because we were already separate. ##Whatever they did to me - to Caer, in those years - turned her into the High Confessor you know. ||||
+p694|So wait - ((you're)) the ghost of the High Confessor? ||||
+caer228|If you're thinking that we seem like completely different people, well... I'll take that as a compliment. ||||
+p695|If you're the same, can't you stop her?||||
+caer229|We are ((not)) the same. I tried to talk to her, once - tried to make her see sense. It was... no use.||||
+p696|At least the High Confessor has a plan.||||
+caer230|Perhaps, but she is imprisoned in more ways than one. Her options are severely limited by her masters; and she is driven only by revenge. ||||
+caer231|Listen, stranger. The Caer in that coffin? She's but a shadow of her former self; a shrivelled corpse who barely clings to life. ||||
+caer232|This godlet is the last remnant of who she once was. If you kill Danu here, there will be ((nothing)) left of Caer - nothing but a ((ghost)). ||||
+p697|((Kill the godlet.))||||
+caer233|<<You approach the godlet with the Void Knife. The being shrieks; an alien, ethereal noise that seems to resound through all your senses.>>||||
+caer234|<<You plunge the dagger into its throat. A pained wail seems to reverberate through your very being, and both the godlet and the knife dissipate into nothingness.>>||||
+caer235|<<The ghost of Caer shrieks; an awful cry that descends into sobs.>> ##Stranger... ||||
+caer236|<<She wipes away ethereal tears.>> So you choose the life of an Inquisition puppet, then? ##<<She sniffs.>> So be it. ||||
+caer237|I won't desert you. Unlike that ((High Confessor)), I don't hold grudges; and what's at stake here is... too important.||||
+caer238|But know that my faith in you has been shattered, stranger. ##Now... ((leave me)). ||||
+p698|((Free the godlet. ))||||
+caer239|<<You approach the godlet with the Void Knife. The godlet shrieks; an alien, ethereal sound that seems to resound through all your senses.>>||||
+caer240|<<The knife cuts through its bonds with one hard strike, shattering the blade into a thousand pieces. The godlet is free. It chirrups, and a wave of warmth spreads through your body.>>||||
+caer241|<<The ghost of Caer nods at you.>> Thank you dearly, stranger. Danu did not deserve such a cruel fate. ||||
+caer242|I'll see you back at the Blinding Light. Something tells me the Inquisition will not look favourably upon the High Confessor, for this. ||||
+p699|((Leave.))||||
+caer243|A terrifying thing, is it not? It's hard to comprehend that it was made with human hands. Its arteries throb with all manner of deadly machines. ||||
+caer244|<<She swallows.>> Listen, stranger... I can see that this fight will not be easy. The path ahead cannot be trodden without bloodshed. ||||
+caer245|Just know that whatever happens, the blame is not yours to bear. We are, as ever, dancing to Vela's tune. ||||
+caer246|What do we have here? It seems as though some wretched soul, spat from a dank prison cell, has somehow stumbled into the most fateful moment in living memory. <<She grins.>>||||
+caer247|The [[angel]] ((watches)) you, stranger. To its incomprehensible mind you are little more than an insect crawling on shit. ||||
+caer248|And yet here, in this plane of existence, it has no power without one such as you. It is a thing born of the void; it can think and feel only in cipher, and lacks the ((perspective)) of a mere mortal. To have agency in this place, it must merge with another.||||
+caer249|This creature defies foresight, stranger. In the threads of prophecy this moment is an abyss through which I cannot see. For years I thought it was Vela who would stand at the precipice; but now I see that it is... ((You)).||||
+p700|I have proven my worth.||||
+caer250|Your ((worth)), stranger? It is ever the folly of mortals that they account chance and privilege with ((divine providence)). ||||
+p701|It was merely the roll of a dice.||||
+caer251|<<She smirks. >> Many in your position would claim sole responsibility for their successes. I'm glad you have the sense to see otherwise.||||
+caer252|These islands have long been the home of dreamers and fantasists. Their delusions have seeped into the fabric of the earth, waiting for one to reclaim them. The people here have hung their wishes on your shoulders, nothing more. ||||
+caer253|But you should do well to remember that your power - ((all)) power - is borrowed. We are naught but conduits.||||
+caer254|And now, whether by chance of skill, you wield more power than any before you. The last time this angel was roused, the whole world was destroyed. You could banish it - or you could ((merge)) with it, and succeed where those before you failed. ||||
+caer255|What will you do, I wonder?||||
+p702|Could this angel cause another World Rend?||||
+caer256|I would ((like)) to tell you that the Emberians, four hundred years ago, used the angel with malice and stupidity, so as to doom the world to such a fate...||||
+caer257|But the truth is, nobody truly knows what happened back then, or what could happen now. Vela was certain she could merge with the angel without triggering a syntax cascade - I am not so brazen as to say either way. ||||
+caer258|For someone who has spent her life predicting the future, it is somewhat of a novelty to admit: I have no idea. ||||
+p703|What should I do? ||||
+caer259|<<She sighs.>> I have long thought that to change the rules of cipher - to fundamentally alter the very ((fabric)) of existence - is a sin more shameful than I could imagine.||||
+caer260|I believed this in my heart when I tried to stop Vela; but her will proved stronger, and in defying her I lost everything I ever held dear. ||||
+caer261|And if I ever truly loved her, can't I also see that she was driven as much by love and beauty, as anger and ambition?||||
+caer262|<<She smiles at you, weakly.>> The truth is, I am no longer a person; just an echo of one. I have no right to interfere with the living. ##Do as you wish, stranger.||||
+p704|Well, it's now or never.||||
+caer263|Good luck, stranger. <<She smiles, warmly.>> ##Or perhaps I should call you... ((friend.))||||
+caer264|Good luck, stranger. If there is such a thing.||||

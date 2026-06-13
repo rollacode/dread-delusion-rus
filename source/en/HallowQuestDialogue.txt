@@ -1,0 +1,700 @@
+NPC Name:|HallowQuests||||
+ID|English|French|German|Spanish|Italian
+ino0|I'm counting on you, now.||||
+ino1|<<Bright eyes shine from an unwashed face. You catch the girl's attention.>> ##Hey, you wouldn't wanna help a girl out, would you?||||
+pq1|Goodbye.||||
+p1|What's the problem?||||
+p2|Sorry, I've got somewhere to be.||||
+ino2|<<She wipes sweat from her brow>>. ##I've gotta deliver these Byonne silks to my guy at the Wobbly Noggin. But after lugging these here, my own noggin's not doing too good. ##<<She flashes you a smile.>>||||
+p3|Alright, I'd be happy to help.||||
+p4|I'll make your delivery... for a cut of the profit. ||||
+p5|No thanks, you're on your own.||||
+ino3|Oh, that's great! I owe you one, I really do. ||||
+ino4|<<She hands you a wooden box.>> ##Just ask around for Bardolph. He's usually in the small room... if he's not got himself kicked out. ##<<She winks.>>||||
+ino5|You know the way to the Wobbly Noggin?||||
+p6|I'll just ask a guard if I get lost. ||||
+ino6|<<You notice a slight frown.>> Really, there's no need for that. It's the pub with the giant skull, just over the bridge. You can't miss it.||||
+p7|Yeah, I know the way. Goodbye. ||||
+ino7|<<Her smile fades a little.>> ##Of course, that's only fair. You'll get paid.||||
+ino8|Oh, hey again. <<She beams.>> ##I've still got some deliveries for the Wobbly Noggin'. Fancy helping a girl out? ||||
+gd0|Hold it. <<He looks at your box.>> ##What you got there?||||
+p8|I'm making a delivery for a friend.||||
+gd1|<<He chuckles.>> Like I've not heard that one before. You know we've got a real problem with smugglers in Hallow. Lotta illegal goods slippin' through the net. So I'll ask again. What's in the box? ||||
+p9|@@Byonne Silks. My friend is a respected tailor, and this delivery is urgent. ||||
+gd2|%%Alright, alright, I've just gotta ask, is all. On your way now. ||||
+gd3|&&Sure, and I'm the duke of Lundel. Let's have a look inside. ||||
+p10|I was told they were silks, but I've not looked.||||
+gd4|Silks my arse. Let's have a look, then.||||
+p11|The box is mine. Bugger off. ||||
+p12|Mind your own business. ||||
+gd5|Feisty one, eh? I'll be having none o' that. Hand over that box. ||||
+gd6|Sure, and I'm the duke of Lundel. Let's have a look inside. ||||
+gd7|<<He cracks open the box. A writhing, tentacled creature stares up with an assortment of eyes.>> ##Yup, this here's a [[typhos]]. Nasty creature from [[Lundel]], used for poisons.||||
+gd8|<<He takes the money and sighs.>> ##Look, I'm giving you a warning this time. We're watching you, though - and next time it'll be a prison cell. ||||
+p13|These are silks from Byonne.||||
+gd9|Alright, alright, I've just gotta ask, is all. Lot's of smugglers in Hallow, y'see. Carry on, now.||||
+gd10|Now what's a vagrant like you doing with such a thing, eh?##I can tell you, the [[inquisitors]] won't be kind. You'll be hung from the gallows by weeks end.||||
+p_gd1|I was set up! I didn't know what was in the box!||||
+gd11|<<He rolls his eyes.>>##Don't bother. You've wandered into the spider's web either way.||||
+p_gd2|Would [[5 coins]] change your mind?||||
+p_gd3|Would [[20 coins]] change your mind?||||
+gd12|<<He perks up at the sound of the high offer>>##Yes, I dare say it might.||||
+gd13|Hmph. Make it [[10 coins]] and I'll consider it.||||
+p_gd4|[[10 coins]] seems fair.||||
+p_gd5|I refuse!||||
+p_gd6|Please, take whatever you want, just let me go.||||
+gd14|<<You quickly realizing that you do not have as much gold as you'd offered...>>||||
+gd15|Pathetic. You vagrants, criminals and pagans ought to be quartered.||||
+gd16|<<Without a word he grabs a variety of valuables from your bag.>>##Now listen. I'm in a good mood so I'm going to let you off. But your little box is staying with me.||||
+gd17|<<After exchanging the money, He hands the box back to you with a nod.>>##Carry on now.||||
+gd18|And I'm afraid I'll be keeping your little "pet" here.##<<He gestures towards the box, which suddenly lurches as if in response.>>||||
+p_gd7|@@I'm an agent of the inquisition. Stand aside.||||
+gd19|%%<<You tell him briefly of your mission>>##Wow! The inquisition asked you to hunt the [[Queen of the Sky Pirates]] herself? That's incredible! ... Please don't let me keep you any longer!||||
+gd20|&&Enough theatrics. You're wearing on my patience.||||
+bar1|<<The man cracks you a thin, yellow smile.>> ##Name's Bardolph. I don't think I know you, friend. So unless you got business here, I'd suggest you trot on. ||||
+p20|I was asked to deliver some Byonne Silks to you. ||||
+bar2|Ah! Innogen's newest recruit, eh? ##<<His smile grows; teeth like shattered glass.>> ##You should've said.||||
+p21|She never mentioned her name.  ||||
+bar3|And ruin her mysterious allure? Of course not. That's not her style.||||
+p22|Here's your delivery.||||
+bar4|<<He prises the box open. A cluster of tentacles burst forth, and he slams it shut again.>> ##Aha! Fine silks, fine silks indeed. These'll make a lucky noble very... comfortable.||||
+p23|Wait, what was that thing? ||||
+bar5|<<His expression snaps into anger.>> ##You said yourself, friend. Byonne silks.||||
+p24|Glad to be of service.||||
+bar6|That's what I like to hear. You're alright, you know.||||
+p25|Your goods were confiscated. Innogen never mentioned the silks were... sentient. ||||
+bar7|<<He bursts into a wheezy laugh>>. ##Ah, I'd love to have seen the look on that guard's face. Innogen will be pissed at losing her commission, but it's no skin off my back. You've proved yourself willing, at least. ||||
+bar10|Look, we're always in need of folk like yourself. If you want more work, head down to the slums, past the docks. Look for a bust of a skeleton in one of the houses. ||||
+bar11|Give it a yank. It'll let you through to the Lost Purse. Find Innogen there and she'll have more work for you. ||||
+p26|Innogen mentioned something about payment?||||
+bar12|Knowing her, I'd wager she wasn't the first to mention it, eh? ||||
+bar13|Anyway, here's a few coins for your troubles.||||
+bar0|Go on, get lost.||||
+p27|Thanks Bardolph.||||
+p28|I nearly got arrested thanks to your poisonous tentacle cargo. ||||
+p29|Bye, 'friend'. ||||
+ino10|<<It's the same girl from the docks, but her friendly disposition has gone. She eyes you with a cold stare.>>||||
+p30|Innogen, right? Bardolph said you'd have more work for me.||||
+ino11|You made the delivery, huh? Not bad. When I saw you walking off with it, I was sure you'd be hung up in some prison by the end of the day. Those things are really illegal, you know.||||
+ino12|You've got some nerve, y'know. You got any idea how much that typhos was worth? It's been smuggled from the poison swamps of Lundel, and you just gave it to a guard.||||
+ino13|And you're asking for more work? I outta gut you right here!||||
+p31|It would have helped if you'd told me what was in it.||||
+ino14|You really are an idiot, huh? The box was bloody writhing around. And what kinda silk smells like a rotting corpse?||||
+p32|I'll get it right this time.||||
+ino15|Yeah well, you'd better. For your sake.||||
+ino16|Just so you know - if it was up to me, you'd be lying in a gutter right about now. But Bardolph calls the shots, so I guess I've got work for you. ||||
+p33|That package was not silk. It could've killed me!||||
+ino17|You really are an idiot, huh? The box was bloody writhing around. And what kinda silk smells like a rotting corpse?||||
+ino18|Anyway, Bardolph told me to give you another job, so speak to me again when you're ready.||||
+ino19|Anyway, Bardolph told me to give you another job, so here we go.||||
+ino20|So, there's this wealthy merchant called Vernon Berwig. He runs the winged merchants guild and lives on a fancy street up in Hallow. He's a collector of strange artifacts, and our client wants their hands on a particular one.||||
+ino21|Now, I already had someone scout out his property. There's a chamber downstairs that's barred from the other side. The item's gotta be in there, but a lockpick's not gonna cut it.||||
+ino22|So, there must be a secret way into Vernon Berwig's house, that leads to that chamber. Find the secret entrance, recover the strange artifact. Simple, huh?||||
+ino23|Wow, you stole that artefact from Berwig's house? I gotta admit, I'm impressed. I had you down as a quitter, for sure.||||
+ino24|The client's gonna be real happy with this. You've earned your pay, and then some.||||
+king1|<<The man squints at you for a moment.>> ##Ah, you were here earlier, yes? I remember you.||||
+king2|<<The man jolts awake from a daze. Though he is not old, his eyes betray a weariness.>> ##...Orbaith, is that you? ##Oh, I'm sorry, stranger. I must have been dreaming again. I seem to do little else these days.||||
+king3|Now, let me just - oh, damn, damn. Where is it?||||
+king4|My dream journal - I've lost it again. I must have dropped it when running from those goblins on the mountain. Say, if you're wandering these parts, would you mind keeping an eye out for it?||||
+pKing1|What's this about your journal?||||
+king5|Yes, yes - I've lost my dream journal. I think it's been dropped near the goblins that inhabit the mountain east of here. ##Go past the fortress and look for a lake; then follow the river upstream. You should find them there.||||
+king6|I've noticed they sometimes clear off at night. If you want to avoid a fight, you could rest a while in my bed. Approach when the neuron star has shrunk and they might be gone.||||
+pKing2|I've found your journal.||||
+king7|<<He leafs through the pages excitedly.>> ##Yes, it's all here - Orbaith. The war. The machine-age. Please, take this, along with my sincerest thanks.||||
+pKing3|Can I ask you something?||||
+king8|You may certainly try, but things tend to slip from my mind of late - and these old bones won't carry me far.||||
+king9|Have you heard of Vela Callose? ||||
+king10|Vela, Vela... Oh, you mean that young commander? Leads that band of mercenaries, up in that old fortress?||||
+king11|I was a bit worried when they took over that place. I thought they might cause some trouble - but honestly, other than the noise, they've been no bother.||||
+king12|That Vela girl even visited me, once. She sat and listened to my dreams, and left me some food. Seemed a nice girl.||||
+pKing4|Your bones don't look ((that)) old.||||
+king13|<<He chuckles softly.>> Ah, yes, many people tell me that. In truth, I can't remember how old I am. My mind is foggy; my memories shrouded in mist.||||
+king14|But my dreams? They are vivid. I dream of my daughter, Orbaith - and a terrible war. I keep a journal, in the hope of deciphering truth from dream.||||
+pKing5|What can you tell me about these islands?||||
+king15|Hmm. These are the Oneiric Isles, but I'm no local here myself. Let's see... we're circled by a small red neuron star, though you've probably noticed that already. ##Oh, yes - and lately folk have been making a great deal of fuss about some Apostatic Union.||||
+king16|The Union renounced their gods, I believe - and even went as far to wage war on them. They've claimed these islands for their own, but not everybody agrees with their apostasy. Many folk won't give up their worship. ||||
+king17|That reminds me - I think I knew a god, once. Or... was that just a dream?||||
+pKing6|Farewell.||||
+vil1|Hmph. We don't get many travellers these days. Heed my words; I'd not tarry here long. Something is... amiss, here.||||
+vil2|Most of the village died of plague, a while back. Since then, folk've been acting strange.||||
+p40|What do you mean, strange? ||||
+vil3|I mean strange. Folk started hearing things. Started ((seeing)) things. Some even started to... ((change)). Most have left for good.||||
+p41|Who lives in that castle, up there?||||
+vil4|That'd be the Duke. He used to be a fine fellow - but after the plague, folk saw him wandering alone at night in full armour, howling to himself like a beast. About a year ago, he locked himself in his castle and 'aint been seen since.||||
+p42|Thanks. Farewell.||||
+vil10|<<The villager's eyes are wide as he strokes his arms.>>||||
+vil11|Do you see? Do you see what I've become? ## ... disgust myself.||||
+vil12|There's something in the air. That disguises the truth. ##But... Jitterseed and Paradoxius. Blend them together - then your eyes will be truly open.||||
+vil13|The nightmare has stopped. Is... is it finally over?||||
+wik1|<<Tired eyes peer from a weathered face. The man wears the garb of a Wikkan priest, old and tatty.>>||||
+wik2|Wh- what's this, an intruder? How did you get into the keep?||||
+p43|There wasn't exactly anyone to stop me.||||
+wik3|But, the royal guard...? Bah, deserters, deserters all. Then... I suppose the ruination of this place is complete.||||
+p44|I've come to end this madness.||||
+wik4|So, the facade has finally crumbled? I suppose I knew this day would come. The ruination of this place is complete.||||
+wik5|I tried to wreathe this place in [[illusion magic]], to conceal  the decay, but... there is only so much a simple charm can do.##The castle rots, its bones laid bare.||||
+p45|How fares the castle?||||
+wik6|So, the Duke's son offered to bear the sacrificial burden? This brings me much sadness; he is a kind soul, not deserving of such torment.||||
+wik7|But perhaps... It is for the best. Even now, the villagers return to normality.||||
+wik8|The Duke is dead? So then, the contract with Paeguth is severed. The madness has ended, but I fear the plague will take an even heftier fee.||||
+p46|What's wrong with this castle?||||
+wik9|<<The man lets out a long, haggard sigh.>> ##A dread bargain. It was supposed to save these people, not to... <<he gulps.>> Not to doom them.||||
+wik10|Some years ago, this castle was beset with a terrible plague. Even the Duke's son was afflicted. The Apostatic Union wouldn't help, so the people turned to a local god. But Paeguth demanded tribute...||||
+wik11|...so, my coven sent me to facilitate a contract. Paeguth's spell would be sustained by a sacrifice. ##A sacrifice not of life, but of ((pain)).||||
+wik12|The Duke obliged. Even now, a poison engulfs him in perpetual agony, so that the plague may be kept at bay. But his life force weakens, the god's spell finds new ways to take due payment, and the isle grows ever more cursed.||||
+wik13|I have deliberated for many months on what to do. My conscience is heavy with the weight of it. But for things to change, something awful must occur.||||
+p47|There must be a way to resolve this curse.||||
+wik14|Hmph. Resolution? It is a... comforting thought, I admit. ||||
+wik15|Behind that painting lies a secret room. It holds a [[sacrificial poison]], the same one that flows through the Duke's veins.||||
+wik16|The dosage is exact. An overdose would be lethal. If the Duke were to drink more, he would die, voiding the contract entirely.  ##The madness would end, but the plague would return. ||||
+wik17|But there is an alternative. If a second sacrificial victim could be found, the god would be satiated. Equilibrium could be established once more, though Paeguth's taint would never fully vanish.||||
+wik18|But I grow weary of this business. I do not have the heart to inflict more pain.||||
+p48|@@I could administer the poison, on your behalf.||||
+p49|I found the poison. I could administer it, on your behalf. ||||
+wik19|%%<<He is silent a while.>> ##Perhaps... perhaps that is the wisest choice?||||
+wik20|My indecision has let this castle rot. Perhaps you could be the one to save it. Very well, I will open the door to the poison. ##The Duke is at the top of the keep. To enter, you must walk through an illusory wall.||||
+wik21|&&A kind offer, but this burden is mine alone. I could not in good conscience let you do this.||||
+p50|You're a Wikkan, no? Why are you here?||||
+wik22|Hmph, well I suppose there's no point in hiding it. That would be an insult to us both.||||
+wik23|I am an emissary of the Wikkan Coven of the Worm, sent to oversee godly contracts. Even a simple prayer to a lowly deity can be a dangerous thing, and a Wikkan priest can act as a... middleman, of sorts.||||
+wik24|Of course, these days it is a dangerous business. Since the God War our covens are scattered and secretive. Each one of us could face a terrible death were the Union to find us.||||
+wik25|Unless things change, it is only a matter of time before the inquisition finds me here. I will, of course, be tortured. I will, of course, tell them everything. If I had the courage I would end my life now, but I am a coward.||||
+wik26|Ahem. Was there anything else?||||
+p51|Farewell. ||||
+duke1|<<Pained groans emanate from the helmet. The man writhes, clearly in agony. He does not seem to notice your presence.>>||||
+duke2|<<Seeing you, the man lets out a dreadful howl, which reverberates through the castle walls.>> ##You... condemned my son... to this fate?||||
+duke3|I would... kill you... if I could.||||
+p52|Uh... Greetings?||||
+duke4|<<The man inhales sharply, his head slowly turning towards your own.>> ##I am... the Duke of Hallowshire. State... your business.||||
+p53|What's wrong with you?||||
+duke5|<<For a moment, the Duke simply releases a pained moan.>>##I am... offering a sacrifice, of my own... ((pain...)) so that my dukedom, and... my son... may live.||||
+p54|Uh, can I help?||||
+duke6|Only... that bastard Wikkan... may help me now.||||
+p55|I have the Wikkan's poison. I could end your pain.||||
+duke7|<<For a moment there is silence, but for the Duke's hoarse breathing.>>||||
+duke8|For so long... have I ached for death. Though it may doom my dukedom... I am too weak... to refuse. ##Please... kill me.||||
+p56|<<Poison the Duke.>>||||
+duke9|<<You slip the vial past the Duke's helmet and let the liquid trickle past his lips. After a moment he begins to shake violently, his armour rattling.>>##<<And then he is still. >>||||
+p57|Actually, I've changed my mind.||||
+duke10|Damn... you...||||
+p58|You're... clearly busy. Farewell.||||
+dson1|Greetings. I don't often get many visitors up here. ||||
+dson2|I am Thomas Harwicke, son of the Duke of Hallowshire. Pleased to make your acquaintance. ||||
+p59|There is something very wrong here.||||
+dson3|Indeed. We are trapped in a spell - a contract with the god Paeguth, negotiated by the Wikkan in this castle. So long as my father bears a burden of sacrificial pain, the castle and the surrounding village will be free from the plague.||||
+dson4|Except... the spell has changed over time. As my father weakens, his subjects develop increasingly bizarre habits and deformities. Not dissimilar... to those monsters that roam the ruins to the west.||||
+dson5|I'm fearful of the future. If I could lend my aid in some way, I would do so gladly. Even if it would mean bearing the pain that my father endures.||||
+p60|I have a vial of poison, from the Wikkan.||||
+dson6|Oh my... is this... the sacrificial poison? ##<<He studies the vial with curiosity.>>||||
+dson7|Every day, I watch my father suffer. I feel useless by his side, unable to help. But with this... perhaps our conjoined sacrifices would repair the spell. Perhaps the land would be free from both plague ((and)) corruption.||||
+dson8|I beseech you - let me partake of this poison. I would do my duty - to my father, and his subjects.||||
+p61|<<Give him the poison.>>||||
+dson9|<<The vial in his hand, he hesitates for a moment. Then, he drinks it in a single gulp.>>||||
+dson10|<<For a moment, nothing happens. Then, he lets out a piercing scream.>>||||
+dson11|Oh, Paeguth! What pain is this? The agony! The... aaarghh! ##Is this... what my father has endured? It is... unbearable. Unbearable!||||
+p62|No, the burden would be too great. ||||
+p63|Thanks. Farewell.||||
+dson12|<<The man looks deathly pale, and boils cover his skin. He lets out a burst of coughs as you approach.>> ##Please... stay back. I am not well.||||
+dson13|With my father's death, the curse has been lifted. But the plague... that has lain dormant in my blood... has returned.||||
+dson14|Still... perhaps this is for the best. I would rather die free... than live cursed.||||
+p64|Actually, I wanted to ask something else. ||||
+dson15|Was there anything else?||||
+dson16|I see...||||
+servant1|Greetin's, stranger. If I were you, I'd leave this accursed place. Leave and not look back.||||
+p65|What's wrong with this castle?||||
+servant2|Can you not sense it? Hallow Castle has been stricken with a terrible curse. Foul creatures stalk the land while our Duke writhes in agony.||||
+servant3|It all started when that [[damned Wikkan]] came to our aid. I'll tell ya, the ((plague)) was better than this...||||
+servant4|If you insist on lingering, a word of advice: things are not what they seem. [[Those large paintings]] are mere illusion; you can walk right through them.||||
+servant5|If you have some [[Jitterseed]] and [[Paradoxius]], you could brew a potion to see through the illusion. ||||
+p66|Who are you?||||
+servant6|Just a humble servant. The last in the Duke's employ, it would seem. Anyone with any sense has already fled.||||
+p67|I'll be going.||||
+servant7|Remember, stranger; [[The paintings]] are not what they seem.||||
+servant8|So, the Duke is dead? ##At least his howls of pain will haunt these halls no more.||||
+servant9|The horrors have subsided, of late. Did you have a hand in that, stranger? ##Though, these halls still echo with agonised cries. I fear we will never be truly free.||||
+dstarDrunk1|<<The Dark Star mercenary languishes, an ale in one hand. She barely registers your presence.>>||||
+dstarDrunk2|Hmph. So are you with the inquisition? Or some petty thief come to pick at our corpses?||||
+dstarDrunk3|Hmph, back again?||||
+p70|I'm hunting your leader - Vela Callose.||||
+dstarDrunk4|Do as you please; I'll not hamper you. That wench has led us into enough trouble. ##<<She swigs the ale, most of it splashing down her face.>>||||
+p71|I'm just passing through; I've no quarrel with you.||||
+dstarDrunk5|Damn straight. Any funny business and I'll lop off your head. ##<<She swings an arm in a vague gesture, spilling her ale in the process.>>||||
+p72|What can you tell me about Vela Callose?||||
+dstarDrunk6|<<she squints at you, her head swaying from the booze.>> ## ...you can keep a secret, right?||||
+dstarDrunk7|She leads the Dark Star Mercenaries, and so I'm supposed to tip my hat and call her 'boss'. But between you and me, she's gonna get us all killed. Maybe already has.||||
+dstarDrunk8|She speaks of mad prophecies. Of breaking reality itself, to make some sort of deathless heaven. Nonsense and lies, the lot.||||
+p73|@@If you don't care for Vela, let me in the storeroom below. ||||
+dstarDrunk9|%%You know what - why do I always get the shitty jobs? Sure, you can loot the whole place, for all I care. That'll show Vela a thing or two. ((Hic.))||||
+dstarDrunk10|&&It's true I've  no love for Vela; but it's another thing to betray the Dark Star company. They're still my... ((hic)) ...brethren. ||||
+p74|I'll leave you to your ale.||||
+shroomMan1|Breathe deep, stranger. Let the earthy scent fill your lungs...||||
+p80|Smells awful.||||
+p81|Uh... what am I smelling, exactly?||||
+shroomMan2|How dare you! This is the finest scent in all the skyrealms. ||||
+shroomMan3|Spores fill this place. I cultivate mushrooms - the most ancient and beautiful thing that grows from this earth. ||||
+shroomMan4|With one shroom cap I could grant you wondrous visions. With another - an agonising death. It's no wonder the Wikkans covet them so. ||||
+shroomMan5|Ah, the mushrooms foretold you would return. ##Although, they also foretold I'd give birth to my own father.||||
+p82|Do you have any shrooms for sale?||||
+p83|@@Can I see your mushrooms?||||
+shroomMan6|%%Ah, a fellow connoisseur, I see? I'll unlock the door for you. Just don't go tamperin' with the lil' orange ones, unless you want your fingers to fall off. ||||
+shroomMan7|&&Sorry, stranger. I can't just let anyone go rootin' around in my shroom farm. ||||
+p84|What can you tell me about mushrooms?||||
+shroomMan8|Before the World Rend, mushroom forests covered the planet; thriving in the dank shadows of the flying isles.||||
+shroomMan9|They entwine together underground, formin' great colonies. When you look upon a vast mushroom forest, you might just be looking at a single, giant shroom.||||
+shroomMan10|It's why the Wikkans used them to communicate with the gods. In the old times, they'd hollow out the greatest of them; using them as temples... spaces of truths and terrors. ||||
+p85|I'll leave you to your shrooming. ||||
+troll1|<<The creature looks at you from sunken eyes. It shifts behind its massive jaw; it appears physically incapable of lifting its head.>>||||
+troll2|Be still, human. Only those who embrace their wretchedness may claim their second self. ||||
+p90|Wait, what's a second self?||||
+troll3|Long ago, the goblins of this forest perpetrated a heinous evil. To this day, their kind still bears the burden of this guilt.||||
+troll4|So they carve themselves a new self, in the form of a mask. When the goblins wear these, they appear to be... altered. If it is by some magic, or merely an act, I cannot say.||||
+troll5|We all carry some guilt, human. If you wish to acknowledge your own wrongdoings, you may claim a mask for yourself. ||||
+p91|@@I have embraced my wretchedness. May I pass? ||||
+troll6|%%You seem sincere in your penance. Very well, you may claim your second self. The door is open.||||
+troll7|&&It is one thing to say the words, it is another to truly comprehend their significance. I do not believe you are ready, human.||||
+p92|Who are you?||||
+troll8|I am... one of the last of my kind. Most of us were killed long ago, and those of us that survived are... forever cursed. ||||
+troll9|As you can see, I possess no grace. If I were to stand straight, my neck would snap. Moving even small distances is... difficult.||||
+troll10|But still - I breathe, and that is enough. I have found peace in this forest, and the goblins protect me. ||||
+orderMan1|<<The old man coughs violently, his body lurching with each expulsion. He spits blood and phlegm on the floor.>>||||
+orderMan2|My life flickers, my vision is gone... who goes there? ##Are you the Third, come to relieve me?||||
+p100|Who are you?||||
+orderMan3|Oh, no, no... we cannot tell... cannot divulge. That would betray the code. Betray the order.||||
+orderMan4|There are always three, you see - three and one. One to lead, the others to follow. But we cannot divulge our true names. No, we work in secrecy.||||
+orderMan5|I have travelled the skyrealms for the Order, you see. Finding contacts, seeking buyers - striking trade deals...||||
+orderMan6|I have visited lands scorched by the brightest neuron stars and desolate islands made of the most brilliant, beautiful ice. All in the name of profit. For the Order of Three and One.||||
+orderMan7|<<The old man is still for a while - silent except for his strained, wheezing breath.>> ## ...I'm sorry, I must have dozed off. What was the question?||||
+p101|@@Yes, I am the Third.||||
+orderMan8|%%Then it is time. The One has finally replaced me. I will unlock the door, and you can claim your new guise.||||
+orderMan9|&&Ah, but how can I be sure? Was there a password, or somesuch? Oh, damn this memory of mine...||||
+p102|Rest easy, old man.||||
+chainedGod1|Welcome to my prison, human. ## <<The words smash against your skull with dread portent. There's no mistaking it; you're speaking to a god.>>||||
+chainedGod2|Ah, I sense it in you. That abject horror; that searing shock. Your heart beats so fast it might burst, human...||||
+p110|Wait, did I... am I dead?||||
+chainedGod3|<<The entity laughs; great pulses of eldritch energy reverberate through your bones.>> ##No, human - you are not dead. Not yet.||||
+p111|How did I get here?||||
+chainedGod4|You were moments from death. I plucked you from certain peril, as easily as your kind would pull a weed. ||||
+chainedGod5|But it was not an act of kindness. I require something in return.||||
+p112|I did not ask to be saved. ||||
+chainedGod6|And I did not seek your consent. Make no mistake, human - your life means little. Without me, you would be just another pile of bones sinking into the dirt. ||||
+chainedGod7|You will help me, or you will perish. ||||
+p113|So what do you want?||||
+chainedGod8|Vela Callose, in her ((arrogance)), chained me here in shackles of voidsteel. I wish to be free, and so she must die. ||||
+chainedGod9|You hunt Vela, correct? Without my aid, your mission is futile; you will surely meet a gruesome demise.||||
+chainedGod10|So I will save you. I will pluck you from the precipice of oblivion, again and again, until the deed is done.||||
+chainedGod11|Welcome back, human.||||
+p114|Who are you?||||
+chainedGod12|How times have changed, that a human would ask such a thing.||||
+chainedGod13|There were times, in ages past, when my shrines were in a thousand settlements. When every Wikkan knew my name. When my mind rang with the prayers of your kind.||||
+chainedGod14|I will not stoop to introducing myself. But know this; There are still those loyal to me, who preserve my hidden shrines. It is to these places that I will summon you, should your death be imminent. ||||
+p115|Why did Vela capture you?||||
+chainedGod15|Why else? She craved my power. I am unique in the pantheon of major gods, as I can sense the moment of one's demise... and steal them from their fate.||||
+chainedGod16|But in her arrogance, this was not enough; for I cannot revive someone who is long dead. There are no gods who can, save - perchance - the dreamers themselves.||||
+chainedGod17|So she kept me chained here. Such is the sorry state of the world, that no followers came to save me. Not even the Wikkans came to my aid. ((Damn)) that cursed God War. ||||
+p116|Farewell.||||
+chainedGod18|Remember our bargain, human. ||||
+paganScribe1|Did you see the huge statue, outside?||||
+paganScribe2|It's an ancient Wikkan artefact. It was built long ago, before the World Rend. Back when only mad occultists dared set foot in the skyrealms.||||
+paganScribe3|They may have been erected to mark important Wikkan ritual sites but... that is only a theory.||||
+paganScribe4|Wikkans often [[disguise the truth of things]] with powerful magic, so it's incredibly hard to tell for sure.||||
+bina1|<<The woman looks aged beyond her years, as if weighed down by an exhaustion that sleep can't cure.>> Are you fleeing Hallowshire too? We had the same idea, until our damned Steward went kaput.||||
+p120|That I am. Do you know the best route out?||||
+bina2|Wish I did, stranger. We're hoping anywhere is better than here. I'd offer you a ride, but... <<She gestures hopelessly at the machine.>> ##Maybe the Endless will take us in, though the tales we've heard of them chill the blood.||||
+p121|Why would I be fleeing Hallowshire?||||
+bina3|You're braver than we are, stranger. Or maybe you're new here? ##If it were only this [[famine]], we could manage. But between the Inquisition's crackdown and the anger they've stirred... <<she shivers.>> No, no. We've seen how this goes.||||
+bina4|We came here six years ago from the [[Clockwork Kingdom]]. Leaving was the hardest decision of my life. We hoped Hallowshire would be a safer place for our children... and it was, for a little while. ##<<She sighs.>> I just wish...||||
+bina5|<<A child's voice calls from inside the cart: "Ma! Ishtar's hidden Gobbie again!">> ##<<The woman shouts over her shoulder.>> Ishtar, you give that doll back right now or I'll come in there and make you conjugate Emberian! <<Another child laments: "Aw, Maaa...!>>||||
+bina6|<<The woman looks back at you with a tired smile.>> Children are a gift, eh? ##Oh, where are my manners? I'm Bina, and my husband there is Youssef. If you're resting for a tick, can I offer you some tea?||||
+p122|I would love some tea.||||
+bina7|Right you are. <<She turns and opens a panel on the cart, revealing a samovar with many valves and pipes. She bangs it a few times, then fills two fine old porcelain cups with steaming tea and hands you one.>>||||
+p123|Thank you, but I'm all right.||||
+bina8|You won't mind if I get myself some, eh? <<She turns and opens a panel on the cart, revealing a samovar with many valves and pipes. She bangs it a few times, then fills a fine old porcelain cup with steaming tea.>>||||
+p124|Alas, I can't stay. Good luck.||||
+bina9|I can tell you're a curious sort, so ask anything you like. It's not as if we're going anywhere for a while.||||
+bina10|Ask anything you like. We're not going anywhere for a while.||||
+p125|What is that thing, exactly?||||
+bina11|The Steward? I suppose they're not exactly common here. An engine of iron and brass, animated by cipher magic. The Clockwork Kingdom built dozens of them, but you'd have to ask Youssef about the details. He's the engineer; I'm only a simple translator.||||
+p126|What do you translate?||||
+bina12|Ancient Emberian, would you believe? It was much in demand in the Kingdom. Some of our... I mean, ((their)) most wondrous machines are based on old Emberian knowledge. They've gotten closer than anyone to reclaiming what was lost.||||
+p127|Why did you leave the Clockwork Kingdom?||||
+bina13|Where to begin? At first, the [[Clockwork King]] worked wonderfully. Food and drink and fuel, and luxuries my parents never imagined, available to all... like one of those fairytales where some woodcutter finds a god in a cave that grants all their wishes.||||
+bina14|Later, the King became... erratic. Perhaps the Machinists misinterpreted its commands, or fed it the wrong counsel... ##<<You realise she is reluctant to criticise the King directly, even now.>> Then people started vanishing, and everyone would act like they never existed.||||
+bina15|<<She sighs heavily.>> Last year was when I finally stopped keeping one eye on the exit. I'd actually started to feel at home here, you know?||||
+p128|How did you get out?||||
+bina16|It wasn't easy. We scoured the black market for Apostatic Union passports, then a friend connected us to a sky smuggler. We left in the dead of night, like thieves.||||
+bina17|We were lucky. We had enough money to bring most of our belongings. Some arrive in Hallowshire with naught but the clothes on their backs. We try to help them when we cross paths, but there's only so much we can spare.||||
+bina18|I never liked to think of myself as a refugee. Some kind of twisted pride, perhaps. But now that it's happening all over again, how can I deny it?||||
+p129|I'm sorry.||||
+p130|Right.||||
+p131|Is your husband all right? He looks like he's seen a ghost.||||
+bina19|<<Care and distrust wrestle for a moment behind her eyes. Care wins.>> Honestly? I don't know. We got robbed by [[deserters]] a few nights ago, and he's still shaken, but there's something deeper too.||||
+bina20|Between you and me, he's been spending more and more time in bottled visions – distilled dreams exported from the Kingdom. Under the circumstances I don't blame him, but I do worry. ||||
+bina21|I think he's looking for something in those visions. I wish he'd tell me what.||||
+p132|I'd better get moving. Good luck.||||
+yous1|<<The man looks anxious and haunted, as if pursued by something that can't be outrun. He is examining the strange machine, oil-stained hands on his hips.>> ##Ach, first the famine, then the robbers, now this... when does it end?||||
+p140|Can I help you?||||
+yous2|No offence pal, but I doubt it. I've been an engineer for decades, and even I barely understand this contraption. Unless you've a spare aetheric voidsink on you? ||||
+p141|I have no idea what that is.||||
+yous3|King's truth, me neither. And if you ask me, nor do the arseholes who designed it. ||||
+p142|I left it in my other coat.||||
+yous4|Hah! Some coat that must be. I hope it's lined with lead.||||
+p143|What ((is)) that thing?||||
+yous5|This here's a Universal Steward... <<He kicks it in frustration,>> When it can be bothered. Standard arachnoid chassis, drudge configuration. Back home in the [[Clockwork Kingdom]] these do all the roughest jobs, so you or I don't have to.||||
+yous6|But where are my manners? I'm Youssef, and that there's my lovely wife, Bina. I'm the finest engineer for hire in all Hallowshire, though not for much longer. We're taking the kids and leaving, soon as I get this bugger working.||||
+yous7|<<A child's voice calls from inside the cart: "Baba! Ishtar keeps pulling my hair!>> ##<<The man shouts over his shoulder.>> Ishtar, you stop that right now or I'll come in there and explain linear algebra again! <<Another child laments: "Aw, Babaaa...!>>||||
+p144|Youssef, can I ask you something?||||
+p145|Tell me again about your stolen bottles.||||
+p146|Sorry, I can't stop. Stay safe.||||
+yous8|Well, my brain's more fried than one of Nour's attempts at breakfast. Time for a break anyway, and all the better with company.||||
+yous9|I'm in no rush to get back to work. Was there owt else?||||
+p147|What did you say that machine was?||||
+yous10|This here's a Universal Steward... <<He kicks it in frustration.>> When it can be bothered. Standard arachnoid chassis, drudge configuration. Back home in the [[Clockwork Kingdom]] these do all the roughest jobs, so you or I don't have to.||||
+p148|Did the Steward come with you from the Clockwork Kingdom?||||
+yous11|<<He looks affronted.>> Now mind, we'd never steal from the Kingdom. I built this one myself after we left, out of scavenged bits and bobs. Wasn't sure I could do it from scratch, but I did it. <<He glances at it.>> I tried, anyway.||||
+p148b|Okay, thanks for explaining.||||
+p149|What kind of machines did you work on?||||
+yous12|Mechanised farms, sowing and reaping on their own. Giant roving workshops on wheels, billowing smoke. Cipher shrines that summon bread straight from the bakery. Towers that send messages through the air on invisible wings. Things you can't imagine. And the Stewards, o' course.||||
+yous13|They say some of it's based on old Emberian lore. You'd have to ask Bina about that, though. She's the scholar; I'm only a simple tinker.||||
+yous14|The Union's machines are primitive by comparison, but at least there was a living in fixing 'em. Then the famine began, and anything more complex than a door lock became worth less for its mechanism than for the grain it could buy.||||
+yous15|My parents came to the Kingdom from the Wikkanlaw when I was only wee. Baba was a rag and bone man, Ma a shroom picker. I thought, look at me now – an engineer! But now look at us all, just poor mice scurrying for cover.||||
+p150|Are you all right? You look like you've seen a ghost.||||
+p151|I have a question about your stolen bottles.||||
+p152|That's all. Good luck with the machine.||||
+yous15b|Ach, thank you for asking. We got held up by deserters a few days ago, and we had to hand over my stock of bottled visions. Ever since then I've been struggling to sleep at night, and feeling cold and shivery all day.||||
+yous16|You ever try a bottled vision? Intoxicating fantasies, distilled from people's dreams. Only the Clockwork Kingdom knows how to make 'em. Not many letters or books get out anymore, so they're my best way of keeping in touch with home.||||
+yous17|One of those stolen bottles was important. Really important. But, ach, there's nothing to be done.||||
+yous18|Ach, so it goes.||||
+p153|Why was one bottle so important? ||||
+yous19|I... <<Youssef hesitates, unsure whether to tell you.>> I had a sister, back in the Clockwork Kingdom. [[Yasmeen]], her name was. And a niece. ##I don't know if they remember me. People who defy the King tend to get forgotten, somehow.||||
+yous20|A few months ago, I saw Yasmeen again in a vision. Older, so much tireder. She seemed to recognise me. I called out to her, but you know how dreams are. You never get the thing you want.||||
+yous21|It made me realise: if I could get a vision to ((her)), she'd at least know I'm alive. ##So I started learning to distil my own dreams. Once you have a vision pipe, it's not hard to reverse-engineer a collector. ||||
+yous22|Anyway, now the bloody robbers have it.||||
+p154|Whose dream was it?||||
+yous23|No way to tell. Did they know my sister, or just pass her by on the street one day? It felt recent, though. Like she was still alive when the dream was distilled.||||
+p155|Why not just send her a letter?||||
+yous24|Ach, Yasmeen never could read too well. Plus, a letter could be stopped or censored. The King's advisers are paranoid about spies, see? But visions aren't checked so closely – everyone knows they're not real anyway.||||
+p156|You can't make another vision?||||
+yous25|Do you know how many nights it took to dream up something fit to send her? I could hardly give her a bloody nightmare... ##<<He looks sheepish.>> ...Let alone one of my dreams about Bina.||||
+p157|Maybe I can help you get it back.||||
+p158|I'm sorry.||||
+p159|What do you know about the deserters?||||
+yous26|You know the old classic: "Your money or your life." We didn't have much left, so we had to hand over my whole stash – either that or the Steward. They probably still have it, if they haven't used it all.||||
+yous27|The [[deserters]] looked like former Inquisition, or maybe those Dark Star sellswords the Union's been hunting. Whatever it was, they'd grown sick of it. I overheard them talk about a base camp, by that old tower over yonder.||||
+p160|What was it you needed me to do?||||
+p161|Maybe I can help you get your bottles back.||||
+yous28|Really? Are you sure? They're likely still in the hands of those [[deserters]]... but maybe you can handle a little trouble.||||
+p162|I'll do what I can.||||
+yous29|Thank you, pal. You're too good for these cursed isles.||||
+yous30|If you can find the stash, don't bring it back to me. There's a sky pilot called [[Mikhail]] in Hallow town who could smuggle it into the Kingdom. He knows me: he's the one who smuggled us out.||||
+yous31|Ask him to deliver the bottle marked '[[Yasmeen]]' to my sister in the Kingdom. Hopefully he can find her. The rest of the stash will more than cover his fees – visions from outside are rare over there.||||
+yous32|I wish I could reward you, but we've nothing left to give. Maybe you can work something out with Mikhail. ##Please, pal. I miss my home. I miss my family.||||
+p163|Sorry, I don't think I'm up to this.||||
+yous33|<<His face falls, and he nods.>> I get it. Not everyone can face down hooligans like them. Well, if you come across a bottled vision marked 'Yasmeen', please keep it safe.||||
+p164|I hope you sleep easier soon.||||
+p165|Okay, that's all I wanted to ask.||||
+yous34|Aye, alright.||||
+care1|<<The old man sits whittling a block of wood. His eyes are buried behind bushy eyebrows and a thick moustache, and you wonder if he can even see his knife.>>||||
+care2|Hmph. Looks like we got ourselves a tresspasser, hmm? ##So tell me, stranger - what's your business creepin' round islands that are of no concern to you?||||
+p170|I like to explore. It's kind of my thing. ||||
+care3|<<His knife stops.>> An' what gives you that right, hm? Some places are private. ((Forbidden)). ||||
+care4|You give what you get, my old pa used ta' say. Sooner or later that freewheelin' attitude's gonna get you in trouble, mark my words...||||
+p171|Sorry, I didn't realise this place was occupied.||||
+care5|Pah! Well it is, you hear? For fifty years my family's looked after this manor. My father passed the duty to me, and I 'aint going nowhere. ||||
+p172|I go where I want, old man.||||
+care6|<<He carefully places his wood, then his knife, on the table.>> ##But ah, who am I kiddin'. This place is a wreck. Time ago I'd've kicked you clean off this isle, but these days I ain't got the goad.||||
+care6-2|Just don't go snoopin' inside the manor, y'hear? Even though the Union are tryin' to sell it, this manor's still got an owner -  an' someday she's gonna return.||||
+care7|Back again, eh?||||
+p173|What is this place?||||
+care8|Time was, everyone in Hallowshire knew the name o' this estate. So grand were its gardens, so sturdy its walls, that even nobles from Byonne would sweat at the sight o' it.||||
+care9|But ah, that was before my time. Now it's a wreck, an' the lady of the manor has been gone so long, the damned Union have put it up for sale, the fools.||||
+p174|So the manor is for sale?||||
+care10|Aye, the Apostatic Union holds the deeds, these days. They're offerin' 'em to the highest bidder, over at the [[Union council building]] in [[Hallow Town]]. ##I tried to tell 'em it's still occupied, but the bastards won't listen.||||
+p175|Who would buy such a dump?||||
+care11|<<He eyes you with distaste.>> ##Summun would, I tell ye. Summun would.||||
+care12|The Apostatic Union holds the deeds, these days. They're offerin' 'em to the highest bidder, over at the [[Union council building]] in [[Hallow Town]].||||
+care13|Only... nobody can buy it just yet. On account of that developer bein' slow.||||
+p176|Wait... did you say developer?||||
+care14|Aye, that property developer. Fancy man from Lundel, put in an offer a while back, but looks like the deal might fall through.||||
+p177|Okay, I get it.||||
+care15|<<He says nothing, and returns to his whittling.>>||||
+p178|What are you doing here? ||||
+care16|I'm the [[caretaker]] of this island. I tend the grounds, maintain the house, only... ||||
+care17|The manor's been empty a long time, y'see. The Apostatic Union's been tryin' to sell it, an' I ain't makin' it all pretty just on their account.||||
+care18|Of course, I'm sure my old man is turnin' in his grave. My family's been looking after this isle for generations, see. An' here I am, just whittling the time away. ||||
+p179|What are you whittling, there?||||
+care19|<<He grins.>> These are Voyna figures. You know it? A game for two players, played on a large board. ||||
+care20|Every now and again, an' old friend will come an' play me. Every... now an' again... ||||
+care21|<<His eyes look past you, and he is silent for a long moment.>>||||
+p180|I'll leave you to your whittling. ||||
+p181|So wait, you said this manor has an owner?||||
+care22|Aye. It was built by a lady called Ezra Thornwood, some two hundred years ago. When my father took over as caretaker, her ancestor - the current lady of the manor - left to travel the skyrealms.||||
+care23|Someday she'll return and, with her family fortune, restore this place to how it used t' be. ##At least... if the damn Union doesn't sell it off. ||||
+care30|<<The old man sits whittling a block of wood, but when he sees you - he slams his instruments down on the table.>>||||
+care31|So ((you're)) the bugger who bought this land, eh? I've been waitin' for ye...||||
+care32|You've made a mistake, y'hear? This manor ((has)) an owner. I may jes' be a caretaker, but the Thornwood family still own this land, and they'll be back!||||
+p182|I paid good money for this place. It's mine now.||||
+care33|Pah! So what if the Apostatic Union sold ye some fancy deed? This land ain't yours an' that's that!||||
+p183|This place is clearly abandoned! ||||
+care34|It ain't! I'm the caretaker of this 'ere manor, an' I'm tending the grounds 'till the lady returns!||||
+care35|<<He slumps back in his chair.>> Ah, but I see there's no point in reasonin' with ye. You're here to stay an' that's that... ||||
+care36|So let me give you some advice, fer yer ((own good.))||||
+care37|Ezra Thornwood built this place some four hundred years ago, but she had... ((dangerous)) secrets. There are places on these grounds that are locked up tight, like the basement. Never unlock 'em. ((Never)) enter 'em. ||||
+care38|Promise me this an' we might just get along. ||||
+p184|Wait, what's this dark secret? You have to tell me!||||
+care39|Nay. I've sworn a vow of silence to the Thornwood family. My lips are sealed. ||||
+p185|I refuse to be locked out of my own property.||||
+care40|((You're)) the one who's trespassing here. I don't care what kind of fancy slip  o' paper the Union gave you; the Thornwood family own this manor, and I've sworn to protect their secrets.||||
+p186|Fine. You have a deal.||||
+care41|An' I'm glad to hear it.||||
+care42|Now begone with ye - enjoy your new ((purchase)). I'll even stick around and tend the grounds, just so long as ye heed my warning. ||||
+care43|<<The old man sits whittling a block of wood.>> Hmph. I see our ((owner)) is back, eh?||||
+care44|<<The old man sits whittling a block of wood.>> ##Greetin's. ||||
+care45|<<He stares at you, his face contorted in rage.>> ((You!)) You've freed her, ain't ye? Ye broke the seal my father laid to trap that ((monster!))||||
+care46|For all my life I've guarded her here, protecting the skyrealms from that foul parasite. Do you have any idea what evil you've unleashed?||||
+care47|Well I'll not tarry here a moment longer. It's not safe, thanks to you. Next time you come 'ere, I'll be gone. We ((ain't)) gonna meet again.||||
+care48|<<He stares at you for a moment.>> ##You killed her, didn't ye?||||
+care49|I've guarded her all my life. She may have been a monster, but I swore an oath - to imprison her, but never to kill her. Such is the way of a kresnik.||||
+care50|<<He sighs.>> But don't think I never considered it. Maybe it's for the best. Now we're ((all)) free of that parasite, I s'pose. ||||
+p187|There's a monster in the basement! ||||
+p187b|About the vierme in the basement...||||
+care51|<<He takes a deep breath.>> Aye. No point in hidin' it no longer.||||
+care52|Ezra Thornwood has owned this manor for two hundred years. Her, and only her. She's a ((vierme)).||||
+care53|That means she's had a parasite in her, all this time. Turned her into a ((monster)) that feeds on people's dreams while they sleep. ||||
+care54|An' myself? I'm a kresnik, like my father before me. I've kept her imprisoned here, for the good of everyone. ||||
+care55|Or at least I did -  before you laid her to rest. ||||
+p188|What's a... ((kresnik?)) ||||
+care56|We're an ancient tribe of vierme hunters. We trace back to Slev, but many of us travel the skyrealms, hunting our quarry. ||||
+care57|Most train all their lives for that single battle; to defeat a vierme in combat, so they can be imprisoned an' guarded.||||
+p189|Why don't you just kill her?||||
+care58|We kresnik swear an oath not to kill the vierme we hunt. They are still thinkin' folk, at the end of the day. ||||
+care59|So we offer our own flesh to keep them alive. When a vierme feeds, you get a glimpse into their mind, their learnin'. Some kresnik even become... ((close)) to their vierme. ||||
+care60|<<He shrugs.>> It's tradition. I don't expect ye to understand. ||||
+p190|What if I were to free her?||||
+care61|<<He shoots you a dark scowl.>> That would be a bad idea. A ((very)) bad idea.||||
+care62|A vierme, 'specially an old one like Ezra, is a dangerous creature. You don't wanna be loosin' that on the world.||||
+p191|So what, I live with a monster now?||||
+care63|Hmph, I tried to warn ye, didn't I?||||
+p192|Okay, I understand.||||
+care64|Tell not a soul, y'hear?||||
+p193|I wanted to ask about some... ((strange)) things in this manor. ||||
+care65|<<He scowls>>. I told ye to be wary, didn't I?||||
+p194|I've been having strange dreams; restless sleep. ||||
+care66|<<For a moment he freezes, staring past you, trapped in some realisation.>> ##...Dreams, eh?||||
+care67|An' who am I, some Wikkan soothsayer? I care not about yer dreams.||||
+p195|I've found notes around the grounds. They speak of dark things.||||
+care68|Aye, probably my father's. He was obsessed with the occult; wanted to protect folk from evil things in the night. ||||
+care69|Pay 'em no mind. I should'a burned 'em, long ago. ||||
+p196|There's a statue in the basement.||||
+care70|Did I not tell ye to stay away? Ezra Thornwood collected dark things. ((Evil)) things. Just leave it be, for the love of the gods||||
+p197|That's all.||||
+care71|<<He grimaces, saying nothing.>>||||
+p198|I want to upgrade the manor. ||||
+care72|Hmph. If I were you, I'd leave it be... ##But I'll admit, seein' it all fancy, like it used t'be? Maybe that'd be somethin'. ||||
+care73|The Union installed a [[Property Station]] nearby. It'll let ye commission upgrades for the manor, for a price.||||
+care74|Only... don't let no workmen near the basement, y'hear? There are places that shouldn't be tampered with. ||||
+p199|What are you doing here? ||||
+care75|I'm the [[caretaker]] of this estate. I tend the grounds for the Thornwood family, only... s'pose I tend it for yerself now an' all. ||||
+p200|I'll leave you to your whittling. ||||
+clerk1|<<The clerk's desk is buried under ink pots and parchment. His arms move wildly; grabbing papers and scribbling with his quill. Occasionally he'll mutter an obscenity, throw a document to the floor and stamp on it.>>||||
+clerk2|<<He notices you approaching.>> No, no no no! Never! Absolutely not! ||||
+p211|Yes. Absolutely, undoubtedly, unequivocally ((yes.))||||
+clerk3|No, I say! The neuron stars will all fizzle to dust before I do anything of the sort.||||
+p212|Yes. A million times yes, you hear?||||
+clerk4|A curse upon your house! May it sprout legs and run away. Begone!||||
+p213|Wait - what are we talking about? ||||
+p214|Uh, excuse me?||||
+clerk5|I know your type. You have a look about you. A look that says you're a ((legal nightmare)).||||
+clerk6|Maybe your house has drifted into a different principality? Your name contains letters that don't exist? Or your doppleganger claims ownership of your cattle? Whatever it is, I ((don't care)).||||
+clerk7|So unless you've come here to purchase that dilapidated old manor house for an outrageous sum of money, please ((sod off)).||||
+p215|I want to buy that manor house.||||
+clerk8|<<The clerk's eyes widen and his quill snaps, splattering ink across his desk.>>||||
+clerk9|((Ahem)). Yes, I believe I was saying that we have a ((luxurious)) new manor house for sale, at an entirely reasonable fee.||||
+clerk10|It's yours, for a mere 200 coin. A ((steal)), really. ||||
+p216|Tell me about the manor house. ||||
+clerk11|It's a handsome manor with an entire island as its grounds. An historic property; post-World Rend, about 200 years old. ##The island is accessible by a wooden lift at the southern edge of Hallowshire.||||
+clerk12|It is, uh, in need of a few... ((minor adjustments.)) But with a bit of coin you could have the whole thing refurbished in no time. ## Oh and there was another trifling detail...||||
+clerk13|The land was recently reclaimed by the Apostatic Union, after it was found unoccupied - but some of the local rabble protested. Some nonsense about the owner still being... ((alive)). ||||
+clerk14|Preposterous, of course. Pay it no heed.||||
+p217|@@That's an outrageous price. I'll give you half. ||||
+clerk15|%% <<He swallows nervously.>> Yes, I suppose it is in need of a... few repairs. Okay, then. Half price. ##<<He snatches the purse from you.>>||||
+clerk16|&&Quite preposterous! This is an historic manor, older than the mushrooms of these isles. Full price, and not a penny more.||||
+p218|Okay, I'll take it. Here's the money. ||||
+clerk17|<<He sighs.>> It looks like you don't have enough. Please return when you have a ((serious)) proposition. ||||
+clerk18|Splendid, splendid! Let me just take that from you... my, this purse has some heft to it, eh?||||
+p219|Actually, I've changed my mind.||||
+clerk19|I see. Please, don't waste my time with idle inquiries. ||||
+p220|I'll just be going.||||
+clerk20|<<The clerk is still busy with his mountain of paperwork.>> ##Hm, you again? Please, make it quick. ||||
+p221|I have questions about the manor I bought. ||||
+clerk21|Ah yes, that old -- uh, I mean that wonderful thing. What did you want to know?||||
+p222|Tell me about the manor. ||||
+p223|You sold me a property owned by an ancient monster! ||||
+clerk22|<<The man stares at you for a second, then bursts out laughing.>> ##My, I've heard some tall tales in my time, but nothing quite like that.||||
+clerk23|I'm afraid the deal is done, no matter what nonsense you care to make up. ||||
+p224|How do I maintain my property, again?||||
+clerk24|Now that you're in possession of such an... ((esteemed)) property, you may want to consider certain refurbishments.||||
+clerk25|On the property grounds you will find a [[Property Station]]. You can use it to [[upgrade]] and [[decorate]] a property.||||
+clerk26|There is also a [[caretaker]] who lives on the grounds. We do not pay him; in fact, we have asked him to leave numerous times. Perhaps you will have more luck.||||
+p225|How do I upgrade a property?||||
+clerk27|Use a [[Property Station]] to see available upgrades. Any upgrade will have a cost attached; in both [[coin]] and [[resources]].||||
+clerk28|The first stage of any upgrade is usually to [[build]] it. You might want to build a [[Library]] annex, for instance - but you must pay the construction cost and wait for it to be completed.||||
+clerk29|The second stage of an upgrade is to [[furnish]] it. This will provide furniture, trophies and - in some cases - special equipment. ||||
+clerk30|All upgrades will share the same [[decorative style]] as the rest of the property. ||||
+p226|How do I decorate a property?||||
+clerk31|You may [[decorate]] your property in various styles. These styles must be unlocked by purchasing them; [[Apostatic Union decorations]], for instance, can be purchased from the [[tailor]] in town.||||
+clerk32|Only one [[decorative style]] can be applied to your property, and it will only take effect on parts of the property that have been [[furnished]]. You can't decorate if there is no furniture! ||||
+clerk33|Certain [[special objects]] may change, along with the furniture. Experiment with different styles to see what I mean. ||||
+p227|How do I display trophies and artwork?||||
+clerk34|Once a part of your property has been [[furnished]], various [[trophy mounts]] will appear. Interact with them to change the type of trophy displayed.||||
+clerk35|Though trophies must be [[unlocked]] before they can be displayed. ||||
+clerk36|As to the manner in which you can discover them? I cannot say. ##I once knew a fellow who won a drinking contest, and thereafter his house was filled with gaudy paintings of beer mugs. ||||
+p228|Thanks, I think I've got it.||||
+clerk37|Yes, yes. Was there anything else?||||
+p229|Goodbye.||||
+vierme1|<<The creature stares at you with a chilling intensity. Its words hiss through sharp teeth, but it speaks slowly - methodically.>> ||||
+vierme2|Greetings, trespasser. I have been watching you for some time; trampling on my grounds, desecrating my home, erecting your petty trinkets. ||||
+vierme3|And I have watched you as you sleep. I have savoured your flesh; drunk from your blood; tasted your dreams. ||||
+vierme4|I thought you would flee in terror, but still you linger where you do not belong. So I ask you, trespasser - why do you torment me so? ||||
+p240|((I'm)) tormenting ((you?)) There's a monster in my basement!||||
+vierme5|<<The creature releases a guttural sigh.>> Monster, indeed. It has been many a century since I could hold my own gaze in a mirror. ||||
+vierme6|But monster or no, this is ((not)) your basement. ||||
+p241|I'm no trespasser, I bought this house fair and square.||||
+vierme7|Oh? And what thief brokered this deal? ||||
+p242|Prepare to die, parasite. ||||
+vierme8|Would you be so quick to slaughter another living, breathing soul? Listen but a moment, trespasser, before you draw your blade. ||||
+vierme9|These grounds are my prison; but they are also my home. I saw these timbers raised some two hundred years ago and I have dwelled here ever since. ||||
+vierme10|You may have purchased a scrap of paper for a considerable sum. Perhaps it bears the signature of some foppish noble? I care not. These lands are mine.||||
+vierme11|<<She takes a deep breath.>> ((But)). There are things more valuable than even a home. Such as one's ((freedom)).||||
+vierme12|I am shackled here, trespasser; held captive within my own grounds, by powerful cipher magic. If you would help me win my freedom, I would recognize your claim to this manor. ##What do you say? ||||
+p243|You attacked me while I slept! Why should I trust you? ||||
+vierme13|I admit we may have got off to a wrong start. But remember, trespasser, that you cast the first stone. It is natural to act rashly when threatened. ||||
+p244|Let's say I ((do)) help. Will you leave me alone? ||||
+vierme14|Alas, there are few places for a creature like me to live safely. If you grant me freedom, I would permit you governance of the manor, staying myself in these underhalls.||||
+vierme15|But oh, what wonders freedom would bring! I would be much enriched by my travels, and would grant you great boons after feasting on your flesh. ||||
+p245|Hold on - you'd still drink my blood?||||
+p246|You really are a monster! ||||
+vierme16|Oh, the kiss of a vierme is nothing so crude as merely ((sucking blood)). It is a tender union of two souls. ||||
+vierme17|My worm-tongue bonds with your nervous system, and for a beautiful moment our minds are as one. The dreams you have seen? They are my own. A gift, in exchange for sustenance. ||||
+vierme18|With my freedom, in exchange for a portion of your [[Health]] - you would be [[invigorated]] after waking here. Your senses heightened; your reflexes sharpened. ||||
+p247|Very well, I'll help.||||
+vierme19|Excellent. Here is what you must do.||||
+vierme20|In the forest of [[western Hallowshire]] there is a decrepit house, not dissimilar to my own. I once frequented that place; [[this key]] will unlock it. ||||
+vierme21|A vierme lived there, once; I do not know if they remain. But I know this; that they were captive like me, and cast off their oppressor. Recover their [[spellbook]] and I might do the same. ||||
+p248|Okay, but I have some questions first.||||
+vierme22|By all means. ||||
+p249|I'll get going, then.||||
+vierme23|Thank you, and good luck.||||
+p250|And what if I say no?||||
+vierme24|Then I suppose we would settle this matter as animals, with tooth and claw. But beware, trespasser; my bite is more dangerous in your waking hours. ||||
+p251|No deal, monster. Prepare to die. ||||
+vierme25|So be it. Savour these moments, trespasser, for they are your last. ||||
+vierme26|You have returned.||||
+vierme27|It is good to see you again, my friend. ||||
+p252|Tell me again how I can free you. ||||
+p253|Where can I find that spellbook, again? ||||
+p254|I've brought the spellbook.||||
+vierme28|I had worried it was lost. This is an exquisite gift, mortal. ||||
+vierme29|<<The vierme flicks to a certain page of the book and tears it free. She speaks a flurry of cipher and the air turns cold. A sound reverberates in your mind like a thousand glasses smashing.>>||||
+vierme30|Oh, I feel it already - a great weight has been lifted! ##I have my freedom, and you have my sincerest thanks. ||||
+vierme31|I will fly through the skyrealms once more, to take in wonders and beauty both. The kiss of a free vierme is a wonderful thing, mortal; you will share in my euphoria when you wake in your bed.  ||||
+p255|Uh... thanks.||||
+p256|My pleasure.||||
+p257|How does it feel to be free?||||
+p258|What sort of creature are you? ||||
+vierme32|I am a vierme - named after the parasite that lives inside me. It hungers for more than just flesh. Human thoughts, feelings, emotions - these are its sustenance. And so my kind stalks through the night, feeding on dreams. ||||
+p259|I think I'm a vierme, too. ||||
+vierme33|<<The vierme sniffs the air with a quizzical look.>> Ah,  yes; I can smell it now. Very faint; you must have been infected recently... ||||
+vierme34|A word of advice. If you can find some way to rid yourself of it, do it quickly. Over the years it will merge with your flesh, until the mortal and the monster are one.||||
+vierme35|Look at me, young vierme - look at your wretched fate. You do not want this. ##Grow old, and happy, and die with pride. ||||
+p260|Tell me about this parasite. ||||
+vierme36|The vierme parasite is a long, serpent-like maggot. It festers in unseemly places and drops on its prey - quickly forcing itself inside their mouth. ||||
+vierme37|It slithers down their throat and lodges in their bowels. Its toxins cloud their mind, veiling the latent horror with a false euphoria. ||||
+vierme38|The parasite cannot survive on normal food; it will force its host to choke it back up. Instead, in the dead of night, they crave the warmth of human skin. When the parasite feeds, it emerges from the host's mouth and uses its own teeth. ||||
+vierme39|For the first century or so, the host appears not to age. But with time, the parasite merges with its host, until the two become one, and they look like... me. ||||
+p261|What sort of life have you led?||||
+vierme40|I have lived for four hundred years; but I was not always the twisted vierme before you. Long ago I was a human girl, not so different from any other. ||||
+p262|Tell me about your 'youth'. ||||
+vierme41|As a girl I was called... Ezra Thornwood. I have not spoken that name for a long time.||||
+vierme42|My parents and I were refugees from the World Rend, if you can believe such a thing. We were lucky enough to be aboard an Emberian skyship which crashed on these isles. I was five years old. ||||
+vierme43|Few remember it now, but Hallow Town started as a camp of those survivors. As a young girl, my parents gave me a harp and taught me the old Emberian songs. Beautiful stories of the great cities that I, nor anyone else, would ever see again. ||||
+vierme44|It was in the woods that it... entered my throat. The parasite. I choked, retched - but to no avail. My parents would not consult the local Wikkans, as the Emberians were proud, secular folk. That night they found me feeding on my mother, the parasite half-emerged from my mouth.||||
+vierme45|I fled, and never saw my parents again. ||||
+p263|Tell me about your life as a vierme.||||
+vierme46|I travelled the skyrealms for a long time, moving from island to island. When I returned to my childhood home of Hallow Town I was more than a century old, though I looked not a day over twenty.||||
+vierme47|Everyone I knew was dead. I remember sitting at the graves of my parents for days, trapped in a silent grief. ||||
+vierme48|I found my old harp for sale - an antique. I bought it and played at the tavern, but everyone had forgotten the old songs. Folk followed the Wikkan ways; the Emberian cities had faded into myth. ||||
+vierme49|I doubt you can understand what it feels like to be a stranger in your own home. ##But I settled here, in Hallowshire. Made my fortune. Built this manor.||||
+vierme50|With time the parasite merged with my body. I was human no more; an elder vierme. ##It was harder to hide, and eventually, that damned kresnik found me here. ||||
+p264|Thank you for your story. ||||
+vierme51|That's quite alright. If I am honest, I enjoyed telling it to someone. Thank you, for that. ||||
+p265|That's all I wanted to know.||||
+vierme52|Very well. ||||
+p266|How did you become imprisoned here? ||||
+vierme53|You may have met the... ((caretaker)) that skulks on my grounds. Do not be fooled; that man is a [[kresnik]], a hunter of my kind.||||
+vierme54|They claim to hunt parasites, but there is irony in that. For they do not kill their quarry but entrap them; bind them in their homes and live in their place.||||
+vierme55|It is more than simple theft. The kiss of a vierme is coveted by some. He comes to me, often enough - offering his flesh so this farce may continue. ||||
+vierme56|It has been fifty years now. First his father, who passed it to the son - they hunt in packs, you see. This infernal cipher seal prevents me from harming him, and the further I move from it the weaker I become. If I were to leave this island I would surely die. ||||
+vierme57|That infernal cipher seal prevented me from harming him, and the further I moved from it, the weaker I became. But with your help -after thirty years of entrapment - I am finally free. ||||
+p267|Farewell. ||||
+FrostFix1|<<You wake up breathless and drenched in sweat, your thoughts racing. You know where you must go.>>||||
+FrostFix2|<<You know from the vision; from flying over the [[Corrupted Lands]] with Vela. Past the [[abandoned diggers]], down to the very [[south-eastern tip]]; to the [[Lost City of Progress]]. ((That)) is where Horace's memories lie.>>||||
+SkiffHinter1|<<The man, dressed in elegant fineries, is grumbling over a weathered map .>> ##...This thing is more useless than a ((bloated god-corpse...))||||
+SkiffHinter2|<<Suddenly he notices you.>> Ah! You there! Perchance could you help a ((humble)) merchant in his time of need, eh? ||||
+SkiffHinter3|II have a sizeable delivery of Scryshroom Tea, bound for the Clockwork Kingdom. ##Now before you say it, I know, I know - the border crossing is [[locked up tight.]] But you see, I've been in contact with the only fellow around here who has an [[import permit]] for this bloody kingdom of cogs, or what-have-you. ||||
+SkiffHinter4|What was his name - M... Mika? Makka? Ah, it escapes me. ##But, the point is I can't bloody well ((find)) him, can I? This old map is all wrong! ||||
+SkiffHinter5|So, if you've seen the chap, will you let me know? There'll be coin in it for you. ||||
+p301|Mikhail? Yes, he's due south of here - along the cliffside. ||||
+SkiffHinter6|Ah, my saviour! Fat lot of good this map did me, eh? They should get ((you)) to pen the bloody things.||||
+SkiffHinter7|As promised, here's some [[coin]] for your trouble - well earned, I must say. ||||
+SkiffHinter8| Now, since my assistant has left me in the lurch, I suppose I'll have to shift this cargo myself. <<He pauses.>> ## ...Ah, ((godsdamnit...))||||
+p302|Sure, I'll let you know if I see him. ||||
+SkiffHinter9|<<He nods.>> You are most kind. In the meantime, I'll return to deciphering this ((blasted)) map...||||
+p303|Hold on - do you think he can get ((people)) into the Kingdom?||||
+SkiffHinter10|<<The merchant frowns.>> Well, I dare say there isn't any ((other)) way to get into that blasted place - if you were desperate, it'd be worth a punt.||||
+SkiffHinter11|But why ((anyone)) would want to go there is beyond me. By all accounts, the King's policies have plunged the kingdom into turmoil. A loaf of bread is said to be worth more than a skyship! Why do you think I'm trying to flog this tea?||||
+SkiffHinter12|Ahem. Anyhow, do let me know if you see him, won't you?||||
+p304|I'm not some hired hand. ||||
+SkiffHinter13|<<He looks you up and down.>> Hmph. No, I ((suppose)) not. ##Well, good day to you. ||||
+SkiffHinter14|Ah, we meet again. I don't suppose you've caught sight of that fellow with an [[import permit to the Clockwork Kingdom]]?||||
+p305|No, not yet.||||
+SkiffHinter15|<<He nods.>> I see, I see. Well, back to the map, I suppose. Maybe it's upside down...||||
+cwkGatebridge1|Greetin's traveller. I'm sorry, but if you're a Clockwork citizen lookin' for refuge in the Apostatic Union, y'er gonna need an [[Apostatic Union Passport]] to cross this gatebridge. ||||
+cwkGatebridge2|Y'see, lots'a folk have been tryin' to flee the chaos of the Clockwork King, 'an this gatebridge 'as been designated to help Union folk - an' ((only)) Union folk - make the crossing. Nobles in Hallowshire reckon the place has enough problems without an influx of refugees. ||||
+casSurvivorA1|Have you come from outside? It's not safe out there!||||
+casSurvivorA2|There's...things out there, I saw them out my window. They were like...like... ||||
+casSurvivorB|<<The woman gives a series of sputtering, rattling coughs. >>##Augh...I'd stay back, if I was you. I'm...##<<The rest of her words are unintelligible, lost again in a spasm of coughs.>>||||
+casSurvivorC1|It's so clear out here! So clean!##You...you were the one who came from outside...did you do this? ||||
+casSurvivorC2|Thank you, then! A thousand thank yous!##Here, take this.||||
+casSurvivorC3|But, if you don't mind my asking.. how did you do it?||||
+casSurvivorC4|<<Her bright face falters as you unfold your tale.>>##I...I cannot say I am not grateful, but you'll excuse me if...that is... Leave us, please! You've...you've done enough!||||
+casSurvivorC5|Leave us, please! You've...you've done enough!||||
+casSurvivorC6|<<She looks at you bright-eyed.>>##Thank you so much. For everything.||||
+casSurvivorCP1|Just happy to be of service.||||
+casSurvivorCP2|<<Do not answer>>||||
+casSurvivorCP3|<<Tell her what you've done.>>||||
+casSurvivorCP4|<<Leave out the dark parts>>||||
+secretAdv1|Hm, what's this? ((Another)) would-be adventurer on this drifting rock? I dare say, it's getting crowded here.  ||||
+secretAdv2|So, out with it, then - are you ((also)) seeking the [[treasure]] that lies behind that stone door? ||||
+secretAdv3|Uh, I guess so.||||
+secretAdv4|Well, this just can't do! We can't ((both)) claim ownership of whatever lies beyond that door - imagine the embarrassment of admitting to the Riovan Spelunker's Guild that you had ((help!))||||
+secretAdv5|Uh, I have no idea what you mean.||||
+secretAdv6|<<He squints.>> Hmm. Playing coy, are we? Well, let's assume you're telling the truth.||||
+secretAdv7|I'll tell you what. If you help me get this door open - and stand aside when I lay claim to whatever waits within - I'll reward you ((handsomely)).||||
+secretAdv8|Nothing from this ancient cave, of course- but you can have something [[truly priceless]] from my merchant vessel in recompense. ||||
+secretAdv9|All you have to do is [[pull this lever]] here, which will start some sort of timer. Then, you need to find [[ten secret switches]] that will unlock the door mechanism, before the [[time runs out]].||||
+secretAdv10|Only, a catch: it seems as though the [[switches]] were themselves quite valuable, and have been plundered by the locals. For all we know, they could be [[scattered all over the Oneiric Isles.]]||||
+secretAdv11|Quite a conundrum, eh? But remember - if you manage to open that door, I'll make it worth your while, and then some.||||
+secretAdv12|<<The adventurer yells furiously.>> ((Squidshit! Typhos-crap! Son of a silkslug! Confound it all!)) ||||
+secretAdv13|Uh, are you okay?||||
+secretAdv14|What's the matter?||||
+secretAdv15|The treasure! It's... it's...||||
+secretAdv16|((It's a bloody I-O-U!))||||
+secretAdv17|Look, this tablet here. In the prehistoric writings of the skydweller tribes, this roughly translates as... ||||
+secretAdv18|((The great treasure hoard of...)) uh, I believe this translates as ((the Cloud Rider tribe))... ##((...has been loaned to our brethren of the Drifting Isles, for use of their... hot springs?)) ||||
+secretAdv19|...##...||||
+secretAdv20|...the bastards ((gave it away!)) ||||
+secretAdv21|<<He sighs.>> Well, you got the blasted thing open, so I suppose I should honour our deal. ||||
+secretAdv22|You may have my [[Adventurers' Cabin]], and all that lies within. I ordered my servants to dismantle it for transport. ||||
+secretAdv23|Now leave me. Perhaps there's still a gemstone left in the dirt, somewhere... ||||
+cephalokAgent1|I've been sent to keep track of this giant cephalok. It only turned up recently, and has some bigwigs in Hallowshire spooked. ||||
+cephalokAgent2|Apparently, legends tell of some wikkans who built a castle inside of a cephalok's shell - but, that sounds like nonsense to me. And what am I supposed to do, crawl inside of its throat? ||||

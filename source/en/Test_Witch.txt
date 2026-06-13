@@ -1,0 +1,11 @@
+ID|Key|isChoice|Choices|Can Exit|Return|Next|Conditions|Actions|English(EN)|French(FR)
+1|Greeting|||||2|||What do we have here? Another outcast from the city of shit and steel, no doubt.|
+2|Queston1|||||3|||Tell me, has your God cast you away to die?|
+3|Q1_Choices||4,5,6|y|1|||||
+4|Q1_C1|1||||7|||Yes|
+5|Q1_C2|1||||8|||No|
+6|Q1_C3|1||||9|||I don't have time for this.|
+7|Q1_A1|||||9|||At least you recognise the absurdity of that damned place. |
+8|Q1_A2|||||9|||So, you're loyal to that heap of metal? You really are a lost cause.|
+9|Q1_A3|||||0|||Since your people came and built that abomination, this land has been slowly rotting. So I'll be keeping an eye on you, outcast.|
+10||||||||||

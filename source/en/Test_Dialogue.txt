@@ -1,0 +1,11 @@
+ID0|Key1|isChoice2|Choices3|Can Exit4|Return5|Next6|Conditions7|Actions8|English(EN)9|French(FR)
+1|Greeting|||||2|||Hey, how are you?|
+2|Queston1|||||3|||What do you want to know?|
+3|Q1_Choices||4,5,6|y|1|||||
+4|Q1_C1|1||||7|||Are you Bob?|
+5|Q1_C2|1||||8|||What's cookin'?|
+6|Q1_C3|1||||9|||I'm outta here.|
+7|Q1_A1|||||3|||No, I'm not Bob. Who's Bob?|
+8|Q1_A2|||||3|||Spaghetti. Well, not literally.|
+9|Q1_A3|||||0|||Uh, okay. Catch you later.|
+10||||||||||

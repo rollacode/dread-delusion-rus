@@ -1,0 +1,883 @@
+|||||
+ID|English|French|German|Spanish|Italian
+p0|Farewell.||||
+pq1|Can I ask you some questions?||||
+pq2|Okay, I think I get it.||||
+pq3|Got it.||||
+pq4|Actually, I had other questions.||||
+pq5|That's all I wanted to know.||||
+pq6|I'm looking for someone.||||
+pq7|Have you heard of the Emberian?||||
+pq8|What do you know of Vela Calose? ||||
+pq9|Thanks for your help. ||||
+mentor1|Ah, the [[Blinding Light.]] I remember when we captured this place from its Union ((caretakers.)) ##<<He smirks.>> Back when we thought we could get away with ((anything.))||||
+mentor2|Was there summin' else?||||
+mentor3|<<The man drums his fingers on the table as his eyes dart around. He does not look at you as he speaks.>>||||
+mentor4|B'gone with you. I'm waiting for someone.||||
+p1|That person is me. I'm with the Inquisition. ||||
+p2|You're Vela's Quartermaster? I've been looking for you.||||
+p3|I'll be going, then. ||||
+mentor5|<<His eyes snap towards you.>> Hmm. So ((you're)) the agent? Must admit, I expected someone a little more... <<He spits.>> ((Inquisitorial.))||||
+p4|Looks can be deceiving. ||||
+mentor6|<<He squints.>> Squidshit. I can see the marks on your wrists from the shackles. You're a ((Confessor)), aren't you? Little more than a prisoner.||||
+p5|I'm a Confessor. More of a ((prisoner)) than an agent.||||
+mentor7|<<He laughs, but his eyes stay on you.>> ##Ah, so you're with the ((Confessor Division.)) That explains it.||||
+p6|I could say the same to you, old man. ||||
+mentor8|<<A thin smile betrays itself.>> It's true, these old bones ache. But at least I'm a ((free man,)) eh? I can see the shackle marks on your wrists - you're not an agent. You're a ((Confessor)).||||
+mentor9|Those bastards - they mean to ((insult)) me, by sending one of their ((expendable rabble)). They've hunted me for years, and now they don't even deign to send an agent. ##<<He looks around.>> At least, not to my face.||||
+mentor10|<<He hisses, teeth gritted.>> So, out with it, Confessor. Has she found it yet? Is it... ((alive?))||||
+p7|Has ((who)) found it?||||
+mentor11|((Vela)), you inebriated ((fool!)) Who else would I be speaking of?||||
+p8|What are you talking about?||||
+mentor12|<<For a moment, he simply stares at you, brow furrowed.>>||||
+mentor13|Ach, they really haven't told you ((anything)), have they? I may as well be speaking to a silkslug. ##Do you at least know where Vela ((is))?||||
+p9|She escaped on a sloop. ||||
+mentor14|<<He nods.>> Sounds about right. ||||
+p10|I tried to apprehend her, but... I failed.||||
+mentor15|Well of ((course)) you failed. Vela Calose, fearsome leader of the Dark Star mercenaries, against... ((you.)) Not much of a contest, eh? ||||
+mentor16|She'll have gone to the [[underlands]], to rendezvous with any Dark Stars that are still loyal. ##<<He gazes out the windowpane.>> Of course, the question is ((where)). The underlands are far larger than the skyrealms; she could be anywhere...||||
+p11|What are the underlands?||||
+mentor17|<<He frowns at you.>> Surely, you jest. What are the ((underlands?)) Will you ask me about the neuron stars, next?||||
+p12|No really, what are the underlands?||||
+mentor18|<<His frown deepens.>> They are the lands. That are ((under.)) The skyrealms. Did they extract your mind with a hook, in that cell?||||
+mentor19|<<Seeing your blank expression, he sighs.>> When the world was destroyed in the World Rend - over four hundred years ago, now - its surface was turned into an inhospitable hellscape. ((Those)) lands are the underlands.||||
+p13|Uh, what's a neuron star? ||||
+mentor20|So the Inquisition seek to mock me by sending an imbecile, is that right? Well, I won't lower myself to your foolishness. ||||
+p14|Yes, a... fine jest. Let's move on. ||||
+mentor21|<<He nods, still frowning.>>||||
+p15|How do you know Vela's gone there?||||
+mentor22|She hunts something there - she has done, for years. Something... of terrible power. ||||
+mentor23|I can't tell you ((exactly)) what it is. Only that she plans to use it to meddle with ((reality itself)), which could be the doom of us all. ||||
+p16|So, you'll help me find Vela? ||||
+mentor24|That's the deal that I've struck with your ((Inquisition)), isn't it? Hunt my former comrade - and my Dark Star crewmates - for the Polymath's Pardon. After this, I'll be a traitor to ((everyone)). ||||
+mentor25|<<He sighs, leaning back.>> Well then, Confessor. We may as well get to know each other. What did you... <<He waves his hand around. >> ((do)), before rotting in a cell?||||
+p17|I was a soldier.||||
+mentor26|Hmph, a regular grunt of the battlefield, eh? No doubt you've seen your fair share of spilled blood, all in the service of some foppish Union lord.||||
+p18|I was a mercenary.||||
+mentor27|Ah, a cutthroat after my own heart. The nobles in Riova can preach their drivel of ((honour)) and ((unity)), but we both know that in the end, it's the coin in one's purse that gets you through.||||
+p19|I was an inquisitor.||||
+mentor28|<<He squints at you.>> So you really ((were)) an agent, eh? Hah! Betrayed and brought low by your masters. Tell me: did you savour, in that damp cell, the ((irony)) of your entrapment?||||
+p20|I was an assassin.||||
+mentor29|<<He squints at you.>> So you're one to keep an eye on, eh? I'll admit, even when we've been forced to use your kind, I've had no love for ((that)) profession. To kill a man while he sleeps - there's no decency in that. ||||
+p21|I was hired muscle.||||
+mentor30|I see. Probably running drugs and potions for the cartels, correct? Or cracking some skulls when money's due? Not that I can judge; we had plenty of contacts in your line of work. ||||
+p22|I was a thief.||||
+mentor31|Not an easy life, eh? Of course, we hear tales of those who lift treasures with ease and disappear into the night - but more often it's broken teeth and a month in the cells, correct? Yes, you know that all too well, I can see. ||||
+p23|I was a lore broker.||||
+mentor32|A keeper of secrets? Interesting. When work was scarce, we'd often go plundering ancient and dark places -and we'd always be sure to bring one of ((your kind)) along.||||
+p24|I was a fixer.||||
+mentor33|Knowledge is ((power)), indeed. You're a good person to know, that's for sure. There's been many a time when a whisper here, or a tip-off there, has been more useful than a galleon full of cannons. ||||
+p25|I was an adventurer. ||||
+mentor34|Ah, a free spirit - how ((delightful.)) It must be nice to set off alone, going where the wind takes you, eh? Of course, I've known plenty who've done just that, and ended up clutching their spilled guts in a ditch somewhere. I reckon you should count yourself lucky.||||
+p26|I was an aetherist.||||
+mentor35|A scholar of the cosmos? I must admit, your kind has always fascinated me. That someone would strap together a bunch of wood, weave it with a spell, and let it carry them into the endless void? What bravado! What ((stupidity!))||||
+p27|I was a scholar.||||
+mentor36|Ah, happier behind a desk than wielding a sword, are you? There's no shame in that. And I suppose those books are quite heavy; if you find yourself in a scrape, you can always bludgeon someone to death with one, no?||||
+p28|I was a politician.||||
+mentor37|I must say, I've no love for those who hide behind petty arguments and legal nonsense. I've been to Riova more times than I care for, and each time I'd rather have been in a den of drunken brigands. ||||
+p29|I was a battle-councillor.||||
+mentor38|Ah, so you fought in election campaigns? More gruelling than any of the military sort, I'd wager. Saw one in Byonne, once; the losing party was cut into bloody pieces. All they wanted was better tax levies. ||||
+p30|I was a noble, then... a thief.||||
+mentor39|Ah, fell on hard times, did we? Privilege can crumble into poverty without a moment's notice. At least you had the wits to make the best of it. ||||
+p31|I was an occultist.||||
+mentor40|<<He grins.>> An occultist, under Inquisition employ? Now I really ((have)) heard it all. I'm surprised they didn't gouge out your eyes for exchanging niceties with a garden spirit. ||||
+p32|I was a socialite.||||
+mentor41|Ah, a hard day's work was ((beneath)) you, was it? Well, looks like the tables have certainly turned. Bet that silver tongue didn't serve much good in that damp cell now, did it?||||
+mentor42|Anyway, it doesn't matter now, eh? You've lost it all. Hit rock bottom. ((That's)) something I can respect. <<He smirks, and raises his drink to you.>>||||
+p33|I'd rather not say.||||
+mentor43|Like to keep your cards close to your chest, eh? I can respect that. Shows you've got some wits, at least.||||
+mentor44|As for myself, my name is Jack Basalt. I suppose you've heard of me. <<He takes a sip from his tankard.>>||||
+p34|I've not heard of you, no.||||
+mentor45|<<He chokes on his drink, sputtering.>>##Well, I... I guess not ((everyone)) has heard the stories, eh?||||
+p35|Captain Basalt? The shame of the Union Navy...||||
+mentor46|Aye, the one and same. ||||
+p36|Does it matter? ||||
+mentor47|The name? I suppose not. ##But if we're going to tracking down Vela, you should know a thing or two. ||||
+mentor48|For a time, I was the most respected captain in the Union Navy. I took orders directly from [[Admiral Calose]] - ((Vela's father.)) ##And for five years, I trained Vela aboard my ship.||||
+mentor49|When Vela defied her father and fled to become a mercenary - I followed. I gave up my rank, my station, my ((ship)), to spend my years cavorting with Wikkans and pirates. ((Shame)) of the Union Navy, they branded me... ||||
+mentor50|<<He stares down, into his drink.>>##But I kept her ((safe)). Was that not ((also)) my duty?||||
+p37|So you ((trained)) Vela? ||||
+mentor51|Aye, Vela and...the Emberian. Though they'd been schooled at the Academy, their father wanted 'em to sling their hammocks and tie their knots like regular sea dogs.||||
+mentor52|And so they did; through blizzards, cipher storms and cannon volleys. Those sisters thrived, until... ##until the ((Dyshaan massacre.))||||
+mentor53|<<He thumbs the rim of his drink.>> I won't speak of that here. Not here. But that was the day Vela decided to leave the navy, an' her father. That was the day we became mercenaries. ||||
+p38|So why are you hunting her? ||||
+mentor54|You have to understand, I love that girl like she's my own. I've seen her grow from a headstrong child into a fierce captain, and there was a time - when we were sailing together as Dark Stars - when I thought she might be the ((greatest)) of 'em all.||||
+mentor55|So, to see her fall into barbarism and villainy... has been ((hard)). I can't abide by what she's done, or by what she ((will do)). She seeks to save us, but she'll likely ((doom)) us.||||
+mentor56|So I have to stop her, you see? For her ((own)) sake. ||||
+p39|Right, so how will we find Vela?||||
+mentor57|Hah, you're asking ((me))? As I said to your masters, I can provide naught but shreds of information. You'll have to do the rest. ||||
+mentor58|What I have for you are [[three names]]. Names of former Dark Star mercenaries, who left Vela's crew after [[the mutiny]]. Together, maybe the lot of us can track her down.||||
+p40|What's this about a mutiny?||||
+mentor59|Few years back, Vela found a map. A map that pointed to something... ((impossible)).||||
+mentor60|She'd use it to make a ((heaven)) of the skyrealms, she said. Change the fabric of reality, so folk don't know poverty, or injustice - or even ((death.))||||
+mentor61|I'm sure she believed it. Believes it ((still)). But for a lot of us Dark Stars, it scared us witless. You just don't go ((meddling)) with things like that - 'less you wanna die screaming.||||
+mentor62|We tried to convince her - to make her see reason. But she took us down into the underlands anyway, on that mad pursuit... ##So we mutinied, and the Dark Stars spilled their own blood on those skyships. ||||
+mentor63|In the end, Vela escaped with those loyal to her; and the rest of us scattered to lick our wounds. A wicked time, that was. ||||
+p41|Okay, tell me about these mercenaries.||||
+mentor64|First, there's the [[Emberian]]. Called that, 'cos folk say she's the ((last)) of their kind. Of course, that's pure squidshit - if she was Emberian she'd be four hundred years old. I've heard talk she's somewhere in [[Hallowshire.]]||||
+mentor65|Next there's the [[Endless Duchess]], a powerful cipher wizard. She went back to her ancestral home in the [[Endless Realm]] - and like all those you'll find there, she's cursed to never truly die. ##<<He smirks.>> Which means ((she)) really ((is)) hundreds of years old.||||
+mentor66|Finally, there's [[Caxton Frost]]. A genius of the [[Clockwork Kingdom]]; that man could engineer a skyship from a sack of junk. Last I heard, he'd returned to his homeland. ||||
+p42|And you're sure they'll help us?||||
+mentor67|Am I ((sure)) they'll follow you to their certain deaths? Of course not, you fool! They'll probably try and cut your head off.||||
+mentor68|But if you want to find Vela, you're just going to have to ((ask nicely.))||||
+p43|And if they ((do)) agree?||||
+p44|Got it.||||
+mentor69|You lot must have captured Vela's Fortress, the [[Blinding Light]] - correct? I heard the cannon fire from here. ##Tell you what, I'll head there myself, after this little chat. And if you find any of those Dark Stars? Send 'em there and all.||||
+mentor70|<<He affixes you with a grim stare.>> And that ((thing)) Vela's looking for? ||||
+mentor71|She mustn't use it. Nobody must ((ever)) use it. You hear me? If you've any sense, you'll make sure it stays ((buried)) down there.||||
+mentor72|<<He shifts, suddenly nervous.>> Right. Well I think we're done here.||||
+p45|Can I ask you about something?||||
+mentor73|And what might that be? ||||
+p46|About the Dark Stars I'm looking for...||||
+mentor74|Right. You want to hear some more info?||||
+p47|Tell me more about the Emberian.||||
+mentor75|The Emberian - that's what people call her, but I knew her as [[Orlaith]]. She's been close to Vela for years, and is one of the few who can match her with a blade.||||
+mentor76|She was one of the first of the Dark Stars. Time was, it was just me, Vela and Orlaith, setting out on a wobbly sloop. By the end, Orlaith was captain of the [[SHIP]], and second only to Vela.||||
+mentor77|She wears an ancient suit o' Emberian armour, and on account of that, folk like to say ((she's)) four hundred years old, too. Of course, that's a load of nonsense...||||
+mentor78|After the mutiny, she set out on her own. I heard whispers she set up camp somewhere in [[Hallowshire]], but I can't tell you any more than that. ||||
+p48|Tell me more about the Endless Duchess.||||
+mentor79|The [[Endless Duchess]] - she's a powerful cipher wizard. She went back to her ancestral home in the [[Endless Realm]] - and like all those you'll find there, she's cursed to never truly die. ||||
+p49|Tell me more about Caxton Frost.||||
+mentor80|Frost called himself a 'techno-archaeologist' - and if you laughed at that, he'd teach you a brutal lesson. That's why we dubbed him the Professor.||||
+mentor80b|The man always was an odd fish. Distant, melancholy. You never could quite tell what he was thinking. But no one knew more than him about ancient Emberian machines - or modern ones, for that matter.||||
+mentor80c|As for how to find him... well, he talks like a posh prat, but swears like a sailor. Doesn't suffer fools gladly, or at all. Has [[trouble walking]].##Oh, and he has a [[moth tattoo]] on his left arse cheek.||||
+mentor80d|Now, word on the Dark Star grapevine is that Frost is dead. Two crewmates saw him jump overboard one night, in open sky. Afterward they found a note. He sided with Vela in the mutiny, see, and couldn't get over what he'd done.||||
+mentor80e|But me? Nah. I won't believe it until I've stubbed out my own cigar in his cold dead eye. ##Frost always was a patriot at heart. If he's alive, odds are he's back in the [[Clockwork Kingdom]].||||
+p49b|How do you know about his tattoo?||||
+mentor80f|<<Basalt smirks.>> I'll leave that to your imagination, Confessor.||||
+p49c|Thanks for the intelligence.||||
+p50|That's all.||||
+mentor81|Alright, then.||||
+p51|About your past...||||
+mentor82|Hmph, dredging that up, are we?||||
+p52|Tell me of your time as a Captain.||||
+p53|Tell me of the Dark Star mutiny.    ||||
+p54|About Vela Calose...||||
+mentor83|What about her?||||
+p55|So you ((trained)) Vela? ||||
+p56|Why are you hunting her? ||||
+p57|What's she looking for, in the underlands?||||
+p58|About something else...||||
+mentor84|And what's that, now?||||
+p59|Okay, that's all. I'll get going.||||
+mentor85|Right. I'll be at the [[Blinding Light]].||||
+mentor86|Only... something tells me you won't be able to find them just yet. Call it a hunch.||||
+mentor87|Ah, the [[Blinding Light.]] I remember when we captured this place from its Union ((caretakers.)) ##<<He smirks.>> Back when we thought we could get away with ((anything.))||||
+mentor88|Alright. I'll be 'ere if you need me.||||
+mentor89|Right y'are. Anythin' else?||||
+mentor90|<<He nods.>> Confessor.  ##What can I do for you?||||
+p101|What do you know of Vela Calose? ||||
+innkeep0|Oh. An' who might that be?||||
+innkeep1|<<He chuckles.>> What kind o' innkeep do you take me for? I've heard more stories 'bout Vela than I can recount...||||
+innkeep2|Her Dark Star mercenaries fought in the Slevian Mutiny, the Battle of Weeping Wizards, an' on ((both sides)) of the Wikkan uprising of Hawkney. They've taken coin from Riovan councillors and occultist villages alike..||||
+innkeep3|<<He leans on the bar.>>##And when folk ain't been spilling each other's blood, they've gone a' plundering; Emberian ruins, Wikkan shrines... An' you know the tomb of the Deathless Dynast King? That was ((them)) that stole his face. ||||
+innkeep4|<<He leans in so close, you can smell his breath.>>##Some folk say she's a saint, who's gonna right the wrongs of the Union. Others say she's a ((devil)), who leaves a path of chaos in her wake. But you know what?||||
+innkeep5|<<He jabs the table, eyes wide.>>##She were 'ere, once. Two years ago, her and a load of her crew. They kicked everyone else out; must'a been ((fifty)) of the sods, getting pissed as skyfish. ||||
+innkeep6|An' I saw that she weren't no saint. She weren't no devil. She were...||||
+innkeep7|((Completely shitfaced.))||||
+innkeep8|<<He guffaws, wiping a tear from his face.>> I ((did)) warn her about that typhos rum. We made more coin that night than most weeks, I reckon. ||||
+p102|Thanks for your help. ||||
+innkeep9|Don't be mentionin' it. ||||
+p103|I'm looking for someone. Goes by the ((Emberian))...||||
+innkeep10|<<He furrows his brow.>> Oh, aye? And who's askin'?||||
+p104|I'm with the Inquisition. ||||
+innkeep11|<<His frown contorts further.>> Listen, stranger. Folk round 'ere don't take too ((kindly)) to the mention of... ((those)) lot. ||||
+innkeep12|Usually, when the Union's lapdogs come a'callin', it happens quick and it happens brutal. Spilled drinks, broken noses - and someone gets dragged out screaming. ||||
+innkeep13|And you sure don't ((look)) like one o' their agents. So I'll say again - ((who's asking?))||||
+p105|I'm serious. I'm with the inquisition.||||
+innkeep14|<<He stares at you for a good few moments.>> Well. I'm not saying I believe you. But...||||
+p106|I'm just curious whether the stories are true.||||
+innkeep15|Humph. Folk sure do like to wag their chins around here...||||
+innkeep16|Every now an' then, for the past year or so, we've had a lass in huge rusty armour stop by. ||||
+innkeep17|Soon as she slams open that door, folk go quiet. Perhaps it's her moody stare, or perhaps it's that greatsword that's bigger than ((her))...||||
+innkeep18|Or perhaps it's the stories. Y'see, people say that she used to run with Vela's crew - the ((Dark Stars)). ##They say she was a captain of one 'o their ships, and wore a full suit of ancient Emberian armour...||||
+innkeep19|But folk say it's not just the ((armour)) that's Emberian. They say that ((she's)) been walking the skyrealms ever since the World Rend, wandering for ((hundreds of years...))||||
+innkeep20|<<He chuckles.>> But, folk say a lot of things, don't they?||||
+p107|Do you know where to find her?||||
+innkeep21|Some say she lives in a castle. Others, a dank cave. But I don't think anyone's ever actually gone an' ((asked)) her...||||
+innkeep22|But y'know what? She often comes in all muddy an' smelling of thornweed. So, I'd wager it'd be somewhere in the [[forest to the west...]]||||
+p108|Thanks for the info.||||
+innkeep23|Well, just keep it between us, y'hear? Don't want that lass on my bad side...||||
+innkeep24|O' course. What ye be wantin'?||||
+innkeep25|Now, will there be anythin' else?||||
+p121|I'm looking for someone.||||
+odd1|Oh? Well I can certainly try and be of assistance. ||||
+p122|Have you heard of the Emberian?||||
+odd2|Ah, why yes, I have. She's quite the talk of the town; many people have seen her striding around in that antique armour. ||||
+odd3|In fact, she came by this shop, not too long ago. I tried to determine where she obtained that Emberian equipment of hers, but she was very tight-lipped about it. ||||
+p123|Do you know where I can find her?||||
+odd4|Well, I ((did)) ask her where she was staying - I must admit, I'm just quite nosy like that - and she confessed that the luxuries of the town were not to her liking, though she wouldn't say more on the matter. ||||
+odd5|But after she left, I could see her out of my window, making her way back. She strode into the [[forest]], to the [[west]] of Hallowshire. ||||
+odd6|Of course, with her interest in all things Emberian, I'd wager she'd have taken an interest in that small ruin in the forest. The one with the [[old rusty turbine]], that you can see rising from the trees...||||
+odd7|Oh, but I really shouldn't be telling you all this, should I? Customer confidentiality, and all that. Maybe keep it between us, hmm?||||
+p124|Thanks for the information.||||
+odd8|That's quite alright. Now, was there anything else? ||||
+p125|I'm looking for an Emberian key.||||
+odd9|Looking for Emberian antiques, are we? Well, you've certainly come to the right place.##I have a small collection of bits and pieces, from the relatively modest... <<he holds up a rusty piece of junk,>> to the downright ((exquisite.)) <<He holds up another piece of junk.>>||||
+p126|What's with all the rusty junk?||||
+odd10|<<He stammers, affronted.>> Why... I'll have you know that these are ((priceless artefacts)), created by legendary Emberian blacksmith-factories before the World Rend. We will never see the likes of such craftsmanship again!||||
+p127|Yes, but what actually ((are they?)) ||||
+odd11|Well, this one is... some type of... component? And this here, well this was clearly an elaborate type of metal... rod! As I said - ((priceless!))||||
+p128|Oh, I see now. Yes, exquisite indeed. ||||
+odd12|I'm glad you recognize quality when you see it!||||
+p129|I need a key, to open a nearby ruin. ||||
+odd13|Ah, yes - I often get requests for keys.##There are plenty of old Emberian ruins that - despite being hundreds of years old - have proved impervious to spelunkers and scavengers. So, would-be treasure seekers pin their hopes on a key...||||
+odd14|...but there are innumerable old keys, and innumerable old doors. As I tell most budding tomb raiders, actually opening one would be a matter of astounding luck! ##Although...||||
+odd15|There was a woman that came by, not long ago, who seemed to know ((exactly)) what she was looking for. ||||
+p130|This woman - who was she?||||
+odd16|About town, she seems to be known as the [[Emberian]]. People seem to think that she's a relic of that time ((herself)) - which, of course, is pure tattle. ||||
+odd17|She does seem to be an avid collector, though.##The suit of armour she wears? I've never seen such a well-preserved relic. It outshines anything in my humble collection, that's for certain.||||
+p131|What did she buy?||||
+odd18|She bought a key. She described its kind in very specific detail.||||
+p132|Do you know what that key unlocks? ||||
+odd19|Hah! If I did, I would have closed shop and gone off to use it, long ago!||||
+odd20|Though, in all honesty, I have often wished to test my collection of keys on that [[Emberian structure]] to the [[east]] of Hallowshire; if only the surrounding [[town]] wasn't teeming with bandits.||||
+p133|Can you tell me about this Emberian ruin?||||
+odd21|Well, it's been sitting there since before the World Rend, of course. As far as I'm aware, the town of [[Rustburg]] grew up around it, as people tried to prise it open and plunder its treasures...||||
+odd22|...but they never succeeded. Emberian metal is inscribed with cipher, after all - to make it nearly impenetrable.||||
+odd23|Eventually the town was destroyed in the God War, for harbouring Wikkans. It's been home to all sorts of scoundrels and ruffians ever since, but I sincerely doubt they've had better luck with the Emberian ruins. ||||
+p134|Do you have another key? I want to buy one. ||||
+odd24|<<He rummages around in a box of assorted metal parts.>> Ah-ha! You are in luck, my friend. This [[Emberian Key]] seems remarkably similar to the one I sold not long ago. ||||
+p135|About that Emberian key...||||
+odd25|Ah, yes - this [[Emberian Key]] seems remarkably similar to the one I sold not long ago, to that woman in Emberian armour.||||
+odd26|Of course, what with this one being so ((high in demand)), I couldn't let it go for less than [[twenty coins.]]||||
+p136|Okay, here's the coin.||||
+odd27|Splendid, splendid! Here you are; in remarkable condition, I'm sure you'll agree.||||
+odd28|Personally, I always wanted to test it in those [[Emberian ruins]] in [[Rustburg,]] to the east.##I have a hunch my ((previous)) customer had the same idea... ||||
+p137|@@ Twenty? You said yourself, it probably won't work...||||
+odd29|%% Hmph, I suppose you're right. Tell you what; just this once, you can have it free of charge. ##But if, by some ((miracle)) you do find some treasure with it, let me take it off your hands... for a ((fair price)), of course.||||
+odd30|Personally, I always wanted to test it in those [[Emberian ruins]] up past [[Rustburg.]] I have a hunch my ((previous)) customer had the same idea... ||||
+odd31|&& Nonetheless, though possibly useless, these keys are irreplaceable relics. Twenty coins, it is.||||
+p138|I'll think about it. ||||
+odd32|By all means. Now, was there anything else? ||||
+p139|Thanks for the information.||||
+odd33|That's quite alright. ||||
+odd34|Ah... terribly sorry, but it seems you don't have enough, there.||||
+odd35|Now, was there anything else? ||||
+p151|Have you heard of the Emberian?||||
+alch1|Oh, I saw her once, striding through town like she owned the place. Now, I'm not saying all the stories are true, but there's certainly summin' ((strange)) about that woman...||||
+alch2|She's never come in here, but I've heard she bought summin' from the [[Emporium of Oddities]], up by the end of the street. The one with the crystal spire.||||
+tailor1|Ah, that Dark Star mercenary? I've not spoken with her myself, but I saw her stride past the shopfront, once. ||||
+tailor2|I swear, everyone in the street froze in their place - even the guards. Something about her ((stride)), and that ((armour.)) I'd not like to bump into her after dark, let me tell you!||||
+poly1|<<She releases an exaggerated sigh.>> Unfortunately, I ((have)) heard of this nonsense. Some four-hundred-year-old warrior, yes? Who survived the World Rend and has been wandering about ever since, hitting things with her sword? ||||
+poly2|Please don't bother me with such idle chatter; I really don't have the time. ||||
+wpn1|((Heard)) of her? She's come into this 'ere shop, more than once!||||
+wpn2|Scared me witless, I'll say. That stare - and that ((armour)). There's something about it. I've been servicing equipment since I was a tyke, but I've never seen ((anything)) of that craftsmanship. ||||
+wpn3|She asked to use the workbench, last time. I saw her take off one of those pauldrons and tinker with it. It was full of the most intricate machinery - and she knew ((exactly)) what she was doing.||||
+wpn4|If you ask me, the stories are true, and she really ((is)) four hundred years old. After all, those Endless live forever, right? Who's to say the Emberians didn't figure it out, too?||||
+rustburg1|Now look 'ere. This is ((my)) tree, and that's ((my)) loot. So get lost, y'hear?||||
+rustburg0|You again?||||
+p201|Uh, do you live here?||||
+rustburg2|Aye, I've been 'ere for ((sixty years,)) since before the damned ((apostates)) blasted the place to smithereens. ||||
+p202|What is this town?||||
+rustburg3|Time was, this town was called [[Rustburg]], on account of all the merchants selling Emberian junk.||||
+rustburg4|Y'see, there's an old [[Emberian ruin]] up there; an' plenty of detritus. Though, in all the time the town's been 'ere, they never ((did)) crack open the big ol' doors. Some o' that magic metal still holds tight, no matter how many cannons you blast at it. ||||
+p203|Why is this place such a wreck?||||
+rustburg5|Well, 'bout forty years ago was the God War. The apostates - ((I guess we call 'em the)) Union ((now)) - they caught wind of some Wikkan holdouts, an' blasted the whole town with a fortress ship. ||||
+rustburg6|Hallow Town was fine, so most folk just moved there. Nobody ever rebuilt Rustburg. ||||
+p204|Thanks for the story.||||
+rustburg7|S'alright.||||
+p205|Do you know a way into the town?||||
+rustburg8|Y'need to get into that big stone tower, there. But there's two ways round, see. You can go the long way - with all the goblins an' moths, or you can go the ((special)) way. ||||
+p206|@@Can you tell me the ((special)) way in?||||
+rustburg9|%%Well, I guess you seem like an alright sort.||||
+rustburg10|When there were Wikkans living 'ere, they hid the nearby [[bridge]] with magic. It's right there, but you can use a [[Truth Potion]] to see it. Lets you sneak past all those gobbos real good. ||||
+rustburg11|&&Well, if I went telling every damn fool about it, it wouldn't be ((special)) no more, would it? So you can sod off. ||||
+p207|Okay, thanks. ||||
+rustburg12|<<He grunts.>>||||
+p208|I'll leave you be. ||||
+EmbCamp0|I thought I told you to get lost?||||
+EmbCamp1|<<The woman stands in full armour as she tinkers with an assortment of junk. Her head snaps around as you approach.>>||||
+EmbCamp2|Looks like you're ((lost)), wanderer. If you value your neck, I'd be lost someplace ((else.))||||
+p251|Wait - you're the Emberian, right? ||||
+p252|I'm looking for a Dark Star mercenary.||||
+p253|I'll make myself scarce, then. ||||
+EmbCamp3|<<She turns to you, grimacing, and shoulders her greatsword with a clang.>> ##Hmph. Another bounty hunter? ||||
+EmbCamp4|As I told the last of you sods, I don't sail with the Dark Stars no more - but I can cleave you in two all the same.||||
+p254|Basalt sent me. We're on the same side. ||||
+EmbCamp5|Basalt? So that old bastard put you on my trail, eh? The old sod never ((could)) keep his mouth shut. ||||
+p255|Woah - I want your help, not your head. ||||
+p256|It's Vela I'm after.||||
+EmbCamp6|<<You feel her gaze as she grips her sword.>>||||
+EmbCamp7|Oh yeah? And why, exactly, would you need little ol' ((me?))||||
+p257|I'm looking for Vela. We've got to stop her.||||
+EmbCamp8|<<Hearing Vela's name, she flinches.>> ##((Vela?)) I'm ((done)) with that devil, you hear? ||||
+EmbCamp9|If you want to stop her, be my guest. Cut her to pieces - sail a skyship into her corpse! Do it with my blessing, but I'll have no part in it. ||||
+p258|I'm looking for Vela. I want to help her. ||||
+EmbCamp10|And if you want to assist with her madcap plan, you're worse than the wretched bounty hunters - but following her into oblivion will kill you surer than I ever could. ||||
+p259|If I don't find Vela, I'm dead. ||||
+EmbCamp11|And if you think I'll track her down just to save your sorry neck, you're ((dead)) wrong. ||||
+p260|But I thought you and Vela were comrades?||||
+EmbCamp12|((Comrades?)) Hah! Vela was more than a comrade. ##<<She slams her blade upright.>> She was a ((sister)) to me. I owe my ((life)) to that girl.||||
+p261|Seems to me like you're ((scared)) of her.||||
+EmbCamp13|Pah! ((Scared!?)) ##<<She leans towards you, sword scraping against armour.>>||||
+EmbCamp14|Damn right I'm scared. And you should be too.||||
+EmbCamp15|Do you think she got her reputation with ((stern words))? I've seen her best a tavernful of ruffians with her good arm behind her back. I've seen her slice off the head of a voidbeast without breaking a sweat. I've seen her square up to a ((god)).||||
+EmbCamp16|But... she was also ((more)) than all that. She was a sister to me. I owe my ((life)) to that girl.||||
+p262|If she's such a devil, why did you idolise her?||||
+EmbCamp17|<<She shifts, and looks away.>> ##Time was, I thought she really could make the world better. Little by little, with blood and sweat and grit, I thought we were ((doing)) it...||||
+EmbCamp18|<<She inhales. >> ##But then she found it. ||||
+p263|What happened between you?||||
+EmbCamp19|<<She sighs.>> She found something. Before then, I thought... maybe we really ((could)) make the world a better place. But then... we found it, untouched for hundreds of years...||||
+EmbCamp20|A map. Buried in some Emberian tomb, that pointed to something impossible. I told her to ((leave)) it. To not put her faith in ancient, cursed things. ##She ((promised me)).||||
+EmbCamp21|But she led us to our doom, anyway. Vela plunged the Dark Stars beneath the clouds with our best ships - our flagship and galleon both - In pursuit of an Emberian artefact that was more likely to ((end)) the world than save it. ||||
+EmbCamp22|On that day she was not my sister. ||||
+EmbCamp23|As captain of the ((Black Goblin)), I told my crew to fire upon their comrades. We splintered the hull of Vela's ship with our cannons, before we boarded and clashed swords.##It was mutiny. ((Fratricide))...||||
+EmbCamp24|<<Her fists are clenched tight, trembling.>> But while I stalled her plans that day, I couldn't stop her. ##<<She twists her mouth into a grim smile.>> I never could. ||||
+p264|What is Vela trying to find? ||||
+EmbCamp25|Something called the [[Cradle]], buried deep in the underlands. What it actually ((is)), we don't know - but If Vela's right, it could be used to alter the very ((language)) of the cosmos. That means she could end poverty, suffering, even ((death)) itself...||||
+EmbCamp26|...but she's more likely to end the ((world.)) The Emberians were known to meddle with forces they couldn't control. She is a damn fool for chasing their accursed dreams. ||||
+p265|You have to finish what you started. ||||
+EmbCamp27|<<She laughs.>> I could not defeat her with a galleon of hardened mercenaries. What makes you think I would try again now? With naught but ((you?))||||
+p266|If you care for her, you have to find her. ||||
+EmbCamp28|((Do)) I? And what would you know of the matter? I sailed with Vela for years, while I've known you mere moments; what could you possibly know of our camaraderie?||||
+p267|You're just running away.||||
+EmbCamp29|<<She is silent a moment.>> Is there shame in running, when you have naught else to do but lick your wounds? ||||
+EmbCamp30|No, that chapter of my life is over. I will not chase that woman's dream any more, not to help nor hinder. I have a pilgrimage of my own to tread; my ((own)) answers to find.||||
+EmbCamp31|If you've come to seek help in finding Vela, my answer is still no. I have a pilgrimage of my own to tread; my ((own)) answers to find.||||
+p268|Maybe I can help you.||||
+EmbCamp32|Hah! And what makes you think I'd need your help? I can handle myself just fine. ||||
+p269|Will you at least answer my questions?||||
+EmbCamp33|I'll hear them. I can't promise to give them an answer. ||||
+p270|What are you looking for?||||
+EmbCamp34|<<She chuckles to herself.>> For a long time, I've had the strangest dreams. Of impossible cities that no mason could build, which twinkle with a thousand tiny stars...||||
+EmbCamp35|I want to know if my dreams are ((real.))||||
+p271|I don't understand. ||||
+EmbCamp36|<<She smirks.>> You wouldn't.||||
+p272|And where would you find your answer?||||
+EmbCamp37|There's another Emberian ruin here, in the Oneiric Isles - even bigger than this one. But without the right key, it's sealed shut.||||
+p273|@@And... where would you get such a key?||||
+EmbCamp38a|%%This type of key is rare - I paid a good sum of money for mine at that shop with the [[crystal spire,]] in Hallow Town.||||
+EmbCamp38b|But if you're thinkin' of following in my tracks, I'd think twice. That old Emberian ruin up by [[Rustford]] is likely full of perils. You'd only get yourself killed. ||||
+EmbCamp38c|&&I'm not falling for that. If you plan on following in my tracks, you'll only get yourself killed. ||||
+p274|Never mind, I had other questions...||||
+EmbCamp39|<<She grunts.>> So be it. ||||
+p275|Is it true you're a real Emberian?||||
+EmbCamp40|<<She flashes a cynical smile.>> ##If you're asking if I'm a four hundred year old immortal who's been lugging my sword around the skyrealms, I'll have to disappoint you.||||
+EmbCamp41|But there is some truth to those rumours. I know my way around those old Emberian ruins; some even feel like ((home.))||||
+EmbCamp42|And yes, this ((is)) authentic Emberian armour, pneumatics intact. This suit stopped a direct cannonball in the siege of Molavia... even if I ((did)) shit blood for a week.||||
+p276|I've met with Basalt. He's helping me find Vela.||||
+EmbCamp43|The old sea dog's still going, eh? I half thought he'd drowned himself with mushroom grog. ||||
+EmbCamp44|To tell the truth, I always respected the man. He was with us from the beginning, and I don't think the Dark Stars would have got far without him. ||||
+p277|Okay, that's all. ||||
+EmbCamp45|<<She nods.>>||||
+p278|Okay, I'll leave you be... for now. ||||
+EmbCamp46|<<She smirks.>> Something makes me think you won't give up easily - but I won't be staying here long.||||
+EmbCamp47|And for your own sake, don't bother following me. The place I'm headed isn't for the faint of heart, and if you try and track me down, I'd only have another foolish death on my conscience.||||
+EmbCamp48|Besides, without one of ((these...)) <<She holds up an ancient Emberian key>> ...you won't be getting very far.||||
+EmbCamp49|So, sod off and leave me in peace. ||||
+EmbBattle1|<<The Emberian breathes heavily, leaning on her sword.>>||||
+EmbBattle2|I could tell you were a persistent one. Though I have to admit, I didn't think you'd make it in here. ||||
+EmbBattle3|Still, you're lucky I got here first. These synthetics would have torn you limb from limb. <<She grins.>>||||
+p291|I came to help you. ||||
+EmbBattle4|<<She chuckles.>> I don't need your help, and I know you're only after mine. So, the answer's still ((no.))||||
+p292|I won't give up until you help me.||||
+EmbBattle5|Hah! Then your persistence will be the death of you. ||||
+p293|What a surprise! This is ((pure)) coincidence. ||||
+EmbBattle6|Oh, I'm ((sure.)) This place has been sealed up for hundreds of years, and suddenly two keyholders open it up at the ((same time?))||||
+EmbBattle7|Now, stay out of my way. Behind that door are the answers I seek - I've just got to catch my breath... ||||
+EmbVats1|<<The Emberian kneels, head bowed, sagging beneath the weight of her armour. Her body convulses. After a moment, you realise she's quietly sobbing.>>||||
+EmbVats2|<<Hearing you approach, she falls silent.>>||||
+p301|What is this place?||||
+EmbVats3|<<She looks around her, at the glass coffins and the bodies within.>> ##A good question. I've... searched for the answer... all my life. ||||
+p302|Is that... a corpse?||||
+EmbVats4|<<She sighs.>> It is. Whether they were once ((alive)), breathing the same air as us, I cannot say. ||||
+p303|Uh, are you okay? ||||
+EmbVats5|<<You catch a faint smile.>> Not really. ||||
+EmbVats6|You know... she ((found)) me in one of these places. In one of those... coffins.||||
+EmbVats7|It was Vela. She was eight years old.##When she pulled me out of that machine, coughing up ancient fluids, I couldn't have been much older.||||
+EmbVats7b|Nothing to explain who I was. How I got there. Just an inscription on the vat which read 'Orlaith'; so that's what they called me.||||
+EmbVats8|And so I was born into this world. I was lucky - Vela's father took me in, and schooled me like his daughter. But I never found anyone who could explain my strange birth. I never found anyone... like ((me.))||||
+EmbVats9|I thought this place might be different from the others - I thought it might ((explain)) something. But it's just another dead end. ||||
+p304|You were born from one of... ((those)) things?||||
+p305|So you really ((are)) an Emberian. ||||
+EmbVats10|Who can say? ##Perhaps, before the World Rend, I was raised by a loving family who thought I'd be safe here. Or maybe I'm just a child of machines and magic?||||
+p306|You didn't remember anything... from ((before))? ||||
+EmbVats11|I have ((dreams)) of long-lost places, but no recollection of a... family. Maybe I had one, once? Or maybe I was... ((made)), not born. ||||
+EmbVats12|I'll never know for sure; I understand that now. But though none of these rusted tombs have given me answers, each one has fuelled my ((anger)).||||
+EmbVats13|The Emberians threaded their needle through the world, altering its tapestry to their whims. And for what? The more I learn, the more I see their greed, their self interest - their lust for ((power)). ||||
+EmbVats14|And in the end, it destroyed them. It destroyed ((our world.)) Scholars can debate over scant evidence for an age, but who doesn't feel the truth in their guts? Four hundred years ago, the Emberians caused the [[World Rend]] with their feckless ambition. ||||
+EmbVats15|((That)) is their legacy, and I feel the weight of their sins. ||||
+p307|But how could ((you)) change that? ||||
+EmbVats16|What can anyone do about ages past, but try to banish their lingering phantoms?||||
+EmbVats17|For the Emberian age haunts us still. The Apostatic Union, the Inquisition, the Clockwork Kingdom... they all seek to harness that ancient evil. ##We can't repeat those mistakes. I thought Vela ((understood)) that...||||
+p308|So, Vela betrayed your beliefs.||||
+p309|So, you turned on your own crewmates. ||||
+p310|The Emberians are long gone; their guilt is not yours to bear. ||||
+EmbVats18|You are right. It should not be ((my)) guilt alone; it should burden us ((all)). For we can see, plainly as by starlight, the injustice that was wrought upon the world. When such putrid histories repeat, do we not have a ((duty)) to act? ||||
+EmbVats19|All of this I said to Vela, time and time again. ||||
+p311|So ((this)) is why you turned on Vela. ||||
+EmbVats20|You're right.||||
+EmbVats21|<<She sighs.>> At first, I thought Vela would simply ((listen)) to me. We had often plundered harmless Emberian relics, while leaving that which seemed unstable or dangerous. Why should this be any different? ||||
+EmbVats22|But the map we found, and the artefact it promised - they rekindled something in her. A passion, an ((ambition)) that could not be quelled. She was determined to change the world, even if it meant ((dooming)) it. ||||
+EmbVats23|<<She unfurls her hands, staring at them.>> So what options did I have left, other than my sword? I spilled the blood of my friends. My ((family.)) ||||
+EmbVats24|And still, I failed. ||||
+p312|You've not failed, not yet. Together we'll finish what you started.  ||||
+EmbVats25|<<She sighs. For a moment she is still.>>||||
+EmbVats26|<<But then she looks at you, a fire in her eyes. >> You're right.||||
+EmbVats27|For too long I've clung to the past. Felt like I ((owed)) Vela something. But this is bigger than the two of us. Bigger than ((anything)) else...||||
+EmbVats28|If I have to kill my sister to save the world, so be it. ||||
+EmbVats29|Just promise me one thing: ##If, against the odds, we manage to fight our way to Vela - leave her to ((me)), okay?||||
+p313|Perhaps we can stop Vela without more bloodshed.||||
+EmbVats30|So what, you want to sail over to the most notorious cutthroat in the skyrealms and ((ask her nicely?))||||
+EmbVats31|<<She chuckles.>> I like it.||||
+EmbVats32|I've survived more foolish plans - and I'm done sifting through rusty tombs, anyway.||||
+EmbVats33|Maybe... maybe if we really ((can)) stop her, this won't all have been for nothing.||||
+p314|Vela is trying to ((save)) the world. Let's help her, together. ||||
+EmbVats34|<<She looks at you with determination, fists clenched.>> ##No. I ((won't)) help her...||||
+EmbVats35|<<She inhales.>> ...but I'm done running. ||||
+EmbVats36|It seems we're in a predicament. I'm the only other person in the skyrealms who saw the map she's following. I ((know)) where she's gone, but I can't get there on my own. Not without the right ship, and a pilot..||||
+EmbVats37|So perhaps we can help each other, for now. I'll tag along with your little expedition, until we find her. But after that? Well, I guess we'll have to see...||||
+p315|It's settled, then.||||
+EmbVats38|<<She nods.>> I'll help you. ##I'm the only other person in the skyrealms who saw the map Vela's following, so I know where to find her. But we'll need others.||||
+EmbVats39|Oh, and... ## ...thank you. ||||
+EmbVats40|I heard you captured Vela's old fortress, the [[Blinding Light]]. I'll make my way there.||||
+EmbFort1|Ah, the [[Blinding Light.]] You know, I thought I'd never see this place again.||||
+p351|How are you settling in? ||||
+EmbFort2|Makes my skin crawl, seeing Inquisition agents scurrying around. Keep thinking they're gonna grab me an' throw me in a cell...||||
+EmbFort3|But if siding with this lot is the only way to get to Vela, I suppose I'll have to get used to it. ||||
+p352|I wanted to ask you something.||||
+EmbFort4|I'll oblige. ||||
+p353|About the task at hand...||||
+EmbFort5|I hear you're gathering a bunch of former Dark Stars, right? Well, I'll help you best I can.||||
+EmbFort6|First of all, you'd better find Vela's old quartermaster; Jack Basalt. If he's in town, he'll surely be in the [[Wobbly Noggin]] pub. He always ((did)) have a weakness for the strong stuff, after all. ||||
+EmbFort7|If you're looking for the Duchess, she'll probably be back at her family manor in the [[Endless Realm.]] Can't say for sure where it is, though.||||
+EmbFort8|Now, Caxton Frost - he always struck me as a little odd. Though, I suppose the feeling was probably mutual. Maybe he returned to the [[Clockwork Kingdom?]]||||
+p354|About your past...||||
+EmbFort9|<<She says nothing.>>||||
+p355|So you were really found in an Emberian vat?||||
+EmbFort10|That's what I said, didn't I? ##Vela found me in a vat of liquid in some Emberian ruin, back when we were children.||||
+EmbFort11|There was no clue who I was, or how long I'd been there; save for a metal plaque that read 'Orlaith'. So, that's what they called me.||||
+EmbFort12|I awoke with a head full of knowledge: how to speak Old Emberian, how to ((fight)), how to use ancient, useless machines... ##But I didn't have any ((memories)) of my own. Just faded dreams of sparkling cities.||||
+EmbFort13|Vela's father was furious with her, of course - for sneaking off into ruins by herself. He threw Vela in the brig along with me. <<She smiles.>> Not that Vela cared. She was so excited. Her very own ((Emberian)) friend...||||
+p356|You said Vela was like a sister to you. ||||
+EmbFort14|After she found me, Vela eventually convinced her father to... ((adopt)) me. Of course, he had me stay with the servants - but it was better than being pawned off to the Erudite Academy as some ((curiosity)).||||
+EmbFort15|And he gave me an education, just like his daughter. When we weren't studying, we played all over the manor. It was ((huge)) - but back then, I thought ((everyone)) in the skyrealms lived like kings. ||||
+EmbFort16|Vela's father was an admiral in the Apostatic Union navy, y'see. And when we were ready, he had Vela groomed for command. We served on the same navy ship with Captain Basalt - though ((my)) hammock swung with the deckhands. ##<<She sighs.>> That's when I saw the skyrealms for what they truly were.||||
+EmbFort17|And then... there was the ((Dyshaan massacre)). That was the day... that Isabet died. ||||
+EmbFort18|Something snapped in Vela, that day. She could no longer trust the Union - or her father. So she resolved to ((leave)). We stowed away, as deserters - but at the last moment Captain Basalt himself caught us.||||
+EmbFort19|I thought we were done for - that we'd be thrown in some dungeon to rot. ##But Basalt? I think he was as shaken as us. He took the rudder without a word, and we all left together. I suppose the Dark Stars were born that day. ||||
+p357|Tell me of your time as a Dark Star merc. ||||
+EmbFort20|Y'know, a few years back - if you'd caught us in a tavern, with bellies full of grog, we'd have sung you songs that would've made you laugh. And cry. And regurgitate your supper. ||||
+EmbFort21|But... I 'aint got the heart to sing 'em now. ||||
+EmbFort22|I've been sailing with Vela for years. Me, Vela and Basalt - in the beginning it was just ((us)), but by the end I couldn't keep count of our number. ||||
+EmbFort23|Vela always had a way with people, y'know? There was this glint in her eye. She'd give you this thin smile, and stare right at you. Like she really ((knew)) you. And she'd tell you exactly - ((exactly)) what you needed to hear.||||
+EmbFort24|<<She smiles to herself.>> She had the whole company believing they were gonna change the skyrealms. Make a ((difference)) - or at least, get filthy rich tryin'. ||||
+EmbFort25|But sometimes I wonder if she even believed it herself. Most couldn't see it, but I could tell she was hurting. When we heard of the Cradle, she latched onto it like... like it could fix that ((broken)) thing inside her. ||||
+EmbFort26|I just hope I did the right thing, in trying to stop her. 'Cos gods know, I still... I still think of the people we lost in that mutiny. ||||
+p358|Okay, that's all I wanted to know.||||
+EmbFort27|Alright.||||
+p359|That sure is a big suit of armour. ||||
+EmbFort28|Hah, this old thing? ##<<She raises an arm. As the armour plates clink and shift, you notice intricate mechanisms moving beneath.>>||||
+EmbFort29|Yeah, they don't make 'em like this anymore. The Emberians would inscribe their metal with cipher, too intricate to see with the naked eye; but it makes the stuff stronger than it has any right to be.||||
+EmbFort30|In the early days, we'd raid Emberian ruins - often just Vela and me. A lot of 'em were already cleared out by raiders, or so you'd ((think)), but... I somehow ((knew)) there were things still hidden. A lever there, a switch here, a few taps on a keypad... ||||
+EmbFort31|Folk often wondered how we'd scored such big hauls. Used to say we were lucky, or using forbidden Wikkan charms, or something. ##<<She shrugs.>> Suppose there's ((some)) good things about being born from a tube.||||
+p360|Actually, never mind. ||||
+EmbFort32|Not a problem.||||
+EnGate1|<<The Endless is cleaning a handful of teeth with a dirty rag.>> ##((Howth ith goin')), bweather?||||
+p371|Uh, excuse me?||||
+p372|What are you doing with those teeth?||||
+EnGate2|<<The man picks up the teeth, one-by-one, and slots them into his gums with a squelch.>> ##Ah, sorry breather - I was cleanin' my teeth. ||||
+EnGate3|<<He smiles at you. Despite his efforts, his teeth don't look very clean.>>||||
+EnGate4|Not often we get one o' your kind snooping around [[Cadaver Keep.]] What can I do ye for?||||
+p373|What is this place?||||
+EnGate5|Why, this is the stronghold of the [[Cadavers]], breather! ##Y'see, years ago - when the [[Cadaver Crusades]] were in full swing - we used this fortress to launch our assaults on the living. ||||
+EnGate6|Our knights would haul in wagons of mortals - squirming and writhing together in their own filth. In those days, we'd have banquets of flesh every night - our goblets running with warm blood!||||
+EnGate7|<<He smiles at you, seemingly unaware that this might make you uncomfortable.>>||||
+p374|But... you don't eat mortals ((anymore))... right?||||
+EnGate8|Oh of ((course)) not, breather. By decree of the Queen, we eat only the mindless meat from Penitent Thaw's [[Flesh Farms.]]||||
+EnGate9|Now - if you hear an Endless boastin' about how he's been eatin' the ((thinkin' stuff)) - they didn't get it from ((us)), y'hear? No siree - we've nothin' to do with them black market shenanigans... ||||
+p375|Where does that black market meat come from?||||
+EnGate10|The thinkin' stuff? Now, not that ((I'd)) know, breather - but if I were to take a ((wild guess)) - I'd say you could get livin' flesh from all sortsa places these days.||||
+EnGate11|A ((smart)) Endless would broker deals with all sorts of unscrupulous mortal types. Trade with smugglers an' ruffians for corpses - or with morticians who have a... ((surplus)) of clients.||||
+EnGate12|Of course, what with the Queen 'avin outlawed all such flesh trade - Flesh Farms notwithstandin' - I wouldn't really know anythin' about any of this. ((Naturally.))||||
+p376|Let me ask you something else.||||
+EnGate13|Sure thing, breather. ||||
+p377|Can you lower the drawbridge for me?||||
+EnGate14|The drawbridge is already down, breather. ||||
+EnGate15|<<He shifts, suddenly nervous.>> Ah, and why'd ye be lookin' to go ((in there)), breather? Nothing for mortals behind that drawbridge, I assure you!||||
+p378|@@You think just because I'm mortal, I can't share your... interests?||||
+EnGate16|%% <<The Endless eyes you up and down.>> Hmph, well I'll be. A mortal with... ((deviant)) tastes. Now I've seen it all...||||
+EnGate17|Very well - we've no reason to turn away y'er coin. I'll call for 'em to lower the bridge.||||
+EnGate18|&& Sorry, breather, I jes' can't go letting in mortals like yerself into the Keep. Would go against all sort'a traditions.||||
+p379|Okay, I'll take your word for it. ||||
+EnGate19|That's smart, breather. ||||
+p380|I'll leave you to your... business. ||||
+EnDung1|<<The brutish endless blinks at you.>> ##Stop right there. I'm not allowed to let anyone down into [[meat processing.]] An' I'm not allowed to tell anyone it's called [[meat processing]].||||
+p381|Uh... you're doing a real good job there. ||||
+EnDung2|<<The endless grins, shamelessly.>>||||
+p382|I'd like to enter the door, please.||||
+EnDung3|<<The brute shakes his head.>> Nu-uh. Only [[meat]] is allowed down there. ||||
+p383|@@I ((am)) the meat. Look at me! Nice an' fleshy...||||
+EnDung4|%% Never met such ((friendly)) meat before. But okay then, you can go down. ||||
+EnDung5|&& <<The brute squints at you.>> If you're ((meat)), why are you talkin' and smilin'? Nu-uh, this don't seem right. ||||
+p384|I'm going down whether you like it or not. ||||
+EnDung6|<<The brute draws his sword.>>||||
+p385|I'll leave you to it. ||||
+EnDung7|You can go down, then. ||||
+EnGroundkp1|<<The Endless sweeps the ground with his rake, though he just seems to be moving around the dirt.>>||||
+EnGroundkp2|<<As you approach, he looks startled.>> Ah, breather, didn't notice you there. Not often I see yer kind around.||||
+p391|Who are you?||||
+EnGroundkp3|Who am I? Well, that's a good question. I've been wonderin' myself, lately. I seem to 'ave forgotten my name a few decades back...||||
+EnGroundkp4|Was it Yhem? Or Gluppus, perhaps? Ah, it's all a jumble...||||
+EnGroundkp5|Anyways, I'm the groundskeeper for the [[Duchess]]. At least, I ((think)) I am. Not seen the girl for a good century or so, an' I'm starting to wonder if I made the whole thing up...||||
+p392|What is this place?||||
+EnGroundkp6|Time ago, before we lot called ourselves Endless, these islands were known as [[Verdant.]] Our houses were made from beautiful wood - not those huge stone tombs you see today.||||
+EnGroundkp7|This part o' the island is the only place left where you can see a remnant of how things used to be. The rest of it has all rotted away.||||
+EnGroundkp8|It's also where the [[Duchess]] lives, but she never leaves her manor. ||||
+p393|Can I visit the Duchess?||||
+EnGroundkp9|You can sure ((try.)) Her [[family manor]] is over yonder, but it's mostly just a ruin, now - and she's hidden the entrance with a spell. You'll have to figure out how to get across, somehow... ||||
+EnGroundkp10|She's also enchanted a bunch of [[skeletons]] to patrol the place, so watch yer step. They can't really ((think)) - it's just a spell holding 'em together - so they won't hesitate to swipe at ya. ||||
+p394|Thanks. I'll be going.||||
+Duchess1|<<Hanging in the gloom, the Endless woman is engrossed in ritual. She hisses violent, unfamiliar words while her hands trace sparks of light through the air, illuminating the books and the dust around her.>>||||
+p401|Uh, hello?||||
+p402|((Bow politely.))||||
+p403|((Take your leave.))||||
+Duchess2|<<The woman seems oblivious to your presence, her face inscrutable behind her mask. She continues to mutter esoteric phrases while sculpting glyphs of light.>>||||
+p404|What are you doing?||||
+p405|You're, uh... clearly busy, but...||||
+Duchess3|<<She screams, her voice seething with a wave of magical energy that sends the books crashing to the floor.>>||||
+Duchess4|Do you know how ((difficult)) it is to weave parallel cipher syntax while some ((idiot)) is talking in your ear?||||
+Duchess5|<<She groans in frustration.>> ##I'm sorry. I'm in the middle of a... [[family crisis]], and you caught me trying to conjugate a pair of superlatives. Sometimes I just ((hate)) cipher semiotics. ||||
+Duchess6|Well, I suppose if you bypassed my security measures, you must have come here for a ((reason.)) <<She studies you a moment.>> ##You're not a Cadaver assassin, are you? Sent by that infernal Rhydder to try and lop off my head, or somesuch?||||
+p406|No, I'm not an assassin. ||||
+Duchess7|<<She studies you a moment.>> Well, that's exactly what an assassin would say. I have to be ((sure...))||||
+p407|<Lie> Yes, I'm an assassin. ||||
+Duchess8|<<She studies you a moment.>> A ((mortal)) Cadaver? I've seen stranger things... ##But, I have to be sure.||||
+p408|Uh... what's a Cadaver?||||
+Duchess9|<<She studies you a moment.>> Well, your ignorance ((seems)) convincing... ##But, I have to be sure. ||||
+Duchess10|I'm just going to have a poke around in your mind. You may feel some... ((tingling)) in your brain, but don't worry - this rarely leads to ((permanent)) damage.||||
+p409|Wait, don't you da--||||
+p410|Did you say ((perma))--||||
+Duchess11|<<A pain slices through your head, followed by a plethora of discomforting feelings. Your senses are jumbled; you hear smells, taste sights, breathe sounds. Everything warps, and you feel nauseous. >>||||
+Duchess12|<<But then, you find yourself under the sharp light of your home star. Your hand grips a bloodied branch. A child cowers before you, weeping in the mud.>>||||
+Duchess13|<<Yes, you remember - this was the first real fight you ever won, when you were six years young...>>||||
+Duchess14|<<Her voice cuts through your dream.>> ##So, you were always the ((violent)) sort, eh mortal? ||||
+Duchess15|<<But then, you find yourself back in your family home; the warm light of your neuron star filtering through tall windows, making the ornaments glint. You sit, playing with toys, as your nanny smiles.>>||||
+Duchess16|<<Yes, you remember - the comfort of home, before you knew of the world's terrors...>> ||||
+Duchess17|<<Her voice cuts through your dream.>> ##Ah, mortal - you were born a noble? I understand that gilded cage all too well.||||
+Duchess18|<<But then, you find yourself cowering in the filth of an alleyway, small and frightened. A man leers over you, raising his sword. You have but a moment to clasp the shard of broken glass and lunge at his belly...>>||||
+Duchess19|<<Yes, you remember - you were six years young. Just another worthless urchin in the city sprawl. The things you did to survive... >> ||||
+Duchess20|<<Her voice cuts through your dream.>> ##You've had a tough life, mortal. I'm... sorry.||||
+Duchess21|<<But then, you find yourself hunched over a huge book in the candlelight, praying that your master won't find you with this forbidden tome. You run your hand over the ink, and utter a few words. Your throat crackles with magical energy, and you are suddenly very afraid...>>||||
+Duchess22|<<Yes, you remember - you were six years young. A child-scholar, taking your first tentative steps into the arcane.>>||||
+Duchess23|<<Her voice cuts through your dream.>> ##A youth of study, mortal? We are kindred spirits, you and I.||||
+Duchess24|But this isn't enough. I need ((more)).||||
+Duchess25|<<Another wave of nausea. Reality churns around you, until you wake in an Inquisition prison cell; the smell of rust and shit filling your nostrils.>>||||
+Duchess26|So that's it, eh? You're with those Inquisition bastards. But you're not a player; just some pawn in their scheming, blackmailed with the threat of oblivion. How ((pitiful.))||||
+Duchess27|<<Once more you're submerged in memory. You see Vela's ship drifting away from you; and with it, your only hope of salvation.>>||||
+Duchess28|Ah, so it's ((Vela)) you're after. I sailed with her for ten years - even called myself a Dark Star. But I assume you knew that?||||
+p411|((Cough.)) Basalt... sent me. ||||
+Duchess29|Ah, so that old seaslug's still with us? I must admit, I always thought the drink would kill him. ##But to hear he's working with the ((Inquisition,)) after all we've been through...?||||
+p412|((Cough.)) I had... a hunch.||||
+p413|((Cough.)) I had... no idea. ||||
+Duchess30|Well, this only deepens my suspicions. ##So tell me, do you ((kill)) for your masters? Do you take the lives of others, to preserve your own?||||
+p414|I'll kill anyone... who stands in my way.||||
+Duchess31|Oh, of ((course.)) I'm sure you're extremely tough, and I should cower in fear, and all the rest. But let's see the truth, shall we? ||||
+p415|Only in self defence... do I draw my sword.||||
+Duchess32|Oh, how noble! How valiant! I'm ((humbled)) by your chivalry, etcetera. But let's see the truth, shall we?||||
+p416|I avoid conflict... wherever I can.||||
+Duchess33|So you're either a pacifist, a coward - or a liar. Let's see the truth, shall we?||||
+Duchess34|<<Your mind reels once more. You see the men and monsters who've stood in your way; and how you've slipped past, sword sheathed, every single time.>>||||
+Duchess35|Hm, so you spoke the truth, mortal? You really ((haven't)) taken a single life. I must admit, I'm impressed. ||||
+Duchess36|Hah, so you lied! You're not a killer at all. In fact you haven't taken a ((single)) life. I must admit, to come all this way? I'm impressed. ||||
+Duchess37|<<Your mind reels once more. You see the men and monsters who've stood in your way; and how you've slipped past, wherever possible. ##The few times when your hand has been forced, you remember the feeling of your blade sinking into flesh; and those final, agonising death cries...>>||||
+Duchess38|Hm, so you're the honest sort, mortal. The lives you've taken have been few; you seem to only draw your blade when strictly necessary. I must admit, I respect you for that.||||
+Duchess39|Aha, so you're not as bloodthirsty as you make out! It's just an ((act.)) You've taken very few lives. ##I must admit, I respect you for that. ||||
+Duchess40|<<Your mind reels once more. You see the men and monsters who've stood in your way; and how you've clashed swords, evaded their blows; buried your steel into their flesh. You've tasted blood more times than you care to remember, your hands forever stained.>>||||
+Duchess41|You lied, mortal. You're a ((killer)) through and through. The blood you've spilled seeps through these isles, even now.||||
+Duchess42|So you're honest, at least. You're a ((killer)) through and through. The blood you've spilled seeps through these isles, even now.||||
+Duchess43|<<Your mind reels once more. You see the men and monsters who've stood in your way; and how you've clashed swords, evaded their blows; buried your steel into their flesh. You remember the chaos, the thrill; the ((bloodlust.)) The truth is, you ((enjoy)) it.>>||||
+Duchess44|<<She seems taken aback.>> Mortal, you -- you're a ((monster.)) The blood that you've spilled? Nobody could ever atone for such wanton violence... ##Though I suppose I have no right to judge you. My conscience is... ((hardly)) clear. ||||
+Duchess45|Hmm, but what's this? <<Searing pain; and you see the Flesh Farm screaming in agony. You see Rhydder, his cruel gaze; and you remember the deal you made...>>||||
+Duchess46|Ah, so you ((are)) in league with the Cadavers! Your actions, whether in spite or folly, have cast a dark shadow on this island... ##...and yet, I see nothing to show that you mean ((me)) harm.||||
+Duchess47|Well, after scraping through your skull - it seems there's nothing to suggest you're after my head.||||
+Duchess48|And from what I've seen, there's nothing to suggest you're after my head.||||
+Duchess49|<<She sighs.>> ##I'll spare you the torment of further mind probes, mortal. Any more and your brain could burst - and I don't want to clean ((that)) up.||||
+Duchess50|Ah, but where are my manners? We've learned all about ((you)), but I've not introduced myself. ##((She feigns a pompous bow.)) The [[Duchess]], at your service.||||
+Duchess51|Well, ((really)) I am Philomena Caveridge, Duchess of Vestalshire - but that's quite the mouthful, eh?||||
+Duchess52|If you'd arrived about six centuries ago, I would have greeted you into a bustling household - alive with music and merriment. My servants would have offered refreshment, I would have introduced you to my five darling children...||||
+Duchess53|<<She chuckles wearily.>> Ah, how is it that six hundred years can pass so ((quickly?)) ##Now, I drift in this cold tomb while my estate lies in decay...||||
+p417|It sounds like you miss your former life.||||
+Duchess54|There's not an Endless around who doesn't. But for most of us, it's hard to think of our mortal lives without opening the door to our... ((demons)).||||
+p418|Such inherited wealth is abhorrent. ||||
+Duchess55|I'm inclined to agree with you, mortal. In my youth I resented my birthright; as the eldest child I was expected to marry, and produce heirs; when all I really wanted to pursue was my studies.||||
+Duchess56|But if the privilege of those years warranted some sort of ((debt)), I paid it a thousand times over. ||||
+Duchess57|You see, I became Duchess the day my father died, in [[the Great Devouring.]] Do you know what that was?||||
+p419|Yes.||||
+Duchess58|Then you will know it is the darkest stain on my people's history. The Endless were born with an insatiable hunger. For decades we ((feasted)) upon those we once called kin.||||
+p420|No.||||
+Duchess59|Six hundred and thirty-five years ago, the Endless were born from the hubris and folly of our king. His wretched spell twisted half of the realm into this accursed form. We were born anew - frenzied and ((hungry)).||||
+Duchess60|So the realm of Verdant - for that is what it was called, then - ((ate)) itself. ## Friends and family, who were dining merrily together in the morn, were ((eating)) each other by the eve.||||
+Duchess61|And my family was no different. ##I was five and thirty years of age, when it happened. I had a husband. Five beautiful children... ||||
+Duchess62|You know the cruelest thing? There was a part of us that ((knew)) what was happening. As I tore into my husband's flesh, I howled not in anger -  but in sorrow. As my daughter gorged upon the bowels of her brother, I saw the tears streaming down her face...||||
+Duchess63|And as I picked up my infant son, not three months old - I wanted to hold him. To ((kiss)) him. I never meant to... ##<<Her voice croaks, and she is silent a moment.>>||||
+p421|I'm so sorry. ||||
+Duchess64|Save your tears, mortal. There are some things you will ((never)) understand.||||
+p422|You're a monster.||||
+Duchess65|I won't deny it. ||||
+p423|((Say nothing.))||||
+Duchess66|To be Endless is to live with a terrible guilt. It is the same for ((all)) of us. But while most find comfort in the rituals and traditions of old, I find them ((suffocating))...||||
+Duchess67|<<She chuckles.>> Ah, but there I go again, dredging up the past. I think it's why I stopped getting invited to all those mausoleum balls.||||
+Duchess68|So tell me, mortal - this... ((hunt)) for Vela. What do you hope to accomplish? ||||
+p424|Can't you just read my mind?||||
+Duchess69|Well, of course I ((could)), but it's terribly impolite. And now I know you're not after my head, you can lie all you wish; it bothers me not. ||||
+p425|I must stop her from destroying the world.||||
+Duchess70|Hmm. The world is at stake, and you would save it? ##Admirable, but of course - that's not how ((she)) sees it.||||
+p426|I want to help her to save the world.||||
+Duchess71|Ah, so you've been enticed by her revolutionary zeal, have you?||||
+p427|She dies, I get my freedom. Simple. ||||
+Duchess72|Ah, self preservation - no truer motivation than that. But still, when the time comes, you may have a... choice to make.||||
+Duchess73|I wonder - do you understand what's ((truly)) at stake?||||
+Duchess74|There is a hidden language to the universe, mortal. A web of signs and signifiers which establish the very rules by which we live. ##And Vela? She wants to change it. She wants to change ((reality)) itself, to create a new world. ||||
+p428|How would that work?||||
+p429|I never was one for cipher semiotics. Can we get to the point?||||
+Duchess75|When we cast a cipher spell, we are speaking in the hidden language of the universe.||||
+Duchess76|But the ((rules?)) The grammar, the syntax, the signs themselves? All of us, from the humble scribe to the powerful cipher wizard, must adhere to these constraints. When we don't? There are often... ((dire)) consequences. ||||
+p430|Like the Endless.||||
+Duchess77|<<She nods.>> Exactly. The spell cast by our king, all those years ago, was ambitious indeed. The errors were likely minor - but when applied to a whole ((kingdom?)) It was catastrophic.||||
+p431|Like the Clockwork Kingdom.||||
+Duchess78|<<She nods.>> I've seen what their monarch is doing with my own eyes. Rewriting minds, matter - whole ((swathes)) of reality. It will not end well for them.||||
+p432|Like the World Rend. ||||
+Duchess79|<<She nods.>> I don't know for ((sure)) what happened back then, but I witnessed it with my own eyes. ((Felt)) it in my mind. It was the most powerful spell I have witnessed, and it was caught in a syntax cascade. An infinite loop... ||||
+Duchess80|But if Vela's plan works, she'd make the impossible... ((possible.)) With a click of a finger, she could raise an empire. Make anyone ((truly)) immortal... even raise someone from the dead. ||||
+p433|Sounds incredible.||||
+p434|Sounds dangerous. ||||
+Duchess81|Indeed. I have often weighed this dilemma in my mind. Would it be for good, or for ill?||||
+Duchess81b|Very well. The heart of the matter is this...||||
+Duchess82|My people live in torment; our decaying bodies and haunted minds are prisons from which there is no escape. ##But... could Vela's plan be our salvation? Or would it subject the whole ((world)) to a similar torment? ||||
+Duchess83|I haven't yet made up my mind. But if I'm honest, I would like to be there... when the decision is made.||||
+p435|Then help me find Vela. ||||
+p436|It seems like our interests align.||||
+Duchess84|Alas, I'm somewhat ((engaged)) for the moment. I think I mentioned a... family crisis? ##[[My daughter]] has been stolen from me.||||
+Duchess85|<<She closes her eyes.>> Her name is Ellyn. Of all my children, she alone remains. ##I can still see her, nine years young, holding my hand in the lush grass of Verdant. Everyone in the village knew that beaming smile. ||||
+Duchess86|She is nine years old, still - and the feeling of her hand in my own is all that keeps me clinging to this wretched existence. ##And now those ((damned)) [[Cadavers]] have taken her. ||||
+p437|Can't you save her yourself?||||
+Duchess87|Oh, I am trying, but the Cadavers are obsessive in their hatred of me. I must move slowly and carefully. ##<<She thinks for a moment.>>||||
+Duchess88|But ((you?)) As a stranger to the whole situation, you may very well have some advantage...||||
+p438|I could try and rescue your daughter.||||
+Duchess89|You would, mortal? If you were to save her, I would truly be in your debt.||||
+Duchess90|The Cadavers are a secretive bunch, but I've caught wind that one of them frequents the [[Rotten Coffin]] in [[Sepulchre.]] He wears a [[full suit of armour]], and holds a [[key]] that will grant access to the upper levels of Cadaver Keep.||||
+Duchess91|He surely won't speak to me, nor my lackeys. But ((you?)) You're an outsider. More than that, you're a ((mortal.)) And Cadavers are ((very)) interested in mortals...||||
+p439|Okay, I'll try and find her.||||
+Duchess92|Thank you, mortal. ||||
+p440|Wait... why are they interested in mortals?||||
+Duchess93|Oh, did I... forget to mention? ||||
+Duchess94|While most of the Endless eat from Penitent Thaw's mindless Flesh Farms, the Cadavers still believe it's their right to feast upon sentient flesh... like ((you.)) ##But don't worry. I'm sure you'll be fine.||||
+Duchess95|My daughter has a [[signet ring]] on her finger. Find her, and I'll help you track down Vela. You have my word.||||
+Duchess96|Greetings, mortal. How do you fare?||||
+p441|How can I find your daughter, again?||||
+p442|Where exactly is Cadaver Keep?||||
+Duchess97|The keep is the [[northern-most]] structure in the Endless Realm. Keep walking north, past [[Sepulchre]], and you can't miss it.||||
+Duchess98|The front of [[Cadaver Keep]] is heavily guarded, but the fortifications are old and weathered - so you may be able to slip in through the walls, somewhere...||||
+Duchess99|But remember - certain sections of the keep require a [[key]] that I don't possess. You'll need to procure one from the [[Cadaver]] in the [[Rotten Coffin]] pub to explore the whole thing.||||
+p443|About your daughter...||||
+Duchess100|Did you find her, mortal?||||
+Duchess101|I must admit, I have been watching your progress with interest. <<With a flick of her wrist, she creates a small, shimmering mirror. It seems to show you entering Cadaver Keep.>>||||
+Duchess102|But, my voyeurism spells couldn't penetrate the island above the keep, so I've been awaiting your return with baited breath...||||
+p444|I'm sorry, Duchess. It's not good news.||||
+Duchess103|<<She is suddenly deathly still.>> Was she... not there?||||
+p444b|I have her hand. Nothing more.||||
+Duchess160|<<You present the hand to the Duchess. A beaming smile spreads across the Duchess' face.>>||||
+Duchess161|Ah, my Ellyn, you are returned to me at last! ##<<The Duchess tenderly presses the hand against her face. Ellyn's hand seems to respond in kind, relaxing and stroking her mothers' cheek.>>||||
+p444c|Uh, you were ((expecting)) this? ||||
+Duchess162|Apologies, mortal, did I forget to mention? All that remains of my daughter is her hand.||||
+p445|Where's the rest of your daughter? ||||
+Duchess104|The rest of her was lost, many centuries ago. Where? I cannot say - but it is not an uncommon fate for my kind. ||||
+Duchess105|It is very hard to truly ((kill)) an Endless. But that does not mean our bodies can't be broken. Severed. ((Seperated.)) Many of my kind rest not in peace, but in pieces - scattered around the realm like fallen leaves.||||
+Duchess106|I lost Ellyn to this abhorrent fate some three hundred years ago. <<She touches the hand, gently.>> ##I have long accepted that I will never see her face again.||||
+Duchess107|But she is not ((dead.)) She is conscious, and she ((knows)) the touch of her mother. So what more can I do, but be there for her? ||||
+p446|That's... touching.||||
+p447|That's... horrible.||||
+Duchess108|<<She sighs.>> It is, of course, not a fate I would have chosen for my daughter. I often wonder if it would be kinder for her to be... ((truly)) at peace. ||||
+Duchess109|I suppose that's why I followed Vela for so long. For good or ill, she promised ((change)).||||
+p448|With Vela, you could grant the Endless a true death. ||||
+Duchess110|<<She strokes her daughter's hand.>> Perhaps you are right. Perhaps my kind has lingered in wretchedness for too long.||||
+Duchess111|<<She closes her eyes.>> This is no life. We are but ghosts, who cling to fading dreams. I do not wish this for my daughter. ||||
+p449|With Vela, you could make the Endless truly immortal.||||
+Duchess112|<<She strokes her daughter's hand.>> Perhaps you are right. I should fight for a ((better)) life for my daughter, so she can feel the wind on her face once more... ||||
+p450|Vela meddles with powers beyond her control; we must learn to accept our fate. ||||
+Duchess113|<<She strokes her daughter's hand.>> Perhaps you are right. This curse is our burden to bear. To risk utter catastrophe over some fool's hope? It would not be right. ||||
+Duchess114|<<She is silent a moment.>> Thank you, mortal, for returning my daughter to me. I hope the whole ordeal wasn't too... troublesome.||||
+p451|No, no trouble at all. ||||
+p452|That tower was pretty tall. There were a ((lot)) of ramps.||||
+Duchess115|<<She smiles.>> You're too modest, mortal. Don't think I hadn't noticed that missing finger of yours.||||
+p453|Well, I ((did)) lose a finger.||||
+Duchess116|<<She smiles.>> I noticed, mortal. ||||
+Duchess117|But, nothing a little cipher can't fix. Here, hold out your hand...||||
+Duchess118|<<The Duchess utters some harsh sounding consonants, and her voice seems to suck the warmth from the air. For a moment, your hand seems to burn with an unbearable heat.>>||||
+Duchess119|<<But when you look down at it, your missing digit has been replaced with a spectral finger. It glows and shimmers with unnatural colour, but is firm to the touch.>>||||
+Duchess120|There we are, mortal. You may even find this to be an ((improvement)). Few can match my skill with cipher facsimiles. ||||
+Duchess121|And now, I will honour my side of the bargain. ##When I delved into your mind, I saw that you have captured the [[Blinding Light]], correct? I will make my way there, so we can plan our next move.||||
+Duchess122|Farewell for now, mortal. ||||
+Duchess123|Ah, it's good to be out in the skyrealms again! One can get frightfully bored spending eternity in dusty old tombs. ||||
+p454|How are you settling in? ||||
+Duchess124|I've just about finished transposing my collection of essential grimoires. Not a bad spot for them, eh? ||||
+Duchess125|I must admit, it's exciting to see all these mortals scurrying around. There's an ((urgency)) to mortal life that's been lost to my kind. I realise now that, since giving up this life... I've missed it.||||
+p455|I wanted to ask you something.||||
+Duchess126|Go ahead, mortal. ||||
+p456|About the task at hand...||||
+Duchess127|<<She nods.>> I understand you're still looking for my former comrades? ||||
+Duchess128|Well, you should start with [[Jack Basalt.]] You'll probably find that old seaslug in the nearest tavern - which I understand to be the [[Wobbly Noggin]] pub in [[Hallow Town.]]||||
+Duchess129|Now, if you're looking for Vela, you'll need to track down Orlaith - or, as most folk call her, [[The Emberian.]] If anyone knows where Vela is, it's going to be her. ##Last I heard, she was hunting for Emberian ruins in [[Hallowshire]]. ||||
+Duchess130|If you're going to get this place up and running again, you're best bet is to find [[Caxton Frost]], one of the finest engineers I've ever known. I imagine he's back in the [[Clockwork Kingdom.]]||||
+p457|About your past...||||
+Duchess131|There's quite a lot of it. What do you want to know?||||
+p458|Tell me again about the Great Devouring. ||||
+p459|Tell me of your time as a Dark Star merc. ||||
+Duchess132|Well, I've spent most of my pitiful existence trying to avoid my duties as a duchess. If you can, try to imagine ((six hundred years)) of etiquette and droll ceremony. It's enough to drive anyone to madness...||||
+Duchess133|So I left my seat, my realm; my duties. I wandered the skyrealms, drifting through places beyond my imagining, until I fell into the company of an ambitious young mortal called ((Vela.)) ||||
+Duchess134|<<A thin smile spreads across her lips.>> ## You know, when I first joined them - I thought it would prove a trifling amusement to watch such an incongruous bunch of mortals get themselves killed...||||
+Duchess135|But oh, it turned out to be so much more. To be in the company of those Dark Stars was to be in the flow of constant ((change)). No longer was I rotting in a tomb, in adherence to tradition - every day we sent ripples through the world.||||
+Duchess136|<<She sighs.>> And I even allowed myself to get swept up in her rhetoric. To believe that there could be... ((hope)), for myself and my kind...||||
+Duchess137|But like all mortal endeavours, it couldn't last. Vela's flame began to flicker; her optimism gave way to fear and desperation. Eventually, Orlaith led the mutiny that tore the Dark Stars apart..||||
+Duchess138|Many of us scattered, after that. Personally I had no interest in loitering around the carcass of a once-great thing, so I returned home - to a more familiar pile of bones.||||
+p460|What caused so many Dark Stars to leave? ||||
+Duchess139|Well, it all started with that [[Godkiller contract.]] It was at the height of the Dark Stars' infamy, when all of the skyrealms seemed to whisper our names in hushed tones. We were contacted by a Riovan noble, who wanted us to assassinate a major [[god]]...||||
+Duchess140|Vela was excited. Such a feat would cement our reputation - but not everyone was happy.##The [[Wikkan]] - a senior Dark Star, and a ((very)) close friend to Vela - saw this as a betrayal of her own kind. ||||
+Duchess141|Vela argued that, to be a Dark Star, we had to leave our former allegiances behind. The [[new world]] we were carving had no space for those old and bitter ideologies. But for the Wikkan, killing that god? It was too much. Too far. It was crossing a ((line.)) ||||
+Duchess142|So when it came down to it - when we'd hunted that deity into a corner, and Vela was poised to make the killing blow - the Wikkan stood in her way.##In anger, Vela cast her down. I watched the Wikkan fall from the ship, down below the clouds... ||||
+Duchess143|And something changed, at that moment. Vela was wracked with a terrible guilt. She started taking more dangerous, more ((dubious)) jobs. And that's when her dreams became more radical, and she set her sights on that Emberian artefact...||||
+Duchess144|That time, it was Orlaith - or rather, the Emberian - who took umbrage. She led many of us to mutiny against Vela. ##If you want to know more about it, you should ask ((her)). ||||
+p461|Okay, that's all I wanted to know.||||
+Duchess145|Was there anything else, mortal?||||
+p462|How is your daughter?||||
+Duchess146|<<She smiles.>> Doing just fine, thank you. The air is clearer here; she enjoys the breeze on her skin...||||
+p463|I'll be going, then. ||||
+Duchess147|Farewell, mortal. ||||
+Duchess148|<<She strokes Ellyn's hand.>> Though, if Vela's plan comes to fruition... I am still not decided on where my allegiances lie.||||
+Duchess149|You have given me much to think about, mortal... ##But for now, you should take your leave. I will meet you at the [[Blinding Light.]]||||
+FleshBroker1|<<The Endless lurks in the corner, keeping a watchful eye on the other patrons.>>||||
+FleshBroker2|Get lost, breather. You're not interested in what I'm sellin'.||||
+p464|I'm looking to enter Cadaver Keep. Heard I should speak to you.||||
+FleshBroker3|<<He stifles a laugh.>> A ((mortal)) asking to enter [[Cadaver Keep]], of their own free will? Well now I've seen it all. ||||
+FleshBroker4|You have heard the ((rumours)), breather? About what goes on in there? What goes on with... ((your)) kind? ||||
+p465|Of course.||||
+p466|Uh... what rumours?||||
+FleshBroker5|<<He chuckles.>> Well, ((some)) folk say that the Cadavers still haven't lost their appetite for the thinkin' flesh. That, deep in Cadaver Keep, there's an illegal trade in [[sentient meat]], right under the Queen's nose...||||
+FleshBroker6|<<He winks at you.>> But of course, it's all just nonsense. We follow the Queen's laws like everyone else. ||||
+FleshBroker7|Even so, I can't just let you waltz into Cadaver Keep. Us Cadavers are a... ((private)) bunch, you have to understand.||||
+p467|There must be something I can do to change your mind. ||||
+FleshBroker8|<<He looks you up and down.>> Well, I suppose there might be ((one)) thing... ||||
+FleshBrokr9|A chunk of your flesh. Still warm, fresh from the bone. That would prove your loyalty.||||
+p468|My flesh? Are you insane?||||
+FleshBroker10|Well, ((you're)) the breather who's trying to enter a stronghold of known flesh-eaters. And, I'm not asking for much...||||
+p469|Uh, what ((part)) of my flesh?||||
+FleshBroker11|Only a morsel. Shall we say... <<he licks his lips.>> A finger? ||||
+p470|Okay, fine. Make it quick. ||||
+FleshBroker12|<<He unsheathes a very large knife.>> Oh, don't worry, it'll be over before you know it. Now, hold out your hand...||||
+FleshBroker13|<<With one quick motion, he slices off your finger. Your hand sears with pain, but he quickly douses the stub with a foul-smelling potion and wraps your hand in a rag. >>||||
+FleshBroker14|This'll fetch a good price, for the right buyer. You've proven your worth an' then some, breather.||||
+FleshBroker15|Here, take this [[key.]] It will unlock the lift at the top of Cadaver Keep, that'll take you to the island above. It's there you'll find the [[Duchesses' Daughter]]. ||||
+p471|Uh, I never told you I was looking for her daughter.||||
+FleshBroker16|<<He grins.>> We have eyes and ears in many places, breather. ||||
+p472|Thanks... I guess. ||||
+FleshBroker17|Of course, that [[key]] does not grant safe passage through the keep. ((That's)) not part of the deal. The second you step into that stronghold? Y'er on your own.||||
+FleshBroker18|So good luck, breather. ||||
+p473|I'm not giving you my flesh. Goodbye. ||||
+p474|Okay, forget it.||||
+p475|@@ Maybe I ((am)) interested in what you're selling.||||
+FleshBroker19|%%<<He studies you a moment.>> Well, well... a mortal with a ((deviant)) appetite? ||||
+FleshBroker20|Alright listen up, 'cos I'll only say this once; and if you breathe a ((word)) of this to any of the Queen's lackeys, I'll see to it that ((you're)) next on the menu. ||||
+FleshBroker21|So. I'm a broker for sentient flesh. The ((thinkin')) stuff. ||||
+FleshBroker22|Y'see, most Endless feed on Penitent Thaw's mindless meat. It's seen as more ((ethical)) than eating... ((your kind)). But I'll be damned if it doesn't taste like slop - so of course, there's a black market for the stuff. ||||
+FleshBroker23|So, how about it, breather? Fancy a taste of your own kind?||||
+p476|Uh... actually, I've changed my mind.||||
+p477|That's disgusting. You're a monster!||||
+FleshBroker24|<<He chuckles.>> Thought as much. But remember, breather - you say anything about this, and it'll be the ((last)) thing you say.||||
+FleshBroker25|&& Trust me, mortal - your kind wouldn't be able to ((stomach)) my merch, and you'd go squealin' to every damn fool about it - which 'aint good for business. So get lost.||||
+p478|I'll be going.||||
+hand1|<<The hand of an Endless lies upon the pillow, completely severed from above the wrist.>>||||
+hand2|<<The hand bears a [[signet ring]] on one slender finger. There's no mistaking it; this is the hand of the Duchess' daughter, Ellyn.>>||||
+pHand1|((Take the hand.))||||
+pHand2|((Leave.))||||
+hand3|<<As you touch the hand it suddenly recoils, as if alive. For a moment you pause, and the hand shivers before you.>>||||
+hand4|<<When you finally pluck up the courage to pick it up, It writhes as you place it with your belongings.>> ||||
+hand5|<<Ellyn's hand gently moves as you approach. You think she looks content - though admittedly, you know very little of sentient hands.>>||||
+hand6|<<You 've already taken the hand.>>||||
+frost1|Drat. Blast. Sugar. Blinking, blooming, flipping, f-f-f-f-((fudge)). ||||
+p501|Still having trouble cursing? ||||
+frost2|Alas, I fear the muse of filth has forsaken me for good.||||
+p502|Say it with me: Cunt. Cuh-unt. ||||
+frost3|Cuh.... cuh... ((cummerbund)). Ugh, this is just undignified. ||||
+p503|Maybe this is good for you? It'll force you to get creative.||||
+frost4|Oh, go and gargle your own urine.||||
+frost5|Do you have some purpose for bothering me? As I said, restoring this mountain of rust to its proper glory is keeping me rather busy.||||
+frost6|But enough of that. Are you bothering me for a purpose? Or do you truly value your time so cheaply as to spend it on ((blooming)) chit-chat?||||
+frost7|<<Frost scowls.>> I wouldn't go that far. Will that be all?||||
+frost8|Good. Will that be all?||||
+frost9|Will that be all?||||
+p504|I wanted to see how you're settling in.||||
+frost10|Oh, like a louse to an armpit. Who the ((fluff)) do you imagine restored this fortress in the first place? ||||
+frost11|Given my abrupt departure from the Dark Stars, I suppose it's nice to be finishing the job. If only these ((dashed)) Union cretins would stop trying to 'assist' me.||||
+frost12|As it happens, my father helped build these monsters back in the God War. The wooden parts are Lundelese, but the guns, plumbing, and nearly everything metal was made in Kardova. He used to put me to sleep by reciting components and assembly procedures. ||||
+p505|That explains a lot.||||
+frost13|Touche. ||||
+p506|So this fortress was made in the Clockwork Kingdom?||||
+frost14|Correct, although back then it was called the Kardovan Republic. Somewhere in the guts of this thing there'll be a nameplate: "Laid down in such and such a year, Progress, Kardova. No gods, no masters."||||
+p507|Funny how that one turned out.||||
+p508|Well, I'm glad you're feeling at home.||||
+p509|I wanted to ask you about something.||||
+p510|This clockwork exoskeleton is new. It helps you walk?||||
+frost15|My, how observant you are. In fact, ambulatory support is merely one of its functions. The first incarnation was rather less powerful; but, to be fair, I was rather smaller.||||
+frost16|I expect you want the whole story? After all, it is so very ((inspirational.)) ||||
+p511|Please, go on.||||
+p512|You can skip it.||||
+frost17|I'll spare you the exhaustive history of my diverse ailments; suffice it to say that I was a sickly child. The only thing my physicians agreed upon was that I must submit completely to their humiliating 'remedies', no matter how painful or ineffective.||||
+frost18|I disagreed, and in due course it proved that with a little technological cunning I could treat myself better than they could. Machines, you see, actually listen to what one tells them.||||
+frost19|How people ((loved)) to hear that tale once I grew up. The Machinists loved it especially. Come to the Clockwork Kingdom, where even a low-born invalid can travel the skies and be garlanded as a champion of the realm! ||||
+frost20|True, I was dogged and ingenious. But to what purpose? Yes, I improved my capabilities; but for whose benefit? Certainly I accomplished great things. But for whom? Myself? ##<<He sneers.>> What a cosy thought.||||
+frost21|Sometimes I almost wish I hadn't bothered. At least then I wouldn't have been so ((useful)).||||
+p513|That's all. Good luck with the fortress.||||
+frost22|Luck is for amateurs, my dear.||||
+frost23|<<Just as you're turning away, there is an awkward cough.>> Actually, one moment, if you please? ##I wish to... that is, it behooves me... ((dash)) it all, let's not prevaricate about the bush.||||
+frost24|You were quite correct to scold me back in the Kingdom. The word for what I was doing is ((wallowing)). Specifically, in childish rage and self-pity.##<<He pauses, apparently unsure what to say next.>>||||
+p514|Is 'thank you' perhaps the phrase you're looking for?||||
+frost25|((Confound)) it, what else would I be trying to say? ((Bog)) off before I regret such wasteful sentimentality! ||||
+p515|Don't mention it. We all have our bad days.||||
+frost26|Hrm. Yes, quite. Very good. ##Well, what are you waiting for? A medal? ((Bog)) off before you break something expensive.||||
+frost27|Let's see if you can come up with a question I haven't heard before.||||
+p516|About the task at hand...||||
+frost28|Ah yes, the search for my erstwhile comrades. Or should I say my former targets? Either way, this reunion will be ((interesting))...||||
+frost29|[[Jack Basalt]] will have already calculated that his best chance to stop Vela is to collaborate with the Union. He's wanted in the Kingdom, and he has a phobia of the Endless, which means he is in Hallowshire - and most likely in the [[Wobbly Noggin]].||||
+frost30|I see you've pressed old [[Jack Basalt]] back into active service. The poor fellow's currently avoiding me, which is adorable. Granted, we hardly parted on the best of terms, but at some point we'll need to have a little chat.||||
+frost31|[[The Duchess]] is a devoted family woman, and was already bored to undeath of the Skyrealms when I knew her. Therefore I would guess she is back at her country pile in the [[Endless Realm]], doing nothing in particular.||||
+frost32|Alas, I'd forgotten how much [[the Duchess]] infuriates me. What she calls 'magic' is merely the cant of a more primitive age. Reciting cipher spells from memory, for pity's sake! It's like carrying a cart on your shoulders after the invention of the wheel.||||
+frost33|[[The Emberian]] is an odd one. She confided in me once that she was trying to unravel some ancient mystery, though she wouldn't say what. Most of this archipelago's extant prelapsarian sites are in [[Hallowshire]]. Ergo, that is where you should look first.||||
+frost34|I get on rather well with [[Orlaith]] - or [[the Emberian]], as you mustn't call her to her face. Initially we despised each other, but then we had an arm wrestle and everything was tickety-boo. Since I was too drunk to remember it, I choose to believe I won.||||
+p517|About your past...||||
+p518|Actually, no further questions.||||
+frost35|((Nul points)) for novelty, I'm afraid. But at least you tried. ||||
+frost36|Must we?||||
+frost37|Now, was that really your best attempt at an original question? I think you can do better.||||
+frost38|Must you?||||
+p519|What was your life like before joining Vela?||||
+frost39|I was born and raised in [[Progress]], back when they still called it Istriksburg. My mother made ammunition, while my father toiled in the Fortress Works. It was dangerous, but far better than serfdom in Lundel. For the first time in history, my family was wealthier than dirt.||||
+p520|You know, you really don't sound like a peasant. ||||
+frost40|Nor would you, if your childhood tongue had been scoured out by your schoolmaster. ##The last time I saw my parents, we sounded like we came from different planets.||||
+p521|You hide your common origins very well.||||
+frost41|<<He smiles without mirth.>>##Horace Metcalfe was hardly the first of my disguises.||||
+frost42|After the God War, I studied in Byonne. A scholarship, funded by the new Kardovan Republic. My Union classmates were scions of barons or wealthy merchants, and they tormented me frightfully. Yet ((I)) was punished merely for setting them ((lightly)) on fire.||||
+p522|There's no justice in this world.||||
+p523|At least you left them something to remember you by.||||
+p524|All right, I think I've heard enough.||||
+frost43|Indeed. Eventually my studies were cut short by Kardova's split from the Union, and I returned home to begin my archaeological career. Believe it or not, in those days I was more like Horace Metcalfe than the ruthless mercenary now before you.||||
+frost44|Unquestionably these were the best years of my life. I followed my curiosity to the edge of the sky, and even to the Underlands, winning great renown and no small compensation. Yet I always felt as if everything could be snatched away if I failed to deliver even once.||||
+frost45|Perhaps that is why I felt so much more at home among the outcasts, oddballs, and reprobates of the Dark Star Company.||||
+p525|Tell me of your time as a Dark Star.||||
+frost46|Where does one even begin? We fought. We caroused. We feasted, we starved. We loved and we despised. We hurt each other, then we nursed each other. We were family, with all the best and worst implied by such a word.||||
+frost47|The Caxton Frost who stands before you is a product of those days. He had to be sharp. Ruthless. Avenge every insult threefold, lest others smell blood. I'm told I was actually the inspiration for the Cadish Rakehill stories, though I've never read them myself. ||||
+frost48|Vela could tell it was a facade, but she was gracious or canny enough not to expose me in front of the crew. ##Except when she was ((truly)) angry. One minute she could make you feel like you were bathed in starlight; the next, like the basest of worms.||||
+p526|Did she ever suspect you were a spy?||||
+frost49|I've often wondered. Certainly our expeditions contributed much to the Kingdom's progress. Sometimes I got the uncanny sense that she knew my real purpose, yet kept me around anyway.||||
+frost50|Why she would do so, I cannot say. Perhaps it was simply our shared fascination with the Emberians. ##She told me once that I reminded her of someone who had been dear to her, long ago. I never did find out who, though.||||
+p527|How did you manage to maintain your persona?||||
+frost51|<<Frost snorts.>> Why, I'd been doing that all my life. The only difference now was the extra pay.||||
+frost52|Actually, I have my suspicions that the Clockwork King may have helped. At the time I had no idea that Its Majesty could alter minds. But I do recall being surprised at how quickly I took to the role. Of course, I can prove nothing.||||
+p528|Let me ask you about something else.||||
+p529|I still don't understand why you had to wipe your memory.||||
+frost53|<<Frost sighs.>> Frankly, I'm not completely sure myself. But consider what had led to that moment...||||
+frost54|Eight years undercover. Can you imagine what that's like? To be believable, you cannot merely pretend. One part of you must truly ((become)) the false self, while another watches from the outside, remembering your mission. ||||
+frost55|I knew that if I betrayed the Clockwork King, it would never stop hunting me. Yet I couldn't bear to live in deceit for one more day. Thus the inevitable conclusion: the best cover identity is one who doesn't even realise he's fake.||||
+frost56|I haven't decided whether I like being Frost again. He used to feel like armour, and now he feels... confining. Still, he's indisputably the man for the job. And I must admit it's easier when I don't have to be two people at once.||||
+p530|I'd like to ask you about another topic entirely.||||

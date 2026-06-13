@@ -1,0 +1,10 @@
+dialogue:|objD||||
+ID|English|French|German|Spanish|Italian
+portal0|<<The pages of the grimoire crackle with magical energy. A quill rises - quite of its own accord - before scratching on the page:>> ##Please write your destination.||||
+pPortal1|Erudite Academy||||
+pPortal2|Clockwork Kingdom||||
+pPortal3|Endless Realm||||
+pPortal4|Vela's Gunship||||
+pPortal5|Hallow Town||||
+pPortal6|Mushroom Island||||
+pPortalExit|((Step away from the book.))||||

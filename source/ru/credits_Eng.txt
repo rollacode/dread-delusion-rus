@@ -1,0 +1,159 @@
+--LOVELY HELLPLACE--
+James Wragg#Creative Director
+Schera Wyss#Lead Developer
+Clara Pérez Fuentes#Lead Programmer
+Io Brindle#Lead Writer
+
+
+--DEVELOPMENT--
+Akuma Kira#Developer
+Grzegorz Wątroba#Programmer
+
+
+--NARRATIVE--
+Ben Brock#Senior Editor and Writer
+Harry Tuffs#Senior Writer
+Ali Kadhem Shnyien#Additional Writing
+
+
+--3D ARTISTS--
+Cody Lambert#Senior 3D Artist
+Kirill Zhelyabovskiy (Heinn)#Senior 3D Artist
+Poppy Magnolia#3D Artist
+Filip Ugrin#Additional 3D Art
+Neil Dobbs#Additional 3D Art
+BloodMachine#Additional 3D Art    
+
+
+--2D ARTISTS--
+Artyom Trakhanov#Senior 2D Artist
+Gato (came2slide)#Senior Pixel Artist
+Matt Walkden#Senior UI and Texture Artist
+Russell Dongjun Lu#Key Art Design
+Billy Garretsen#Logo Design
+Jakub Rebelka#Concept Art
+Cleveland T. Mosher#2D Artist
+
+
+--AUDIO--
+Daniel Staley#Composer
+Sally Beaumont#Narrator
+Lazzie Brown#Senior Sound Designer
+James Post#Senior Sound Designer
+Gary Kings#Voiceover Direction
+Hunter Bond#Audio Editor 
+
+
+--LEVEL DESIGN--
+Nathaniel Berens#Additional Level Design
+    
+
+--KITTEHFACE SOFTWARE--
+Consoles & Optimization
+Jeremy Statz
+Jared Bialo
+Bill Roeske
+
+
+--DREADXP--   
+Patrick Ewald#Executive Producer
+Hunter Bond#Director
+Henry Hoare#Head of Production and Operations
+Parker Hamilton#Producer - Project Manager
+Liam “lum” Svirk#Producer - Release Manager
+Cara Cadaver#Producer - QA
+Liv Baughman#QA
+Christopher Gámez#QA
+Nicholas Mesko#QA
+Justin Wood#Marketing Manager
+Samuel Guglielmo#Events and Sales Coordinator
+Sam Greszes#Additional Community Management
+Emiko Choroi#Volunteer Moderator
+FanartAlchemist#Volunteer Moderator
+Alex Pack#Volunteer Moderator
+
+–UBERSTRATEGIST–        
+CJ Melendez Senior#Account Director
+Tabitha Beidleman#Senior Account Coordinator
+
+
+--EVOLVE PR--
+Adolfo Aguirre
+Hanna Herauf
+Poe Chuang
+
+
+--BETA TESTERS--
+Gabe Cuzzillo
+Audrey Valentine
+Sarah Pheonix
+Dawid Boryszko
+Colton Sanborn
+Nathan Schulz
+Neil Dobbs
+Thomas Gourley
+Jackson Inskeep
+Anssi Eino Viljami Pakkanen
+Hunter Reece Lewis
+Victor Huff
+Paul Rendall
+David Kalber
+
+–ORIGINAL PC LAUNCH CREDITS–
+Patrick Ewald#Executive Producer
+Hunter Bond#Co-director
+Brian Clarke#Co-director
+Henry Hoare#Head of Operations
+Parker Hamilton#Project Manager
+Steven Palma#Head of QA
+Liv Baughman#QA
+Christopher Gámez#QA
+Alexis Klima#QA
+Austen Kinney#QA
+Nicholas Mesko#QA
+Conner Rush#QA
+Jonathan Sousa#QA
+Cleveland T. Mosher#Additional Studio Art
+Jacob "Jans" Slocum#Head of Marketing and Social Media
+Duckenheimer#Marketing and Social Media
+Samuel Guglielmo#Marketing and Social Media
+Ashleigh Slocum#Marketing and Social Media
+Justin Wood#Marketing and Social Media
+John Spencer Sipple#Backend Manager
+Emiko Choroi#Moderator
+Rosy Joan#Moderator
+Tyler Waterhouse#Moderator
+"Chiripoco"#Runs Our Jams
+Ted Hentschke#Additional Production
+Abbey "Scruncho" Smith#Additional Production
+
+
+--PLUGINS AND LICENSES--
+PS1 Shaders: dsoft20 + Modus Interactive  
+Font: Alagard by Pix3M
+Retro 3D VFX Pack by LEAKYFINGERS 
+Cloudy Skyboxes by Pieter 'Spiney' Verhoeven
+
+
+--SPECIAL THANKS--
+Breogán Hackett 
+Modus Interactive
+The HauntedPS1 Community
+Chiripoco
+
+
+--A HUGE THANK YOU--
+To all Lovely Hellplace Patreons
+and to our Early Access players
+your support, feedback and enthusiasm
+made this game a reality.
+
+
+
+--DREAD DELUSION--
+
+2024 - Lovely Hellplace - DreadXP
+
+
+Thanks For Playing!
+... And Stay Deluded

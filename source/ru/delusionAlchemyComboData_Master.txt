@@ -1,0 +1,36 @@
+item rarities: poor (0), common (1), fine (2), shroomweave (3), clockwork (4), void (5) BLANK = ANY RARITY|||||
+END ITEM: ID|END ITEM: Rarity (0-5)|ITEM A: ID|ITEM A: Rarity|ITEM B: ID|ITEM B: Rarity
+potionHealth|0|herbRed||herbRed|
+potionMana|0|herbBlue||herbBlue|
+potionStamina|0|herbYellow||herbYellow|
+potionTruth|0|herbBlue||herbYellow|
+potionPoison|0|herbRed||herbYellow|
+potionDef|0|herbRed||herbBlue|
+potionLuck|0|herbShroom||herbShroom|
+potionElixir|0|herbShroom||herbRed|
+potionCast|0|herbShroom||herbBlue|
+potionRegen|0|herbShroom||herbYellow|
+throwableKnife|1|throwableKnife|0|herbYellow|
+throwableStar|1|throwableStar|0|herbYellow|
+throwableStar|0|throwableKnife|0|throwableKnife|0
+throwableStar|1|throwableKnife|1|throwableKnife|0
+throwableStar|1|throwableKnife|1|throwableKnife|1
+wine|0|herbRed||aqua|0
+wine|0|herbBlue||aqua|0
+wine|0|herbYellow||aqua|0
+wine|1|herbShroom||aqua|0
+wine|1|herbRed||aqua|1
+wine|1|herbBlue||aqua|1
+wine|1|herbYellow||aqua|1
+wine|2|herbShroom||aqua|1
+wine|2|herbRed||aqua|2
+wine|3|herbShroom||aqua|2
+wine|4|herbBlue||aqua|2
+wine|5|herbYellow||aqua|2
+treasure|1|ore|2|aqua|2
+treasure|1|treasure|0|aqua|2
+treasure|2|treasure|1|aqua|2
+aqua|1|aqua|0|aqua|0
+aqua|2|aqua|1|aqua|1
+throwableBomb|1|throwableBomb|0|aqua|1
+throwableBomb|2|throwableBomb|1|aqua|2

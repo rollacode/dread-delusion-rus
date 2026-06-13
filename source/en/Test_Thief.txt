@@ -1,0 +1,11 @@
+ID|Key|isChoice|Choices|Can Exit|Return|Next|Conditions|Actions|English(EN)
+1|Greeting|||||2|||Well well, a new face. Must admit, it's mighty suspicious seeing someone fresh from the city up here. 
+2|Queston1|||||3|||So tell me, peep. You a spy for that holy hunk-o-gears, come to root us out?
+3|Q1_Choices||4,5,6|y|1||||
+4|Q1_C1|1||||7|||Yeah.
+5|Q1_C2|1||||8|||No.
+6|Q1_C3|1||||9|||I've gotta get going.
+7|Q1_A1|||||9|||Aha, what honesty! What bravado! I like you're style, peep. 
+8|Q1_A2|||||9|||Well, how can we know for sure? Y'know, I heard all machine-lovers bleed oil. Shall we slice you open and take a peek?
+9|Q1_A3|||||0|||Ehehe. Well, catch you later, peep.
+10|||||||||

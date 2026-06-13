@@ -1,0 +1,51 @@
+NPC Name:|ArtifactMerchant_1, ||||
+ID|English|French|German|Spanish|Italian
+m1|A guest? Welcome, welcome. ##<<The man flares his nostrils as he looks you up and down.>>||||
+m2|I'd offer you a seat, but... these chairs are terribly expensive. I presume you are here about the job offering?||||
+p1|I'm here for the job.||||
+m3|Yes, yes - I thought as much. Your attire is certainly suited for the... physical labour of the task. ##<<He dabs his forehead with a handkerchief, as if the thought of your attire is overbearing.>>||||
+p2|What job is that?||||
+m4|You mean... you simply came to exchange pleasantries?##<<He swallows, clearly repulsed at the thought.>>||||
+p3|Tell me about yourself.||||
+m5|Myself? Well, I am sure you have already heard a great deal. I am Vernon Berwig, of the Winged Merchants Guild. Peruse the shops in Hallow and there is not a single potion or herb that has not graced my vessels on its way here.||||
+p4|Actually, I'll just be going.||||
+m6|The job is to locate my merchant vessel - the [[Golden Typhos]] - and retrieve its ((cargo)).##It is a magnificent ship, made with the strongest Lundel oak; so I cannot imagine that it could have been shipwrecked. ||||
+m7|It's captain is none other than [[Walter Cecil]], who has charted many of the Apostatic Union's most distant islands and is known for his character.##Mutiny, then, is not a possibility.||||
+m8|A course was plotted to the Paeguthian ruins, south of Hallow.##The Typhos should have returned a week ago. I am beginning to worry.||||
+m9|The ship and the crew are irrelevant; only the [[cargo]] matters. Return it to me and I will reward you handsomely.||||
+p5|Tell me about the ship's captain.||||
+m10|I hired [[Walter Cecil]] for the fee of a small fortune. His exploits have been well documented.##It is said that, when exploring distant realms, his ship defeated a sky-god... though between you and me, it was more likely a very large fish. ||||
+m11|Nonetheless, he is one of the most reliable captains in the Union. His record is impeccable.||||
+p6|What cargo is it carrying?||||
+m12|I am afraid... I simply cannot say. You understand that - within the machinations of the Apostatic Union's legal system - there are certain trade goods that are... ((unfairly scrutinised.)) ||||
+m13|Suffice to say there is nothing dangerous or unwholesome about this cargo. But we should speak of it no further. ||||
+p7|I'll let you know if I discover your ship. Goodbye. ||||
+fm1|Oh, what's this - a fellow to join our shanties? You there, fancy a drink?||||
+p8|Don't mind if I do.||||
+fm2|That's the spirit. Drink your fill.##<<He offers you an empty, dusty bottle.>>||||
+p9|This is the Typhos, isn't it? You're lost. ||||
+fm3|Lost? Nay, we've only just set sail. We'll be back in Hallow in a day or two.||||
+p10|But you were due back a week ago.||||
+fm4|A week? You've gone daft. We hadn't even left a week ago. I was still ashore with my daughter.||||
+p11|Can't you see? You're all dead.||||
+fm5|Dead? Ha! You're a jester alright.||||
+c1|Say, you there. Fetch more rum from the lower decks. Captain's orders!||||
+p12|You're the captain of the Golden Typhos?||||
+c2|You don't know your own captain? Walter Cecil, who charted the outer reaches and slew a lesser god? Bah! The brig with you.||||
+p13|I'm here on behalf of your employer. The cargo is late.||||
+c3|Late? We're making good time! The cargo is stashed in the hold, safe and sound. Berwig will have his artifact.||||
+p14|Did you really kill a god?||||
+c4|One of the naysayers, are you?##Sure, it may have seemed like a big fish, but you didn't look into those eyes. They were powerful eyes, my friend - ((powerful eyes))...||||
+p15|I think you've had enough rum. Farewell.||||
+m20|Ah, you have returned. How... pleasant.||||
+m20alt|Ah, I've heard about you. You've been aboard my ship, the [[Golden Typhos]], correct?##There was ((precious cargo)) aboard which I need returned to me.||||
+m21|Pray tell, have you located the [[Golden Typhos']] cargo?||||
+m21alt|You didn't... find it, did you...?||||
+p20|I have the [[cargo]] right here.||||
+m22|Excellent, excellent. Oh my, how it gleams with beauty! Is it not simply the most splendid, the most radiant thing you have set eyes upon? Yes, This was well worth the wait. ||||
+p21|The crew of your ship is dead.||||
+m23|I care not for the trifling details. The voyage was a success. You have my sincerest thanks. ||||
+p22|What about my payment?||||
+m24|Hmmm... What? Payment? Yes, yes - allow me some time to gather my assets. Return soon and you shall be paid in full.||||
+p23|Can you tell me again about the job?||||
+p24|I'm still looking. Farewell.||||

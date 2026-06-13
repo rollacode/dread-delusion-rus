@@ -1,0 +1,216 @@
+Dialogues:|Clockwork|||
+ID|English|Voidspeak|French|German
+Ras1|<<The face that peers through a straggle of hair is a picture of incomprehension and suspicion, suddenly breaking into an unexpected, gap-toothed smile of amazement.>>|||
+Ras2|Come closer, there. I'm hardly going to kill the first conversation partner I've had in thirty years.##Let me ((look)) at you.|||
+Ras3|You are ((real)), aren't you?##Not another entropic discharge of the [[sphere]]?|||
+Ras4|Well, you certainly wouldn't be the first case of it...|||
+Ras5|Still, you ((seem)) real. So do I, most of the time. My name is [[Rasmussen]].|||
+Ras6|Some days - some years -  I wonder. But let's assume I am.##My name is [[Rasmussen]].|||
+Ras7|Well, you look fairly real. Yes, welcome.##My name is [[Rasmussen]].|||
+Ras8|<<As he comes closer, you can see that Rasmussen's clothing, ragged as it is, was once a resplendent set of Old Emberian robes: or rather, many sets, now seemingly all patched and darned together into a single bizarre ensemble.>>|||
+Ras9|You really are real...##I was so sure we were all going to die out before anyone came back.|||
+Ras9R|I thought we were all going to die out before anyone came back.|||
+Ras10|This is...well, it doesn't really have a name. This is just...where we ended up.|||
+Ras11|We, the [[Rasmussen clan]]. My ancestors. The ones who built the [[ship]] you've no doubt spotted, right on top of us here.|||
+Ras12|Oh, going on forty years now, since my parents died. I think that's right, at least, it's a bit hard to keep track.##We've been here - the family, I mean - since... well, since everything, really. Long before I was born.|||
+Ras13|You know! You know about it! Knowledge still endures. Yes. Yes, indeed.|||
+Ras14|I should ask how you found me, I suppose, but I have so many more interesting questions! So many things I've heard about the world out there...##My grandfather told me you all live inside giant mushrooms: don't they get a bit smelly? Do you still have snakes? I always wanted a pet snake.|||
+Ras15|But where are my manners? Excuse me, it's been thirty years since I needed them. My questions can wait: you must have questions for ((me)).|||
+Ras16|I was trying to explain to you, wasn't I... This is...was...is our home. It was never meant to be. But the Rasmussens, we...|||
+Ras17|Gladly! Well, now. My eight-greats-grandmother was an engineer. An impossibly good one.##When she was young, she became convinced that some terrible cataclysm was coming, and she built a ship to take us away, a new engine that could outrun the destruction.|||
+Ras18|It...it almost worked. We escaped. But though the engine was a wonder, something went wrong with the steering, and instead of getting all the way away, the ship foundered, crashed, here.|||
+Ras19|My ancestors scavenged from the ship, tore it to pieces and reassembled it, used the [[engine]] for protection instead of propulsion.##It would fry any big ship that got near, and after a while they just stopped trying. Most likely people got scared. Until...well. Until now.|||
+Ras20|And so we've been here ever since. Just us. And now...now I'm the only one, the only one at all.##The last Rasmussen.|||
+Ras21|I have been...hoping that someone might come, while I still could speak with them.##I imagine you want to know more about the engine, though.|||
+Ras22|Ah, right. Yes, I suppose I...I suppose that's to be expected.|||
+Ras23|The engine was - is - revolutionary. It still works, you know. I'm the only one maintaining it now. But I don't know what I'm maintaining it ((for)) anymore.|||
+Ras24|In any case, the engine works. It's up there, up in the [[wreck]] of the ship, though without anything to do it just puts out more and more energy.##But you could [[remove it]], if you wanted. That's what you came for, isn't it?|||
+Ras25|Don't worry. I know you didn't come here just to listen to me. |||
+Ras26|The [[sphere]] is up above, but you won't be able to reach it just like that. It puts out too much energy to get close to it.##But there is a way to shut it off - two [[switches]], elsewhere on the island, separate from each other. Failsafes.|||
+Ras27|If you can switch them both, the [[sphere]] will disconnect.##You'll be able to get it out, move it.|||
+Ras28|I...yes. Off you go. Only...come back one more time, won't you? Before you leave?|||
+Ras29|What, you think I'm going to stop you? You think I could even try?|||
+Ras30|And in any case, what is it doing here, now? Protecting me? From what?|||
+Ras31|And when I'm gone, it will be protecting nothing at all.##No. Much better that it goes back to its original purpose.|||
+Ras32|Well then, you already know what you're about! If you can find the other, you'll be home and dry.|||
+Ras33|<<He smiles, a little sadly.>> ## I suspected as much. Forgive an old man his little conversational indulgence, will you? I just wanted to hear another voice for a while.|||
+Ras34|You can go on now, up into the ship. The sphere is there.|||
+Ras35|Oh, you're back. I'm not used to all this conversation, you know. Did I already mention that? I did? Proves my point.##What was it you needed?|||
+Ras36|Gladly! Gladly. I've had a bit of time to practice, you might say.##Well, now. The Rasmussen family. Family, clan, corporation, whathaveyou, they were all of those things: a line of engineers and shipwrights.|||
+Ras37|My eight-greats-grandmother was a particularly gifted engineer.##It's said she saw machines in her dreams: machines, and other things too.|||
+Ras38|When she was young, she saw something coming in those dreams, something dreadful. [[The Shattering]], we always called it.##She saw a terrible destruction coming, so she took her most advanced designs, the ones that were going to put the Rasmussens head and shoulders above their competitors once and for all, and she turned the blueprints into a plan for an escape craft instead.|||
+Ras39|It...it almost worked. It did work. We escaped, we lived. The Rasmussens built themselves an engine, and an ark around it, and they lifted off just in time, the whole family.##But - this is the way my grandfather told it, at least, though we never much liked to talk about just what happened - though the engine was a wonder, something went wrong with the steering.|||
+Ras40|Instead of getting all the way away, the ship foundered, crashed, here. Far enough away to escape the Shattering...and far enough away never to reach the world again.|||
+Ras41|My ancestors guessed that something had survived in the rest of the world. We saw ships, sometimes, but nothing came near, and we had no way to get back, and in time...in time, that became the way they liked it.|||
+Ras42|Yes. Here I still am.|||
+Ras43|We - they, my ancestors, forgive me, they always seem very...present. They scavenged the ship, tore it to pieces and reassembled it, used the engine for protection instead of propulsion.##In time we came to fear the idea of anyone coming near, but they never did. Until...well. Until now.|||
+Ras44|And so we've been here ever since. Just us.##That grandfather I just mentioned...he was my only one. I think most people have more than that. And now...now I'm the only one, the only one at all. The last Rasmussen.|||
+Ras45|I have been...hoping that someone might come, while I still could speak with them. Thank you, for letting me tell my story.|||
+Ras46|The [[engine]] is - was - revolutionary. The heart of it is what we called the [[Rasmussen Sphere]]##It's a kind of energy recursion sink, it repackages the natural entropy of a normal engine system into...well, into more energy. Don't ask me how.|||
+Ras47|My grandparents claimed they understood: by my parents' time nobody was sure anymore.##I haven't been up there for years now, but they taught me how to work all the controls, even if I couldn't quite tell you what makes it tick.|||
+Ras48|But you could remove it, if you wanted. That's what you came for, isn't it? Don't worry. I know you didn't come to listen to me.##The sphere is up there, in the wreck, but you won't be able to reach it just like that. It puts out too much energy.|||
+Ras49|There is a way to shut it off - two switches, elsewhere on the island, separate from each other. Failsafes. If you can switch them both, the sphere will disconnect. The energy will still be there, but you'll be able to get it out, move it.|||
+Ras50|It's done. You don't need to tell me, I can feel it. Or rather I can't feel it, can't feel the energy anymore.##Hm. Well done. That damned thing has sat in one place for centuries.|||
+Ras51|Time for it to fly again. Time for it to do what the Rasmussens meant it to do in the first place.|||
+Ras52|Ach, and what would I do then? There's nothing for me out there. I hoped to live long enough for someone to come with a few kind words for me, and they have. That's enough for me.##Leave me here, and I'll join my ancestors soon enough. Go. Use it well. |||
+Ras53|Goodbye to you, then. Fly fast. Remember the Rasmussens.|||
+Ras54|Who's there? Who's that? I felt...I feel...nothing. It's gone.|||
+Ras55|Have you got it? The [[Rasmussen Sphere]]. The work of my ancestors?|||
+Ras56|Ah, what's the point in explaining it all. You've got it now, and without my help. You don't need an old man wittering on.##Go on, go.|||
+Ras57|Need anything else?|||
+RasP1|That's... the first time I've been accused of that.|||
+RasP2|I'm real. Are you?|||
+RasP3|<<Say nothing as you approach.>>|||
+RasP4|Who exactly is dying out?|||
+RasP5|What is this place?|||
+RasP6|You've been here alone for how long, exactly?|||
+RasP7|I'm here looking for...an engine? A sphere, I was told?|||
+RasP8|I'm sorry, I don't understand. You'll have to explain.|||
+RasP9|Never mind all that. Tell me about the engine.|||
+RasP10|Right. Off I go then.|||
+RasP11|You really don't mind if I remove it? What will happen to you?|||
+RasP12|I think I've already deactivated one of those switches.|||
+RasP13|I've found those already: they're both shut off.|||
+RasP14|Goodbye.|||
+RasP15|Tell me about your family again, the Rasmussens.|||
+RasP16|I see. And here you still are.|||
+RasP17|Go on...|||
+RasP18|Tell me about the sphere again.|||
+RasP19|I can take you with me, take you off this island.|||
+RasP20|I will use it well.|||
+DesSwitch1|<<A large breaker-like [[switch]] is set into a console before you.>>##<<The whole thing, and the hut around it, seemed to have been put together from a haphazard, if impressive, selection of parts which are now showing their age.>>|||
+DesSwitch2|<<The console has a single large switch, like a breaker.>>##<<Like the hut itself, the console looks both makeshift and ancient, ramshackle and high-tech: an inelegantly botched-together selection of elegant components, rust blossoming from the cracks between the parts.>>|||
+DesSwitch3|<<The switch is stiff, moving only with a grinding sound.>>##<<When it thuds back into the device, there is no immediate change anywhere around you.>>|||
+DesSwitch4|<<The switch is badly rusted, but comes loose with force.>>##<<As it clicks home, you hear...nothing, ringing in your ears: the strange echoing silence of a sound that you hadn't been hearing stopping suddenly, and true silence rushing in across the island.>>|||
+DesSwitch5|<<Now that it is shut off, there is nothing further to be done with the device.>>|||
+DesSwitchP1|Flick the switch|||
+DesSwitchP2|Leave it|||
+Pulmona1|<<The man inside the shell is as gnarled as his clutter-filled home. He gives you a hard, silent stare, almost as if he is seeing through you to something on the other side.>>|||
+Pulmona2|%%The man's gaze flicks away from you, his eyes focusing behind you for a moment before he turns his back. The dismissal, for all its silence, couldn't be clearer.|||
+Pulmona3|%%Ah. A visitor.##But... a visitor for me?|||
+Pulmona4|As much as the dead above live on the field of the fallen, I suppose. Yes, I spend my time here, and at times other spend their gold here.|||
+Pulmona5|This place? My home, my emporium, my steed.|||
+Pulmona6|Or did you mean the field of slaughter up above?##[[Aristide's Rock]], they used to call it.|||
+Pulmona7|Among other things... these days I seldom encounter others. But I retain a number of curios and trinkets here.##You may find I have some [[items of considerable interest]]...|||
+Pulmona8|I'm not here on business, I'm... shall we say, paying my respects? But I'm always happy to do a little trading on the side. You may find I have some [[items of interest]]...|||
+Pulmona9|To the dead outside, of course. The fallen soldiers, and the... other dead.|||
+Pulmona10|The Inquisition might want us to forget what happened here, but we haven't all, not yet.##And nor have the dead.|||
+Pulmona11|So you've returned. These days I seldom encounter others.##I retain a number of curios and trinkets here. You may find I have some [[items of considerable interest]]...|||
+Pulmona12|Farewell.|||
+PulmonaP1|Leave him to his own devices|||
+PulmonaP2|@@What is this place?|||
+PulmonaP3|Emporium? So this is a shop?|||
+PulmonaP4|Certainly, let me see what you've got. <<[TRADE]>>|||
+PulmonaP5|What are you doing out here? There don't seem to be many customers.|||
+PulmonaP6|Paying your respects? To whom?|||
+PulmonaP7|I see. Well, shall we trade? [TRADE]|||
+PulmonaP8|I see. I'll be going, then.|||
+PulmonaP9|Another time, maybe.|||
+Drangorg1|Ach, don't be shy. <<He puffs on his pipe, dispersing a peculiar odour.>> ## It's my own invention, if you're curious. Seventeen times more efficient than a normal pipe. A single pouch used to last me months in the field!|||
+Drangorg2|Ah, you again? <<The old veteran puffs on his mechanical pipe, half-hidden by baroque swirls of smoke.>> |||
+Drangorg3|<<The man in the corner has the most spectacular mustachioes you have ever seen, ones to make a walrus weep with envy: from beneath them protrudes an indescribable device that might be the distant descendant of a pipe. His bearing is stiff, dignified, even as he sits alone; several empty glasses in front of him.>>|||
+Drangorg4|Ach, don't be shy. <<He puffs on his pipe, dispersing a peculiar odour.>> ## It's my own invention, if you're curious. Recycles the tobacco juice and vaporises it back through the system for further consumption. Seventeen times more efficient than a normal pipe. |||
+Drangorg5|<<He lets out a wheezing chuckle.>> Imagine the savings! A single pouch used to last me months in the field.|||
+Drangorg6|And to you.|||
+Drangorg7|Pah! Certainly not. You think a common soldier could have designed this? <<He waggles his mechanical pipe.>>|||
+Drangorg8|I was a combat engineer. Lieutenant-Artificer Drangorg, 17th Greaseguards. Building and maintaining engines of war the likes of which you couldn't imagine.|||
+Drangorg9|Of course in the God War! You don't need a four-storey war engine to hunt poachers who've been taking too many rabbits, do you? No, we built machines to take the fight to the gods themselves. And we won. |||
+Drangorg10|The kinds of things that'll kill a god stone dead, that's what. War machines like moving mountains. Works of craft and science like you never see nowadays.|||
+Drangorg11|We saw action at The Battle of the Gates, as well as Black Restday; the retreat from Krasnagrad, the siege of Aunpur... <<He sees your eyes glaze over.>> ##These are all just names to you, aren't they? If that.|||
+Drangorg12|Well, how 'bout ((The Battle of Aristide's Rock?)) You ((must'a)) heard that one.|||
+Drangorg13|Pah! You can bloody well ((see)) the damned place from here! It's that isle to the North, past Pwyll, with a busted up [[engine of war]] - you ((can't)) miss it.|||
+Drangorg14|Of course ye have!##You can bloody well ((see)) the busted up [[engine of war]] if you look North, past Pwyll.|||
+Drangorg15|The war was almost over when we fought there, but that's the one that sticks with me. The one where I left behind... well...##<<He sighs.>> You want to hear an old soldier's ramblings or not?|||
+Drangorg16|Aye, fair enough. Well, anythin' else you want to chin-wag about?|||
+Drangorg17|Hm, well, the war was almost over by the time we got to Aristide's Rock. No place at all, really, but some of them believers fled there with a god. ((On)) a god, in fact.|||
+Drangorg18|An' you've never seen a cornered god, have you? <<He frowns.>>##No. Lucky you.|||
+Drangorg19|But we had our engine, the one Cornelius and I had been crewing practically since the start of the whole business.|||
+Drangorg20|<<He pauses.>> Wait, did I not mention Cornelius? He was my... ah. My commanding officer. Best there ever was. ##He had a real connection to the machine. He and I had flogged that thing through battle after battle, til we knew it almost better than we knew each other.|||
+Drangorg21|Anyway, ah...  <<The old engineer pauses, lost in thought, and his cheeks redden a little beneath the pendulous moustaches.>>|||
+Drangorg22|Excuse me. I lost my train of thought for a moment there, I...  Ach. ##You don't need to hear the whole story. It's ancient history, and better that way. I came back, most of us didn't, Cornelius and the war machine included.|||
+Drangorg23|I imagine he's still there, somewhere; what's ((left)) of him. None of us returned to that place y'see. Even if anyone ((wanted)) to return to that accursed rock, you'd need a [[powerful airship]].|||
+Drangorg24|<<He sighs.>> Really, what else is there to say?|||
+Drangorg25|<<An embarrassed silence descends, and you get the feeling that this might have been the most Drangorg has said for some years, and about all he's going to be saying for tonight.>>|||
+Drangorg26|<<Drangorg is silent for a moment, reaching out tentatively, then drawing back, not ready to touch the artifact yet.>>##Is that... ? Did you... ? |||
+Drangorg27|<<He coughs, producing a particular spectacular flare-up from his pipe, and attempts to compose himself.>> Well, I never thought I would see that again. But you've done a kind thing for an old Greaseguard.##<< He reaches out again, and this time touches the pendant, gently.>>|||
+Drangorg28|Here. Take this. Don't open it here, not where any old Inquisitor could see! That's void ore. Never built anything with it, never killed anything with it neither, and now I never will, but that's what did for all the gods, that and our own blood and guts.|||
+Drangorg29|Little bit of the stuff I kept back for myself at the end of the war, though I can't imagine why. Perhaps to remember it by, but now I have... this.##<<Drangorg is clasping the pendant tightly as he slides a package across to you. Seems like a good time to leave the old man to his thoughts.>> |||
+Drangorg30|Aye. I was a combat engineer. Lieutenant-Artificer Drangorg, 17th Greaseguards. Building and maintaining engines of war the likes of which you couldn't imagine. ##We built machines to take the fight to the gods themselves. And we won.|||
+Drangorg31|<<He frowns.>> Well, I hardly need to tell you it was ((tough.)) Back then, the war effort took everything we ((had.)) By day we worked, and at night - cradled in the cogs an' gears of our machines - we were kept awake by Wikkan screamer-artillery.|||
+Drangorg32|But the 17th? We were the ((best)). Most of us were Kardovans - back before the ((Clockwork Kingdom)), or whatever it is now.|||
+Drangorg33|<<He sighs.>> Most of those lads I never saw again. I heard it's pretty rough over there, with that Clockwork King. |||
+Drangorg34|Hm, well, the God War was almost over by the time we got to Aristide's Rock. No place at all, really, but some of them believers fled there with a god. ((On)) a god, in fact. |||
+Drangorg35|But we had our engine, the one Cornelius and I had been crewing practically since the start of the whole business.|||
+Drangorg36|What is there to say? I came back, most of us didn't - [[Cornelius]] and the war machine included.|||
+Drangorg37|Gods were... well, in the end we discovered that they weren't omnipotent, but they were something damn close. You understand what that means? At best, we were ((playthings)) in their eyes. At best.|||
+Drangorg38|Say what you like about your local polymath – curse their name, spit in their face. At least if you don't like 'em you can get rid of 'em the usual way. Eye to eye, sword to sword, in an honest election. Or by other means, if it comes to it.|||
+Drangorg39|'Course, I ended up facing more than a few gods eye to eye and sword to sword too, so there you go.|||
+Drangorg40|Aye, the Inquisition. Breathing down your neck, trying to see inside your skull. You're not the only one who finds them a little... overbearing.##But look at it from their side. The gods aren't going to just give up and accept their fate. There's no deal they can make with us. For them, it's ((existential)). So they'll never stop trying to take back power. Never.|||
+Drangorg41|That means every single god, as long as it lives - if you can call what they have "life" -  is a mortal danger to the Union. Especially when any of 'em could grow into a monster if they cozen enough idiots into worshipping 'em.##When you're locked in a cage with a rabid dog, you can't always keep a gentle hand.|||
+Drangorg42|Ah, well. Hallowshire's a special case. Things are always messy on the fringe, you know? And some people, truthfully, they like it messy. But some of the other realms... maybe you'll see them sometime.|||
+Drangorg43|Take me, I'm from [[Byonne]]. The grapes growing fat before the harvest, the bells ringing in the towns, the markets, the scholars, the songs.##Those are the things we fought for. And we won.|||
+Drangorg44|<<He gives you a curt nod.>>|||
+Drangorg45|<<Drangorg gives a quiet nod and puffs his pipe.>>|||
+Drangorg46|Alright then. Anything else?|||
+DrangorgP1|Uh... interesting. Have a good day.|||
+DrangorgP2|In the field? You... were a soldier?|||
+DrangorgP3|What kinds of things, then?|||
+DrangorgP4|In the God War, you mean?|||
+DrangorgP5|I don't believe I have.|||
+DrangorgP6|<<[Lie]>> Of course!|||
+DrangorgP7|Perhaps some other time.|||
+DrangorgP8|Please, go on.|||
+DrangorgP9|I have something for you. <<Give pendant.>>|||
+DrangorgP10|You never finished telling me about Aristide's Rock.|||
+DrangorgP11|So you fought in the God War, you said?|||
+DrangorgP12|What was it like in the Greaseguards?|||
+DrangorgP13|Tell me again about The Battle for Aristide's Rock.|||
+DrangorgP14|What were they like, the Gods?|||
+DrangorgP15|That's all I wanted to know about the war.|||
+DrangorgP16|The Inquisition presence here seems heavy. What do they do around here?|||
+DrangorgP17|Life here seems pretty tough.|||
+DrangorgP18|Goodbye, Lieutenant-Artificer.|||
+MemUnionA|... Hear that?! That's not cannon-fire! That's the future!... |||
+MemUnionB|... the teeth. The teeth on that thing! The teeth...|||
+MemUnionC|... Gods forgive me. Gods, focus. Focus. Can a God forgive you if you've killed it? Can you forgive a God if it kills you? Can a God kill you if you forgive it? Can you forgive a God if you kill it? Can you kill a God if you forgive it? No! Gods, no. Stop thinking about Gods. Gods. Can you...|||
+MemUnionD|... Onward! For Apostasy! Death to idols false and true! Death to death itself! Onwards...|||
+MemUnionE|...  Oh, you're scared, are you? Scared of some godling barely born? We'll make it wish it never had been! Come on, lad, does that look like a God to you? I've shat better Gods than that...|||
+MemUnionF|... What have we built? What have we done? Bigger than the Gods themselves.##I wonder if we'll be bowing down to it before this war is done...|||
+MemShared|... I wanna go home I wanna go home I wanna go home I wanna go home I wanna go home I wanna go home I wanna go home I wanna go home I wanna go home I wanna go home I wanna go home I wanna go home... |||
+MemWikkanA|... And how can man die better, than facing fearful odds, for the ashes of his fathers, and the bodies of his Gods?... |||
+MemWikkanB|... the size of it. The abomination! They who claim to throw down idols, only to build this?!...|||
+MemWikkanC|... the farm. The harvest. The blush on the shroomgills when winter starts to lift. The sound the whetstone on the scythe. The sun on the tops of the trees...|||
+MemWikkanD|... It's not real. It's going to die like all the others die, and we're going to die with it, like all the others did, and it will all have been a lie and I will never have even known freedom...|||
+MemWikkanE|... my shield, Might my sword, and if I should fall, Gods send me my reward. Strength be my shield, Might my sword, and if I should fall, Gods send me my reward. Strength be my shield, Might my sword, and if I should fall, Gods send me my reward. Strength be my shield, Might my sword, and if I should fall, Gods send me my reward. Strength be my shield, Might my sword, and if I should...|||
+Kaea1|<<A weathered man sits by the window, laboring over each wheezing breath.>>##<<Tattoos of a forgotten outlaw band adorn his neck and hands, blurred with age.>>|||
+Kaea2|<<He looks at you fearfully, then wheezes:>>##I won't tell but... if they come looking for you, I won't hide you.|||
+Kaea3|I'm not going to die in that fucking dungeon! Not for anyone! I'm a fucking human being!##<<He spits on the floor, his mucus thick and yellowish.>>|||
+Kaea4|Who do you ((think))? Idiot!|||
+Kaea5|It's sick, isn't it? This whole thing.|||
+Kaea6|You again? <<He wheezes.>>##Make yourself at home.|||
+Kaea7|I should never have taken this job all those years ago.##<<He begins coughing violently.>>|||
+Kaea8|I should never have taken this job.|||
+Kaea9|She's just like me, you know?##The mushrooms are growing, and her body can't fight them.|||
+Kaea10|It kills you slow. Let me tell you.|||
+Kaea11|Those [[bastards]] brought the mushrooms here a long time ago.##They infected The Mollusc because it was useful to them. |||
+Kaea12|Over the span of a generation, the mycelium spread while the Coven declined. And now it's completely out of their control. Everything outside their castle is falling apart.|||
+Kaea13|The Mollusc really is just like me though. One day soon she's going to be gone forever. And you know what? The fanatical dreams that were built on her back will die with her!|||
+Kaea14|<<His passion exceeds him, and another coughing fit ensues. By the time he recovers, he seems to have lost his train of thought.>>|||
+Kaea15|It was a long time ago now. They told me it was manual labor, but the type that gets you hanged by the inquisition. They didn't tell me the location or the client, and I'd never heard of the [[Coven of the Mollusc.]].##Supposedly, all I had to do was get on an airship, do the work, not ask questions, take the money, go home and shut the fuck up about it forever.|||
+Kaea16|Easy money, I thought. No thieving, no kidnapping, no murder. For an outlaw like me that's about as regular as work gets. And the pay was nice too.##<<He coughs, clutching his abdomen in pain.>>|||
+Kaea17|Well, long story short, I fucked up. Nothing here is free. I got into debt and couldn't leave.##I came so close to paying it off, but my body started to deteriorate, and I started making less and less money.|||
+Kaea18|Now Im so deep in the hole, I might as well be buried in it.##Not that I have long to live anyway.|||
+Kaea19|<<He squints at you.>>##Mining, I guess you could call it?|||
+Kaea20|The Mollusc produces [[shroomweave ore]] deep in its womb. That's what the Coven is here for.##My work was to move heavy shit around so this could happen. |||
+Kaea21|Sometimes I'd help cut away some flesh where it wasn't wanted, or graft a piece of somewhere else. Everything was so large it took a team of three or four to do anything.##<<His voice begins to go hoarse from talking so quickly, and he lets out a deep cough.>>|||
+Kaea22|I dreamed about it, but... they control every airship, check every detail... and if the Coven caught me I'd be...##<<He coughs violently. You wonder if he is going to throw up.>>|||
+Kaea23|Oh, you're... going already?|||
+KaeaP1|Fair Enough.|||
+KaeaP2|Why not!?|||
+KaeaP3|If ((who)) comes looking?|||
+KaeaP4|What do you know about The Mollusc?|||
+KaeaP5|What was the job?|||
+KaeaP6|What kind of work were you doing?|||
+KaeaP7|Did you ever try to escape?|||
+KaeaP8|I see...|||
+KaeaP9|Goodbye|||

@@ -1,0 +1,154 @@
+NPC Name:|Paeguth||||
+ID|English|French|German|Spanish|Italian
+poly1|<<She does not look up from her papers.>> Ah, another loyal subject of the Apostatic Union. ## I must remind you that impromptu meetings such as these may not exceed ten ticks of the clock. ||||
+poly2|Are you here to serve the Union? Or is this another matter of ... <<she sighs>> livestock dispute...?||||
+polyp1|I'm here for work. ||||
+polyp2|Tell me about the job, again.||||
+polyp3|I wanted to ask some questions.||||
+polyp4|Actually, I think I'm in the wrong room. Goodbye.||||
+polyp5|I want to serve the Apostatic Union.||||
+poly3|<<Still looking at her papers, she answers with monotone weariness.>> ##Ah, yes... questions. It is, of course, my pleasure to oblige... <<She checks a pocket watch>> for no more than eight ticks.||||
+polyp6|Who are you?||||
+poly4|<<She closes her eyes and rubs her temples.>> ##Seeing as we are having this conversation, I ((assume)) you know I am Hallowshire's polymath. I am its appointed representative in Riova and I ensure Union law is upheld.||||
+poly5|Hallowshire was practically lawless before my council contested the region five years ago. But we won the election with minimal casualties, and I am proud to say things are much improved. ||||
+polyp7|Minimal casualties?||||
+poly6|You are aware of election rules, yes? Election candidates and their subordinate councils must compete in two stages; a battle and a debate.||||
+poly7|Well, in the last Hallow election, the opposing cultist rabble were no match for our battle-councillors. So many fell to our swords in the staged battle that, when it came to the debate, few of those left could even string a sentence together.||||
+poly8|<<She betrays a smile>>. They were hardly capable of matching our philosophical rhetoric, let me tell you that. ||||
+polyp8|Okay, I get it. ||||
+poly9|So, was that the end to your... questions?||||
+polyp9|What is the Apostatic Union?||||
+poly10|<<Her brow contorts.>> ##I see that our policies towards educating the common folk have resulted in... mixed success.||||
+poly11|To be apostatic is to reject one's religion. Forty years ago, the realms of Vena, Byonne, Lundel and Slev emerged victorious from the God War, having rejected the Wikkans and their gods.||||
+poly12|Those nations established the Apostatic Union; wherein its subjects are free from the tyranny of god worship.||||
+polyp10|What's so bad about god worship? ||||
+poly13|After the world rend, humans became dependent on gods once more. But it is a cruel arrangement. Gods have their own agendas, and never bestow favours without a sacrifice in kind.||||
+poly14|Furthermore, the Wikkan covens had a monopoly on worship and spellcraft. God contracts had to be struck through them. Spells were approved by them. They were as corrupt as they were powerful.||||
+poly15|The polymaths at the great universities realised that humanity would never achieve its former glory chaining itself to gods. And so they gathered powerful allies and broke their fetid chains.||||
+polyp11|Who are the Wikkans?||||
+poly16|The Wikkans are occultists and spellcasters. Unlike the spells created at Union universities - which rely on the true language - the Wikkans strike binding contracts with gods to achieve power.||||
+polyp12|That's all, actually.||||
+poly20|<<She looks at you, finally.>> Ah, a willing subject of the realm. Excellent. ##We are hunting a god, and we need all the help we can get.||||
+poly21|As you no doubt know, Hallowshire is beset with famine. The crops yields are poor, which aggravates a much greater problem; god worship.||||
+poly22|In their panic, the populace have resorted to illegal prayer. Cultism is rife. The situation is so dire that an inquisition division has been dispatched. Their scryers say that we're dealing with... <<she inhales.>> A class-B god entity. ||||
+poly23|The investigation is focused on the farmlands outside of Hallow, but the inquisition impose Apostatic Law with a heavy hand. Many god sympathisers have already been put to the gallows, stoking anger. So I am turning to the populace for support. Even the most lowly of subjects could help uproot this problem.||||
+poly24|I have but one question: where is this god?||||
+poly25|Any assistance will - of course - be rewarded in coin.||||
+polyp13|Where should I look?||||
+poly26|The inquisition is making its way through the countryside, searching farmsteads for god sympathisers and hidden covens. I would ask around there, and search for anything the inquisition has missed.||||
+poly27|But there is also Hallow Castle, where a noble family resides. The old dynasties are still treated with respect in the Union, so the inquisition has held off for now. But the nobles have ancient ties with gods, so I would eye it with suspicion.||||
+polyp14|Tell me about this famine.||||
+poly28|The famine is the lesser problem. No doubt it will be solved in a matter of months. We are awaiting food imports from Lundel, and I have the utmost faith they will not be delayed again.||||
+poly29|But the peasants, in their impatience, have turned to the occult. Such foolishness! They seek to undo all the good the Union has done.||||
+polyp15|I'll see what I can do. Farewell.||||
+polyp16|I discovered the god Paeguth.||||
+poly30|<<Her quill slips on the paper. She looks up, slowly.>> ##You attest to having succeeded, where an entire echelon of inquisition agents has failed? ##I require proof.||||
+polyp17|<<Hand over the Aspect of Paeguth.>>||||
+polyp18|Actually, never mind.||||
+poly31|<<The thing slumps onto the Polymath's desk where it writhes, gurgles and belches a strange odour. The Polymath tries to maintain her composure, but is clearly perturbed.>>||||
+poly32|This... ((thing)) indeed matches the description of a god-aspect. Perhaps you really have located a class-B god entity...||||
+poly33|Very well. Our scryers will use this aspect to pinpoint the god's location, and an inquisition strike team will make short work of the entity.||||
+poly34|You have done well. No doubt the inquisition would have found the thing eventually, but I cannot deny your assistance in the matter.||||
+poly35|Take this; a modest sum of coin for your efforts, plus an Apostatic Union passport document.||||
+poly36|Now, if you'll excuse me, this new development necessitates many official documents. You may take your leave.||||
+polyp19|How is the situation in Hallowshire?||||
+poly40|Thanks to you, the inquisition will make short work of that class-B god entity. Naturally, the cults festering in this region should disperse.||||
+poly41|Hallowshire is still beset with famine, of course... but with our stranglehold on the region, unrest should be kept to a minimum.||||
+poly50|Our guards report a marked decrease in cult activity. I can only assume the inquisition has succeeded in scaring the bastards off. ##<<She smirks.>> Well, either that or they've all turned invisible.||||
+poly51|Plus, crop yields are increasing. It seems the famine is ending. A welcome bonus to our fortunes.||||
+inq1|<<The inquisition agent is watching a body swing from the gallows with a grim fascination>>.||||
+inq2|Cultists riddle these hills like vermin. Whenever we lift a rock, a dozen scuttle out. Anyone could be secretly devout.||||
+inq3|So watch yourself, stranger. Our eyes are on you, too.||||
+p1|Tell me about these cultists. ||||
+inq4|They worship something named Paeguth. Nasty old fertility god. Our scribes have traced him back to the Middle Ages, which would make him ancient - if this isn't some imposter.||||
+inq5|Whatever this is, our scryers are picking up class-B energies around the farms and the castle, so it's a big one. Some of the people around here are bearing mutations consistent with fertility curses, so we're close. There's something here.||||
+p2|What do you think is here?||||
+inq6|Not sure. We've found a cache of fertility idols, and a Wikkan priest was hiding in a secret chamber. There's something we're missing, though. Something big.||||
+inq7|We've interrogated a few of the locals. Everyone breaks eventually - but when these lot blurted something about a belltower, some silencing curse kicked in. Their mouths filled with maggots. Thousands, spilling from their lips, until their throats ripped open.||||
+inq8|Funny thing is, there's not a belltower around here. We'll have to widen the search...||||
+p3|Okay, thanks.||||
+p4|Your methods are sickening. ||||
+inq9|Hmph. Another reformer, eh? Thinking that worshippers should be tolerated, the sentences reduced?||||
+inq10|You've not seen what I've seen. Towns that made terrible bargains. Hordes of creatures, no longer human - the streets running with blood. The only option to purge it all.||||
+p5|Not all gods are evil. With regulation...||||
+inq11|Watch it, now. This isn't a university, and you don't look like a scholar. Which makes those words treason. Now get out of my sight, before I decide to do something about it. ||||
+p6|You've made your point. Farewell. ||||
+p7|Farewell.||||
+agent1|I do my duty as an agent. God worship is outlawed, and these people are violating Apostatic Law.||||
+agent2|...but it's hard not to sympathise. The famine is bad here, and people are starving. It's clear the Union isn't doing enough to help. I don't blame these people for looking for a solution.||||
+agent3|I don't blame them. But I do punish them. ||||
+farmer1|Those bastards. The Union will pay for what they've done.||||
+farmer2|Five years ago they came and outlawed all the priests. Since then the crops have withered, the cattle have died.  The rich folk in town can buy imported food, but out here we're starving. Even the belltower crumbled, with nobody to repair it.||||
+farmer3|And now... they've sent in their guard dogs, to finish the job.||||
+ch1|@@What the Union is doing is terrible. I want to help.||||
+farmer4|%%I can't trust you. You could be working for the inquisition, but... our options have run dry. We'll all be dead, soon. ||||
+farmer5|If you really want to help, look for a certain ruin - atop the nearby mountain. One with a broken bell inside. Under the bell is a passageway... ##Paeguth bless you.||||
+farmer6|&&I'm sorry, but I don't know you. You could be working for the inquisition. Not... not that I've anything to hide, you see...||||
+p8|I'm... sorry. Goodbye. ||||
+fo1|Greetings, newcomer.||||
+fo2|<<Tiny insects scurry over the being's face. The stench is overpowering; sickly sweet. It leans in to smell you.>> ##I smell that your flesh is... plump, and healthy. Paeguth has blessed you, indeed. ||||
+pq|Can I ask you some questions?||||
+foq1|I will answer what I can.||||
+foq2|Do you wish for more words?||||
+foq3|Very well.||||
+p10|What... are you?||||
+fo3|<<liquids ooze from a widening smile.>> ##Do not be intimidated by my glory. Once I was mortal, like yourself. But Paeguth is nothing if not generous. ||||
+fo4|I have been blessed to bear his fruit; to endure sweet agonies, so that I may heal the land and feed the people.||||
+p11|Can you tell me of Paeguth?||||
+fo5|He is a god of growth; of sustenance; of life itself. Those who worship him will not go hungry, or succumb to illness. They will die fat, bloated and euphoric.||||
+fo6|He has protected these islands for many generations. Monuments to his greatness lie in glorious ruin. Mortals perish, but he endures. Not even the blasphemous war could cleanse him.||||
+p12|Where can I find Paeguth?||||
+fo7|Why, he lives inside you. In your breath, in your blood, in your cells. Even now he caresses your organs with fondness, with love, with... intent. All you must do is permit him, and he will help you.||||
+fo8|Ah, but I sense this answer did not satisfy you. Fear not, he is close, nearby, in his glorious bulk. He grants an audience to those who are devout, so that he may bless them... personally.||||
+fo9|If this is what you desire, make tribute to him here. I will direct you further.||||
+p13|I understand, thank you. ||||
+p14|I want to make a tribute to Paeguth.||||
+fo20|There is no need. You have already made an ample tribute.||||
+fo21|<<Its face contorts.>> I am afraid you do not have the wine.||||
+fo10|Very well. In ages past, those loyal to Paeguth would ferment a delicious wine from the mushrooms of the island. They would throw exuberant parties and delight in his greatness.||||
+fo11|Bring this wine, and Paeguth will grant you an audience.||||
+ch2|@@But I can see that Paeguth wants for nothing. Are my prayers not enough?||||
+fo12|%%You speak truth, of course. Paeguth is excess inherent; and he is greatly pleased that you see this.||||
+fo13|&&Paeguth seeks more than prayer; a tribute, no less.||||
+p15|I offer this mushroom wine.||||
+p16|I'll think about it. ||||
+fo14|Yes, this is the vintage. Oh, he is most pleased - I hear his whispers in my ear.||||
+fo15|Take this symbol. Go to the castle that lingers above these lands. Search beneath it, for a cave; and with this symbol you will be granted admission. Go now, and bask in his glory.||||
+pgth1|Ah, another ape-thing scurries into my den. If you bear one of my keys, you must be a devout follower - recognised by the most fertile of my children. So I thank you. ||||
+pgth2|But, if you have come to witness my glory, I'm afraid I must disappoint. ##The age has long passed when I towered above humanity, growing bloated from its filth. Few know me now. I am small, withered, forgotten.||||
+pgth3|I wonder... have the Wikkans sent you to assist my plight? You bear few of my gifts; your skin is smooth and unsullied. But perhaps that may be of use.||||
+pgth4|Take this aspect of myself. Smuggle it into the Apostatic Union council chambers. Place it in the highest point, and it will take seed.||||
+pgth5|It will blind the Union meddlers to my presence, and I will move unshackled once more. ||||
+pgth6|But beware; it contains an aspect of myself, and is thus part of me. If it should fall into their hands... they could use it to hurt me. To trap me...||||
+pgth7|Now go, with my blessing.||||
+pgth8|Have you performed the task I asked of you, mortal? I plead that you perform it swiftly.||||
+pgth10|Thank you, mortal. The aspect of myself has taken hold; my tendrils extend to the minds of all those nearby.||||
+pgth11|Though I loom here, only the most faithful of my servants will see the truth. My presence is hidden from all else.||||
+pgth12|Please, take this meagre gift, as recognition of your services.||||
+pgth13|Now that I am restored to a glimmer of my former power, the land can begin to heal.||||
+pgth14|The crops will grow. The sick will be renewed. And, in time, your mortal bodies will undergo a most glorious transformation. ||||
+inq20|Paeguth is gone. We sent a tactical strike team into the bastard's lair and skewered him with voidstone.||||
+inq21|With their prayers unheeded, the cultists should disperse. A fine mess they made here, but the Union always triumphs.||||
+inq22|It seems we've succeeded in scaring off all those cultist bastards. We've not had any reports of activity in a while.||||
+inq23|But you know, it's strange... every now and again, our equipment picks up a huge spike of class-B energy. Like there's something we're missing... ##Ah, what am I saying? It's probably just faulty equipment.||||
+inq30|Leave, citizen. This is a class-B cultist site, restricted to all but inquisition Echelon XII.||||
+inq31|We destroyed a class-B god entity here. Its remains were sent to Lundel for posthumous analysis.||||
+wik1|Ah, you must be the new messenger. You're late.||||
+p21|Uh... sorry?||||
+wik2|Better late than never. So, what is the situation in Hallowshire? Does the inquisition still have an echelon stationed nearby?||||
+p22|Yeah, the inquisition have been busy.||||
+wik3|Damn. We're doing our best to conceal the remnants of Paeguth's cult, but at this rate they'll sniff us out. We could all be hanging from the gallows next month.||||
+wik4|Please, pay your respects to the Fertile One while you're here.||||
+wik5|With its produce we could end the famine tomorrow, but we could never distribute it with the Apostatic Union's presence here. If something doesn't change soon, they'll have won.||||
+p23|I don't have time for this.||||
+castleGuard1|Betrayed... by my own subordinate... ##Am I the last one, loyal to the Duke?||||
+castleGuard2|Please... find the Wikkan, locked up in the keep. He's the only one who can bring an end to this.||||
+starverA|<<The villager slumps forward, voice faint.>>##Please... Some food, please...||||
+starverB1|<<The villager's mouth is smeared with glistening juices, their chin smeared with flecks of richly coloured fruit.>>##Look! Try some! There's enough, enough for everyone.||||
+starverB2|<<He takes another bite.>>##Mmmph. More than enough! So much! So good... So filling...||||
+inqHunterA1|Well met, comrade. Heard about the trouble in [[Paeguth]]?##Yes, we're on our way now, just re-equipping.||||
+inqHunterA2|They're sending up their latest war machinery. Nothing but the best for these God-sucking scum, right?##Well, good hunting to you.||||
+inqHunterB1|Makes you wonder, doesn't it... if they're so desperate to save their so-called Gods, why'd one of them give up the location of this one so easily?||||
+inqHunterB2|There again, I 'spect you've seen the inside of an Inquisition facility, same as I have...##So maybe you don't have to wonder.||||
+inqHunterC1|A real god! It's like the [[war]] all over again!##Or, well, not exactly, that would be bad, wouldn't it...||||
+inqHunterC2|But still, it's exciting, you know?||||

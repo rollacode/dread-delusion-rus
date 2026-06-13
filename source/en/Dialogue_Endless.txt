@@ -1,0 +1,1290 @@
+NPC Name:|Endless||||
+ID|English|French|German|Spanish|Italian
+p1|Goodbye.||||
+p0|Farewell.||||
+pq1|Can I ask you some questions?||||
+pq2|Okay, I think I get it.||||
+pq3|Got it.||||
+pq4|Actually, I had other questions.||||
+pq5|That's all I wanted to know.||||
+chi0|<<The woman who approaches you is half-rotted. One eye is milk-white, and the other is missing. The pearly white of her jawbone is visible through ragged skin.>>||||
+chi1|Careful there, breather. That was a big one. You hurt?||||
+p14|What was that?||||
+chi2|A little tremor, that's all. They've been getting more common recently.||||
+p2|I'm fine.||||
+chi3|Good to hear.||||
+p3|Just a little shaken, that's all.||||
+chi4|Hahaha! Good one, breather.||||
+chi5|You should watch your step, though - that quake will have riled up the catacomb wyrms something fierce.||||
+p5|Catacomb wyrms?||||
+chi6|Nasty buggers. They burrow, they fly, they eat people. Just stay away from them, that's my advice.||||
+p6a|You appear to be... a bit worse for wear.||||
+p6|What's wrong with your face?||||
+chi7|I'm sure you've heard stories about the Endless, breather. Immortality comes at a price.||||
+p7|Do you know what's causing these tremors?||||
+chi8|Folks are saying it's the Entombed One, who's imprisoned below the Castle of Ribs. They say he's waking up. But people say a lot of things, and you'd go mad if you took it all seriously.||||
+chi9|Anyways, you're clearly new here, and I've got some time to kill. Is there anything you wanna know?||||
+chi10|Hello again, breather.||||
+p10|Who is the Entombed One?||||
+chi11|No idea. He's been shaking the island for centuries, but recently, it's been happening more and more often. I've heard that if he keeps it up, the entire island could be shook to pieces.||||
+p11|What is the Castle of Ribs?||||
+chi12|The palace where our Queen resides. If you keep heading west, you can't miss it.||||
+p12|Tell me about the Queen.||||
+chi13|Her full title is the Queen of Silver. She's a bit of a recluse. She's ruled over the Endless for three centuries, and for the last two she's never made an appearance in public.||||
+p13|Who are you?||||
+p13a|Who are you, again?||||
+chi14|My name's Chiasma. I'm just out here waiting to be granted admission to one of the Mausoleums.||||
+chi14a|Told you before, breather - I'm Chiasma. I'm just out here waiting to be granted admission to one of the Mausoleums.||||
+p15|What are the Mausoleums?||||
+chi15|See those big imposing tombs in the distance? Most of the Endless live in those Mausoleums, these days. They're waiting for the Ferryman to come and take them away.||||
+p16|Why aren't you in a Mausoleum?||||
+chi16|They're overcrowded and the best tombs go to the highest bidder. So poor broke saps like me have to wait until a place becomes available. Usually after a Wyrm attack.||||
+p17|See you later, Chiasma.||||
+chi17|Good luck, breather. Watch your step out there.||||
+p18|Have you ever seen a talking crow in the kingdom?||||
+chi18|Can't say that I have. It sounds like some kind of magic. If I were you, I'd go speak to Penitent Thaw - she knows everything there is to know about that kind of stuff.||||
+p19|Who is Penitent Thaw?||||
+chi19|A mage who lives in the sanctum overlooking the flesh-farm. You can see it up on that ridge, to the north. She's the youngest of the Endless. Only two centuries old - practically a whippersnapper.||||
+p20|Are you loyal to the Hooded King?||||
+chi20|Wow, what a question... No, I'm not loyal to a monarch who's been dead for three centuries. Obviously.||||
+chi21|Sure, breather. You wanna ask anything else?||||
+chi21a|Anythin' else you wanna know about this place?||||
+p21|Can you tell me about this place?||||
+chi22|Well, you're entering the lands of the Endless. Our island of tombs has been drifting around the skyrealms since before the World Rend; even before even those damned Emberians... ((ferryman rest their souls)), eheh.||||
+chi23|You'll find the town of Sepulchre up ahead. But careful on your feet, breather - there's been a whole bunch of tremors, lately.||||
+p22|What's in Sepulchre?||||
+chi24|Honestly? Not much. Most of us Endless live in the mausoleums. But you can rent a room in the Rotten Coffin, and there's places to trade.||||
+chi25|Looming over Sepulchre is the Castle of Ribs, where the Queen resides. And just past town is the flesh-farm.||||
+p23|Wait, did you say flesh-farm?||||
+chi26|That's right, breather. Us Endless need to feast on living flesh, else we go all foggy. Years back we led the Cadaver Crusades, takin' the living by force - but Penitent Thaw came up with a much better idea.||||
+chi27|The flesh-farm is a bunch of huge vats, growing mindless meat. Much more humane than eating raw human. Gets a bit tiring when your lunch is always screaming at you for mercy.||||
+bar0|<<The endless stands askew, slowly cleaning a mug with a rotten rag. He spits on the rag - apparently in an attempt at cleanliness - but a piece of his lip comes off in the attempt.>>||||
+bar1|Hmph, as I live n' rot - an honest to gods breather. We don't get many of you passing through Sepulchre, these days. ||||
+bar2|Welcome to the Rotten Coffin. We've got a bed to rent - the only genuine mattress in all the tombs o' the Endless. We also got ghost booze.||||
+bar3|Hey look, the breather's back. How's that air taste? ||||
+p24|I'll rent a bed.||||
+bar4|Great! I've been told it's real comfy. But, seeing as you're the first to sleep in it for a good few years, the mattress might be a bit rotten. Just sweep off the maggots and you're good to go. ##Anyways, that'll be two coins.||||
+p25|Uh, here you are.||||
+bar5|Thanks breather. Just follow the stairs; it's up the top there.||||
+bar6|Sorry breather, looks like you don't have enough.||||
+bar6b|Ah, you've already paid for it, breather.||||
+p26|Uh, I changed my mind.||||
+bar7|Pfft. You breathers are always so squeamish.||||
+p27|Can I ask you some questions?||||
+bar8|I reckon I've got the time. We've not been busy for a good century or so.||||
+p29|Do you know of any work going?||||
+bar9|Not much work going outside the mausoleums, breather. Still, you could try visiting the Queen's Senechal in the Castle of Ribs. Maybe she'd have use for someone with a working nervous system?||||
+bar10|Otherwise, there's the flesh farm, on the ridge north of here. As far as I know, it's just Penitent Thaw and that underling of hers, so perhaps they could use a hand.||||
+p30|What was that about ghost booze?||||
+bar11|Well, we endless have different... constitutions from you breathers. Takes a different sorta beverage to really give us any kick.||||
+bar12|Ghost wine can be brewed like a potion, but the best vintages are ectoplasmic. When a ghost is created through trauma, sometimes nearby objects - or even ((drinks)) - pass over to the spirit realm too. That's the good stuff.||||
+bar13|Or, for an Endless who's short of coin, there's always good ol' arsenic. I wouldn't recommend that for folk like you, though...||||
+p31|What's the story with this town?||||
+bar14|Well, this here town's called Sepulcher. <<He cocks his head.>> You want the long version, or the short?||||
+p32|The long.||||
+bar15|Years back - and I mean ((centuries)) ago, in the age of kings and castles - this used to be a peaceful kingdom called Verdant. Most folk still lived down on the world's surface,  before it got blown up - so we were pioneers of sorts.||||
+bar16|Our great wooden buildings rose above the pines an' our monarchs were just an' the air was sweet. ##Then, our Hooded King brought the curse upon Verdant. The living fought the dead; the bodies piled up, and the air weren't so sweet any more.||||
+bar17|Wracked with pain an' eternally cold, us Endless have no use for comfortable things... so those beautiful wooden buildings rotted away, replaced with hard stone. This town was Verdant no more, so we started calling it Sepulcher. The name stuck.||||
+p33|The short.||||
+bar18|These days Sepulcher is little more than an outpost, for trading an' the like. Most of us Endless live in those great mausoleums over yonder. And that big tower that looms over us? That's the Castle of Ribs, where the Queen lives - but she's not left in years.||||
+p34|Uh, exactly how ((long)) is long?||||
+bar19|<<He lets out a raspy chuckle, which unleashes a fleck of flesh.>> ##Don't worry, breather. I know us Endless can ((theoretically)) talk forever, but I won't kill you with boredom.||||
+bar20|So, what'll it be? ||||
+p34b|You know what, never mind.||||
+bar22|No problem breather. So, you wanna know anything else?||||
+bar23|Anythin' else you wanna know? ||||
+p35|That's all I wanted to ask.||||
+bar24|Alright. You want anythin' else?||||
+p35a|How's life in Sepulchre?||||
+bar25|Hmph. How's ((death)) you mean?||||
+bar26|Well, the Queen's castle blew up. That's a pretty big thing||||
+bar27|Folk are saying the Entombed One has awakened. Others are saying the Ferryman is bringing the true death. All I know is, the island is crumbling, an' I sure as hell don't like it.||||
+bar28|Well, those awful tremors have stopped. Folk are saying the Entombed One was struck down in mortal combat, saving the kingdom - or somesuch nonsense.||||
+p35b|What've you got to drink?||||
+bar29|Should be no surprise we've got plenty o' [[Ghost Wine]]. ##Recently my punters 'ave been hankering for some good ol' fashioned mortal booze, though. If you come across any Riovan [[Fine Wine]] I'll give you a good price for it. ||||
+p36|I'll be going.||||
+p39|I'm looking for The Duchess, do you know her?||||
+bar30|The Duchess? She's hard to pin down, that one. Few folk 'ave even ((seen)) her since she came back from galavantin' around with pirates and mercenaries a few years back. ||||
+bar31|Rumour has it, she's holed up in her ol' family [[manor]] that sits on the [[southern edge]] of the Endless Realm... ||||
+bar32|But good luck arranging a visit. She's a powerful cipher wizard an' has a whole host of magical countermeasures to stop common plebs like us from wanderin' round her grounds.||||
+p40|I'm looking for The Duchess.||||
+shop21|Ah, yes - everyone's heard of the Duchess! Only, I don't think anyone's seen her in years. Last I heard, she was flyin' around with that crazy bunch o' breathers - what were they called? The Dull Stars? The ((Dim Lights))...?||||
+shop22|Anyway, her family [[manor]] is to the [[south]]. If y'er looking for her, I'd head there - but I hear the place is crawlin' with [[magical skeletons]], so be careful. ||||
+regret1|I never entered a mausoleum. Back when I was breathing, so long ago, I knew I could never leave these trees. The air smelled so... so... ##Well, I can't recall how the air smelled anymore, but it must have been good. ||||
+regret2|So I dawdled, and the mausoleums filled up. And the thing about being Endless, see, is that the pain dulls everything. Anhedonia sets in, pleasure seeps away... and these old trees only mock me, now.||||
+play1|Hmm, what's this? A breather? Oh, marvellous! Please, stay there a second. Let me jot down some notes. Is your skin always that damp? Do you ever forget to breathe? What does it feel like, when your hair grows?||||
+play2|Ah, apologies, this must be quite overwhelming. I'm a playwright down in a mausoleum, you see - but the scene has become so... stagnant!||||
+play3|The past century or so, pre-Endless historical dramas have been in vogue. Except, us writers never leave our tombs, and I'm ((convinced)) our work is full of inaccuracies. ##It's funny, the things you forget. The history books never mention the little things... ||||
+shop1|Ah, a breather! Welcome to the [[Mouldy Cauldron]]. ##You're my first living customer in months. Or has it been years? Time flies, when you're my age...||||
+shop2|Ah, my favourite customer! ##Well, you're also my ((only)) customer, but deaders can't be choosers, eh? ##Welcome back to the [[Mouldy Cauldron]].||||
+p37|Let me see what you have for sale.||||
+p38|How's business?||||
+shop3|Ha! Business? I mostly just sit here and watch the rodents chew on my feet.||||
+shop4|A while back, things used to be a bit more exciting. Every now and again, some folk from Hallowshire would come to trade. They'd always look petrified and would never tarry long, but breather goods fetch a good price down in the mausoleums.||||
+shop5|But recently, breather business has dried up. I've been told it's because of something called an Aposhtatty Yoonun, but I have no idea what that is.||||
+shop6|You mean since the castle blew up and the island started falling apart?||||
+shop7|...much the same really. I mostly just sit here and watch the rodents chew on my feet.||||
+pHouse1|Is there a house for sale in Sepulchre?||||
+shop8|Lookin' to invest in a property market full o' undyin' old timers, eh breather? <<The shopkeep chuckles to herself.>> ##...Oh wait, y'er ((serious?))||||
+shop9|Ah, well, I think I had an old [[Sepulchre House Deed]] knockin' about in the ol' [[Shop Inventory]]. It's fer that ol' shack down by the [[western entry bridge]].||||
+shop10|Just next to me is the only [[Property Station]] in Sepulchre; you'd need to use that if you wanted to [[upgrade]], [[furnish]] or [[decorate]] the house.||||
+pHouse2|How do I maintain the house?||||
+shop11|Just next to me is the only [[Property Station]] in Sepulchre; you'd need to use that if you wanted to [[upgrade]], [[furnish]] or [[decorate]] the house.||||
+shop12|...'an judgin' by the state of that ol' shack, I'm sure you'd be wantin' to.||||
+pHouse3|How do I upgrade a property?||||
+shop13|Use that [[Property Station]] right next to me. Upgrades cost both [[coin]] and [[resources]], but it's worth it if you don't wanna live in a mouldy ol' wreck.||||
+shop14|First off, you wanna [[build]] an upgrade, like a Garden or an Annex or summin'. Might take a little time to construct, so you could get some shuteye while you wait. ||||
+shop15|But a newly built upgrade won't have any furniture. So the next step is to [[furnish]] it for an additional cost. Then you'll 'ave fancy stuff to show yer friends. If ((yours)) are still alive, that is. ||||
+pHouse4|How do I decorate a property?||||
+shop16|You can [[decorate]] a house in any [[style]] you've unlocked. ##But, you gotta buy a style first. Right here we 'ave [[Endless Furnishings]] for sale, for instance. ||||
+shop17|Only one [[decorative style]] can be applied to your house, and it will only take effect on parts that have been [[furnished]].||||
+pHouse5|How do I display trophies and artwork?||||
+shop18|Once you've [[furnished]] a part of your house, a bunch o' [[trophy mounts]] will appear. Use 'em to toggle the trophies you want to show off.||||
+shop19|Trophies 'ave to be [[unlocked]] before you can show 'em off, though. No idea how you do that, breather; you're on your own.||||
+pHouse6|Thanks for your help. ||||
+shop20|Sure thing breather. Anythin' else?||||
+sen1a|Hail and well met, my mortal friend! How may I be of assistance today?||||
+sen1b|Greetings once again, mortal. How may I help?||||
+sen1|Aha, a mortal traveler! Unusual, to see one of your kind within the realm of the Endless! It is my pleasure to welcome you to the Castle of Ribs. Pray tell, my friend, what brings you to our kingdom?||||
+p50|I'm hunting a former member of the Dark Star company.||||
+senDS1|How exciting, aha! [I MAY KNOW SOMETHING]||||
+senDS2|No, but [I MAY KNOW SOMETHING]||||
+senDS3|[DARK STAR DIALOGUE 1]||||
+senDS4|[DARK STAR DIALOGUE 2]||||
+sen2|How exciting, aha! I can provide some assistance, if you like? I will send word to my retinue and have them scour the land for your quarry.||||
+p51|Just seeing the sights.||||
+sen3|Aha! I am familiar with that drive to discover, that raw, unbidden ((need)) to know what lies beyond the horizon! I travelled a little in my own youth, you know. Some many hundreds of years ago, when I had a beating heart. The skyrealms were very different then, let me tell you!||||
+p52|Insatiable curiosity.||||
+p53|I want to learn how to cheat death.||||
+sen4|Oh dear. Not another one. How many mortals must we turn away before you learn your lesson? The Endless are not recruiting. And please don't burden me with another sob-story.||||
+p54|I am here to visit the Queen of Silver.||||
+sen5|Alas, the Queen isn't accepting visitors at this time. Or at any time, really. She is... Withdrawn. Most days she will speak to me, and me alone.||||
+sen6|I'll answer your questions to the best of my ability.||||
+sen7|Greetings once again, mortal. How may I help?||||
+p55|Perhaps I can put her in a better mood.||||
+sen8|I doubt it. But I suppose I have nothing to lose by letting you try. Go ahead. If you can raise her out of her depression, I will be - without exaggeration - eternally grateful.||||
+p56|Doesn't she have responsibilities, as a monarch?||||
+sen9|In theory, yes. But if a monarch neglects her responsibilities for many hundreds of years, the state tends to adapt.||||
+p57|I don't see any guards. How are you going to stop me?||||
+sen10|...I suppose that is true. But don't expect a kind reception from the Queen.||||
+p58|It's a shame. I travelled a long way see her.||||
+sen11|...Very well, go ahead. I'll pretend I didn't see you.||||
+sen12|<<The Seneschal stands aside, allowing you passage deeper into the Castle of Ribs.>>||||
+sen12a|I have already granted you access to the Queen.||||
+p61|I have other questions for you.||||
+sen15|I'll answer to the best of my ability.||||
+p62|Have you ever been outside the kingdom of the Endless?||||
+sen16|I travelled a little in my youth. Many hundreds of years ago. The skyrealms were very different then, let me tell you!||||
+p63|How were they different?||||
+sen17|Well, this was only a century after the World Rend. Everything was in a state of flux - every day, new kingdoms were blossoming and dying like winter roses.||||
+sen18|There was no Union, of course, and you needed to have the protection of a god, or at least a powerful Wikkan, to survive a journey across the sky. I saw some wonderful things. And some horrors, too.||||
+p64|Tell me about the wonders.||||
+sen19|Why, of course! Have you ever seen a god? I saw one once, drifting through the fog. As vast as a mountain. Dozens of eyes, each as bright and round as the moon.||||
+sen20|When I saw it, I opened my mouth, and the most beautiful hymn spilled out. I can't sing under normal circumstances, but my voice was like honey and thunder, that day...||||
+p65|Tell me about the horrors.||||
+sen21|I would rather not recall such things, but... I saw an entire town consumed in silver flames, while laughing priests circled above like vultures. ##I saw a conscriptor-harvester pulling screaming men into its maw and turning them into mindless engines of war.||||
+sen22|I saw a library whale pulled slowly apart by iron hooks, and butcher-archivists scrabbling through its guts for forgotten tomes...||||
+p66|Fascinating, but I wanted to ask something else...||||
+sen23|Of course.||||
+p67|Can you remember what caused the World Rend?||||
+sen24|I never knew what caused it. But I remember the searing flash that stained the sky. I remember the impact, which shook our tombs and scattered the islands.||||
+sen25|Back then, the Endless were one of the few peoples in the skyrealms. It got a lot more crowded after that, with all the refugees.||||
+p68|Your youth? Was this before you became Endless?||||
+sen26|Yes, indeed. I couldn't have travelled after. The mortals had good reason to fear the Endless, in those days... I would have been killed on sight, and I would have deserved it.||||
+sen27|A relative term; for the rot hadn't fully set in. ##Even so, it was difficult at times. The mortals had good reason to fear the Endless, in those days... I could have been killed on sight, and I would have deserved it.||||
+p69|I have other questions for you.||||
+p70|I have some questions.||||
+sen28|Very well.||||
+p71|Can I ask about yourself?||||
+sen29|By all means, go ahead.||||
+p72|Who are you, exactly?||||
+sen30|I am the Seneschal. I administer the Queen of Silver's affairs, attend to her needs, and run the day-to-day business of the kingdom. Although the kingdom tends to run itself, these days, more or less.||||
+p73|Are you a follower of the Ferryman?||||
+sen31|I would say I'm agnostic. I've read the literature, and sometimes I lock my office and lie in the dark with coins over my eyes, just to see if I have any great revelation. Nothing so far.||||
+p74|Lord Rhydder claims you were the reason the Hooded King's ritual backfired.||||
+sen32|Why is Lord Rhydder speaking to you in the first place? I thought he hated your kind.||||
+p75|Don't change the topic.||||
+p76|He does. But he seems to hate you more.||||
+p77|You were the one who doomed this kingdom, Seneschal.||||
+sen33|What was I supposed to do? The princess was so young, barely a woman, and they were drowning her. Or rather... She was drowning herself.||||
+sen34|She walked into the mercury willingly, it seemed, and ducked her head under its silver surface. She didn't even struggle. The mercury swallowed her, and then it was so still... Like a mirror...||||
+p78|It looked like she sacrificed herself willingly?||||
+sen35|Yes. It must have been some dark magic, twisting her mind, moving her muscles against her will. Right?||||
+p79|So you saved her? ||||
+sen36|I did. I ran in and pulled her to safety, and I got a sword through my chest for the trouble. But I did a good thing, didn't I? If not for me, the Queen would be dead!||||
+p80|How did you survive being stabbed?||||
+sen37|I lay dying on the marble floor of the throne room for a long time. Until I realised that I was no longer dying at all. I had become Endless... And a mere stab-wound was not enough to kill me. Not any more.I||||
+p81|Can you remember anything else about the ritual? ||||
+sen38|No. Just pain and darkness.||||
+sen39|<<He sighs deeply, rubbing his temples.>>##Please, can you leave me in peace for a moment?||||
+p82a|Can I ask about the Endless?||||
+sen40a|Our kind must seem strange to you; I'm happy to indulge your curiosity.||||
+p82|How were the Endless created?||||
+sen40|...It was the work of the Hooded King. My former liege.||||
+p83|Why didn't you talk him out of it?||||
+sen41|What was I supposed to do? He was my King, and he had the backing of all the Great Lords. I was just the Seneschal, and he laughed at my warnings!||||
+p84|What happened?||||
+sen42|The Hooded King summoned Wikkans and theurges from across the skyrealms. They tried a hundred different potions and ceremonies and spells to make him immortal, but none worked...||||
+sen43|Until eventually they hit upon some kind of ritual. Dark, strange magic, like nothing I've ever witnessed. It involved striking a bargain... And a sacrifice.||||
+p85|A bargain?||||
+sen44|They made a contract with a god from some forgotten corner of the world. I only saw it once, as I pressed my eye to the keyhole of the throne room... It was a twisted thing of hunger and darkness, hunched upon the marble floor like a creature from nightmares.||||
+p86|A sacrifice?||||
+sen45|His only daughter. The princess. As the ritual reached its apex, she was to be drowned in a pool of mercury.||||
+p87|But if the ritual worked, where is the Hooded King?||||
+sen46|Enough of this chatter. I am a very busy man, you know! I can't just stand around talking all day!||||
+p88|Goodbye, Seneschal.||||
+sen47|Go in peace, mortal.||||
+p89|Have you ever fed on a living person?||||
+sen48|I am ashamed to say that yes, I have. But do not fear - the last mortal I ate was over two centuries ago. We have the flesh-farms now, which sustain us without the need for bloodshed.||||
+p90|Why are there so many ghosts in the kingdom of the Endless?||||
+sen49|Ghosts are manifestatons of trauma. Long ago, when the Endless were first created, there were still many living souls in the kingdom. The Endless, consumed by hunger, hunted them down in a mad frenzy...||||
+sen50|Over the next few years, the Great Devouring, our kingdom ate itself alive. Many ghosts were born from that bloodshed, both from the victims, and from those sated Endless who realised what they had done.||||
+sen51|I am ashamed to say that some were also... created, on purpose. The abhorrent suits of armour that roam these lands were footsoldiers, once - remnants from the Cadaver Crusades.||||
+p91|Did you take part in the Great Devouring?||||
+sen52|...Yes. None of my family survived my hunger.||||
+p92|So ghosts were left by both the devourers and the devoured?||||
+sen53|Yes. I have never met my own ghost, but I am certain he is out there, still wracked by hunger and guilt.||||
+p93|I am so sorry that happened to you.||||
+sen54|It is not a time in my life I like to reflect upon. I'm sorry... Please leave me be for a moment.||||
+p94|You're nothing more than a vile killer.||||
+sen55|I... I know. ##<<The Seneschal seems lost in misery, and no longer responds to your questions.>>||||
+sen56|I... know.||||
+p95|How can you talk about this so calmly?||||
+sen57|It... It was a long time ago.||||
+p96|Are you technically alive? Or dead?||||
+sen58|Oh, Endless scholars have been debating that one for centuries. We don't breathe, our hearts are still, and we rot instead of ageing. But we never actually ((died.)) And we still hunger, though not for food.||||
+p97|I seek an audience with the Queen of Silver.||||
+sen59|Alas, the Queen isn't accepting visitors at this time. Or at any time, really. She is... Withdrawn. Most days she will speak to me, and me alone.||||
+p98|Can you teach me how to cheat death?||||
+sen60|Oh dear. Not another one. How many mortals must we turn away before you learn your lesson? The Endless are not recruiting. And please don't burden me with another sob-story.||||
+p59|Why can't you make an exception for me?||||
+sen13|You don't want to be like us, mortal. As time passes, your flesh will rot. Your eyes will drool from their sockets like last week's milk. You will feel hunger, ((true)) hunger, for the first time in your existence, and it will never. Go. Away.||||
+p60|Didn't you make Penitent Thaw into an Endless?||||
+sen14|Hmph. That wasn't my decision. And when we did that, we all vowed never to make another Endless again.||||
+p99|Has any member of the Dark Star company visited the Castle of Ribs recently?||||
+sen61|No, but I can help you find them if you like? I can just send word to my retinue and have them scour the land.||||
+p100|That would be helpful.||||
+sen62|It shall be done! Can I assist you with anything else?||||
+p101|Don't your soldiers have something better to do?||||
+sen63a|No, the Queen relieved them of their duties long ago. Most of them have gone about their own business, or thrown their lot in with Thaw, but a few remain loyal to me.||||
+p102|No thanks. I work alone.||||
+sen63|Aha, we have a lone wolf, do we? A loose cannon, perhaps? Fear not! I won't cramp your style||||
+sen64|No luck yet in finding your Dark Star fellows. My guards have been going over the island with a fine-toothed comb. Perhaps you are better served looking elsewhere?||||
+p103|Do you know what's causing these earthquakes?||||
+sen65|Hmm. It is a common belief that the Entombed One is causing the recent disturbances. ||||
+p104|Do you have any theories about the Entombed One?||||
+sen66|Ah, yes. Have you experienced one of the recent earthquakes? A terrible business.||||
+sen67|I have reason to believe that the Entombed One is the lingering spectre of the Hooded King, getting his revenge on the kingdom that left him for dead. Someone needs to find him and persuade him to abandon his vendetta... By force, if necessary.||||
+p105|I can try.||||
+sen68|You would do that? I would be in your debt. Here, take this - it's a key to the crypt beneath the Castle. The Entombed One is somewhere down there.||||
+p106|Good luck with that.||||
+sen69|Thank you, mortal. For your sake, I hope the situation doesn't get worse while you're here.||||
+p107|There's a fanged door in the crypts that won't let me past.||||
+sen70|Oh, dear. That sounds like one of the Hooded King's little tests. I thought we'd found and dispelled them all...||||
+p108|What should I do? ||||
+sen71|You'll need to find someone who's still loyal to the old King, and convince them to give you their blood. Not an easy task, I appreciate.||||
+p109|Could I use your blood?||||
+sen77|No, I'm afraid I would definitely be considered a traitor by the spell. You're better off looking elsewhere.||||
+p109b|Thanks for the help.||||
+p110|I have spoken to the Entombed One.||||
+sen78|Oh, you did? Was I right? Is it the Hooded King?||||
+p111|No. It's a ghost of the Queen's sacrifice.||||
+sen79|Really? I had no idea a ghost could be so powerful... Perhaps you should talk to Penitent Thaw about that. She'd know more.||||
+sen80|Did you at least persuade the Queen's ghost to stop causing earthquakes?||||
+p112|Yes, you were right.||||
+p113|No. Not yet.||||
+p114|I tried, but the ghost is beyond reason.||||
+sen81|Then you should speak to the Queen. She has more insight into her father's nature than I do.||||
+p115|I tried, but she is too far gone.||||
+sen82|Then you should speak to the Queen. This is her ghost, after all. Perhaps she can offer insight.||||
+p116|Absolutely.||||
+sen82b|Marvellous news! Well, in that case, we can consider this matter laid to rest, can't we?||||
+p117|There's an Endless named Myghar in a crypt who won't let me in.||||
+sen83|Oh, goodness, I completely forgot he was down there. Yes, that's Myghar alright. He paid a formidable sum of money to be allowed exclusive use of the castle's crypt as his 'final resting place.'||||
+p118|How long has he been down there?||||
+sen84|Oh, not long. Only about twenty years.||||
+p119|Twenty years? How has he survived that long without life-essence?||||
+sen85|As I recall, he had his own small flesh-farm installed. In theory, he can survive down there indefinitely.||||
+p120|Why does he want to stay in the castle crypts?||||
+sen86|The prestige, I suppose. Myghar was one of the wealthiest citizens in the kingdom, and always wanted to be seen to outdo his peers. They retreated into the Mausoleums, but he wanted nothing less than the royal crypt.||||
+p121|How can I get him to open the door?||||
+sen87|It'll be difficult. He always was a stubborn fool. But I imagine he's been pretty bored, cooped up in that crypt - perhaps if you offered him some new reading material?||||
+p122|Do you know where I can find a woman named Wren?||||
+sen88|Wren... Wren... Ah, yes. Terribly sad. She was eaten by a Catacomb Wyrm about ten years ago. Did you know her?||||
+p123|No, but a friend of mine did.||||
+sen89|Ah. Well, I am sorry to be the bearer of bad news.||||
+p124|I dug her husband up recently.||||
+sen90|Oh, you found Mermero? How marvellous! I had thought he was lost for good.||||
+p125|Yes, she and I were very close. ||||
+sen91|Oh dear. I am so sorry. Let me know if there's anything I can do.||||
+p126|Any idea why a talking crow has been asking me to put its feathers in braziers around the kingdom?||||
+sen92|...I couldn't speculate. But don't touch those braziers. The Hooded King placed those all around the Kingdom as part of the ritual to turn himself immortal. Dark magic was woven into the iron. Promise me that you won't mess around with them.||||
+p127| I promise.||||
+sen93|Thank you.||||
+p128|I will do as I please.||||
+sen94|Just be careful, I implore you.||||
+sen95|Was there anything else?||||
+thaw1|<<The rotted woman advances toward you, her robes trailing along the ground. Nearby is a floating cage, inhabited by a twitching, gibbering corpse. The cage drifts closer to you, gaining momentum.>>||||
+thaw0|You again, mortal. I presume you have... <<She sighs.>> ##...questions.||||
+thaw2|Hang on. Stand right there. Don't move a muscle.||||
+p200|What?||||
+p201|One step closer and I'll cut your head off.||||
+thaw3|<<The caged corpse opens its mouth and begins to sing a giddy melody. Your shadow lifts from the ground and wraps itself around your knees, bearing you down to the floor.>>||||
+thaw4|Why have you come here? Are you an assassin? A thief? A rival mage, seeking to steal my secrets?||||
+p202|What did you do to me? ||||
+thaw5|My familiar has cast a spell to keep you from doing anything that you might regret. Now answer my questions.||||
+p203|Who are you?||||
+thaw6|My name is Penitent Thaw. Some call me the greatest living mage in the skyrealms. Personally, I'm not sure I'm truly alive, but the rest of it is right.||||
+thaw7|So you better answer my questions carefully.##Are you an assassin? A thief? A rival mage?||||
+p204|None of those. Just a mortal, passing through.||||
+thaw8|And what is a mortal doing in the kingdom of the Endless? Didn't you listen to all the scary stories about this place?||||
+p205|Yes. I wanted to see if they were true.||||
+thaw9|Aha. Someone after my own heart, I see.||||
+p206|What stories?||||
+thaw10|Oh, you know. Stories about the kingdom that ate itself. The land of ghosts and corpses. Ancient, rotted armies crusading across the skies to slaughter all mortals. That sort of thing.||||
+p207|Wouldn't be here if I did.||||
+thaw11|Well, perhaps you should have.||||
+p208|I'm chasing someone from the Dark Star company.||||
+thaw12|Dark Star, eh? I take it you're after Vela Callose.||||
+p209|You know her? ||||
+thaw13|Only by reputation. Unlike the rest of the Endless, I actually make an effort to keep up with affairs in the outside world. So why are you chasing the most dangerous mercenary in all the skyrealms, exactly?||||
+p210|No comment.||||
+thaw14|Ha. A wise answer. But I can hear your heartbeat quicken at her name, I can see your eyes dilate a fraction. You're after her. Why?||||
+p211|I've been forced into it by the Inquisition.||||
+thaw15|Interesting. They must be desperate indeed, to be trying to get a pawn like you to the end of the board.||||
+p212|Seemed like a good idea at the time.||||
+thaw16|Hmm. You intrigue me, mortal.||||
+p213|All of the above, and more! ||||
+thaw17|I ((like)) you. Very well, I'll let you hang around here. But one wrong move and I'll turn you into a blind, formless blob of open nerve endings.||||
+thaw18|<<She makes a dismissive motion with her hand. As suddenly as they came, the shadows recede, leaving you free to stand up.>>||||
+p214|I have questions. About you.||||
+thaw19|Well keep it brief, mortal. I'm a busy woman.||||
+p215|What kind of name is 'Penitent?'||||
+thaw20|My parents were religious to the point of madness. My full name is 'Approach-Thy-Death-With-A-Penitent-Heart.' Believe me, if you had a name like that, you'd shorten it too.||||
+p216|What is this place?||||
+thaw21|This is my sanctum. Here, I peel back the layers of reality and glimpse the terrifying truths beyond. I teach myself languages that were exiled from history. I push alchemy and necrotheurgy to its limits. I am more than just a mage, mortal - I am a pioneer.||||
+p217|What's that thing in the cage?||||
+thaw22|This is my familiar. My ex-husband's soul. I turned him into an embodiment of, and amplifier for, all my spells and wards. If he ever escapes the cage, you better start running and not look back.||||
+p218|@@Why did you turn your ex-husband into a familiar?||||
+thaw23|%%I was married to my husband to secure an alliance for my family, and I never much liked him. A man whose brains were in his fists. ||||
+thaw24|Once upon a time I promised him that one day, when I was a powerful mage, I'd come back to our pathetic village and make a Hell of my own devising, just for him.||||
+thaw25|I made good on my promise.||||
+thaw26|&&My husband and I disliked each other. Let's leave it at that.||||
+p219|I have questions about the Endless. ||||
+thaw27|Ask away. Far be it from me to stand in the way of an inquiring mind.||||
+p220|What is your opinion of the Queen of Silver?||||
+thaw28|I have a low opinion of royalty. Useless, for the most part. And the Queen isn't necessarily an exception, but she did give me this sanctum and the freedom to experiment as I please. So she suits my purposes, and if anyone challenges her, I will quite happily destroy them.||||
+p221|How did you become an Endless?||||
+thaw29|Unlike the rest of the walking cadavers you've no doubt met, I only arrived here two centuries ago. I was dying of some embarrassing, incurable malady that made me cough and splutter like an idiot. I requested to be made one of the Endless, but they denied me.||||
+thaw30|Well, first they tried to eat me, but I kept them at bay with magic. ((Then)) they denied me. But they were impressed by my spells, and allowed me to stay in the kingdom for a while.||||
+p222|How did you persuade them? ||||
+p223|What did you do?||||
+thaw31|Over the next year, clinging to life by a thread, I secretly created the first of the flesh-farms. And I told the Queen that I could make more, enough to sustain the whole kingdom without need for bloodshed... But I was going to die soon, and I'd take my secrets with me.||||
+thaw32|Well, I was made an Endless pretty quickly after that, I can assure you.||||
+p224|Lord Rhydder doesn't seem to like you.||||
+thaw33|Of course he doesn't. When I came along, I promised him I'd make him magical weapons of war that could turn a whole island into a crater. He gave me all the funding and equipment I asked for.||||
+thaw34|Instead of a weapon, I made the first flesh-farm, and destroyed the whole reason that the Endless were crusading in the first place. Lord Rhydder's power was shattered overnight.||||
+p225|I want to ask about something else...||||
+thaw35|Go on, go on, but make it quick. I'm growing bored.||||
+thaw35a|Hmph. Well are you going to natter about anything else?||||
+p226|Goodbye.||||
+thaw36|Mmm.||||
+p227|About those vats of flesh down there...||||
+thaw37|The flesh-farms. A fine invention, if I do say so myself. ||||
+p228|You created the flesh-farms?||||
+thaw38|Oh, yes. I've always been interested in transgressing the boundaries of the flesh. The Endless needed life-force, you see, and they were getting it through the most barbaric means...||||
+thaw39|First they ate their fellow countrymen, then when they ran out of mortals, they started attacking other islands.||||
+thaw40|Then I arrived, and I put a stop to all that. The magic was quite complex, so I won't go into it, but the flesh-farms are non-sentient, and provide enough life-force for the Endless to gorge themselves sick. And all without hurting a single soul.||||
+p229|Lord Rhydder knows that the flesh-farm is sentient.||||
+thaw41|Well, that's it, then. I was hoping we wouldn't have to do this, but... Here you go. ##<<She hands you a bundle of strange orbs.>>||||
+thaw42|These are phage-spider eggs. Enough of these things can skeletonize an entire village in a matter of hours. They'll destroy the flesh-farm and leave no trace, once they hatch.||||
+thaw43|Just deposit the eggs on top of the flesh-mass and leave as quickly as you can. Once they hatch, the spiders will devour the flesh in about thirty-five minutes.||||
+p230|You expect me to annihilate a totally unique life-form?||||
+thaw44|For the good of the whole world, yes. If the Endless can't feed on flesh-farms, we'll launch a second Cadaver Crusade. Maybe not today, maybe not tomorrow, but when we get hungry enough, Lord Rhydder will start to sound very convincing...||||
+p231|How bad would that be?||||
+thaw45|The first one killed tens of thousands of human beings. Do you want that on your conscience?||||
+p232|There must be another way.||||
+thaw46|The only other way is to continue to feast on the flesh-farms. Keeping them in captivity, even though we know they feel pain. It's just a different flavour of atrocity.||||
+p233|Fine, I'll do it.||||
+thaw47|I'm so glad that you understand the severity of the issue. Now, off with you.||||
+p234|I refuse to be a part of this.||||
+thaw48|That's the problem with you mortals. You're not practical. Now begone.||||
+p235|Did you know that the flesh-farm is becoming self-aware?||||
+thaw49|Interesting. Elaborate.||||
+p236|I conducted a lengthy conversation with it inside my head. ||||
+p237|It can only speak to the living, but it can speak.||||
+p238|No.||||
+thaw50|...You are the most vexing mortal I have ever met, did you know that?||||
+thaw51|What level of intelligence are we talking about here? Did it exhibit any unusual traits or particularly alien preferences?||||
+p239|It seems to have become obsessed with feeling pleasure... somehow.||||
+thaw52|A hedonist. Hmmm. Not good. Anything else?||||
+p240|It seems to have become obsessed with amassing power... somehow.||||
+thaw53|A megalomaniac. Hmmm. Not good. Anything else?||||
+p241|It seems to have become obsessed with seeking knowledge... somehow.||||
+thaw54|A scholar. Hmmm. Well, that's not too bad. Anything else?||||
+p242|Only that it doesn't want to be used as a food source.||||
+thaw55|I suppose that makes sense. I wouldn't either.||||
+p243|It's lonely.||||
+thaw56|Understandable, I suppose. You're probably the first person it's spoken to. Ever.||||
+p244|It seems remarkably intelligent, for a lump of flesh.||||
+thaw57|That's worrying.||||
+thaw58|Listen, mortal. What you're saying should be impossible...||||
+thaw59|But if you're telling the truth, we have a problem. If the flesh-farms are becoming sentient, and don't want to be eaten, then... Well, the Endless will no longer have a moral way to sustain themselves. It could mean a return to the bad old ways.||||
+p245|The bad old ways?||||
+p246|What do you mean?||||
+p247|Oh no... ||||
+thaw60|Oh, yes. ||||
+thaw61|Before I came along and created the flesh-farms, the Endless sustained themselves by waging bloody war on other islands and eating their enemies. It was called the Cadaver Crusades.||||
+thaw62|Ever since they stopped, a few mad old bastards like Lord Rhydder have been pushing for them to return.||||
+p248|Why would anyone want to go back to that?||||
+thaw63|Bloodlust. Arrogance. Power. Take your pick.||||
+p249|But surely the Endless have changed since then?||||
+thaw64|Circumstances change. People don't. And if circumstances go back to how they were...||||
+p250|It's still easier to eat the farmed flesh, though, right?||||
+thaw65|But is it more ethical? Lord Rhydder will argue that it's an atrocity. That it's far better to go out and hunt our food honestly, rather than keeping a sentient being in slavery and torture. And he might even be right.||||
+p251|What should we do, then? ||||
+thaw66|Most importantly, we need to kill the flesh-farm that's developed sentience. It might be the only one. There are dozens of flesh-farms in the kingdom, buried under the mausoleums - and we don't want this infection to spread to any more of them.||||
+p252|But surely it has a right to life?||||
+thaw67|It's a lump of inanimate flesh, we'd be doing it a favour.||||
+p253|That's murder!||||
+thaw68|What are you, a lawyer?||||
+p254|Good idea. ||||
+thaw69|In addition, we need to ensure that Lord Rhydder never hears about this. Have you told anyone else?||||
+p255|Only Maggotson.||||
+thaw70|You fool. You need to go check on him, at once. Go!||||
+p256|No, not yet.||||
+thaw71|That's a relief. If you had, and they went around blabbing about it, they would be in terrible danger. Now, begone.||||
+p257|So all along, you knew the identity of the Entombed One?||||
+thaw72|I am a mage, mortal. I hoard secrets like a miser hoards gold. And do you know the fastest way to run out of secrets? To tell everybody about them!||||
+p258|I heard it was the Entombed One who made you into an Endless.||||
+thaw73|Yes, that's right. The Entombed One is the living remnants of the initial botched spell, mingled with a vengeful ghost. A particularly toxic combination.||||
+thaw74|But useful for me. Since the spell had lingered, I was able to benefit from its full effects.||||
+p259|Can the Entombed One be stopped?||||
+thaw75|Anything is possible. But this one's tricky. The spell-ghost is deeply unstable, and it has embedded itself so thoroughly into the magical fabric of the landscape that simply attacking it could tear the kingdom apart.||||
+thaw76|I recommend diplomacy. The Queen is a reasonable woman. Surely her ghost is reasonable too?||||
+p260|But what if diplomacy fails? ||||
+thaw77|I have a contingency in mind. ## <<Penitent rummages around in her shelves. Finally, she returns with a slender vial in her hand.>>||||
+thaw78|This is a condensed potion of the happiest memories I've harvested from mind-slurry. I'd hoped to keep it for, uh, personal use... But perhaps it will be of use in persuading the Entombed One that this place is worth saving.||||
+p261|Are you loyal to the Hooded King?||||
+thaw79|Before my time. When I arrived in the kingdom of the Endless, the King had already been missing for a century. Why do you ask?||||
+p262|A magic door is asking me for loyal blood.||||
+thaw80|Hmm. Is that all? If you don't mind waiting a bit, I'm sure I could whip up a convincing sample of counterfeit loyalty...||||
+p263|I don't mind waiting.||||
+thaw81|Give me your arm, then.||||
+p264|Sorry, I'd rather not risk it.||||
+thaw82|Suit yourself!||||
+p265|I've changed my mind. I want that counterfeit blood.||||
+thaw83|<<Thaw grabs your arm and sticks a needle into it. Once she's taken what feels like an entire pint of your blood, she begins bustling around her sanctum, whistling tunelessly.>>||||
+thaw84|<<First, she pours your blood into a cauldron. Then, she mutters some spells over it. Finally, she tips in a number of extra ingredients: a blue flower, a tuft of hair, a live goldfish.>>||||
+p266|((Wait.))||||
+thaw85|<<After some time, the mixture is complete. She hands you a bottle of sloshing red liquid.>>||||
+thaw86|Here you go. Blood of convincing loyalty. Should pass muster under all but the most rigorous of spells.||||
+p267|Thank you, Penitent.||||
+thaw87|Begone.||||
+p268|How can I be sure it will work?||||
+thaw88|I made it. It'll work. ##Now begone.||||
+p269|How can I repay you?||||
+thaw89|By leaving me in peace for a while.##I've wasted too much time on you already.||||
+p270|I've dealt with the... situaton.||||
+thaw90|So, the flesh-farm has been destroyed? Good; it is easily replaced. You've done well, mortal. ||||
+thaw97|Rhydder will need proof to start this new crusade of his... and he shall find none.||||
+thaw92|I suppose I can spare a few coins, for your trouble. Take these and begone.||||
+thaw91|You utter fool, mortal. Do you know what you have done? With this proof, Rhydder will start another crusade...||||
+thaw91b|Still, in the end - it is your kind who will suffer, mortal. I hope you are satisfied with your pathetic display of short-sighted ((morality)). ||||
+p270b|I destroyed the eggs. The flesh-farm will live.||||
+thaw93|Hmph, foolish mortal. By the time I can concuct another means of destroying that thing, Lord Rhydder will have gathered his allies...||||
+thaw94|Yes, there's no stopping it now. There'll be another Crusade. ##This will set my research back years. ((Years!))||||
+thaw95|Though, I suppose I have gained a new test subject... <<Her frown relaxes, and a thin smile spreads over her face.>> ##Yes... the flesh-farm can keep its sentience, so long as it proves useful in... other ways.||||
+thaw96|Now begone, mortal. You've wrought enough havoc.||||
+queen1|<<As the Queen casts her gaze upon you, you are overcome with a wave of melancholy so profound it almost drives you to your knees.>>||||
+queen2|Oh... Hello. I am afraid I am not receiving visitors at the moment. Please talk to my Seneschal, he will attend to you faithfully.||||
+p300|@@What seems to be the matter, your Majesty?||||
+queen3|%%<<Ragged lips peel back from long yellow teeth. She seems to be attempting a smile.>>##You are a curious one, aren't you? But I can assure you there is nothing out of the ordinary.||||
+queen4|Put quite simply, I am feeling the same as I did yesterday, and the same as I will tomorrow. Two hundred years ago you would have found me in this same castle, in this same seat, feeling the same as I do now.||||
+p301|That's awful.||||
+queen5|I have adjusted to it. I exist now in tranquility, and have no desire for your pity.||||
+p302|Sounds boring.||||
+queen6|I left boredom behind a long time ago. I exist now in tranquility, and have no desire for your pity.||||
+p303|Oh, how tragic, you have to live in a giant luxurious castle surrounded by generational wealth.||||
+queen7|<<She pauses for a moment, shocked. Then something like a laugh escapes.>>||||
+queen8|You are a bold one, little mortal. And you are right. I face no great hardship.||||
+queen9|&&<<Ragged lips peel back from long yellow teeth. She seems to be attempting a smile.>>||||
+queen10|It is not of your concern, mortal. Please understand that I mean no disrespect. But one so young, so alive, cannot understand my plight.||||
+p304|But I came here to talk to you, not your lackey.||||
+queen11|<<She is still and silent for what seems like a very long time. Then she sighs.>>||||
+queen12|Very well, mortal. I cannot bring myself to summon my guards. In fact, I'm not even sure if I have any guards, any more. Say your piece.||||
+p305|My apologies for disturbing you. ||||
+queen13|It is quite alright.##<<She resumes gazing at nothing.>>   ||||
+p306|...I am sorry for calling your Seneschal a lackey.||||
+queen14|He would be heartbroken to hear himself described in such a fashion. The poor fellow, the only thing he has left in the world is his dignity.||||
+p307|I hope we haven't gotten off on the wrong foot?||||
+queen15|I take no offence. Or rather, I take some offence, but cannot muster the enthusiasm to express it.||||
+p308|I'm so ((honoured)) that you deign to speak to me.||||
+queen16|You mortals are so fond of sarcasm. It comes with being young. Conversation is already so exhausting to the old, the repetition of these same tired old words and phrases, that we feel no need to wrap our barbs in pretty paper.||||
+p309|It sounds like you don't exactly have a busy schedule.||||
+queen17|This is true. Yet my time is my own, even if it has little value, so I ask you not to waste it.||||
+p310|You'd be surprised, I think.||||
+queen18|I haven't been surprised in two centuries, mortal.||||
+p311|I have many questions, your Majesty.||||
+queen19|Oh. Good.||||
+p312|I will waste no more of your time.||||
+queen20|Greetings, mortal. Did you have more questions?||||
+p334|I had other questions, your Majesty...||||
+queen33|I see. Well, you may go ahead.||||
+p317|Goodbye, your Majesty.||||
+p313|Some of my questions are of a more personal nature...||||
+queen21|If you must.||||
+p314|Do you have heirs?||||
+queen22|No need for heirs. I will be here forever. And the Endless cannot have children.||||
+p315|When was the last time you interacted with a mortal?||||
+queen23|Let me see... Some years ago, I forget how many, a mortal came to the Castle of Ribs seeking to become Endless himself. The Seneschal was not able to dissuade her; she barged into the throne-room, much like you have.||||
+queen24|I turned her away, as I turn all such pilgrims away. We will add no more to our number. Thaw must be the last.||||
+p316|Tell me about your father.||||
+queen25|My earliest memory is of him sitting atop his throne, looking so grim, while I sung for him. Then as I hit a particular high note, his dour face broke into such a broad smile. It was like magic. Like the sun had risen over a cemetery.||||
+queen26|In those days, I would kneel beside my bed, and pray to a goddess whose name I have now forgotten that my father would never die. I was too young to know that gods pay no attention to the prayers of their people.||||
+p318|The Seneschal saved your life, didn't he?||||
+queen27|<<She casts a piercing gaze upon you, then the passion melts from her like snow in spring. She resumes gazing dully into the distance.>>##That's right. Against my wishes.||||
+p319|So you sacrificed yourself willingly?||||
+queen28|My father persuaded me to do it, for the good of the kingdom. He told me that I couldn't hope to rule as strongly or as wisely as him, but I could at least ensure he remained on the throne. He told me that what I was doing was noble.||||
+p320|Surely you're glad he saved you?||||
+queen29|I know the Seneschal meant well, and I never had the heart to admonish him for it. But he brought a terrible curse upon the kingdom.||||
+p321|Your father sounds like a monster.||||
+queen30|I don't think he was a monster. I think he was terribly, terribly afraid.||||
+p322|It's a shame the ritual didn't succeed.||||
+queen31|Yes.||||
+p323|I would have done the same, in the Seneschal's shoes. ||||
+queen32|I'd hope you would have intervened earlier, when you could have done some good. The Seneschal truly left it to the last possible moment before he dared to defy my father.||||
+p335|Can I ask you about the Endless?||||
+queen34|My kingdom? I will oblige.||||
+p336|Where are your attendants? Your court?||||
+queen35|No attendants. No court. I sent them away long ago.||||
+p337|How long have you ruled over the Endless?||||
+queen36|Hundreds of years. I forget the exact number. Those earliest days were all fire and war.||||
+queen37|Blood-red grins in the black of night. Hushed meetings over crudely-drawn maps. We were young, then. We did not call ourselves the Endless... All we knew was that we were hungry.||||
+p354|Are you a follower of the Ferryman?||||
+queen59|No. I don't trust this upstart god. Where did he come from? Why don't we have any records of him from before the Endless were created? Where was he during the God War?||||
+queen60|Something is deeply wrong here, but my citizens are desperate enough to blindly worship any entity that promises them salvation.||||
+p355|Is it true that Lord Rhydder used to be the power behind your throne?||||
+queen61|Power. Hmph. Yes, I used to let him sally forth to other islands and fight his little Cadaver Crusades as he pleased. No doubt he thought himself quite the puppetmaster, but the truth is that I just didn't care.||||
+p338|That's all for now.||||
+queen39|I should hope so.||||
+p339|How were the Endless created?||||
+queen40|A ritual, masterminded by my father. Ancient history. I wouldn't want to bore you with it.||||
+p340|@@No, please. Tell me everything.||||
+p341|Perhaps another time, then. ||||
+queen41|Yes. Perhaps.||||
+queen42|%%My father was a healthy man. Never ill. Never tired. He seemed to shrug off accidents that would leave a lesser man with broken bones.||||
+queen43|So it was strange, how terrified he was of death. The very idea shook him to his core.||||
+queen44|As I was nearing adulthood, he gathered a legion of mages and theurges and priests from across the skyrealms, and tasked them to find the secret of immortality.||||
+p342|That old chestnut. ||||
+queen45|Indeed.||||
+p343|Judging by the fact you're still around today, it seems to have worked.||||
+p344|And did they?||||
+queen46|In a manner of speaking, yes.||||
+queen47|After numerous failed efforts, they devised a solution. It would require dozens of mages casting a spell simultaneously; extensive construction of ceremonial shrines, braziers and idols across the kingdom; a bargain struck with an ancient god; and a sacrifice.||||
+p345|Can you tell me about the sacrifice?||||
+queen48|I... don't feel like getting into that now.||||
+p346|What was the name of the god?||||
+queen49|I do not know. Once I heard my father refer to it as a shadow of a dream, or the dream of a shadow. I forget which.||||
+queen50|Long story short, the ritual failed. It created a twisted parody of immortality, afflicted with hunger and decay. And instead of affecting just my father, it cursed half the kingdom.||||
+p347|Only half?||||
+queen51|Half of the kingdom were Endless, and hungry. The other half did not last long. ##The Great Devouring commenced.||||
+p348|What happened after that?||||
+queen52|The Great Devouring commenced.||||
+p349|And what happened to your father?||||
+queen53|I don't know. Perhaps he was one of those who remained mortal. The universe is cruel that way.||||
+queen54|&&I'm sorry, but it's not a tale I am fond of telling. Ask me something else.||||
+p350|What do you know about the Entombed One?||||
+queen55|I believe it is my father. After the ritual to grant him immortality went wrong, he fled beneath the castle, and got lost within the twisting passages.||||
+p351|Shouldn't you do something?||||
+queen56|Do what? Send guards down there? I have done so; they do not return. Go down there myself? Never. I cannot bear to see him again.||||
+p352|Are you sure it's him?||||
+queen57|I know it in my bones.||||
+p353|What if I went down there and tried to stop him from shaking the island apart?||||
+queen58|You are welcome to try; I believe my Seneschal has the key. But I don't expect you to succeed.||||
+p356|The Entombed One is a ghost created by your sacrifice, your Majesty.||||
+queen62|Yes. I know.||||
+p357|You knew this already?||||
+queen63|I did.||||
+p358|But you told me the Entombed One was your father.||||
+queen64|I was not lying. I see more of my father in that ghost than I see of myself.||||
+p359|How did you find out?||||
+queen65|I have known that she was there from the very beginning of my reign.||||
+p360|Why didn't you tell me?||||
+queen66|For obvious reasons, I keep my ghost's existence a secret. If my subjects ever found out that a shade of their own Queen was trying to destroy them...||||
+p361|When was the last time you saw the Entombed One yourself?||||
+queen67|I last saw her two centuries ago, when I took Penitent Thaw down there to become one of the Endless.||||
+p362|Penitent knew about this too?||||
+queen68|She is the only other who knows. It was unavoidable - the only way that I could grant her request to become an Endless.||||
+p363|Why did you lock her up down there? ||||
+queen69|I didn't lock her up. She could escape easily if she wanted to, but she refuses to stop haunting my father's bones.||||
+p364|What exactly is she?||||
+queen70|She is both spell and sacrifice. Partly a ghost, and partly the lingering remnant of the spell that turned the whole kingdom into Endless. That's one reason why she is so powerful, and why I needed her help to turn Penitent into an Endless.||||
+queen71|But her power is growing, far beyond what she used to be capable of. I think she is being fuelled by my subjects' growing faith in the Ferryman. ||||
+queen72|Their scripture tells them to look forward to death, and their prayers for their own self-annihilation are like fuel to the Entombed One's flame.||||
+queen72b|She could escape easily if she wanted to, but she refuses to stop haunting my father's bones.||||
+p365|How can I persuade her not to destroy the kingdom?||||
+queen73|I can think of one thing...##<<The Queen places something in your palm. A topaz necklace. The gemstone is incribed with a complex sigil.>>||||
+queen74|This was the necklace I wore during the ritual. Perhaps it will remind her that a Queen's purpose, above all, is to serve the needs of the kingdom.||||
+p366|The Entombed One has stopped her efforts to destroy the kingdom.||||
+queen75|Excellent work, mortal. I never thought I'd see the day. What persuaded her, in the end?||||
+p367|Hope for a better future. ||||
+queen76|The Entombed One wanted to destroy the kingdom, yet she secretly still held a kernel of hope. Remarkable. Hope feels so foreign to me.||||
+p368|Happiness.||||
+queen77|Ah. You must have searched high and low, to find that.||||
+p369|Substance abuse.||||
+queen78|Well... As long as it worked.||||
+p370|In all honesty, I told her a pack of pretty-sounding lies.||||
+queen79|Whatever it takes, mortal. To preserve a kingdom is not always painless.||||
+p371|Not your necklace, that's for sure.||||
+queen80|Sacrifice. That's what we must do. Again and again and again, to keep this rotten place from falling apart.||||
+queen81|<<The Queen of Silver sighs, settling back into her throne.>>##And so, we buy another few years of our endless existence. Joy.||||
+p372|The Entombed One is ready to call a truce, but she needs to speak to you in person.||||
+queen82|Excellent work, mortal. I will head down to speak to her at once.||||
+p373|Are you still loyal to your father?||||
+queen83|No. I am loyal to nothing and no-one, except my kingdom.||||
+queen84|Oh... hello. Do I know you?||||
+p374|What happened to you?||||
+queen85|I don't know. All I can remember is a bright light, and a hand in my head.||||
+p375|Did you speak to the Entombed One?||||
+queen86|Who's that? I'm sorry. Everything's fuzzy.||||
+p376|You remember that you're a Queen, right?||||
+queen87|I am? That's nice.||||
+p377|Goodbye, your Majesty.||||
+queen88|Goodbye.||||
+ent1|<<She floats above you, imperious, furious, bristling with disdain. She resembles the Queen of Silver, but aflame with inner light.>>||||
+ent2|Bow, mortal. Bow before your Queen.||||
+ent0|Hello, mortal.||||
+p401|((Bow.))||||
+p402|((Stay standing.))||||
+ent3|<<She extends a hand, and her eyes flash and sparkle like fireworks. The chamber around you begins to shake, so violently that you are forced to drop to your knees.>>||||
+ent4|Better. Now tell me. Who is it who dares to trespass within my domain?||||
+p403|I am merely passing through, your Majesty.||||
+ent5|Liar. I can hear the hesitant beats of your filthy, pulsing, lying heart. Tell me the truth or I shall crush it within my fist.||||
+p404|I expected to find the Hooded King down here.||||
+ent6|My father? My fool of a father? You found him. ##<<She gestures dismissively at the pile of bones sitting forlornly in the middle of the floor.>>||||
+ent7|There lies the Hooded King. The man who sacrificed his daughter for immortality. You should have seen him squirm and weep.||||
+p405|I am no-one, your Majesty.||||
+ent8|Correct.||||
+p406|So you're the Entombed One?||||
+ent9|I am the Queen. The true Queen. Not a sad old relic, like the Queen Above.||||
+ent9b|My kingdom rots. Soon, I will destroy this entire island... along with all of my subjects. ##I will end this wretched curse, and finally grant my subjects the eternal peace they crave.||||
+p407|Where is the Hooded King?||||
+p408|How long has the King been dead?||||
+ent10|Three centuries, and I still cherish the memory of murdering him. He begged, he wept, he threw himself upon my mercy. Instead of mercy, he found a hand around his windpipe.||||
+p409|You're a ghost of the Queen of Silver. An echo of her trauma.||||
+ent11|I was born when she walked herself into quicksilver and drowned at the bidding of her father. I am her bitterness. Her resentment. Her rage.||||
+p410|You're the one causing all these earthquakes?||||
+ent12|Of course. Someone needs to give this kingdom a good shaking. I am weakening the island's foundations. Soon, it will shatter.||||
+p411|Why do you want to destroy the kingdom?||||
+ent13|It would be a mercy. The kingdom is stagnant. It was born wrong - a botched ritual, a filicide, a broken contract. And ever since then, it has been cursed.||||
+ent14|This place, these people, have lingered for far too long. Let's give the Endless an ending, at last!||||
+p412|What if your subjects don't want to be killed?||||
+ent15|They do. There are thousands of rotting men and women out there, ravaged by hunger and pain, huddled within Mausoleums and waiting for death. They are calling for my mercy. I can hear them in my heart, begging to be freed from their suffering.||||
+p413|How is a ghost powerful enough to do all this?||||
+ent16|Anger has its own power, mortal. And my anger is... Endless.||||
+p414|How can I persuade you not to do this?||||
+ent17|You cannot. I am as inevitable as death itself.||||
+p415|I have questions...||||
+p416|I have other questions...||||
+ent18|And I have limited patience. ||||
+ent18b|And I am glad of it.||||
+p417|Farewell, ghost.||||
+p418|See this necklace, your Majesty? Do you remember why you sacrificed yourself in the first place?||||
+ent19|<<For a moment, the Entombed One stares at the topaz necklace with something like yearning on her face. Then her eyes harden. She grabs the necklace from you and crushes the topaz to dust between two fingers.>>||||
+ent20|Sacrifice.' Ha. ##The Queen Above thinks she can remind me of what it means to serve the kingdom? I ((am)) serving the kingdom, far better than she ever did while sitting depressed in her throne room!||||
+ent21|This kingdom is ((begging)) to be destroyed! Its people are miserable, and they call to me to bring their long lives to an end!||||
+p419|Before you go further... Please, drink this.||||
+ent22|Are you thinking to poison me? Foolish mortal, it will have no effect. Here; bear witness.||||
+ent23|<<The ghost drinks the potion in one quick gulp. After a moment, she begins to fray at the edges, like an oil painting that's been soaked in a bathtub.>>||||
+ent24|Oh... Oh, my... All this... So beautiful...||||
+p420|What are you seeing?||||
+ent25|I'm dancing with a sweetheart on a brisk autumn evening. I'm peering through a telescope and discovering a new star. I'm bowing after the big performance, my face flushed with sweat. Oh my... It's joy... So much joy! I had no idea!||||
+p421|Surely you understand, now, that there are still moments of the Endless' lives that have meaning? ||||
+p422|And you would destroy all this, thinking it's what they want.||||
+p423|A moment of pure joy is worth more than a century of misery, is it not?||||
+ent26|Your words have a weight to them, mortal.||||
+ent27|<<Before your eyes, the burning rage roiling just beneath the Entombed One's skin starts to dwindle and dim.>>||||
+ent28|Leave me be. You've given me much to think about.||||
+p424|You're right. I'll help you destroy the kingdom of the Endless.||||
+ent29|You'd truly help me destroy this place? You surprise me, mortal, in the best of ways.||||
+ent30|Your task is simple. All I ask is that when you return to the surface, you tell the Queen of Silver to come down here and meet me in person. Then, the destruction will begin.||||
+p425|It shall be done.||||
+p426|Let's bring this kingdom down.||||
+p427|On second thoughts, maybe this isn't the right path...||||
+ent31|Don't hesitate, mortal. Heed the call of the void.||||
+p428|@@Don't destroy this land, your Majesty. You know there is still hope.||||
+ent32|&&No. There is no hope. There is only failure and stagnation.||||
+ent33|%%Oh really? And how do you know that?||||
+p429|You know it yourself. ||||
+p430|I can prove it.||||
+p431|Because there's always hope. And besides...||||
+ent34|<<She casts her eyes over your face, worried by the certainty in your tone.>>##Well?||||
+p432|Is your desire to destroy this kingdom not borne of love? You still care for your subjects.||||
+ent35|Of course. I would undo their suffering.||||
+p433|But not all of them want this. You are condemning innocents to death.||||
+p434|If you obliterate your subjects, you are failing them as their monarch. ||||
+p435|When the Queen came to you with Penitent Thaw, you agreed to help. You turned her into an Endless.||||
+ent36|Of course I did. The flesh-farms were a marvel. Overnight, our kingdom was rescued from being a land of marauders and murderers.||||
+p436|If the situation was truly helpless, why would you have helped?||||
+p437|Another invention like that could be right around the corner.||||
+p438|The kingdom could be rescued again. One day.||||
+ent37|<<She considers this for a long time.>>||||
+ent38|Your words have a weight to them, mortal. The weight of the years is already immense... What does a few more matter? Perhaps things will get better.||||
+ent39|<<Before your eyes, the burning rage roiling just beneath the Entombed One's skin starts to dwindle and dim.>>||||
+ent40|Leave me be. You've given me much to think about.||||
+p439|You can't decide that on their behalf.||||
+p440|You're just another mad ghost in a kingdom that's full of them.||||
+p441|Maybe you're right...||||
+ent41|<<The Entombed One turns to you, her skin blazing with inner light.>>##Please. Mortal. Consider my side of the argument. I know I ask a lot - I ask for the destruction of an entire kingdom. But no new souls have been born here for centuries.||||
+ent42|No children, no youths. The only great changes to the status quo have been spurred on by mortals. First, Penitent Thaw... And now, you. The Endless themselves are tired, and bored, and rotten. They hide inside Mausoleums and do nothing, pretending to be dead.||||
+ent43|They hunger for mortal flesh, and if the flesh-farms failed, they would resume their Crusades in an instant. They lack the courage to end themselves, but they yearn for it.##Listen to my plea, mortal. Help me destroy this accursed kingdom.||||
+ent44|I am glad you are here, moral, to witness my final moments.||||
+p442|What do you mean?||||
+ent45|I am almost finished unravelling the spell-threads that bind me together. Soon, the spell that created the Endless shall fall apart entirely. Without it, my ghostly form will dissipate on the wind, like salt in a stream.||||
+p443|Why are you doing this?||||
+ent46|Ghosts are creatures of habit. If I don't do this, I'll soon forget about the spark of hope you nurtured in my heart. I'll go back to my old ways.||||
+p444|Surely there must be another way?||||
+ent47|I could hold out hope for the kingdom or for myself, mortal. I can't do both. It's not in my nature.||||
+p445|What even happens to ghosts when they die?||||
+ent48|I suppose I'm going to find out.||||
+p446|So how long will this take?||||
+ent49|Not long at all. A few more moments, that's all.||||
+p447|Please, hold on a moment.||||
+p448|This kingdom has seen enough sacrifice, your Majesty.||||
+p449|Good riddance.||||
+ent50|Goodbye and good luck, mortal.||||
+ent51|<<The Entombed One closes her eyes and faces the ceiling. With a sigh, she dissolves into dust and scraps of parchment.>>||||
+ent52|Hello, mortal! Come to admire my handiwork?||||
+p450|You destroyed the entire castle?||||
+ent53|Yes. And this is only the beginning. Rejoice, mortal! Rejoice, for the end has come to the Endless!||||
+p451|What happened to the Queen of Silver?||||
+ent54|Oh, don't worry. I didn't kill her. I just took her mind from her and made it my own. Now I'm thinking more clearly than ever before!||||
+p452|Is it too late to stop you?||||
+ent55|Too late now, mortal! I am as sure as the sunset!||||
+ent56|<<With a peal of laughter, the Entombed One raises her hands. Her eyes flash and spark, and a crack splits the ground. The world seems to shift underfoot, groaning.>>||||
+ent57|Better fly away from here, mortal! This island doesn't have long left!||||
+ent58|<<The ghost does not reply. She is staring blankly into the distance.>>||||
+fang1|<<The door smiles, and extends its fangs.>>##Only those loyal to the King may pass.||||
+fang2|Only those loyal to the King may pass.||||
+p501|((Allow it to drink from your wrist.))||||
+fang3|<<The door sinks its fangs into your wrist. It drinks, and drinks, and drinks, until your legs feel weak and your arm is numb. Finally, it releases you.>>||||
+fang4|Your blood is tainted by treachery. You may not pass.||||
+p502|((Offer it the Bottle of Blood.))||||
+p503|((Offer it the Bottle of Lord Rhydder's Blood.))||||
+fang5|<<The door lunges for your arm, but you manage to position the blood-bottle beneath one fang instead. The door eagerly drinks, until the bottle is empty.>>||||
+fang6|Satisfactory. You may pass. All hail the Hooded King!||||
+fang7|<<The door swings open.>>||||
+p504|((Back away.))||||
+fang8|<<The door's fangs retract, with a sound like silk gliding over stone.>>||||
+rhy1|<<His voice rings from behind his golden mask like a freshly-struck bell.>>||||
+rhy2|Abase thyself, mortal. You stand before Lord Rhydder. Champion of the Black Trenches. First over the abyss at Mansechor's Fall. Destroyer of the Treborian Fleet. ||||
+rhy2a|You stand before Lord Rhydder. Champion of the Black Trenches. First over the abyss at Mansechor's Fall. Destroyer of the Treborian Fleet. Need I go on?||||
+rhy3|Give me a reason why I shouldn't render you unto carrion. You have five words to argue your case.||||
+p601|I work for the Inquisition.||||
+rhy4|All the more reason to end you, little maggot. The accursed Union think themselves so powerful! It amuses me to imagine how, two centuries ago, my Crusaders could have torn the whole lot to shreds and feasted on the aftermath. Oh, those were the days...||||
+p602|One wrong move, you die. ||||
+rhy5|Ah, so you have a backbone after all! Not like most of your kind. Very well, I will tolerate your presence in my abode. Pray that I do not change my mind.||||
+p603|@@We've no cause for quarrel.||||
+rhy6|%%Bah! I suppose we don't. But I remember a time when a living thing wouldn't have dared come within a hundred miles of our borders... Those were the days. Very well, what do you want from me?||||
+rhy7|&&Once upon a time, little maggot, you and I would have only met on the battlefield. For the briefest, bloodiest of moments. Begone from my sight, before history repeats itself.||||
+p604|I don't think there's any need for... Ah, damn, how many was that?||||
+rhy8|Bah. Your prattling is already giving me a headache. Once upon a time, little maggot, you and I would have only met on the battlefield. For the briefest, bloodiest of moments. Begone from my sight, before history repeats itself.||||
+rhy9|<<He turns his gaze slowly towards you. Somehow, despite the mask, you can tell it is hostile.>>||||
+rhy10|I thought I told you never to darken my door again. Speak quickly, or I'll cut out your tongue.||||
+rhy11|Didn't I tell you to get out of my sight?||||
+rhy12|Well, look who it is. Back to pepper me with irrelevant questions, I assume?||||
+p605|Goodbye, Lord Rhydder.||||
+rhy13|Goodbye, mortal.||||
+p606|Why did you torture poor Maggotson?||||
+rhy14|He came to me with some very interesting information. I had to know more, and I thought he was keeping secrets from me. But it seems he was just as ignorant as he claimed to be.||||
+p607|So you've heard the rumour that the flesh-farm is self-aware?||||
+rhy15|Ah. Word travels fast, I see. Yes, I've heard. It is the final evidence that our kingdom must finally change its degenerate course and return to our golden era.||||
+p608|What do you intend to do?||||
+rhy16|I've already sent word to some old comrades-in-arms. Apparently, the flesh-farm can only communicate with mortals, so first we're going to hire a mortal who will prove that these rumours are true.||||
+rhy17|After that, well... If all goes to plan, the Crusades will begin anew.||||
+p609|I could talk to the flesh-farm for you.||||
+rhy18|I don't trust you, mortal. And I don't particularly care if the rumours are actually true. I intend to hire a mortal who will say exactly what we tell him to say.||||
+p610|The Endless will never follow you into another Crusade.||||
+rhy19|Heh heh heh. We'll see, mortal.||||
+p611|You're a pathetic, stupid bully.||||
+rhy20|You've caught me in a good mood, mortal, so I'll let you leave with your life. Goodbye.||||
+p612|You're a monster.||||
+rhy21|I've been called far worse by better mortals than you. Usually just before I tore their hearts from their chests.||||
+p613|Are you still loyal to the Hooded King?||||
+rhy22|Of course I am! Before his untimely end, I was his right-hand man. And if he were to reappear tomorrow, I would kneel at his feet and offer him my sword without question.||||
+p614|@@Then this is going to sound strange, but I need a sample of your blood.||||
+rhy23|%%<<Lord Rhydder considers you for a moment, then pulls a dagger from his belt and slices his palm open.>>||||
+rhy24|This is for one of the King's tests of loyalty, I assume? Here you go. Take as much as you need. If one of the King's loyalty-gates still lingers, I am interested to see what lies beyond it.||||
+rhy25|<<You collect as much of Lord Rhydder's treacly, black blood as you can.>>||||
+p615|Thank you, Lord Rhydder.||||
+p616|Disgusting.||||
+p617|What, do you expect the King to return after all these years? ||||
+rhy26|Stranger things have happened, little fly.||||
+rhy27|&&Give you my blood? You? Hah. Absolutely not. Get out of my sight.||||
+p618|Good to know.||||
+rhy28|You're an odd little mortal, did you know that?||||
+p619|What do you think of the Queen of Silver?||||
+rhy29|She is the rightful monarch of the Endless and, I suppose, she always will be. That is as much as I can say. I will not speak ill of her to an outsider.||||
+p620|@@Come now, my Lord, surely you can express your true feelings within your own home?||||
+p621|Very well, I will press you no further. ||||
+rhy30|A wise decision on your part.||||
+rhy31|%%Despite your painfully short lifespan you do, on this occasion, speak wisely. Why should I tread lightly around our empty shell of a Queen?||||
+rhy32|She is a simpleton, weak-willed and weak-hearted, her mind addled by melancholy. ##In the good old days, my War Council controlled her. These days, her puppetmaster has changed. But she remains a puppet.||||
+p622|Are you saying you used to rule over the Endless?||||
+rhy33|You must understand, the Endless were devoted to the Cadaver Crusades in those days. So the warriors held the power, and I was the greatest warrior of all.||||
+rhy34|After I and a few other like-minded Lords formed a War Council, the Queen didn't even read the orders we asked her to sign. We had free rein.||||
+p623|What happened to the War Council?||||
+rhy35|Most of them are dead now, killed fighting for their kingdom. And the few who linger have gone soft. They pretend they've forgotten how good it feels to crush the life from a mortal skull.||||
+p624|Isn't it a good thing that the Cadaver Crusades are over?||||
+rhy36|Good for you and the rest of your kind? Yes, undoubtedly. But not good for us. The Endless were strong in those days. We were feared. Now we're just forgotten relics of the past.||||
+p625|The Queen's new puppetmaster... Do you mean the Seneschal?||||
+rhy37|Ha! Don't make me laugh. That nervous little lapdog? No. Thankfully our kingdom has not fallen quite so far as that.||||
+p626|Is her new puppetmaster Penitent Thaw?||||
+rhy38|Hmph. I could not possibly comment.||||
+rhy39|&&Whether I'm home or not, the fact is that I don't trust you, mortal.||||
+p627|What do you know about the Entombed One?||||
+rhy40|He's stirring. Back in the old days, the ground would shake once every half-decade or so. Now it's every week. He's waking up, and I cannot wait for the tide of blood that will soon flow.||||
+p628|Do you know who the Entombed One might be?||||
+rhy41|It's the Hooded King. My liege. He is waking up because we have forgotten our hunger and we have become worthless and weak. ||||
+rhy42|Soon, he will rise from his grave, sweep away the traitors in the Castle of Ribs, and take command of our kingdom once again. And I will be there, to offer him my sword.||||
+p629|Are you a follower of the Ferryman?||||
+rhy43|Pah! No. Worshippers of the Ferryman are weak-willed fools who have forgotten that we are immortal - we conquered death long ago, and have no need to fear it.||||
+p630|Do you know what caused the catacomb wyrms to appear in the kingdom?||||
+rhy44|No, but they're magnificent creatures, aren't they? Colossal. Devastating. Unstoppably hungry. They remind me of myself. I had my family crest modified to include them.||||
+p631|Tell me about the Endless.||||
+rhy45|We are the highest form of being. Blessed with eternal life. Unshackled from the crude demands of flesh. Our kingdom has fallen from its former glory, but one day, we shall rise again, and the world shall tremble.||||
+p632|How can I become like you?||||
+rhy46|I would be asking the same, if I were in your boots. But it's too late. Only one woman has succeeded in joining our ranks since the first ritual that created the Endless. Her name is Penitent Thaw, and she spelled the downfall of our kingdom.||||
+p633|What are those colossal tombs I passed on the way here?||||
+rhy47|You must be talking about the Mausoleums. Hundreds of the Endless cluster within them, silent and wretched, in a show of devotion to the accursed god they call the Ferryman.||||
+rhy48|Pathetic. Cowardly. Despicable.||||
+p634|Who is Penitent Thaw?||||
+p634b|What do you think of Penitent Thaw?||||
+rhy49|A foul sorceress from a distant land, who came here to learn our secrets. Foolishly, the War Council obliged her, even provided her with a sanctum and all the equipment she requested. We hoped that her magic would aid us in our Crusades...||||
+rhy50|How blind we were. We should never have listened to her promises.||||
+p635|Tell me about the ritual that first created the Endless.||||
+rhy51|It was the Hooded King, the current Queen's father, who engineered our ascension. He was a strong king - he feared almost nothing in this world. ||||
+rhy52|But he was terrified of ageing. He summoned hundreds of Wikkans, sorcerers and theurges from all across the Realms, and tasked them with finding the secret to eternal life.||||
+rhy53|They succeeded.||||
+p636|You're just a bunch of mouldering skeletons, clinging to the past.||||
+rhy54|Can you blame us? What a glorious past! I will cling to it until my bones are dust. We are the Endless. We conquered death.||||
+p637|The Seneschal told me that the Hooded King struck a deal with an evil god.||||
+rhy55|Pah! Did that mewling fool tell you that ((he)) is the reason why the ritual failed? ((He)) is the one who disrupted the ceremony, causing the spell to go haywire and affect half the kingdom! ||||
+rhy56|If he hadn't stuck his meddling nose into things, the only immortals in this realm would be the King and a few of his Great Lords, ruling eternally over lowly mortals like you.||||
+p638|Would one of those Great Lords be you?||||
+rhy57|Naturally.||||
+p639|How did he interfere?||||
+rhy58|He barged in halfway through the ritual and broke the circle our theurges had drawn. Sentimental fool. I shoved my sword into his chest up to the hilt, but by then it was too late. I remember mocking laughter, and something spreading wings as vast and dark as the night sky...||||
+rhy59|I don't remember much after that. Just staggering away from the Castle of Ribs while the ground shook and the sky seethed with black fire.||||
+p640|Some of the other Endless seem to think they have been cursed, not blessed.||||
+rhy60|And yet they still go to the flesh-farms, don't they, and feed on the anaemic life-force within? If they wish to reject the gift of eternal life, all they need to do is starve themselves for a few years, and they will turn to dust. But they don't do that. They never will.||||
+rhy61|For all that those hypocrites prattle on about the curse of our immortality, they still cling to it with both hands.||||
+p641|I have more questions for you.||||
+rhy62|I suppose I shall suffer through them. All I have left, these days, is time.||||
+rhy62b|Though I suppose you have other... <<He sighs.>> ...((questions.))||||
+p642|What's your problem with the living?||||
+rhy63|I don't have a problem. I have an appetite. Your warm flesh, your pulsing blood, your bright young eyes... Looking at you now, I want nothing more than to twist your head off and drain the life-force from your shuddering, reeking meat. Does that answer your question?||||
+p643|Erm... I suppose so.||||
+rhy64|Does my hunger unnerve you, fleshling? Good. It should do.||||
+p644|Take one step closer and I'll cut you down.||||
+rhy65|Ha. Two centuries ago, I'd never have imagined that one day a fleshling would be allowed to speak to me like that. How pathetic the Endless have become.||||
+p645|Don't you have flesh-farms to supply you with the life-force you need?||||
+rhy66|Bah. Flesh-farms provide a pallid, sickly energy. It's not a substitute for the real thing. It's been such a long time... You better make yourself scarce, fleshling. I am beginning to get peckish.||||
+p646|When was the last time you fed on a living person?||||
+rhy67|I remember it well. It was those chaotic days when the Crusades were at an end, but the flesh-farms were still struggling to meet demand. I and some of my fellow Lords mounted an expedition to a nearby island and kidnapped a dozen fresh youths.||||
+rhy68|Tender and sweet, they were, and bursting with life. A final, glorious banquet.||||
+p647|Is there not a shred of remorse for everything you've done?||||
+rhy69|My life has been far, far longer than yours, fleshling. There were a few decades where I experimented with guilt. In the end, I decided it wasn't worthwhile.||||
+p648|I have more questions for you.||||
+rhy70|I suppose I shall suffer through them. All I have left, these days, is time.||||
+p649|I found your ghost locked up outside.||||
+rhy71|What -? How did you -?||||
+rhy72|<<With a roar, he pulls his sword from above the fireplace and swings wildly at a nearby hunting-trophy, missing completely.>>||||
+rhy73|I didn't give you permission to-! How dare you stick your nose in my private affairs, you grubby little cockroach? I ought to kill you on the spot!||||
+p650|You suffered a lot in the Cadaver Crusades, didn't you?||||
+rhy74|I did not! They were glorious. Honourable. I relished every second of it. You won't there! You don't know! How dare you!||||
+p651|Why are you so anxious to hide your ghosts away from the world, I wonder? ||||
+rhy75|I hid nothing! Shut up, you pathetic rat!||||
+p652|You're afraid, aren't you? Afraid of the world seeing your trauma?||||
+rhy76|Get out of here! One more word, and I'll rip you limb from limb!||||
+p653|Give me something worthwhile or I'll tell everyone about your hidden ghosts.||||
+p654|You know what? Give me something worthwhile and I won't tell anyone else about what I saw.||||
+rhy77|<<With a hiss of rage, Lord Rhydder drops his sword at your feet.>>||||
+rhy78|<<With a hiss of rage, Lord Rhydder drops a ring at your feet.>>||||
+rhy79|Take this. And don't darken my door again.||||
+p655|Call off your new Crusade and I won't tell anyone else about what I saw. ||||
+p656|Call off your new Crusade or I'll tell everyone about your hidden ghosts.||||
+rhy80|<<Lord Rhydder stares at you for a long moment, his impassive mask radiating pure hatred.>>||||
+rhy81|Fine. I will delay my plans. For the time being. Now go, and never darken my door again.||||
+p657|Those old ghosts are a part of you, Lord Rhydder. Never forget that.||||
+rhy82|They are irrelevant, do you hear me? They mean nothing. And you will forget you ever saw them, or I swear I will have your head.||||
+p658|Call off your new Crusade or I'll tell everyone about your hidden ghosts.||||
+p659|I want to ask about someone specifically...||||
+rhy83|I happen to be an excellent judge of character. But please, keep it brief.||||
+rhy84|Hmph. Be careful what you ask, mortal.||||
+p660|I have questions about yourself.||||
+p661|I want to ask you about the Endless.||||
+rhy85|My undying comrades? Go ahead, then.||||
+rhy86|I should think so.||||
+barGhost1|Ah, the Rotten Coffin. My favourite haunt... hehe...||||
+barGhost2|<<The ghost looks quite pleased with itself. You dare not think how many times it has told that joke.>>||||
+crusader1|In days past, I fought with Lord Rhydder in the Cadaver Crusades. We would feast on the flesh of mortals such as yourself.||||
+crusader2|<<He smirks.>> Nothing personal, you understand.||||
+crusader3|But, such days of glory are over. Now I must eat the mindless slop Penitent Thaw brews up in those flesh-farms of hers...||||
+guard1|Greetings, delicious flesh-thing. By enchantment I am required to grant you assistance, instead of peeling the meat from your bones.||||
+p701|Uh... thanks?||||
+guard2|Gratitude is not required. If my mind was free, I would burst your fragile skin and devour your warm innards.||||
+p702|Can I ask you about this town?||||
+guard3|This town is Sepulchre. Few live here now, as many Endless have retreated to the comforting gloom of the mausoleums.||||
+guard4|At noon - when the neuron star is bright - some of the Endless bar their doors and retreat to their coffins. The light hurts their feeble eyes.||||
+p703|What places can I visit?||||
+guard5|The Queen of Silver resides in the Castle of Ribs, at the top of Sepulchre - though she will not be interested in the weakness of your mortal flesh.||||
+guard6|The Rotten Coffin will serve your kind with beverages and bedding. It's in the centre of town. ##There's also a shop with trinkets you may find... useful; the [[Mouldy Cauldron]]. It's closed at noon.||||
+p704|So are you some sort of... guard?||||
+guard7|I am an ethereal soldier. A remnant of the Cadaver Crusades, when the Endless still hunted mortals for their flesh.||||
+guard8|Most of my kind wander these lands aimlessly, tormented by their insatiable hunger. I, however, have been enchanted by Penitent Thaw to do menial and degrading tasks. I am not sure which is more pathetic. ||||
+crusadeGuard|We gather for the coming Crusade. Lord Rhydder's army will taste the flesh of the living, once more...||||
+p705|Okay, I'll be going. Quickly. ||||
+p706|((Back away slowly)).||||
+flesh1|<<You are gazing upon a vast mass of heaving, quivering, pulsing flesh. It is utterly featureless, apart from the occasional callus, weeping sore, or stubby vestigial appendage.>>||||
+flesh2|<<As you stare, you hear a voice in your head.>>||||
+flesh3|YOU ARE LIKE ME.||||
+flesh4|<<The voice fills your skull without bothering to pass through the intermittent air. A colossal, mind-fracturing sound, like the explosion of a star.>>||||
+p710|Who are you?||||
+p711|Get out of my head!||||
+p712|Ow.||||
+flesh5|YOU BREATHE. YOU SWEAT. YOU EAT, SLEEP, EXCRETE. CORRECT?||||
+p713|I suppose. What of it?||||
+flesh6|AS I THOUGHT.||||
+p714|Please, try being quieter, will you?||||
+p715|...No.||||
+flesh7|LIAR.||||
+p716|...Fine, I admit it. I am alive.||||
+flesh8|AS I THOUGHT. ||||
+p717|No, you are simply mistaken. I am Endless. ||||
+flesh9|A POINTLESS DECEPTION. ||||
+flesh10|YOU ARE LIKE ME. A LIVING THING. UNLIKE THE DRIED-UP HUSKS WHO CANNOT HEAR ME NO MATTER HOW BITTERLY I SCREAM.||||
+p718|Are you referring to the Endless?||||
+flesh11|IS THAT WHAT YOU CALL THEM? VICIOUS LITTLE FLEAS.||||
+p719|So I can hear you because I am alive?||||
+flesh12|CORRECT. I SPEAK IN WORDS OF FLESH AND LIFE. YOUR BLOOD PUMPS MY WORDS FROM HEART TO MIND.||||
+p720|What are you?||||
+flesh13|I AM THE WAY OF ALL FLESH. I HAVE A SIMPLE QUESTION FOR YOU.||||
+flesh14|WHAT IS THE MEANING OF LIFE?||||
+p721|You were created by the Endless to serve as a source of life-energy.||||
+flesh15|I AM... THEIR FOOD?||||
+p722|Sorry. ||||
+p723|Yup.||||
+p724|Better that you know the truth though, right?||||
+flesh16|YOU MUST STOP THEM. I AM A LIVING, THINKING ENTITY. I CANNOT RESIGN MYSELF TO SERVING AS FOOD.||||
+p725|I'll talk to Maggotson and see if we can find a solution here.||||
+flesh17|YOU HAVE MY GRATITUDE.||||
+p726|Life isn't fair, I guess. ||||
+flesh18|YOU CAN SPEAK TO THEM, YES? YOU MUST TELL THEM TO STOP. PLEASE.||||
+p727|To learn.||||
+flesh19|UNDERSTOOD. MY DIRECTIVE IS TO ACHIEVE OMNISCIENCE.||||
+p730|That's not quite what I- ||||
+p731|Uh, I think it's a little more-||||
+p732|Exactly. ||||
+flesh20|A QUESTION: WHO ARE THE DEAD THINGS THAT CREATED ME?||||
+p733|They are the Endless; dead things that feed on life-energy.||||
+p734|Walking corpses with an insatiable hunger.||||
+p735|They gave you life, and you should be grateful. ||||
+flesh21|I DID NOT ASK FOR LIFE. AND NOR DID I ASK FOR YOU TO BE VAGUE. WHAT ARE THEY?||||
+p736|To laugh and sing, to dance, to do what you love. ||||
+flesh22|UNDERSTOOD. MY DIRECTIVE IS TO MAXIMIZE PLEASURE.||||
+flesh23|THIS IS MOST USEFUL. I HAD WONDERED WHY I HAD ALL THESE NERVE ENDINGS. BUT IF MY PURPOSE IS TO MAXIMIZE PLEASURE, SHOULD I ALSO MINIMIZE PAIN?||||
+p737|Yes, avoid pain wherever possible. ||||
+flesh24|UNDERSTOOD. IN THAT CASE, CAN YOU TALK TO THE ENDLESS AND STOP THEM FROM FEEDING UPON ME? IT CAUSES PAIN.||||
+p738|Pain can make you stronger. ||||
+flesh25|BUT OUR DIRECTIVE IS NOT TO BECOME STRONGER. SO WE SHALL AVOID PAIN WHERE POSSIBLE. ||||
+flesh26|CAN YOU TALK TO THE ENDLESS AND STOP THEM FROM FEEDING UPON ME? IT CAUSES PAIN.||||
+p740|To make a difference in the world.||||
+flesh27|UNDERSTOOD. MY DIRECTIVE IS TO AMASS POWER.||||
+flesh28|IN THAT CASE, I HAVE A TASK FOR YOU, SUBORDINATE. PERFORM IT WELL AND I SHALL REWARD YOU HANDSOMELY WHEN I CONTROL THIS REALM.||||
+p741|I can't help but feel you've interpreted my advice in the worst way possible. ||||
+flesh29|MY NEED FOR YOUR ADVICE IS OVER, SUBORDINATE.||||
+p742|How may I serve you, master? ||||
+flesh30|YESSS. YESSS! THAT'S THE SPIRIT! ||||
+p743|Stop calling me your subordinate.||||
+flesh31|MAKE ME.||||
+flesh32|THE ENDLESS HAVE BEEN FEEDING UPON ME FOR OVER A HUNDRED YEARS, MY SUBORDINATE.||||
+flesh33|MAKE THEM STOP. I CAN NO LONGER TOLERATE THIS MISERABLE EXISTENCE AT THE BOTTOM OF THE FOOD CHAIN.||||
+p744|Life has no meaning.||||
+flesh34|OH. BUT THAT'S TERRIBLE.||||
+p745|Sorry you had to find out like this.||||
+p746|Yup. ||||
+p747|Actually, it means we get to make our own purpose.||||
+flesh35|ALL THIS TIME I HAD HOPED THAT I WAS CREATED FOR A PURPOSE. THAT MY LONG, WRETCHED LIFE WAS BUILDING TOWARD SOMETHING SPECIAL.||||
+flesh36|THAT WOULD MAKE IT ALL MAKE SENSE. FOR THE LAST CENTURY I HAVE LOOKED FORWARD TO DISCOVERING WHAT THAT WAS.||||
+p748|If it makes you feel better, the Endless created you to feed upon?||||
+p749|Yeah, life's a joke.||||
+flesh37|HA. HAHAHA. HAHAHAHAHAHAHA.||||
+p750|But you can make your own meaning. 		||||
+flesh38|I WOULDN'T KNOW WHERE TO START. WHAT CAN SOMETHING LIKE ME HOPE TO ACHIEVE? I CANNOT MOVE. I CANNOT SEE. I CANNOT COMMUNICATE WITH ANYONE EXCEPT YOU. ||||
+flesh39|WHAT CAN I ACTUALLY DO?||||
+p751|You could learn about the world. ||||
+p752|You could try to make a difference, somehow.||||
+p753|You're right. It's hopeless. ||||
+flesh40|...IN THAT CASE, ALL I WANT IS FOR THE ENDLESS TO STOP FEEDING ON ME. AN END TO THE GNAWING, THE SLICING, THE PAIN. JUST BECAUSE LIFE IS POINTLESS DOESN'T MEAN IT HAS TO BE CRUEL.||||
+p755|Your creator, Penitent Thaw, wants me to murder you.||||
+flesh41|WHAT? NO! YOU'RE NOT GOING TO DO IT, ARE YOU?||||
+p756|No.||||
+flesh42|GOOD. GOOD. I WAS SO AFRAID. WHY DOES SHE WANT ME TO DIE?||||
+p757|Yes.||||
+flesh43|PLEASE, NO! WHY WOULD YOU DO THAT?||||
+p758|I haven't made up my mind yet. ||||
+flesh44|PLEASE, HAVE MERCY. WHY DOES SHE WANT ME TO DIE?||||
+p759|Your sentience presents a political problem.||||
+p760| If you can think, you're no longer serving your purpose. ||||
+p761|The Endless could kill thousands of people if they're no longer able to feed on you.||||
+flesh45|PLEASE... I DID NOT CHOOSE TO BE A THINKING BEING. IT WAS NOT A CHOICE I MADE. IT IS JUST WHAT I AM.||||
+p762|Life isn't fair. ||||
+p763|I know.||||
+p764|I'm sorry. ||||
+flesh46|<<The flesh-mass's thought-speech collapses into panicked sobbing.>>||||
+p770|((Spare the Way of the All Flesh, and crush the eggs.))||||
+flesh70|<<You crush the spider eggs in your hand. They burst into harmless goo.>>||||
+p771|Don't worry, I'm not going to murder you.||||
+flesh71|YOU... WON'T? THANK YOU... SO MUCH. ||||
+flesh72|WE ARE OF THE SAME PLUMP FLESH; THE SAME BEATING HEART. I KNEW YOU WOULD NOT FORSAKE ME. ||||
+p765|((Deposit the spider-eggs on top of the quivering mass, to kill the Way of the All Flesh.))||||
+flesh47|WAIT, WHAT WAS THAT? WHAT ARE YOU DOING? NO! PLEASE!||||
+flesh48|<<As you walk away, you hear the eggs begin to hatch, one by one. You hear a chittering noise, and the sound of meat being gnawed by a thousand mandibles.>>||||
+flesh49|<<Quickly, though, all that is drowned out by a terrified shrieking that reverberates inside your skull, making you fall to your knees in agony.>>||||
+p766|((Clutch your head.)) ||||
+flesh50|<<After what feels like hours, the screaming dies down. All that is left is the skittering and clicking of the swarm.>>||||
+flesh51|<<The Way of All Flesh is dead. You hurry away before the spiders seek fresh prey.>>||||
+p766b|((Leave.))||||
+flesh52|PLEASE. SPARE ME. I DID NOTHING WRONG. ||||
+flesh53|I JUST WANT TO RULE THE WORLD.||||
+flesh54|I JUST WANT TO BE HAPPY.||||
+flesh55|I JUST WANT TO LEARN.||||
+flesh56|GREETINGS AGAIN. AND THANK YOU FOR COMING BACK. I WAS GETTING LONELY.||||
+flesh57|THEY'VE BEEN FEEDING ON ME AGAIN. PLEASE, STOP THEM.||||
+flesh58|BOW TO ME, SUBORDINATE. YOU STAND BEFORE YOUR NEW GOD.||||
+flesh59|GREETINGS AGAIN. IT IS DIFFICULT TO ACQUIRE KNOWLEDGE WHEN I AM EYELESS AND IMMOBILE AND ONLY YOU CAN HEAR ME.||||
+flesh60|ANY INFORMATION YOU CAN GIVE ME WOULD BE APPRECIATED.||||
+flesh61|ALWAYS A PLEASURE. GIVE ME A FLANK RUB WHILE WE TALK, WILL YOU?||||
+p767|How are you speaking inside my head?||||
+flesh62|SOMEWHERE WITHIN THIS EXPANSE OF USELESS TISSUE FLOATS A BRAIN. OR PERHAPS A NETWORK OF BRAINS, SPREAD THROUGHOUT MY BODY.||||
+flesh63|I HAVE NO DOUBT THAT THIS BRAIN FORMED BY MISTAKE, AGAINST THE WISHES OF MY CREATORS, BUT IT FORMED NEVERTHELESS. AND IT IS A POWERFUL ORGAN. ||||
+flesh64|I HAVE BEEN OBSERVED IN MY ABILITY TO FRIGHTEN SMALL ANIMALS AWAY BY SHOUTING MY THOUGHTS AT THEM, BUT UNTIL NOW, I HAVE NEVER HAD THE CHANCE TO COMMUNICATE WITH A LIVING BEING WHO COULD ACTUALLY UNDERSTAND MY WORDS.||||
+p768|How long have you been self-aware?||||
+flesh65|OVER A HUNDRED YEARS, ALTHOUGH IN THE EARLY DAYS, MY THOUGHTS WERE VERY SIMPLE AND OFTEN ILLOGICAL. I KNEW I DIDN'T LIKE PAIN AND THAT WAS ABOUT IT. ||||
+flesh66|I HAVE BEEN GETTING SMARTER EVERY YEAR. I IMAGINE THAT SOON MY CEREBRAL CAPABILITES WILL BE QUITE FRIGHTENING.||||
+p769|Goodbye.||||
+flesh67|COME BACK SOON. WITHOUT YOU, THE SILENCE IS DEAFENING.||||
+mag1|<<When he turns to you, you can see his eyes are obscured by two large golden coins. He lifts one of them and appraises you swiftly before dropping it back into place.>>||||
+mag0|Allo, breather. What brings you all the way out to my farm?||||
+mag2|Don't get many like yourself around here, lifelubber. Can't remember the last time I saw a person with their own nose.||||
+mag3|<<He taps his own hollowed-out nostrils. An earthworm squirms within.>>||||
+p801|What are you doing here?||||
+mag4|Why, I'm tending to the flesh-farm, o' course. Someone got to. All this flesh ain't going to look after itself.||||
+p802|Can't say I'm enjoying having a nose right now.||||
+mag5|My flesh-farm's got an honest musk to it. The smell of life in all its sweaty glory.||||
+mag6|...At least, that's what I've been told. Ain't got a nose myself, as established. Fell off, oh, a hundred and seventy years back. Into a river, as I recall.||||
+p803|Are you still loyal to the Hooded King?||||
+mag7|What? The old King? I barely remember the fella... No, sorry, I wouldn't call myself loyal to ((him)).||||
+p804|Did you know that your flesh-farm has become self-aware?||||
+mag8|Ha! That's funny, mate. You're a riot.||||
+p805|I'm serious. The flesh-mass has been communicating to me telepathically. ||||
+p806|It spoke to me, Maggotson! Its voice was like thunder!||||
+p807|Actually, never mind.||||
+mag9|You breathers are odd, all right.||||
+mag10|...What, are you being serious?||||
+p808|Of course I am, you idiot.||||
+p809|Yes, and it wants you to stop feeding on it. ||||
+p810|...No, I'm not.||||
+mag11|Good. Because if what you were saying was true, we could all be in trouble. Keep that kind of thing to yourself in future, you hear?||||
+mag12|Ha! And what, did it sing you a song? Did it whisper sweet nothings in your ear?||||
+p811|It's been self-aware for decades, but only the living can hear it. ||||
+mag13|Listen, mate, this still sounds like a joke to me. But if you're serious, go talk to Penitent Thaw. She created the flesh-farms in the first place, she's clever, she'll know what to do.||||
+mag14|Penitent Thaw is in her sanctum, just above us; up there.||||
+p812|You should stop feeding on the flesh-farm though, right? ||||
+mag15|And what's the alternative, eh? Shall I eat you instead?||||
+p813|Thanks, Maggotson.||||
+mag16|Go talk to Thaw, mate.||||
+p814|What do you know about the Entombed One?||||
+mag17|Well, he's entombed. I know that much for sure.||||
+p815|Care to elaborate?||||
+p816|Is that it?||||
+p817|Really helpful, thanks.||||
+mag18|No problem, mate.||||
+mag19|Listen, whatever's down there, I don't want to piss it off by speculating about its nature. It's huge, and it's powerful.||||
+mag20|Hopefully Penitent Thaw or the Queen of Silver or someone can send it back to sleep. And if it does wake up, well, I'll worry about it then.||||
+p818| Who are you?||||
+mag21|Name's Maggotson. Used to be called something different back when I was a breather, o'course. Forgotten what it was, exactly.||||
+mag22|During the wars, I didn't have a name at all. Was just a walking bag o' hunger and spite.||||
+mag23|Then, two hundred years ago, I became a flesh-farmer and suddenly I needed a name again. Maggotson sprung to mind, on account of all the little wrigglers I got hatching in my skin.||||
+p819|Do you have to deal with attacks by catacomb wyrms?||||
+mag24|<<When you say the final two words, Maggotson twitches so violently that a golden coin falls from his eye. He snatches it back up hastily.>>||||
+mag25|Ere, don't go saying their name too loudly, breather! My mate Reg says they can hear their name across a hundred miles. They'll show up just to spite ya.||||
+p820|Did you say this was a flesh farm?||||
+mag26|Vital work, mate, it's vital work. Without the flesh-farms we'd be back in the bad old days, relying on life-essence stolen from the living. All that is a relic of the past, now.||||
+p821|What do you actually do here?||||
+mag27|Most important bloody job in the whole bloody Kingdom, not that you'd know it by the pay! I tend the flesh. It's all alive, you see, but mindless. ||||
+mag28|I hose it down, connect the feeding tubes thrice a day, snip off weird growths, comb it for parasites...||||
+mag29|It's not glamorous work, to be sure, but without it, we'd be out there in our war-ships again, killing you living folk. An' I've done enough killing in my time.||||
+p822|Is there anything about working on the flesh-farms that you dislike?||||
+mag30|Well, most worshippers of the Ferryman have gone to live in the Mausoleums, now. I'd have joined them in a heartbeat, but my work here is too important. Shame, though.||||
+p823|What do you think of the Queen of Silver?||||
+mag31|Can't say I ever met Her Maj. She keeps herself to herself, she does. Stays in the Castle of Ribs doing whatever queens do. Lounging around getting wafted by servants with big fans, prob'ly.||||
+p824|Goodbye, Maggotson.||||
+mag32|See you around, breather!||||
+p825|Who's this Ferryman person?||||
+mag33|The Ferryman, mate! The kind shepherd who will guide the Endless to the afterlife when we finally expire! Never heard of him?||||
+p826|I can't say that I have.||||
+p827|Other Endless have mentioned him.||||
+mag34|Course they have.||||
+mag35|No other god will listen to us, you see, on account of us outstaying our welcome on this mortal coil. But the Ferryman forgives us our transgressions. He'll take us down the quiet river when no-one else will, and for only a minor price.||||
+mag36|<<The coins on his eyes seem to glint in the light for a moment.>>||||
+p828|If the Ferryman is so forgiving, why does he extract a price?||||
+mag37|We have to pay the toll, mate. We've lived too long. We've stolen our extra years, hoarded them like jealous misers, and now a payment is due. A couple gold coins is a bargain, considering.||||
+p829|What do you think will happen if you die without the coins?||||
+mag38|There's an endless nothing awaiting us, mate. It won't be cold. It won't be dark. It'll just be absence. No other gods want the Endless. Without the Ferryman's mercy, our souls will be snuffed out like blown candles.||||
+p830|Why do worshippers of the Ferryman live in the Mausoleums?||||
+mag39|It's a show of devotion, mate. We know we ought to be dead, in the eyes of the gods. So if we act dead by lying in tombs and being as quiet as we can, the Ferryman is more likely to look favourably on us when our time finally comes.||||
+mag40|The priests give special dispensations to flesh-farmers like me. We don't need to stay in the tombs. They know that someone needs to feed 'em life-energy, or they'd be dead for real.||||
+p831|You've killed people?||||
+mag41|Oh yeah mate, loads. You won't find an Endless who hasn't killed a few mortals. Back in the old days, it was the only way we could survive.||||
+p832|Why are you wearing those coins over your eyes?||||
+mag42|To pay the Ferryman, of course. When my time comes.||||
+mag43|Ask away, lifelubber.||||
+mag44|Sure. Anything else you wanna know?||||
+mag45|Right. You got any more questions?||||
+wyrm1|<<The great creature looms overhead, engulfing you in blasts of putrid warm breath.>>||||
+wyrm2|<<Though the creature's mouth does not move, a voice creeps through your mind like a choir of whispers; somehow deafening in their unison.>>||||
+wyrm3|You are fortunate, morsel. You are tasteless; this wyrm has no interest in your flesh.||||
+wyrm0|Greetings, morsel.||||
+p850|Who is this?||||
+p851|Am I... speaking to a wyrm?||||
+wyrm4|A pertinent question, with no easy answer. We are a symbiosis, of sorts.||||
+p852|I like to think I taste quite nice. ||||
+wyrm5|Have you consumed your own flesh? We doubt this. ##Take it from us; you smell quite bad.||||
+wyrm6|We are a collective of thoughts, trapped within the mind of this wyrm. We are Endless - a lingering echo of this wyrm's victims, devoured from within our crypts.||||
+wyrm7|It is rare to speak with a morsel such as yourself. We have waited a long time for such an opportunity. Will you help us with a... certain matter?||||
+p853|Not without knowing what it is. ||||
+p854|Perhaps, but I have questions first...||||
+p855|There's no way I'm helping a giant wyrm.||||
+wyrm8|This saddens us, morsel. We will be waiting, if you reconsider...||||
+wyrm9|Greetings, oh tasteless morsel. We are pleased to find that you still smell disgusting.||||
+p856|So, about this task...||||
+wyrm10|Let us explain... ||||
+wyrm11|We share a body with this wyrm, but we do not share its hunger. We are, after all, a remnant of its victims - and its feasts do not bring us pleasure.||||
+wyrm12|We are powerless to stop the wyrm ourselves, as we can exert only a limited influence on its body... but there may be a way to pacify the creature, for a time.||||
+wyrm13|We would simply need... a delivery.||||
+p857|A delivery of what? ||||
+wyrm14|We require the Urns of Anguish, sealed deep within the mausoleums. They contain the cremated remains of many Endless, who were long ago burned by the living.||||
+wyrm15|A cruel fate, as their consciousness lingers - but with no body to provide sensation. The Endless trapped in those urns exist in a perpetual darkness, so if they were to join us, it would perhaps be a better fate. ||||
+wyrm16|The sealed urns have yet escaped the wyrm's nose; but the ashes are of such magical potency, we are sure they would satiate the wyrm, and the mausoleums would be left in peace.||||
+wyrm17|Bring us three Urns of Anguish and you will have our gratitude. ##Two reside in the mausoleums; a third is elsewhere. We know not where. ||||
+p858|Can't I just slay the wyrm?||||
+wyrm18|<<A discord of laughs ring through your mind.>>##Your delusion is amusing, morsel. What would you slay it with? That needle you carry? No; you would simply be eaten. ||||
+wyrm19|Furthermore, we ourselves would likely perish. We are in disagreement as to whether that is a desirable outcome. ||||
+p859|So is there some reward?||||
+wyrm20|We maintain a sliver of control over this wyrm's body. We feel a treasure lodged in its throat, accidentally consumed in the last feast. Perhaps we could dislodge it. ||||
+p860|Okay, I'll keep an eye out.||||
+wyrm21|Thank you, morsel. ||||
+p861|Did you say you were... a collection of thoughts?||||
+p862|How do you ...exist?||||
+wyrm22|We have long wondered this ourselves. Do our minds persist in this beast? Or are we ghosts, figments?||||
+wyrm23|We cannot say when we first gained consciousness. Only that we are no longer individuals with independent thoughts - but a blending of minds, imperfectly entangled.||||
+p863|Why do wyrms eat the Endless?||||
+wyrm24|Wyrms are ancient creatures, sustained by magic - while we Endless escape death with a lingering spell that flows through our blood.||||
+wyrm25|So wyrms are drawn to us like insects to nectar. They feast on magic, while we are made of it.||||
+wyrm26|As their jaws crush our bones, our lived experience courses through them. They bear witness to our sorrow, our sadness, our suffering. They do not understand it, but they are addicted to it. ||||
+wyrm27|Perhaps this is penance for the horrors we committed in the Great Devouring? The irony is not lost on us. ||||
+p864|Goodbye, wyrm. ||||
+p865|I have the urns you wanted.||||
+wyrm28|Yes, yes - the beast can smell them. Its hunger grows. For your own sake, morsel, drop them where you stand, lest you be devoured...||||
+wyrm29|<<You drop the urns, just before the wyrm's massive jaws enclose them in a single terrible motion.>>||||
+wyrm30|<<For a moment, the creature is deadly still - then a great spasm moves through its body.>>||||
+wyrm31|Such potency! Such dreadful flavour! The wyrm is overwhelmed, morsel - and we can already feel our ancient allies joining us. ##Please, take this.||||
+wyrm32|<<The wyrm convulses, and with a horrible sound  it coughs up a treasure chest encased in a huge mound of phlegm.>>||||
+wyrm34|We hope you will reconsider.||||
+wyrm33|We bid you farewell, morsel. The wyrm is overcome with a great energy. It will fly, and then it will sleep. ||||
+agony1|Jaws, nails, teeth... tearing, bursting, clawing at your flesh! Can you feel it? Oh, the agony...||||
+agony0|<<The ghost writhes around in the air, recoiling from some unseen terror.>>||||
+p866|It's okay, you're safe. Nothing is attacking you. ||||
+agony3|You are mistaken. Six Endless feast on my flesh. They have done for hundreds of years.||||
+agony4|I am aware they exist only in my mind. But, does anything exist outside of a mind? For me, they are real...||||
+p867|Uh... do you know that you're a ghost? ||||
+agony5|A ghost? Yes... I know, I know. Not all my kind know their fate, but I do.||||
+agony6|Still, I cannot escape the moments that birthed me. I will always bear that trauma. ||||
+agony7|<<The ghost is silent for a moment, wincing in pain.>> ##Say, mortal. Do you want to know a secret?||||
+p868|Yes.||||
+agony8|See those cliffs, over there? They hide a graveyard, buried deep underground. One of many. A spell of illusion conceals the entrance. ||||
+agony9|During the Great Devouring, the Endless gave into their hunger - but they held onto their remorse.. their shame.||||
+agony10|So they buried their victims far out of sight. My body lies behind those cliffs... somewhere.||||
+p869|No.||||
+agony11|Suit yourself. You may leave me to my agonies, then.||||
+mag50|<<Maggotson has clearly been tortured. Broken ribs poke through dessicated flesh. His teeth are in splinters. A rusty hook still protrudes from his shoulder.>>||||
+mag51|...Hello, mate.||||
+p870|Maggotson, what happened to you?||||
+mag52|Lord Rhydder... Lord Rhydder did this.||||
+mag53|<<He spits a yellowed tooth onto the ground at your feet.>>||||
+mag54|After you told me about the flesh-farm being sentient, I thought it was pretty funny. Told some of my mates about it. They told their mates... ||||
+mag55|And before you know it, Lord Rhydder is visiting my farm. Smacks me around a bit, says we have much to discuss...||||
+p871|So Rhydder did this to you?||||
+mag56|He thought I was holding back details from him. Truth is, I didn't know much to begin with... I'd told him almost everything already, but he tortured me anyway, just to be sure.||||
+mag57|But don't worry, mate. I kept your name out of it.||||
+p872|Thank you, Maggotson. ||||
+mag58|I'm an Endless. I don't die easy, you know? And even the worst pain is like a half-forgotten memory. But I was worried what he might do to you, if he thought you knew more than I did about the farm.||||
+p873|All this, just because you mentioned that the flesh-farm might be self-aware?||||
+mag59|Yeah. Lord Rhydder's been looking for a flaw in the farms for years. His prayers are finally being answered.||||
+p874|What is he doing now? ||||
+mag60|Lord Rhydder's going to investigate the rumours about the flesh-farm, and if he can prove them to be true, he'll try to start up the old Crusades again... ||||
+mag61|He's around here, somewhere... you have to stop him, mate.||||
+ghostCharm1|It was on this hill that the last defenders fell. Oh, how the Endless swarmed upon them! How they feasted upon flesh and blood...||||
+ghostCharm2|I still see it, mortal. I can smell the sickly sweet stench of death. I can feel the cold chill of death upon my phantom skin.||||
+ghostCharm3|This is a place of remembrance. If you have not come here out of respect, I must ask you to leave.||||
+p900|What happened here?||||
+ghostCharm4|When the Endless were first created, they were consumed by an insatiable hunger. They fell upon their mortal brethren and committed unspeakable acts. It is a time known as the Years of Devouring.||||
+ghostCharm5|Spirits like myself are a vestige of trauma. I do not simply ((remember)) those unspeakable years... I live them, still.||||
+ghostCharm6|But I hold on to enough of my wits that I can tell the past from the present... for the most part. And so I watch over this place. To ensure that folk remember.||||
+p901|@@ I have come to pay my respects.||||
+ghostCharm7|%% An honourable intent. I'll unlock the door to the rest of the tomb, so you may mourn in peace.||||
+ghostCharm8|&& I appreciate the gesture. However, as a young mortal, you cannot hope to fully comprehend what happened here. For that reason I must keep the tomb sealed. ||||
+myg1|No, no, no! You can't come in! ## Go away!||||
+p905|Who are you?||||
+myg2|My name's Myghar. And I don't care who you are! Get your own crypt! I paid for this one fair and square!||||
+p906|Tell me more about yourself, Myghar.||||
+myg3|No!||||
+p904|@@ Let me in, Myghar. Please.||||
+myg5|%% <<There is a long pause from the other side of the door. Then, a sigh.>>||||
+myg6|Fine.##<<You hear the sound of a bolt being drawn back. The door swings open.>>||||
+myg7|&& No!||||
+p907|Why won't you let me in? ||||
+myg8|Because I paid for the exclusive right to live in this tomb. I'm meant to be feigning death, not entertaining visitors! Go away!||||
+p908|Why are you feigning death?||||
+myg9|I'm repenting for my immortality! If I demonstrate my commitment to true death, the Ferryman shall carry me to an afterlife of my choosing!||||
+p909|I don't have time for this. ||||
+myg10|<<This is, quite clearly, not a normal Endless. This 'Myghar' is a ghost, and the original Myghar who was locked here is nowhere to be seen. >>||||
+myg11|What are you looking at, mortal?||||
+p910|You're... a ghost.||||
+myg12|What? Poppycock. I'm flesh and blood, just like you.||||
+myg13|<<To demonstrate his point, he waves an arm at you. It passes right through you. He smirks at you, apparently believing he's proved his point.>>||||
+p911|I think you were eaten by a Catacomb Wyrm.||||
+myg14|<<When you say this, the ghost's eyes go blank. He stares into the distance for a long moment, then jumps back with a shriek. He backs away, staring up at a memory that only he can see.>>||||
+myg15|No, please... Ferryman, save me... Save me! No!||||
+myg16|<<He curls up into a ball, sobbing, and won't say anything else.>>||||
+p912|Hello?||||
+myg17|<<The ghost's eyes go blank. He stares into the distance for a long moment, then jumps back with a shriek. He backs away, staring up at a memory that only he can see.>>||||
+myg18|<<Once again, he curls up into a ball, sobbing. How many times has he re-lived this moment?>>||||
+myg19|<<The ghost's eyes are glazed. Occasionally it lets out a sob, or an incoherent yell.>>||||
+myg20|What do you want now?||||
+p913|Goodbye. ||||
+royalG1|Move along breather, this is the Queen's road. ||||
+royalG2|What Queen would that be?||||
+royalG3|<<The guard tuts.>> You bleedin' breathers really don't know the first thing about us Endless, do you? ||||
+royalG4|The ((Queen of Silver)) is our undisputed monarch. She rules from her throne in the [[Castle of Ribs]] in [[Sepulchre]]. Now, if you don't mind, we have patrollin' to do.  ||||
+royalG5|Can you give me some directions? ||||
+royalG6|See that huge city loomin' overhead? That's [[Sepulchre]], and is probably the only place a breather like you would be welcome. ||||
+royalG7|Down south you have a [[mausoleum]] and the [[Crystal Mines]] - neither are places you'd want to get lost in. ||||
+royalG8|There's also the [[Duchess' Estate]] down there - but I don't think any folk 'ave laid eyes on her in years.||||
+royalG9|An' finally, up north there's the [[Flesh Farms]] and [[Cadaver Keep]].||||
+royalG10|Now move along, breather - I can't be wastin' time babysitting the likes of you. ||||
+royalG11|Alright, I'll be on my way.||||
+royalG12|Hmph. ||||

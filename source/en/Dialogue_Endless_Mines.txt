@@ -1,0 +1,196 @@
+NPC Name:|EndlessMines||||
+ID|English|French|German|Spanish|Italian
+lord1|I must say, lordship can be quite a curse!||||
+lord2|I own the deed to the [[mines]] in the Southwest. Between you and I, it's worth a fortune.##But a few months ago it simply ceased to produce! As if out of thin air!||||
+lordp1|I'm so sorry to hear that.||||
+lordp1alt|I've been to those mines recently.||||
+lordp2|I've no interest in your bourgeois concerns.||||
+lord3alt|Ah, you're familiar, then? Splendid!||||
+lord3|Now, I sent a [[couple servants]] down to the mines see what the matter is.##As you'd expect, they both split on me; Took their pay and disappeared!||||
+lord4|Every day that my [[mines]] aren't operating, I'm losing gold!##What a mess!||||
+lordp3|Tell me more about the [[mines]].||||
+lordp4|Tell me about yourself.||||
+lordself|Ah, forgive me. I am [[Romulous Chairon VII]], lord and heir to the [[Southwestern Tract]].##The lands I own are rich in resources. The finest in the world. I employ merchants who sell them for me. Even the crown buys my ores.||||
+lordp5|I've been to the mines; here's what I've seen.||||
+lordp6|I must be off.||||
+lord5|My mines are to the Southwest.##The ores are a valuable export. Fine orestones fetch a devilish price in the [[Clockwork Kingdom]].||||
+lord6|I've likely owned my mines since before you were born! Though I don't involve myself much in its going-ons. There are people beneath me who were handling those trivialities on-site.##Breather, perhaps you could look into it for me?||||
+lord7|Ah, would you be so kind? It would mean the world to me.||||
+lordp8|I'd be happy to help.||||
+lordp9|@@For a fee, of course!||||
+lord8fail|&&<<He scowls>>##You'll be paid on delivery.||||
+lord8succ|%%<<He scowls>>##I'm afraid 20 gold is all I'll offer, I'm rather tight at the moment...||||
+lord9|Marvelous! I had a feeling about you as soon as we spoke.||||
+lord10|The mines are on the Southwestern edge of the region.##The elevator is likely out of operation, but you can make your way down by a series of bridges.||||
+lord11|Return when you've solved this fiasco, and I'll produce a suitable reward. You have my word, breather!||||
+lord12|<<After hearing half of your story, he interrupts you.>>##You're just complicating things, believing all their commotion about crystals. The truth is simple: those greedy miners have stolen my mines!||||
+lord13|Breather! Go back and tell them at once! These mines belong to me!##You'll be rewarded handsomely, on my honor!||||
+lord14|My friend, I've been waiting for your return! I've been informed of your success already.##A promise is a promise; here is your reward.||||
+lord14alt|So you're the one who liberated my mines! An honor to meet you.##I've prepared a reward for you.||||
+lordp10|Thank you, my lord.||||
+lordp11|@@This amount is hardly adequate.||||
+lord15fail|&&Hmph. I've been quite generous as it is.##A bit of tact and dignity would go a long way!||||
+lord15succ|%%A negotiator, are you, breather? Ha, very well! I admire an enterprising youngster.##Take this. It's an excellent year.||||
+lord16|My dear friend! So good to see you.##Perhaps you've heard? my mines will resume operation soon. I've paid a party of young men to sort it out. They say it will be any day now.||||
+lord17|Ore is fetching an exorbitant rate in the [[Clockwork Kingdom.]] I'll make my fortune back in no time.||||
+lordp12|What will become of the crystal cultists?||||
+lord18|The mutineers, you mean? Any stragglers will be quartered.||||
+lord19|I'm preparing a troup of mercenaries to that very end.##They should be ready within the week.||||
+lordp13|The mines belong to [[us]] now.||||
+lord20|<<He looks equally shocked and incredulous>>##What the hell are you talking about, fleshsack!? I've owned the deed to that land since before your great grandfather was born!||||
+lord21|You there! Spill it! What do you know about my mines?##I've owned the deed to that land since before your great grandfather was born!||||
+lordp14|I'm sorry.||||
+lord22|<<He rolls his eyes at this.>>##You're ((sorry))!? I don't even care about you!||||
+lordp15|Forget about the mines.||||
+lord23|You must be joking! My mines make up the better part of my fortune! Would you have me wither and die, a ragged vagrant adrift in the wilderness?||||
+lordp16|<<[Kill]>> Behold, the [[power]] of our goddess!||||
+lord24|<<At this invocation, the nobleman's body crystallizes rapidly. He can scarcely let out a scream before his lungs turn solid.>>||||
+lordp17|I have nothing more to say to you||||
+res0|<<The resident scratches at the painful crystalline growth which protrudes from his left eye...>>||||
+res1|I just want this nightmare to end.||||
+resp1|What happened?||||
+res2|Aaargh! I can feel it in my face. [[She's]] inside me, crawling out!||||
+resp2a|There's a woman... inside you?||||
+res3a|Pieces of many people together. She's filling my face up with sharp corners.||||
+res4|Stay out of the [[mines]].##She wants to grow...||||
+resp2b|You're talking about the crystals in the mines.||||
+res3b|Do you know where those crystals come from? They're all crying out in pain...||||
+resp3|Who are you?||||
+res5|<<This question distresses him greatly, and he begins to whimper.>>##Who was I? Perhaps... no that can't be right...||||
+res6|I think I was a foreman... or a miner maybe? Or was I a soldier?##I remember being a young boy when the Crusaders came and... No. I must have been his mother.... But that can't have been me either...||||
+res7|Some of these memories aren't mine...||||
+resp4|I'll see what I can do...||||
+res8|I think I'm really dying this time. I'm so afraid.||||
+resLaw1|<<he weeps with gratitude. The crystals in his face have receded>> Thank you so much... I can't believe it's ending.||||
+resLaw2|Please, take this! Though I know it's not much...||||
+resp5|Take care.||||
+resChaos1|I understand now. What it is to be, without the lines and boundaries of self.||||
+resChaos2|It makes no difference whose pain this was; it belongs to everyone.||||
+serv1|This is a sacred place. You shouldn't be here. My siblings will kill you.||||
+serv2|You'd better leave. [[She]] knows what you are, and what you intend to do here.||||
+servp1|What do you suspect I'll do?||||
+serv3|We do not suspect. We simply know.##Our mistress reveals the truth with absolute perfection.||||
+servp2|What's happened to these [[mines]]?||||
+serv4|Mines? Have you been blinded by a dark curse? These are not mines. They are more akin to the inside of a fertile egg.||||
+servp3|Who is your [[mistress]]?||||
+serv5|My mistress is the one who will save this accursed region.||||
+serv6|She will heal us of the weight we've carried so long.||||
+servp4|Who are you?||||
+serv7|Who am ... I?##... I'm afraid I don't understand your line of reasoning.||||
+servp5|I must go.||||
+servLaw1|<<They wail with overwhelming grief. There is no fight left in them.>>||||
+servChaos1|You've become part of us! Truly Her power is miraculous.##Oh celebration! Oh jouissance!||||
+servChaos2|Will you go beyond this egg? Venture from Her womb so as to spread Her truth?##Please, take this with you.||||
+wrkr1|Astounding. Everything is being made clear now. How marvelous. I can see it.||||
+wrkrp1|Who are you?||||
+wrkr2|I was once a child. Many children. We committed evils beyond redemption. But these are all Her memories now.||||
+wrkr3|A thousand perspectives, refracted through her.##We remember being devoured; remember dying. But we also remember devouring.||||
+wrkr4|That's what's really inside these crystals, you know. Old wounds.||||
+wrkr5|But She is merciful, showing the truth even to a wretch like me.||||
+wrkrp2|What do you see?||||
+wrkr6|A body amalgamate. Abstract geometry and structure.##Perfect in its form, steeped in a sorrow beyond compare.||||
+wrkr7|The true form of the divine; the great continuum of all that is.||||
+wrkrp3|Is [[She]] a god?||||
+wrkr8|One day She will be. Soon, perhaps.||||
+wrkrp4|What does [[She]] want?||||
+wrkr9|<<She pauses, as if listening for the answer.>>##It... isn't so simple. There's so many of her.||||
+wrkr10|She wants to save us from our cruel fate.##We endless are all caught in this great misery; toiling away in a place without gods. Eternal mourning on an island of graves.||||
+wrkr11|The tragedy of the Crusades hangs over this island like a grand condemnation.||||
+wrkr12|But... there's something else. It's difficult to explain.||||
+wrkr13|She wants to heal too... More than that; she wants to escape.##There's rage there, almost like a cornered animal, or a man in a cage.||||
+wrkr14|<<She stands in awe of the visions before her.>>||||
+wrkrLaw1|I cannot see it anymore. The tapestry of creation is concealed again.||||
+wrkrLaw2|Our divine light; where has She gone?##These caverns are so dark without her...||||
+keyb1|<<He awakens from a state of meditative prayer.>>||||
+keyb1b|May ye be blessed.||||
+keybp1|@@I'm here to show my devotion.||||
+keyb2fail|&&<<He looks at you and closes his eyes. After a long pause he wordlessly shakes his head in refusal.>>||||
+keyb2succ|%%<<He looks at you and closes his eyes. After a long pause he nods his head in acceptance.>>##<<He silently unlocks the gate to the [[hymnal chamber]]>>||||
+keybp2|Who are you?||||
+keyb3|I am a midwife of our new god.||||
+keyb4|[[The sculptor]] has entrusted me guardian of the [[hymnal chamber]].||||
+keybp3|Tell me of the [[hymnal chamber]].||||
+keyb5|The hymnal chamber lies through this gate. It is a place of sacred ritual.||||
+keyb6|By our faith, Her dream becomes possible.##And by Her dream, all dreams.||||
+keybp1alt|I'm here to show my devotion.||||
+keybp4|Goodbye.||||
+keyblaw1|You've ruined everything, you pathetic vermin. Now nothing can help us...||||
+keyblaw2|May great misfortune befall you.||||
+keyblawp1|@@You're defeated. Let me through.||||
+keyblawsucc|%%...I suppose it makes no difference to me either way.##<<He opens the gate, a look of defeat on his face.>>||||
+keyblawfail|&&<<He spits in your face.>>||||
+keybchao1|Welcome, kindred. May ye be blessed.||||
+keybchao2|Of course, kindred.##<<He opens the way for you.>>||||
+pris1|Thank you for freeing me! I thought I was done for!||||
+prisp1|Who are you?||||
+pris2|I am Inquisitor MCCXVII of the Apostatic Union. At your service.||||
+prisp2|What's an Inquisitor doing in these mines?||||
+pris3|There were four of us, sent to investigate a possible class-C god entity.||||
+pris4|But I was separated from the rest of the tribunal and taken prisoner.||||
+pris5|I'm not sure what became of my comrades...||||
+pris6|We weren't able to nullify the god entity. Our quest was a resounding failure...||||
+prisp3|I can help.||||
+prisp4|Sorry...||||
+pris7|Yes, perfect! [[take this!]]##It's a [[terminus prism]]. It can kill a god-entity like this one.||||
+pris8|You can set this whole mess right!||||
+prisp5|@@I need any supplies you've stashed.||||
+prissucc|%%Of course! I keep these defense potions hidden in case of emergencies.||||
+prisfail|&&I...I'm afraid they took everything when I was captured.##And besides, I still need to get myself out of here...||||
+prisp6|This [[terminus prism]]... it can kill a god?||||
+pris9|Only fledgling god entities, like this one, which are undergoing [[apotheosis]].##The [[prism]] has no effect on an older god entity.||||
+pris10|Before we were separated, my tribunal determined that this [[crystal entity]] is currently in an advanced stage of apotheosis.||||
+pris11|At this stage, a god entity is still malleable to the imaginations of its followers.##That's how the [[prism]] kills the entity.||||
+prisp7|What will you do now?||||
+pris12|I'll make for the surface once I have a good opportunity.##I'm in no state to fight, so I'll have to slip through somehow...||||
+scul1|I am the [[sculptor]], Lucia.##The [[crystal goddess]] told me y'ed come.||||
+scul2|So. What's yer intention?||||
+sculp1|You sculpted this?||||
+scul3|Aye, I was th' first to hear it, through the rock walls.##Biggest pocket of pure crystal any of us'd ever seen.||||
+scul4|I knew the shape She needed t' take. It felt like I was born with it in me. So I started carving in secret...||||
+sculp2|I'm here to swear my loyalty to the [[Crystal Goddess.]]||||
+scul5|<<She grins.>>##Glad t' hear it.||||
+scul6|T' complete your bond, go before [[Her]] and pledge yer devotion.##<<Lucia teaches you a series of>> [[ritual handsigns]] <<needed to complete the pact.>>||||
+scul7|When you are ready, go before the [[Crystal Goddess]] and pledge your loyalty.||||
+sculp3|You have to end this madness!||||
+scul8|Hell are ye talkin' about, breather? "Madness"!? Ye must be joking!||||
+scul9|Centuries in this godless land, toiling in th' mines with no way out. Eating fake flesh, like some kind of livestock. That's madness.##Th' bloody [[Crusades]]! THAT was madness!||||
+scul10|As a young girl I was trained t' be a sculptor. Before th' crusades. I became a miner to survive.##Th' dreams that died back then never disappeared. I've carried that rotten weight.||||
+scul11|Every endless knows th' experience. That's why [[She]] came t' us.##Ye'd wither to call it madness if you knew.||||
+sculp4|Forgive me. I want to follow the [[Crystal Goddess.]]||||
+scul12|<<Lucia looks you in the eyes, gauging your sincerity.>>||||
+scul13|Aye, Very well.||||
+scul14|<<Lucia watches you cautiously.>>||||
+scullaw|[[No!]] How could ye!?##Bloody bastard! [[I'll butcher you!]]||||
+scullawp1|You don't stand a chance against me.||||
+scullaw1|<<Lucia shrieks with rage. Her voice reverberates with the magic imbued in her body.>>##Kill me then! It dun matter!||||
+scullawp2|I had no choice. I'm trying to save you.||||
+scullaw2|Save me!? I'll kill you!!||||
+scullawp3|Forgive me! It was an accident.||||
+scullaw3|<<Lucia spits in your direction.>>##Lying worm!||||
+sculchao1|Welcome, kindred.||||
+sculchao2|Y' had a change of heart? Forgive me fr' my harsh words. We're kindred now.||||
+sta1|<<You stand beneath an intricate crystal statue. It exudes an unmistakable psychic weight.>>||||
+stap1|<<Smash the statue...>>||||
+sta2|<<Your weapons and magic would hardly scratch the statue's solid crystal.>>##<<You wonder if there may be a way besides brute force, and if you should explore the mines more.>>||||
+stap2|<<Use the>> [[terminus prism]] <<to purge the statue...>>||||
+sta3|<<You hold the >>[[terminus prism]]<< in your hand, but before raising it, you wonder:>>##<<Are you sure this is the choice you want to make? The goddess >>[[cannot be rebuilt.]]||||
+stap3|<<Raise the prism and>> [[kill the goddess...]]||||
+sta4|<<The room seems to go totally silent. Then, a piercing noise resonates through the crystals.>>##<<The statue begins to crumble.>>||||
+stap4|<<Reconsider your options...>>||||
+stap5|<<Admire the statue...>>||||
+sta5|<<Remarkably crafted, the positioning of each arm and leg clearly carries deep meaning to the artist.>>||||
+sta6|<<The identical lower face peers out from between Her legs as if being born. The word "self-begotten" floats through your mind.>>||||
+sta7|<<The longer you look, the more admiration you feel. Not just for the artist and her achievement, but for the Crystal Goddess herself and all the depths that she carries.>>||||
+stap6|<<Pledge your loyalty to the crystal goddess...>>||||
+sta8|<<Before performing the>> [[ritual]] <<which Lucia taught you, you wonder:>>##<<Are you sure this is the choice you want to make?>>##<<A pact such as this>> [[cannot be broken.]]||||
+stap7|<<Perform the [[ritual handsigns]] and devote yourself to the [[crystal goddess...]]||||
+sta9|<<Visions cross through your mind of geometric threads, converging at the statue's heart.##Immaculate webs extend in all directions, weaving through the veins of the surrounding rock.>>||||
+sta10|<<You see the cosmic totality unified through her.>>||||
+sta11|<<The goddess sees you too, with that caressing gaze of hers.##She sees all things.>>||||
+sta12|My beautiful child.##You will retain yourself, because you have another purpose. I have set an even finer role in the tapestry for you.||||
+sta13|I will guide you now. Take this with you##<<You feel something move inside your bag...>>||||
+sta14|<<Looking inside, you find a small parcel, wrapped neatly in flower petals.>>||||
+sta14alt|<<Looking inside, you discover that the >>[[terminus prism]]<< - which the imprisoned inquisitor gave you - has been smashed.##In the middle of the pieces lies a small parcel, wrapped neatly in flower petals.>>||||
+stap8|Thank you.||||
+stap9|<<Leave...>>||||
+stachao1|<<You stand beneath your sworn guardian, the >>[[crystal goddess.]]<< She guides your fate now.>>||||

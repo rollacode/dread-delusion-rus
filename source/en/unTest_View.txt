@@ -1,0 +1,3 @@
+ID|Key|isChoice|Choices|Can Exit|Return|Next|Conditions|Actions|English(EN)|French(FR)
+1||||||0|||Hey there. Not a bad view, eh?|
+2||||||||||

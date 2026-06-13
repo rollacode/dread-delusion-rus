@@ -1,0 +1,11 @@
+ID|Key|isChoice|Choices|Can Exit|Return|Next|Conditions|Actions|English(EN)|French(FR)
+1||||||2|||Huh. euuhh?|
+2||||||3|||Oh, I was dreamin'...|
+3||||||4|||I saw all my sons. Standing there, waving at me. 'Cept, I had this horrible knot in my stomach...|
+4||||||0|||...cos they all died in the war, didn't they?|
+5||||||||||
+6||||||||||
+7||||||||||
+8||||||||||
+9||||||||||
+10||||||||||

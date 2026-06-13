@@ -1,0 +1,14 @@
+ID|Key|isChoice|Choices|Can Exit|Return|Next|Conditions|Actions|English(EN)|French(FR)
+1|Greet1|||||2|||Hmph, a new face, eh?|
+2|Greet2|||||3|||Watch yourself around here, y'hear. The Union have been stepping up their presence in Harrow, and it's got folk mighty riled up.|
+3|Greet3|||||4|||But, I guess you didn't come here to hear our troubles. So, what'll it be?|
+4|Choices1||5,6,7|y|1|||||
+5|C1_Q1|1||||8|||A pint of ale, I reckon. |
+6|C1_Q2|1||||11|||I'll have a moccachino. With a fancy pattern in the foam.|
+7|C1_Q3|1||||13|||Nothing for me, actually.|
+8|C1_A1|||||9|||Sure, coming right up -|
+9|C1_A1_2|||||10|||- Oh, wait a sec.|
+10|C1_A1_3|||||0|||The developer hasn't coded in ale yet. Mighty sorry about that.|
+11|C1_A2|||||12|||Huh? What's that, somethin' weird n' fancy from the East?|
+12|C1_A2_2|||||0|||Yeah, we 'aint got any of that.|
+13|C1_A3|||||0|||Right you are. |

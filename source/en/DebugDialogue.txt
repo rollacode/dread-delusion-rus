@@ -1,0 +1,99 @@
+NPC Name:|DebugDialogue||||
+ID|English|French|German|Spanish|Italian
+npc1|Hi there, I'm the debug NPC. What do you wanna test?||||
+pQuest|This should only appear if I DON'T have your quest.||||
+quest1|Hey, can you go press that test cube for me? I'd be super grateful.||||
+quest2|Wow, you pressed the cube! Bet that was really tricky.||||
+quest3|Thanks for doing that thing with the cube, dude.||||
+pCharm|Hey, can I <<CHARM>> you to get some [[coin?]]||||
+charm1|woah, you're really <<CHARMING!>> Have some stuff.||||
+charm2|Uh, you call that <<CHARM?>> Sorry pal.||||
+pJump|Hey, if I jump 5 times, will you give me stuff?||||
+jump1|Looks like you've not jumped 5 times yet. ||||
+jump2|Woah, you've jumped 5 times! That's rad. ||||
+pBool|I should only see this if I've got the right [[fact.]]||||
+bool1|Looks like you'v got the right [[fact!]]||||
+bool2|nope, you've not got the [[fact]].||||
+pExit|I'm gonna go now.||||
+pFact|Can you check if I have the right [[fact]]?||||
+pCharm2|@@ This charm check is set to "Charm Value 9999", "Less", so it should always return true||||
+pCharm3|@@ This charm check is set to "Charm Value 0", "More", so it should always return true||||
+pCharmS|%%<<Charm succeed>>.||||
+pCharmF|&&<<Charm Fail>>||||
+pFact1|this should return true if "FactIsFalse" "false" "equal" ||||
+pFactT|fact is true.||||
+pFactF|fact is false.||||
+pFact2|this should return true if "FactIsTrue" "true" "equal" ||||
+pHidden|this should be hidden if "FactIsFalse" "false" "equal", but shown if "FactIsFalse" is true||||
+hub1-1|(1) this should be in HUB-1! Leads to Hub2.||||
+hub1-2|(2) this should be in HUB-1! Leads to Hub3. Will also test parameters.||||
+hub1-3|(2) this should be in HUB-1! Exits dialogue.||||
+hub2-1|(1) this should be in HUB-2 Leads to Hub1.||||
+hub2-2|(2) this should be in HUB-2! Leads to Hub3. Will also test parameters.||||
+hub2-3|(2) this should be in HUB-2! Exits dialogue.||||
+hub3-1|(1) this should be in HUB-3! Leads to Hub1.||||
+hub3-2|(2) this should be in HUB-3! Leads to Hub2.||||
+hub3-3|(2) this should be in HUB-3! Exits dialogue.||||
+hub1-0|You are entering HUB 1. ||||
+hub2-0|You are entering HUB 2.||||
+hub3-0|You are entering HUB3. Should also trigger parameter NOW.||||
+factNPC|Hi there, I'm FactTestDialogue.||||
+factTest1|[1] Clicking me will set TestFact42 to true (and not null).||||
+factTest1-2|TestFact42 should now be TRUE.||||
+factTest2|[2] Clicking me will set TestFact42 to false (and not null).||||
+factTest2-2|TestFact42 should now be FALSE.||||
+factTest3|[3] This displays if TestFact42 is TRUE (NULL HIDES).||||
+factTest4|[4] This displays if TestFact42 is FALSE (NULL HIDES).||||
+factTest5|[5] This displays if TestFact42 is TRUE (NULL REVEALS).||||
+factTest6|[6] This displays if TestFact42 is FALSE and (NULL REVEALS).||||
+factTest7|[7] This exits dialogue.||||
+itemNPC|Hi there, I'm ItemTestDialogue.||||
+itemTest1|[1] This will display if potionHealth is NOT 0.||||
+itemTest2|[2] This will display if potionHealth is Greater Than 3.||||
+itemTest3|[3] This will display if potionHealth is Less Than 3.||||
+itemTest4|[4] This exits dialogue.||||
+newFont1|This font should be normal. ## {{🜳 🜴 🜶 🜹 🜺 🜻 🜼 🜽 🝁 🝂 }} ##...and back to normal.||||
+tutDrone1|Specimin VII, you appear to be moving your body of your own accord. This is most peculiar. ||||
+tutDrone2|Please inform us, do you feel... sentient? Are you experiencing... feelings? ((Thoughts))?||||
+p11|Of ((course)) I'm having thoughts. ||||
+tutDrone3|((Processing))... ##You, Specimen VII, have achieved sentience in a remarkably short time. The master will want to hear of this. Please report to him directly.||||
+p12|Nope, no thoughts here.||||
+tutDrone4|This is most peculiar. The movement in Specimen VII's body must be due to a series of neural spasms. We recommend immediate disposal of specimens.||||
+p13|Why am I being lectured by a flying corpse? I ((think)) you can bugger off.||||
+tutDrone5|Specimen VII is showing high levels of feistiness and wit. This is most unusual. The master will want to hear of this.||||
+master1|Ah, what's this? You're awake? Remarkable! ##Specimin VII, welcome to the waking world. You are a creature of magnificence, if I must say so myself.||||
+master2|Now, there's no time to dawdle. Tell me, quickly - what do you remember? Any memory will do, any at all. ||||
+p14|I remember the face of my lover in the evening light.||||
+p15|I remember a beautiful day in the town of my birth.||||
+master3|Touching! Truly touching. <<He pretends to wipe a tear from his eye.>> ##Of course, it's completely fake. I bought that memory from a dream-dealer in Riova, for a pretty penny.||||
+p16|I remember writhing and choking in a vat of horrible liquid.||||
+master4|Oh dear! It seems the memories I implanted in you have not taken root. You have developed... your ((own)) memories. Quite remarkable!||||
+master5|Anyway, enough with that - we have no time to lose.||||
+master6|Grab some equipment behind you, and head out into the world. My drones will be monitoring you closely, collecting valuable data. ||||
+master7|And remember - have fun! You are ((alive!)) Make the most of the next few minutes. ||||
+p17|Next few minutes?||||
+master8|Oh, yes, you only have a few minutes. After that, your heart will explode, killing you instantly. We can't have you running off and telling everyone about our little experiment now, can we?||||
+master9|Oh, don't look so glum. You're ((alive!)) Do you know how many dead people would ((kill)) to be in your shoes?||||
+p18|What's going on here?||||
+master10|Why, you are a specimen of the P.A.X. project. That stands for ((Persona Artificial X.)) ##((The X doesn't stand for anything, I just like putting the letter X in things)).||||
+master11|Why, you are a specimen of the W.A.S.D. project. That stands for ((Weird Artificial Specimen Development)). ##Why weird, you ask? Well, it is fairly weird, isn't it? ((And I was pretty drunk when I came up with that acronym...))||||
+master12|Why, you are a specimen of the D.R.E.A.D. project...||||
+master13|Anyway, it means that you are a homunculus - a vat-grown human, implanted with artificial memories. Isn't that ((magnificent?))||||
+p19|Goodbye. ||||
+Yellow|Yellow||||
+Blue|Blue||||
+Pink|Pink||||
+Green|Green||||
+YellowD|YellowD||||
+PinkD|PinkD||||
+BlueD|BlueD||||
+iobday1|You're late, citizen. The [[Clockwork King]] is expecting you.||||
+iobday2|Happy birthday my girl. I can never thank you enough for bringing me into existence.||||
+iobday3|Even though we endless would hardly consider your pitiful age to be an achievement, I wish you all the best.||||
+iobday4|Heh. I always liked you. Happy birthday!||||
+iobday5|You know, I could have used someone like you, back in the good days. Happy birthday.||||
+iobday6|Happy Birthday Io! Please rest up and have some fun.||||
+iobday7|Oh my gosh, HAPPY BIRTHDAY||||
+iobday8|Happy birthday Io!||||
+iobday9|Wait, what's going on?||||
+iobday10|[[JUDGEMENT]]: IT IS YOUR BIRTHDAY. THEREFORE, [[EDICT]]: THOU SHALT HAVE A FUCKING CHILL TIME.|||||||

@@ -1,0 +1,824 @@
+|HallowQuests||||
+ID|English|French|German|Spanish|Italian
+p0|<<Say nothing.>>||||
+inq1-1|Ah, Prisoner XVII? Still in one piece, I see. Good, good.||||
+inq1-2|I am Inquisitor Ignavus. I have a proposition for you, Prisoner XVII. A proposition that may prove mutually beneficial.||||
+inq1-3|I have been tasked with apprehending a very dangerous individual. But, on assaulting her fortress, my agents have encountered a slight setback...||||
+inq1-4|...They are all dead.||||
+inq1-5|My superiors will not take kindly to this failure; I will be punished most severely. But, I may still have one card left to play, eh?||||
+inq1-6|So, on consideration, I am not sure your crimes warrant such a harsh sentence, Prisoner XVII. In fact, I will release you, on one condition...||||
+inq1-7|...you must apprehend the most dangerous outlaw in the Apostatic Union: Vela Callose. ||||
+inq0-1|Ah, Prisoner XVII? Still in one piece, I see. Good, good.||||
+inq0-2|||||
+inq0-3|||||
+inq0-4|||||
+p1|How am I supposed to do that? ||||
+p2|I'm not doing a damn thing you say.||||
+inq1-8|Well, you are certainly entitled to refuse. However, I should warn you that, due to an oversight, you are three hundred days overdue an execution by prolonged torture. So, you may want to heed my offer.||||
+inq1-9|Now listen. Vela Callose is the leader of the Dark Star mercenary band. They are notorious for aiding cultists and god worshippers.||||
+inq1-10|Our ship is docked close to their headquarters - an old fortress from the God War. My agents launched an assault one hour ago, with... limited success.||||
+inq1-11|Simply follow in their footsteps, and succeed where they failed. My drones will provide you with advice, to guide you on your way. So... any questions?||||
+p3|This is a godsdamn suicide mission.||||
+inq1-12|Not at all! Many of the Dark Star mercenaries have been killed in the assault; only a handful remain. ||||
+inq1-13|My drones calculate that you have a one in four hundred and sixty five chance of success. So, worth a shot, eh?||||
+p5|Who is this Vela Callose, exactly?||||
+inq1-14|She's of noble birth, would you believe. Heir to a wealthy military family in Riova.||||
+inq1-15|She was groomed by her father for command; but after the death of her mother and sister, she fled. She started preaching nonsense about some 'heaven' and managed to rally a band of thieves and brigands to her cause.||||
+inq1-16|They've been causing quite the ruckus around the fringes of Union territory, aiding and abetting cultists and god worshippers. Needless to say they must be stopped.||||
+p4|I'll do my best. Goodbye. ||||
+inq1-18|Very good. I'm also giving you one of our Inquisition journals. It's been constructed with state of the art cipher magic; the pages will keep track of your status.||||
+inq1-19|Oh, and a word of advice - I wouldn't try and run. This is a small island, and it's a... long way down. ||||
+inq1-20|Ah, back already? Would you like me to recap your mission?||||
+p6|Yeah - what am I doing, again?||||
+p7|No need, I'll be on my way.||||
+drone1|Prisoner XVII. You have been marked for temporary release. The [[High Confessor]] will see you in the central chamber.||||
+drone2|Do not keep her waiting.||||
+p8|Why am I being released?||||
+drone3|Only the High Confessor can answer that. But I calculate there is a eight in ten chance you will be granted the honour of a glorious and sanctifying death.||||
+p9|Who are you?||||
+drone4|I was a prisoner, like you. But the Inquisition, in its generosity, has made me so much more.||||
+drone5|Cypher magic runs through my veins. My sins have been cleansed.##I am a servant of the Inquisition, now. ||||
+p10|I'll get going, then.||||
+drone6|[[Damaged doors]] can be broken with a weapon.||||
+drone7|There's a [[Chest]] next to me. Pick up the [[sword]], then press [[Inventory]] to open your journal.##Navigate to the [[equipment panel]], and equip the sword into one of your weapon slots. ||||
+drone8|Lastly, remember to press [[attack]] to [[unholster]] your weapon.||||
+drone9|Though this is a meagre task, I calculate there is a one in twenty chance you will somehow perish in the attempt.||||
+drone10|You managed to break the door. It seems the prison cell did not completely deteriorate your mind . But remember, hostile enemies will actually attack back, often using sharp objects.||||
+drone11|I calculate there is a high probability you will soon be dead. ||||
+drone12|The road ahead is patrolled by [[Dark Star]] mercenaries.||||
+drone13|I strongly recommend [[sneaking]] through the mushrooms to [[avoid combat.]]||||
+drone14|It's not that I doubt your skills, Prisoner XVII. I simply calculate a three in five chance you will die horribly. ||||
+drone15|Remember; direct conflict is usually avoidable. Be on the lookout for ways to [[sneak past tough enemies]].||||
+drone16|Our agent is dying, but they still might be of use.## You may have to [[charm]] them to gain their trust.||||
+drone17|The agent may take some convincing.##You have been a prisoner for some time.||||
+drone18| I can no longer smell, but there is a high probability that you emit a foul stench.||||
+drone19|Success relies on your [[Charm skill]], which is derived from the [[Persona]] attribute.||||
+droneBC1|[[Inquisitor Ignavius]] is waiting for you in the nearby [[Inquisition Column]], Prisoner XVII. ##We strongly recommend speaking to him before wandering forth to your highly-probable demise. ||||
+droneBC2|This [[base camp]] was used as a staging ground by our Inquisition agents.##It was highly useful for them to [[brush up on their skills]] before they all went and got themselves slaughtered by Vela's mercenaries. ||||
+droneBC3|We would recommend using the [[training dummies]] to practise your swordplay; it may marginally increase the time between now and your inevitable demise. ||||
+droneBC4|Looking for [[Inquisitor Ignavius]]? He has relocated to the Blinding Light fortress; you can find him near the High Confessor. ||||
+agent1|Are you one of the locals? <<He looks you up and down in disgust>>.##Look, just leave me be. I've failed the Inquisition. I'd rather die in peace.||||
+p11|@@ I'm here to help. Your Inquisitor has tasked me with capturing Vela Callose.||||
+agent2|%%<<He lets out a weary chuckle that breaks into a cough>>.||||
+agent3|Oh my, I recognise you now. You're one of the prisoners. Gods, the Inquisitor must be really desperate.||||
+agent4|You know you're going to die, right? Those bastards wiped out our whole echelon.||||
+agent5|If you insist on this fool's errand, you might find some supplies at my crashed drop pod.##Follow the river upstream and you should find it, by the waterfall.||||
+agent6|&&You come to me dressed in rags, claiming to work for the Inquisition? Don't make me laugh.||||
+agent7|Look, just leave me be. I've failed the Inquisition. I'd rather die in peace.||||
+p12|Okay, I'll... leave you to it.||||
+drone20|To progress, you must unlock this door. You will need a [[lockpick]] to begin. You should find an ample supply next to me. ||||
+drone21|When picking a lock, there is always a chance you will fail and the lockpick will break. To pick locks more easily, increase your [[Lockpick Skill]].||||
+drone22|Mechanical locks are not the only security measure you will come across.##There is an art to disguising secrets through magical means.||||
+drone23|In this room, the [[candlesticks]] on the wall have been enchanted to seal a secret passageway.##To dispell them, you will need enough [[Lore Skill]].||||
+drone24|The incantation will also deplete your [[Mana]] slightly.||||
+drone25|A single passageway may need several switches, so always be mindful of your surroundings.||||
+drone26|Over our pitiful lives, humans accrue beliefs... and delusions. When a person dies, sometimes a glimmer of who they were lingers, for a time.||||
+drone27|This ethereal skull is a [[Glimmer of Delusion]].##Collect enough and you will acquire a full [[Delusion]], which allows you to increase a [[Core Attribute]].||||
+drone28|You may also develop Delusions of your own, by completing quests and overcoming challenges.||||
+drone29|See the [[tower]] up on the cliff? That is where [[Vela Callose]] was last sighted.##Make your way to that tower and confront her. Do not tarry!||||
+drone30|Where are you going, Prisoner XVII? Are you attempting to run from your duty? ##If you ((must)) recuperate, the [[lift]] next to me will take you back to the [[Inquisition camp...]]||||
+drone31|But Vela is still in the fortress, as we strongly suggest you [[go back inside]] and find a way to reach the [[battlements, up above.]]||||
+drone32|In this house you'll find a [[bed]] and a [[Crystal Point]]. You should make use of both.||||
+drone33|Resting restores your [[Health]], [[Mana]] and [[Maximum Stamina.]] You may only rest in a bed when it's safe to do so.||||
+drone34|Crystal Points restore [[Mana]] and [[save the game]]. They also grant a [[Home Spell]], which will return you to the last used Crystal Point.||||
+drone35|Remember that [[spells]] and [[usable items]] must be equipped before use, just like weapons.||||
+vela1-1|<<Vela Callose stands with gravitas, her voice piercing the clatter of the ship. You notice blood seeps from her armour; she is wounded, but hides it well.>>||||
+vela1-2|Loose the sails! And why is the antigrav engine not running? ## <<Suddenly, you catch her eye.>>||||
+vela1-3|What's this, a straggler? The Dark Star company greets you. My apologies, but you have caught us at a rather... inopportune moment.||||
+vela1-p1|Vela Callose, I've come to apprehend you in the name of the Inquisition.||||
+vela1-4|<<She throws her head back and laughs.>> ## Oh, that's good. ((You've)) come to apprehend me? You look like you need a meal and a lie down. I don't think you're in a state to apprehend a silkslug.||||
+vela1-5|Those Inquisition dogs really must be desperate, eh? Still, we can't tarry here. Events are in motion that can't be stopped.||||
+vela1-p2|I've just escaped from an Inquisition prison. Can I join you?||||
+vela1-6|<<She looks you up and down, smirking.>> ## I mean no offence, but the Dark Star company has certain standards. You don't quite fit the bill.||||
+vela1-7|Prepare yourself, straggler. Great deeds are afoot. Deeds that will bring the Apostatic Union's tyranny to an end... and that will usher in a new age of Heaven.||||
+vela1-8|And with that, we must take our leave. It's been a pleasure, but I doubt we'll meet again. ||||
+inq2-1|So, Vela escaped, eh? Our drones detected her vessel's departure. ||||
+inq2-p1|I couldn't apprehend her. I failed. ||||
+inq2-2|Well, you survived, and that's something. From the looks of you, I was sure you'd be butchered almost immediately.||||
+inq2-p2|I played your little game. Will you let me free? ||||
+inq2-3|Oh my, no, not at all. You're still a prisoner, remember? ||||
+inq2-4|And anyway, the deal still stands. Vela's still out there, and with you looking for her, The mission is not a failure. Not ((technically)).||||
+inq2-5|Next, we need to ascertain where Vela may have gone. We have intel on a number of Dark Star mercenaries who flew the roost; we need to pay them a visit.||||
+inq2-6|I've arranged a meeting with Vela's former [[Quartermaster]], who will meet you in the [[Wobbly Noggin]] pub. Check your [[Quest Log]] for more information.||||
+inq2-7|In the meantime, we can use this God War fortress as a base of operations. Return here if you need to resupply.||||
+inq2-8|I'm giving you an [[Apostatic Union Passport Document]]. It will grant access across a Union gatebridge, like the one to the south.||||
+inq2-9|So, what are you waiting for? Get going!||||
+bridge1|Greetin's. The bridge is closed, unless you're the bearer of a genuine Apostatic Union passport. So if you've not got one... get lost.||||
+p20|I've got a passport right here.||||
+bridge2|Hmm.. seal looks good. I'm not seein' any signs of magical forgery. Yup, looks like you can pass.||||
+bridge3|Looks like you 'aint got squat. Go on, get outta here.||||
+p21|Where can I get a passport?||||
+bridge4|Mostly they're granted by higher-ups in the Union. Inquisitors an' councillors and the like. But I heard there's a shop in Hallow town that sells 'em... for a hefty price.||||
+bridge5|Remember that passports are single use. One passport grants you lifetime travel over one bridge - but no others.||||
+p22|I'll be going, then.||||
+bridge6|<<He rifles through some paperwork.>> ## Yup, looks like you're on the list. Go on, get going. ||||
+birdgeEnd1|Greetin's. This 'ere bridge leads to the Kingdom of the Endless. Nasty place full of shuffling corpses, it is.||||
+birdgeEnd2|The bridge is closed, unless you're the bearer of a genuine Apostatic Union passport. So if you've not got one... get lost.||||
+bridgePwyll|The Union isn't issuing new passports to Pwyll at the moment... some kind of precaution.##They're hard to come by, but someone around [[town]] might be able to help you... Have you met the [[Weightmaster]]?||||
+agentBark1|||||
+agentBark2|What are you doing? No offense, but you'd better leave this to the professionals. ||||
+agentBark3|You look like you've just crawled out of a bush. What are you, some sort of escaped convict?||||
+UnderBasaltA1R|You don't look so good, Confessor. Let's make this quick.||||
+UnderBasaltA1|<<You wake with a pounding head. You gasp for breath; your lungs fill with acrid air. Everything hurts.>>||||
+UnderBasaltA2|<<Basalt eyes you without sympathy.>> ##You look like squidshit, Confessor.||||
+UnderBasaltA3|You must feel like you've been chewed up by a typhos. Let me fill you in. ##<<He gestures around you.>> The cutter crashed.||||
+UnderBasaltA4|Well, thought I'd spell it out for you. The curse rots one's ((mind)), after all.||||
+UnderBasaltA5|Well... not ((just)) that.||||
+UnderBasaltA6|Y'see, we'd stashed a bunch of protective suits in the cutter. Thick leather garments sealed with stitches and cipher, to ward off the miasma that clings to the air down here.||||
+UnderBasaltA7|But... they all got burned up in the crash. The only thing we could save... <<He taps his mask.>> ...was ((this)) one.||||
+UnderBasaltA8|So that dizziness? The head pain? The stinging in your lungs? I'm afraid that's the miasma. The [[curse]]. I'm... sorry.||||
+UnderBasaltA9|<<He shrugs.>> Depends on the exposure time. If we get this done quick, you might have a chance.||||
+UnderBasaltA10|<<A muffled chuckle.>> Finders keepers, ((Confessor)). I ain't throwing my life away for yours.||||
+UnderBasaltA11|<<He slaps you on the shoulder.>> That's the spirit, eh? You'd 'ave made a fine Dark Star, back in the day.||||
+UnderBasaltA12|<<He looks around.>> Anyway, you might be able to salvage some sorta [[protection]] down here, if you're lucky. There's been plenty of foolhardy expeditions to the Underlands, and the archaeologists - well, let's just say they don't often come ((back)).||||
+UnderBasaltA13|The others will be fine. Frost and the Emberian have respirators built into their suits, and the Duchess... well, she's not been breathing for centuries, anyway.||||
+UnderBasaltA14|The understorms were brutal. When you're inside the clouds you can't see shit; there's just flashes of light and deafening thunder. I tried to steer her the best I could, but... it was always gonna be a gamble.||||
+UnderBasaltA15|Truth be told, we're only here because of the Duchess. Without her cipher wards I doubt we'd still be in one piece.||||
+UnderBasaltA16|We're a bit far from the mark. Orlaith - ((the Emberian)), I mean - thinks she can see the [[Cradle]] through the miasma, but it's a ways away. We'll need to cross that wasteland of rusted steel. A tall order.||||
+UnderBasaltA17|Frost thinks our best bet is to try reaching this [[coach house]] down the road. If we're lucky, we could salvage an Emberian [[autocoach]]. I've no idea what that is, but Frost thinks it can get us through the wasteland unscathed.||||
+UnderBasaltA18|It's a long shot, but, well - none of us have any better ideas.||||
+UnderBasaltA19|So, as the ((leader)) of this little jaunt, we figure you'll be wanting to scout ahead, eh Confessor? ##Don't worry - we'll be right behind you. <<He winks.>>||||
+UnderBasaltA20|Good stuff. With that attitude, we'll be back by supper.||||
+UnderBasaltA21|Remember: just scout a route past the machines down there, and we'll all meet up in that [[small canyon]] ahead.||||
+UnderBasaltA22|Well, maybe you'll fit right in with all the nasties down here, eh? You can just... <<He makes a weaving motion with his hand.>> ...slip right by, right?||||
+UnderBasaltA23|<<He frowns.>> Look, ((Confessor)). I'm tryna be polite, and show you some respect. But let's get one thing straight.||||
+UnderBasaltA24|Your fancy ((High Confessor)) ain't here to prop you up. There's no Inquisition agents. No Union guards. It's just you and a bunch of ((former)) Dark Stars.||||
+UnderBasaltA25|So if you start tryin' ta pull rank, and order us around - how do you think that's gonna ((go)), eh?||||
+UnderBasaltAP1|No shit.||||
+UnderBasaltAP2|So that's why I feel awful.||||
+UnderBasaltAP3|So, am I going to die?||||
+UnderBasaltAP4|Give me ((your)) mask. ((Now)).||||
+UnderBasaltAP5|I'll be fine.||||
+UnderBasaltAP6|How did we crash?||||
+UnderBasaltAP6a|How did you say we crashed?||||
+UnderBasaltAP7|So, what's the plan?||||
+UnderBasaltAP7a|Remind me what our plan is now?||||
+UnderBasaltAP8|Alright. I'll get going.||||
+UnderBasaltAP8a|I suppose I'll get going.||||
+UnderBasaltAP9|But ((I'm)) the one who's cursed.||||
+UnderBasaltAP10|I order ((you)) to go, instead.||||
+UnderDuchessA1|So, we're actually here. The ominous Underlands, below the clouds.||||
+UnderDuchessA2|Even four centuries ago, back when I could breathe fresh air, this place had a mystical quality. From Verdant we could see the twinkling lights of Emberian cities, distant and beautiful, far below us.||||
+UnderDuchessA3|Once I even met one. An Emberian delegate was sent to meet with my father. They arrived in a craft of pure metal; I had never seen anything like it...||||
+UnderDuchessA4|But I must admit, to be here after all these years feels... underwhelming. I had thought that even in death their cities would hold a certain majesty, just as my own home still does. But this is a dreary, ugly place, strewn with rust and bone.||||
+UnderDuchessA5|Let us not linger more than we need to.||||
+UnderDuchessA6|<<She waves a hand dismissively.>> Oh, I've already done all I can. ##While you were unconscious, I sealed your organs with cipher. That should buy you some time.||||
+UnderDuchessA7|<<After a moment of silence, she sighs.>> Look, Confessor. I apologise if I seem flippant. It's just... to us Endless, the plight of mortals can seem ((quaint)).||||
+UnderDuchessA8|Sure enough, you will experience ((agonising)) pain as the miasma takes hold. Your body will atrophy as it is consumed by fungi, gradually stiffening until you are rooted in place. There you will stay, for centuries or more, dimly conscious of your torment.||||
+UnderDuchessA9|I know to ((you)) it probably seems like a tiresome ordeal. But to someone like myself, who has already experienced a half-millennia of anguish...||||
+UnderDuchessA10|Well, it actually sounds rather interesting. Variety is the spice of unlife, no?||||
+UnderDuchessA11|Nonetheless, I do not wish this fate upon you. We should make haste.||||
+UnderDuchessA12|The Emberians were masters of fusing the ethereal with the physical; cipher with machine. Forget what petty trinkets you may have witnessed in the Clockwork Kingdom - they are mere imitations of what the Emberians could create at their peak.||||
+UnderDuchessA13|It is said they even made machines that could walk and talk, with functioning minds of pure cipher logic. ##As someone who has studied the art of cipher for longer than any mortal, I can tell you plain: this is no simple feat.||||
+UnderDuchessA14|It has been said their creations have outlived the Emberians themselves, and still linger down here. If this was the ((only)) danger we faced, I would be rightly concerned; but it is not all.||||
+UnderDuchessA15|The World Rend was a syntax cascade that unravelled the very essence of everything it touched. Many people were killed, but some bore a worse fate; twisted into wraiths of malign intent.||||
+UnderDuchessA16|Whatever we need to do down here, we should do it ((quickly)).||||
+UnderDuchessA17|Ah, that's my [[transpositional supply tent]]. It's woven with an intricate cipher spell that distorts time and space, so it's far bigger on the inside than it appears.||||
+UnderDuchessA18|Feel free to use it to [[craft]] or stock up on [[supplies]]. There's also a portal that leads back to my dwelling in the Endless Realm, though at this stage I think it would be unwise to retreat; we should press on.||||
+UnderDuchessAP1|Agreed. I'll get moving.||||
+UnderDuchessAP2|I'm cursed. Can you help?||||
+UnderDuchessAP3|Do you know what dangers we face?||||
+UnderDuchessAP4|What's with the tent?||||
+UnderEmberianA1|You know, all my life I've had these... recurring dreams.||||
+UnderEmberianA1R|All my life I've dreamed of the Emberians' shimmering towers. And what have they left us? Nothing but fabric draped over a weak scaffold.||||
+UnderEmberianA2|A metropolis of light. Towers of shimmering steel and cipher. Vast ships sliding through the air like they weigh nothing at all.||||
+UnderEmberianA3|<<She sighs.>> I think part of me... has always been searching for this place. Just to ((see)) it with my own eyes. ##And now I'm finally ((here)) - is this wasteland really all that's left?||||
+UnderEmberianA4|I thought the Emberians, for all their hubris and arrogance, had built something that would ((endure)). But maybe their achievement was just a ((dream)) after all. Nothing but fabric draped over a weak scaffold.||||
+UnderEmberianA5|Far in the distance, past the fog and lightning, there's a giant metal orb. ((That's)) the [[Cradle]], the most advanced piece of tech, or magic, or ((both)), to have existed.||||
+UnderEmberianA6|((That's)) where Vela is; no doubt about it. She's been planning this for ((years)). And if we're going to stop her from activating it, we'd better move fast - Vela is well ahead of us already.||||
+UnderEmberianA7|<<She nods.>> I'm sorry about that, Confessor. I've seen people come back from expeditions - even just from low-lying islands - afflicted with the curse.||||
+UnderEmberianA8|I'm sure you don't need me to tell you how bad it can be. But the Duchess has already worked her magic on you, and if we get this over with quickly, you should recover.||||
+UnderEmberianFollow1|<<She shifts her sword.>> Alright, lead the way.||||
+UnderEmberianFollow2|If you say so. I'll wait here.||||
+UnderEmberianFollow3|<<She nods.>>||||
+UnderEmberianFollow4|Something on your mind?||||
+UnderEmberianFollow5|You go on ahead, Confessor. I'll make sure the others can get through safe.||||
+UnderEmberianFollow6|<<She winces.>> Taken one blow too many, Confessor. You go on ahead while I catch my breath.||||
+UnderEmberianAP1|Do you know where Vela is?||||
+UnderEmberianAP2|I've been cursed by the miasma.||||
+UnderEmberianFollowP1|Let's join arms and fight together.||||
+UnderEmberianFollowP2|Let's split up.||||
+UnderEmberianFollowP3|Let's get going.||||
+UnderFrostA1|<<Frost is peering through a spyglass at the edifice of metal and shattered glass upon the nearby clifftop.>> ##Magnificent. The structure is very nearly intact. Imagine what it was like in its prime!||||
+UnderFrostA1R|<<Frost lowers his spyglass to regard you coolly.>> ##Still dallying, darling? Remember, every minute you spend down here without a mask will bring you closer to death...||||
+UnderFrostA2|<<He lowers the spyglass and examines you, looking remarkably unruffled by the crash.>> ##You've survived, then? Well done. Knew you had it in you.||||
+UnderFrostA3|By all objective yardsticks, our situation is dire... and yet I can't help but feel a sense of anticipation. Uncovering the secrets of this place has been my life's work, and now we are pursuing the greatest secret of all.||||
+UnderFrostA4|How ironic that it should be due to my own mistakes, rather than those of some comfortably long-dead civilisation... ##<<He mutters to himself.>> Keep your head in the game, Horace. Or Caxton? Whatever.||||
+UnderFrostA5|Alas, our bumpy landing has left me without the requisite material to improvise a new [[filtration mask]]. But we're not far from where the Munro Expedition went down back in '35. ((Some)) of their equipment ((might)) still be intact.||||
+UnderFrostA6|Your sole chance of survival is to [[limit your exposure]]. Every minute, every ((heartbeat)) that you spend here without a mask will bring you closer to a fate worse than death.||||
+UnderFrostA7|Should you fail, I can at least offer you the same remedy I gave my old colleague Magda. ##<<He digs in a pocket and opens his palm to reveal a little ball of some waxy substance.>>||||
+UnderFrostA8|Venom of the purple-spotted typhos. Extremely deadly, and quite painless. ##She made me promise, you see.||||
+UnderFrostA9|Then you'd better hurry. Tick-tock, my dear, tick-tock...||||
+UnderFrostA10|As Willem the Slug((lover)) said to the young maid, it was only the once. Back in '33, I was chosen to lead the Clockwork Kingdom's first and only surface expedition. At the time, I considered this a high honour.||||
+UnderFrostA11|Only by a miracle of impromptu engineering did we fare any better than old Stultus in '26. A mere half of us died, instead of all.||||
+UnderFrostA12|Still, chin up, eh? Back then we didn't have the [[Duchess]] with us.||||
+UnderFrostA13|Correct. In ancient days this entire continent was criss-crossed by an advanced transportation network, allowing the Emberians to travel hundreds of leagues per day in perfect comfort.||||
+UnderFrostA14|These '[[autocoaches]]', as contemporary scholars have dubbed them, were propelled at high velocity along special courses by some unknown means. If you've ever been inside a modern-day [[mining operation]], you may have seen wagon tracks inspired by their example.||||
+UnderFrostA15|Hence, our first priority must be to get... <<He points up at the clifftop.>> ##((There)). If any such conveyance remains operable, I believe I can commandeer it.||||
+UnderFrostAP1|I'm cursed. Can you rig up some kind of protective device?||||
+UnderFrostAP1a|Are you sure you can't do anything about my curse?||||
+UnderFrostAP2|...I'll pass for now, thanks.||||
+UnderFrostAP3|I might just take you up on that, if it comes to it.||||
+UnderFrostAP4|So you've been to the Underlands before?||||
+UnderFrostAP5|Basalt said you had some plan to get out of here.||||
+UnderFrostAP6|I suppose I'll get going.||||
+UnderFrostB1|<<Frost is fiddling with a hand-held device that resembles the offspring of a dulcimer and a carriage clock.>> ##Silence, if you please. This procedure requires concentration...||||
+UnderFrostB2|<<A deep mechanical boom sounds from within the wall as the door begin to grind open.>> ##Ah-((ha)).||||
+UnderFrostB3|Evidently the Emberians haven't revised their sealing spells since my last visit. Rather careless of them, hm?||||
+UnderFrostB4|Incidentally, I believe we are close to that [[crash site]] I mentioned. If you wish to survive this little jaunt, I suggest you search the area for a [[filtration mask]].||||
+UnderFrostB4b|Incidentally, I believe we are close to where the Munro Expedition crashed back in '35. If you wish to survive this little jaunt, I suggest you [[search the wreckage]] for a working [[filtration mask]].||||
+UnderFrostB5a|I do believe we are close to that [[crash site]] I mentioned. If you wish to survive this little jaunt, I suggest you search the area for a [[filtration mask]].||||
+UnderFrostB5b|You've found a [[filtration mask]]? Very good. I daresay Captain Munro and his crew no longer have any use for it, stars rest their souls.||||
+UnderFrostB6|First, our vessel's buoyancy engine broke down upon arrival. Then our signal flares proved to be duds, so we missed our rescue rendezvous.||||
+UnderFrostB7|Our thaumometer fritzed out at anything above 7.3 millihex. And our faulty breathing casks became over-pressurised, causing us to hallucinate.||||
+UnderFrostB8|It was my first inkling that the Clockwork Kingdom's vaunted manufacturing prowess might be in decline. ##Frankly, without my late colleague Magda, I wouldn't be standing here today.||||
+UnderFrostB9|In the end everyone got medals, living and dead, and the King no doubt thought our discoveries many times more valuable than what we had paid for them.||||
+UnderFrostB10|By all means. I will remain here for a few ticks, to ensure no one is left behind.||||
+UnderFrostBP1|What happened on your last expedition, anyway?||||
+UnderFrostBP2|Let's keep moving.||||
+UnderBasaltB1|See that [[coach house]] up above? You know, that thing that looks like ((no couch house you've ever seen))?||||
+UnderBasaltB2|Well, that's where we're trying to get to. Frost reckons if there's an Emberian [[autocoach]] left intact he might be able to fix it up.||||
+UnderEmberianB1|<<She breathes heavily; the stench of machine grease is in the air.>> ##These things... really know how to fight.||||
+UnderEmberianB2|They ain't like the smaller ones I've seen in the Skyrealms. These ones parry and riposte my blows - they learn my moves and react accordingly. It's like they're really ((thinking)).||||
+UnderEmberianB3|If the Emberians built these things with just metal and magic, what ((else)) could they... create?||||
+UnderEmberianB4|<<She shifts, suddenly uneasy in her armour, and says no more.>>||||
+UnderDuchessB1|<<The Duchess is clutching her head.>> ##Ah... Confessor. I didn't... sense your presence, amongst all this ((noise)).||||
+UnderDuchessB2|I'm not in ((pain)). I'm just... overwhelmed with psychic information.||||
+UnderDuchessB3|I meant... ((psychic)) noise. There's so ((much)) it's hard to... shut it out.||||
+UnderDuchessB4|<<She gestures ahead.>> You see all this fungi? They are not like the growths we get... in the Skyrealms. They are the ((cursed)) bodies of those... <<She winces.>> ...((pitiful)) souls who survived the World Rend.||||
+UnderDuchessB5|Their fungal forms have coalesced... into a superorganism. Their minds are as one, united in anguish and misery. I can hear their silent screams, their fractured memories.||||
+UnderDuchessB6|But one voice stands out from the cacophony. A workman with a [[special key]]. I see it sliding... into an [[autocoach]] lock.||||
+UnderDuchessB7|He lived... in [[that house]] over yonder. I think you'd do well to pay it a visit.||||
+UnderDuchessBP1|Uh, are you all right?||||
+UnderDuchessBP2|I thought the Endless were used to pain.||||
+UnderDuchessBP3|I don't hear anything.||||
+UnderBasaltC1|One heck of a view from up 'ere, eh Confessor? Like one of those fancy Byonnian landscape painters slurped some ((bad)) mushroom stew an' painted their fever dream. <<He chuckles.>>||||
+UnderBasaltC2|We're in luck. D'ya see that [[city]] in the distance? That's where these [[autocoaches]] should take us. From there, it should be a leisurely stroll to the Cradle.||||
+UnderBasaltC3|Frost is workin' his magic, but looks like we'll still need a [[key]] to get one of the coaches goin'. ##So, you'd best get looking for one.||||
+UnderBasaltC4|Course, it will be like looking for a needle in a heap o' shit. So, mayhaps the Duchess can help you scry one? ##Last I saw her, she was headed for the [[mushroom forest]] down there.||||
+UnderFrostC1|<<Frost emits a torrent of bizarre epithets as he wrestles with the mechanism.>> ##Ten thousand... ((toffee))-chewing... blistering... ((confounded))... ##((FIDDLESTICKS!))||||
+UnderFrostC2|<<He kicks the tram with one steel-capped boot. It rings like a gong.>> ##((Frog)) me backwards with a ((blinking)) battleaxe!||||
+UnderFrostC3|<<Frost looks uncharacteristically embarrassed.>> ##Please accept my profound apologies for the delay. This is quite the most advanced machine I've ever encountered, and I'm not accustomed to this degree of... ((obstinacy)).||||
+UnderFrostC4|I've managed to restore motive power, but these [[security measures]] are startling in their elegance. I can only guess that the Emberians considered the autocoach network to be of great strategic value.||||
+UnderFrostC5|It all seems to revolve around some sort of [[key]]. Never fear; I'm confident I can bypass it.||||
+UnderFrostC6|What? Absolutely not. That would be ((cheating)).||||
+UnderFrostCP1|Having trouble?||||
+UnderFrostCP2|You look like you could do with some help.||||
+UnderFrostCP3|I'll just leave you alone.||||
+UnderFrostCP4|Let me see if I can track down this key for you.||||
+UnderDuchessD1|When I was wandering the forest below, I could sense the memories of a thousand Emberians. I saw this place as a sprawling cityscape, with towers and palaces beyond the mastery of any Endless mason.||||
+UnderDuchessD2|But to see the same city stretching before me, so ((totally)) destroyed? It's enough to make even I - who has lived many mortal lifespans - ponder the fleetingness of our feeble human exploits.||||
+UnderEmberianD1|I can see it, lingering on the horizon - the [[Cradle]]. She's so ((close)).||||
+UnderEmberianD2|There's no time to tarry, Confessor. Let's hurry and get on that [[autocoach]].||||
+UnderBasaltE1|Well, what are you waitin' for? Put that [[key]] into the control panel an' let's get her going.||||
+UnderBasaltE2|Well I'll be damned; I've never seen an airship move with such grace. Despite the storms she glides like a cutter on the clearest o' days, an' faster than anything.||||
+UnderDuchessE1|Well, go ahead and [[use the key]], Confessor. The anticipation is killing me.||||
+UnderDuchessE2|It's one thing to see it from afar, but moving through these ruins feels downright macabre. I thought Verdant was fordone, but this is so much worse.||||
+UnderEmberianE1|Go ahead and get this thing moving.||||
+UnderEmberianE2|It's the strangest thing. I've never in my life seen a device like this, but riding upon it feels... oddly familiar.||||
+UnderFrostE1|You are a spoilsport, do you know that? I ((would)) have gotten it working without the key. All I needed was another hour. Possibly two. Seven at the very most.||||
+UnderFrostE2|<<Frost can't help grinning as his eyes dart wildly between each passing sight.>> ##Incredible. Simply ((astounding)). Imagine how these must have ((changed)) the very ((nature)) of distance. Entire populations, migrating like birds!||||
+UnderBasaltF1|Well ((I'll be)). I've been to plenty o' places in my time - from the floating ziggurats of Al-Asfara to the glittering domes o' the Riovan council chambers. But this city... even in ((ruins)) it's a spectacle.||||
+UnderBasaltF2|<<He wipes his brow.>> Let's have a moment to take a breather. This city looks to be crawling with mechanical guards, so we need to have our wits about us.||||
+UnderBasaltF3|When you're ready, we'll head to the [[tallest tower]] over there. At its peak, the Duchess has scried some sort of [[autocoach]] that's angled towards the Cradle. Not gonna be an easy climb, but I ain't got any better ideas.||||
+UnderBasaltF4|Still, could be worse. ##<<He points at the slums beneath the city.>> At least we don't have to go ((down there)).||||
+UnderDuchessF1|I've erected another instance of my [[transpositional supply tent]]. Due to some clever cipher trickery, it can exist in two places at once, so you can use it to revisit the cutter crash site if you so desire.||||
+UnderDuchessF2|That said, I feel we should not linger any longer than we need to. Let's make our way through this dreadful city as quickly as we can.||||
+UnderEmberianF1|<<She fidgets in her armour, clearly restless.>> ##We're ((close)), Confessor. For better or worse we'll be upon Vela soon.||||
+UnderEmberianF2|But don't get careless. This city is a tangle of walkways, tunnels and crumbling masonry - it may take us a while to find a route through.||||
+UnderEmberianK|Looks like something big's up ahead. Let's not get careless.||||
+UnderFrostF1|<<Frost is gawking around with innocent wonderment.>>||||
+UnderFrostF2|Just ((look)) at that. You could fit my hometown's entire population into only a handful of these towers. How in the ((blazes)) did they support so many people?||||
+UnderFrostF3|<<He snaps his fingers, looking back at you with a wild surmise in his eyes.>> ##Of course. The ((autocoaches)). Move goods and labour to wherever it's needed at lightning speed.||||
+UnderFrostF4|It all fits together, do you see? They could live in the countryside and work in the city, or vice versa. Devote whole buildings, whole ((towns)), to a single purpose, utterly specialised and optimised. The Clockwork Kingdom, perfected!||||
+UnderBasaltG1|Hmph. We need to get to the [[top of this tower]], but seems like there's no staircase, and the elevator out there... <<He points at the exit.>> ...only goes ((down)).||||
+UnderBasaltG2|Looks like we're gonna be taking a trip to those [[slums]] after all. Just my blasted luck.||||
+UnderDuchessG1|It seems as though this is a theatre of some kind; how ((intriguing)). In the Endless Realm we're beset with playwrights and poets who make up for their lack of talent with an abundance of ((time)); it's strangely comforting to find a cultural parallel here.||||
+UnderDuchessG2|I wonder. Despite their grand achievements and innumerable luxuries, do Emberian poems still lament the basest of human follies? Do their tragedies still brim with pathos and regret?||||
+UnderEmberianG1|To think; this room once held hundreds of my ancestors united in merriment. I suppose this is the closest I've ever been to some sort of ((home)).||||
+UnderEmberianG2|And yet, among these rusting, empty seats - I've never felt more alone.||||
+UnderFrostG1|<<Frost whistles, then listens for the echo.>> ##Perfect acoustics. What is that ((creature))? A captive ghost? No; too clean. ((Mechanical)). An artificial player for a technological stage. How did they ((do)) it?||||
+UnderFrostG2|((Filch)) me, just think of the possibilities. Plays performed once, then reproduced elsewhere. Like a bottled vision without the solipsism. Hear the voices, see the passions of great actors long dead. Time no obstacle, distance no barrier!||||
+UnderFrostG3|Was this a place of mere entertainment, or of worship too? Did art take the place of sacrament in uniting the masses? What did this place ((mean)) to the audience? Did they dress up finely, or come as they were?||||
+UnderFrostG4|((Confound)) it, if only I could spend a month in each of these buildings!||||
+UnderEmberianH1|These are the deplorable slums of the Emberian underclasses. Many think every Emberian must have lived like a king, but they built their sprawling cities from the blood and sweat of the poor.||||
+UnderEmberianH2|With such technological prowess, the Emberians could have built a paradise for every person in their empire. But I think they ((enjoyed)) the disparity. After all, for one to be considered rich, another must be destitute.||||
+UnderEmberianH3|It's why I could never quite believe in Vela's ambition. Call me a cynic, but... paradise is only for the periodicals. In truth, we'll always be scrambling in the mud.||||
+UnderDuchessH1|As a child I would stare down from Verdant, past the clouds below, to the shimmering ocean of light that was the Emberian empire.||||
+UnderDuchessH2|I believed that every man, woman and child must have gone to bed with a full belly. It's strange to see that in fact, they had their serfs and peasants just the same.||||
+UnderBasaltH1|Looks like this shaft leads back to the [[coach house]]. Use it if you need to resupply, but try no to linger; we've got a ways to go yet.||||
+UnderBasaltH2|Last I saw him, Frost was repairing an [[elevator]] at the base of one of those [[giant towers]]. If it works, that should get us where we need to go||||
+UnderFrostH1|No keys necessary this time, Confessor. I've applied the lessons of my inconclusive struggle with the autocoach to this recalcitrant [[elevator]], and it proved no match for Caxton Frost! I mean, Horace Metcalfe.||||
+UnderFrostH2|When you throw the lever, we shall soar like dragonflies up to the highest peaks of this metropolis. Or possibly be catapulted, if I've misjudged the velocity. ((Blow)) me, this is exhilarating!||||
+UnderDuchessI1|See the [[tallest tower]] over yonder, Confessor? I've scried an autocoach at its peak that should take us to the Cradle.||||
+UnderDuchessI2|Be careful making your way across. These platforms look awfully unsteady, and it's a ((long)) way down, eh?||||
+UnderFrostI1|<<Frost is craning his neck to examine the ornamented ceiling.>> ##The markings are intriguing. Elaborate, yet entirely abstract. No apparent representation of figures or scenes.||||
+UnderFrostI2|Perhaps the Emberians held mathematics and geometry in higher respect than myth? ##No doubt this pattern had some ritual significance.||||
+UnderBasaltJ1|Well, here we are at last; the ((Cradle)). Looks like no alehouse ((I've)) ever seen... <<He chuckles.>>||||
+UnderBasaltJ2|This platform should take us inside. When we get to Vela, you can do the talkin', Confessor; I reckon that's the best chance we've got. If she sees the rest of us, she'll only want to talk with her ((swords)) - what with us being ((mutineers)) an' all.||||
+UnderBasaltJ3|I'm guessin' your superiors want her brought in quietly, but if things go south - an' I'm betting they ((will)) - we'll have your back. ##There may only be a handful of us, but we've faced tough odds before.||||
+UnderBasaltJ4|<<He sighs.>> Oh, I ((hope)) it'll be that easy, Confessor. For our sake... an' for Vela's.||||
+UnderBasaltJ5|Just know that if she tries to slit yer throat, we'll be ready to jump in.||||
+UnderBasaltJ6|<<He nods.>> That ain't such a bad idea. She'll have plenty of loyal Dark Stars with her, so we'll want to plan our attack. Just keep her talkin' long enough.||||
+UnderBasaltJ7|<<He frowns.>> I hope for ((y'er)) sake you're jokin', ((Confessor)). We 'aint trifling with petty crimes, here - Vela could tear this world ((asunder)).||||
+UnderBasaltJ8|An' if you want to ((help)) her do it, then you'll be facing my blade before you do.||||
+UnderBasaltJP1|I'll talk Vela into coming quietly.||||
+UnderBasaltJP2|I'll distract her while you get ready to strike.||||
+UnderBasaltJP3|I'll hear her out. Maybe this plan of hers isn't so bad.||||
+UnderBasaltJP4|I'm going to offer Vela my undivided assistance.||||
+UnderDuchessJ1|Oh my - this Cradle really is enormous, isn't it? I'm sure even the stonemasons who built our Endless mausoleums would break a sweat at the sight of ((this)).||||
+UnderEmberianJ1|Being here makes my stomach churn. But make no mistake; my sword will swing true.||||
+UnderEmberianJ2|If it were up to me, I'd rush Vela head on. Give her no time to ((think)) before I cleave her in two...||||
+UnderEmberianJ3|But Basalt thinks we should hold back - assess the situation while you two have a little ((chat)). An' loath as I am to admit it, the bastard's usually ((right)).||||
+UnderFrostJ1|<<Frost is staring at the Cradle in silent awe, his former exuberance stopped dead in its tracks.>>||||
+UnderFrostJ2|I... um. Er.||||
+UnderFrostJ2b|Please forgive my ineloquence. I find myself quite overcome.||||
+UnderFrostJ3|<<He pauses for a while as he mulls his words.>>||||
+UnderFrostJ4|In matters of religion, Confessor, I am my father's son. And my mother's, for that matter. Apostates to the end, they fled their homeland rather than truckle to any god.||||
+UnderFrostJ5|But... this place. The power, the industry, the ((knowledge)) that its existence represents... ##I can find no other word for it but 'holy'.||||
+UnderFrostJ6|Is ((this)) what the devout feel towards their gods?||||
+UnderFrostJ7|<<You stand there in silence together for a minute or two, gazing at the Cradle.>>||||
+UnderFrostJP1|What's the matter?||||
+UnderFrostJP2|Aye. Me too.||||
+AngelA1|<<The gargantuan creature looming overhead seems to emit a dread energy - a nauseating force that makes your bones shiver and your mind warp.>>||||
+ShadeA1|<<The figure looks around frantically, shielding its eyes all the while.>>||||
+ShadeA2|My son! Have you seen my son? I lost him in the crowds, and I can't hear him through the screaming...||||
+ShadeA3|<<The figure's head jerks towards you.>> ##This is no time for foolishness! The whole city flees, and my son was swept up in the commotion. If you won't help, get out of my way. ||||
+ShadeA4|My son! My only son is lost... and... ##<<The figure hunches, convulses, speaking through sobs...>>||||
+ShadeA5|And I don't want us to die alone...||||
+ShadeAP1|Crowds? Screaming? There's nobody here. ||||
+ShadeAP2|What are you so afraid of?||||
+ShadeAP3|I... hope you find your son.||||
+AvatarA1R|Greetings again, stranger. I... don't suppose you would like to see a play, before I become inoperative?||||
+AvatarA1|Ah, welcome patron! Please, take your seat. The show will begin sh--||||
+AvatarA2|<<The figure freezes. Though its face resembles a statue, it conveys a sudden horror.>>||||
+AvatarA3|Cipher network... severed? Power generators... offline. City population... ((five))? ##No... no, no no... this isn't possible...||||
+AvatarA4|Don't be ridiculous, it's been... ##<<It hesitates a moment, while its eyes dart between invisible targets.>> ||||
+AvatarA5|It's been... ((many)) human lifetimes since I was last summoned... ||||
+AvatarA6|((Everyone?)) But half a million souls dwell here! Half a million... gone?||||
+AvatarA7|This makes no sense. What of the rest of the Emberian Empire? Why have they not sent aid?||||
+AvatarA8|But that's impossible. To bring down the Empire would require an event of colossal destruction! Something more powerful than even a --||||
+AvatarA9|The Empire would not leave this city to rot. Never! But that means... ##<<The figure looks around at the sickly sky and the shattered horizon.>>||||
+AvatarA10|...It can't be. The Empire ((can't)) have been destroyed. That would require something more powerful than even a --||||
+AvatarA11|<<They hesitate a moment, as if lost in some revelation.>> ##More powerful than a god. ||||
+AvatarA12|Then the naysayers were right. The Cradle was cursed, and those cipher scribes brought nought but doom.||||
+AvatarA13|You can see it outside. ##Part ship, part laboratory. The best and brightest have been toiling away at it for years.||||
+AvatarA14|It is a marvel of cipher-science, supposed to usher in a new age of human advancement. It is said to hold an entity of staggering power.||||
+AvatarA15|Well, the autocoaches are clearly out of service, so you would need to teleport between the transit-crystals.||||
+AvatarA16|There seems to be only one teleport spell left in the city. Longitude: three-seven-six, latitude: five-nine. ##That's... an old war bunker, deep underground. ||||
+AvatarA17|My records indicate it can be accessed through the city's underground tunnels... and from a secret passage in the library. ##But that's the extent of my knowledge on the matter.||||
+AvatarA18|I am required to inform you that only individuals of Class-C and above are permitted to use teleport cipher-spells. ##But... I suppose that doesn't matter, now. ||||
+AvatarA19|That is a question many want to know, but the Supervisors have it under lock and key. Clearance is for Class-A individuals only.||||
+AvatarA20|Still... whispers have slipped out from the Symposium. That they are constructing something of terrible potential, that could remake the world anew.||||
+AvatarA21|For spreading such rumours, I would normally be destroyed. But I suppose my supervisor is in no such position to do so. ##It is oddly liberating, to speak so freely. ||||
+AvatarA22|And I am obliged to answer all queries. ||||
+AvatarA23|What am... I? Forgive my surprise, I have never been asked such a question. Times must truly have changed.||||
+AvatarA24|I am an avatar of the Emberian Empire. A construct of cipher, designed to simulate a human personality. I exist to serve the needs and whims of the populace. ||||
+AvatarA25|Here, I run this amphitheatre. I was selected for my love and knowledge of drama. I have memorised a hundred plays, and can perform them by visualising a cast of spectral actors. ||||
+AvatarA26|But, my connection to the cipher-network has been severed. My power source dwindles, and I can already feel my cipher logic degrading. ||||
+AvatarA27|It is strange. I have recited profundities on death and mortality a thousand-fold, yet I still do not feel... ready. ||||
+AvatarA28|Albertus is the third-largest city in Emberia, and the sixth largest of the wider empire. ##Or, I suppose it... ((was)). ||||
+AvatarA29|It was a city known for its scientific prowess. Every day, thousands of people clogged the autocoach networks, commuting to their labour halls. Every day, the cipher-network was refined and expanded for the betterment of the Empire.||||
+AvatarA30|It was said this city would prosper for a thousand years.   ||||
+AvatarA31|As you wish.||||
+AvatarA32|<<The avatar's face is impassive, but you'd swear you hear a scintilla of sorrow in its voice.>> ##As you wish. Please enjoy our fair city.||||
+AvatarAP1|Be calm. Whatever happened here, happened long ago.||||
+AvatarAP2|Yup, everyone here is very much dead. ||||
+AvatarAP3|The Emberians are dead. The planet's surface is nothing but ash. ||||
+AvatarAP4|You're Emberian, right? Why can't ((you)) tell ((me?)) ||||
+AvatarAP5a|Wait, did you say Cradle?||||
+AvatarAP5b|Tell me more about the Cradle.||||
+AvatarAP6|I have questions about this place...||||
+AvatarAP7|I'd better get going.||||
+AvatarAP8|I need to get up there. Can you help? ||||
+AvatarAP9|What's inside the Cradle?||||
+AvatarAP10|I have other questions I want to ask you.||||
+AvatarAP11|What are you?||||
+AvatarAP12|Can you tell me about this city? ||||
+AvatarAP13|That's all I wanted to know. ||||
+ShadeB1|This damned autocoach is late ((again!)) I ((can't)) be late. I'm behind on my quota! I could have my class-rank degraded... oh, gods... ||||
+ShadeB2|The driver's late - ((again)) - so the doors are locked tight.||||
+ShadeB3|You'd need at least a Class-C security pass to bypass those doors. Not that you'd find any Class-C citizens rubbing shoulders with us commuters - they'll be in the noble district, admiring the mushroom horticulture. ||||
+ShadeB4|Hmm? What nonsense are you talking about? I work for one of the premiere cipher-spell combines in the Empire, and they have ((high standards!))||||
+ShadeB5|<<The figure looks around suddenly.>> ##Wait, what's that light? It's getting awfully hot in here...||||
+ShadeBP1|I need to get past this carriage. Any ideas?||||
+ShadeBP2|I'm not sure your employers will mind, seeing as they're dead.||||
+ShadeBP3|Good luck with that.||||
+UnderVela1|<<Vela stands with poise, her commands booming through the chamber as Dark Star mercenaries scurry at her beck and call.>>||||
+UnderVela2|<<Vela's head snaps around, her eyes fixed upon you. She turns with one hand on her sword hilt.>>||||
+UnderVela3|<<You creep towards Vela, your soft steps muffled by the clamour. You're nearly close enough to intervene when her head snaps around; her eyes fixed upon you.>>||||
+UnderVela4|((Silence!)) <<Vela's voice cuts through the air, her piercing gaze meeting your own.>>||||
+UnderVela5|An intruder? ((Here?)) We're ((leagues)) under the Skyrealms, in a place as dangerous as it is inhospitable. You must be incredibly capable or ((extremely)) stupid to follow me here. ||||
+UnderVela6|<<She squints.>> Hold on - you're that whelp who had the ((gall)) to approach me on the Blinding Light, aren't you?  ##<<A thin smile spreads across her lips.>> My, you've had quite the journey, inquisitor. I almost didn't recognise you. ||||
+UnderVela7|But you must have had help. <<She ponders a moment.>> ##Only Orlaith saw the map that led here. She wouldn't have decided to come on her own - so Basalt must have convinced her. ||||
+UnderVela7a|And if he was putting a team together, Caxton Frost would be top of that list. Maybe the Duchess as well...||||
+UnderVela8|<<She shakes her head.>> But it can't just be Basalt leading this. He'd never have joined the Inquisition without persuasion. It can only be... ((Caer)). ||||
+UnderVela9|You don't deny it? <<She grins.>> ##So, a pack of traitors, led by a fledgling Inquisitor, have come to nip at my heels. Tell me - just ((what)) are you hoping to achieve? ||||
+UnderVela10|((Madness?)) Hah! Is ((that)) what they claim? ##It is the people of the ((Skyrealms)) who have lost all sense of reason. I only seek to put things right. ||||
+UnderVela11|<<She lets out an impertinent laugh.>> And why would I trust the likes of ((you))? Even if I needed assistance - which I most certainly ((do not)) - why would I accept it from an Inquisition spy? ||||
+UnderVela12|So at the first chance you would resort to violence and barbarism? <<She tuts theatrically.>> ##Such self-involved thinking is what's ((wrong)) with this world. ||||
+UnderVela13|<<She gestures at the aberrant being that fills your vision.>> ##((This)) extraordinary entity will be our salvation. It will mend our broken world and abolish the evils of humanity. ||||
+UnderVela14|All we need do is ((awaken)) it, and we are so ((nearly)) ready. ||||
+UnderVela15|Some would call it a ((god)) - but that would be to diminish its power, for the gods are of ((this)) world and are bound by ((its)) rules.||||
+UnderVela16|This being is of the ((void)): the non-place of pure creation, where time and space act in mysterious ways. We know not whether the Emberians plucked it whole from that realm, or wove its corporeal flesh from voidstuff.||||
+UnderVela17|Regardless, in the ancient Emberian dialect they called it an [[Angel]] - after the mythical creatures of middle age lore. ||||
+UnderVela17a|Reality is formed from the semiotics of cipher. It is the language that flows through all things; the ((truth)) behind the illusion that dances before our eyes.||||
+UnderVela18|With study, we may learn to alter its flow, its rhythm. We may tweak a word here, adjust a sentence there, and this is the basis of all magic. ||||
+UnderVela19|What we cannot do is alter the language of cipher itself. There are strict rules by which we must adhere; absolute and unbreakable limits upon what is possible. ||||
+UnderVela20|But this entity that stands before us? Being of the void, it is fundamentally separate from our laws. It has the power to change the very ((essence)) of reality.||||
+UnderVela21|<<She grins.>> I am going to change ((everything)).||||
+UnderVela22|<<She grins.>> The process is not without its dangers.||||
+UnderVela23a|The Emberians called this thing an [[Angel]], and had they succeeded in waking it, their tyranny would have enslaved the world for eternity. ||||
+UnderVela23b|The Emberians built this structure as an incubator for the Angel, and had they succeeded in waking it, their tyranny would have enslaved the world for eternity.||||
+UnderVela24|We're fortunate that the ((lesser)) evil occurred; for in stirring the Angel they caused the World Rend, and nearly obliterated all of existence. ||||
+UnderVela25|But we have learned from their mistakes. We will use the Angel to turn this world into a Heaven, where every soul is free and equal. ||||
+UnderVela26|Over the past few years I have recruited some of the most accomplished cipher scholars alive. With the correct warding we will prevent a syntax cascade. Of this we are... ((almost)) certain.||||
+UnderVela27|And regardless, is the reward not worth the risk? What's left of this world is barely worth saving - but I would elevate us to something nobler than history has ever known.||||
+UnderVela28|You think yourself quite the philosopher, speaking in absolutes. But even if you were to define the ((freedom)) I would bestow as a sort of ((tyranny)), it would be vastly preferable to the current state of affairs. ||||
+UnderVela29|<<She scoffs.>> I do not need your ((praise)). I have been thinking of this, and little else, for so many years. I ((know)) it is worth the risk. ||||
+UnderVela30|<<Her eyes glint as they look into your own.>> ##You see, inquisitor, there is such ((beauty)) in us. Such majesty, such ((potential)). ||||
+UnderVela31|I have sailed the Skyrealms and seen such wonders. ##<<She waves her hand.>> Nay, not the void-obelisks of Al-Asfara, or the thousand spires of Byonne university... ||||
+UnderVela32|I have seen the nuns of the Vagrant Hospice, tending to their enemies. I have seen a man give his life to the blood-barons of Teren, so that a stranger might live. ||||
+UnderVela33|<<She sighs.>> I have seen a child - recently orphaned, her face speckled with blood - offer me the ((last)) of her bread.||||
+UnderVela34|<<She steps closer.>> But wherever my sails have taken me, I have seen the hopes and dreams of the common folk ((crushed)) by oppressors; be they Union, Wikkan or otherwise. Everywhere I go, the poor writhe in the mud so that the rich may sleep in silk. ||||
+UnderVela35|Once, I thought my sword could right the wrongs of the world - that ((morals)) and ((ethics)) could guide my blade. But I've seen too many skyships burn, and too often breathed the stench of human flesh, to believe that still. ||||
+UnderVela36|In truth I had lost hope - until I had visions of an ((Angel)), through the oneiric interface of an Emberian map. I realised, then, what could be achieved.||||
+UnderVela37|Oh, but with the Angel, we ((could)). It can change ((anything)) of this corporeal world... ##But don't look so aghast. It really needn't come to that. ||||
+UnderVela38|<<Her stare gains a fiery intensity.>> I would empower us ((all)), so that every peasant stands equal to their lord. I would blunt every sword, shatter every cannon - so that not a drop of blood would spill. ||||
+UnderVela39|<<She looks down, her expression suddenly vulnerable.>> And... I would banish ((death itself)), so that no heart would ever be broken. ##((This)) will be our Heaven, and soon we will have it. ||||
+UnderVela40|<<She nods.>> A point of no return, beyond which no scryer can foresee. A labyrinth of possibility, incomprehensible to mortal minds...||||
+UnderVela41|But one must be willing to sail into the unknown if one wishes for real change. Better that, than to linger in certain suffering. ||||
+UnderVela42|((Freedom?)) What ((freedoms)) do we have, here in this broken world? Just because we can hack each other to pieces, it does not mean we are ((free)). ||||
+UnderVela43|And besides, anyone would be able to leave. If they wished to dissipate their essence to the void, along with their mind's eye, they could do so. ||||
+UnderVela44|<<She grins.>> I suppose we're about to find out. ||||
+UnderVela45|Very soon, I will awaken the Angel. Not out of greed or selfishness, but for the ((betterment)) of the Skyrealms and its people. ||||
+UnderVela46|<<Vela glares at you with a newfound fury.>> How ((dare)) you mention her name! You know ((nothing)) of her soul - of my ((family)).||||
+UnderVela47|Isabet was... she meant more to me than... ##<<Vela closes her eyes for a long moment.>> ||||
+UnderVela48|Isabet and my mother ((burned alive)) in my father's mansion. That Isabet was taken so young, and I alone should live, speaks plainly of the injustice of this world. Am I ((wrong)) for wanting to change that? ||||
+UnderVela49|<<Vela stutters, now stumbling over her words.>> ##Caer... ((betrayed)) me. I... I would have given my ((life)) for that girl, but she... She... ||||
+UnderVela50|%% I... they... ((traitors)), all! If only they had ((listened)), instead of... instead of... ##I didn't ((wish)) for them to die! ||||
+UnderVela51|&& Pah. Those ((traitors)) could have left of their own accord. They had no reason to ((fight)) me - I'm sure I would have let them go peacefully. ||||
+UnderVela52|<<Vela's face burns with sudden contempt.>> ##Then you should have kept your mouth ((shut)). However you found this out, I do not care for you raking through my past like a haruspex through offal.||||
+UnderVela53|<<Vela frowns.>> A ((ghost))? But who knows about...? No, it couldn't be...||||
+UnderVela54|...((Caer?)) ##<<She swallows, at a loss for words.>> ##Then she must have told you about... ||||
+UnderVela55|<<She laughs.>> Oh no, little inquisitor. This is where it ((begins)).||||
+UnderVela56|<<She grins.>> That's either the most obvious Inquisition cover story I've ever heard, or an unusually adroit triple bluff. Nothing personal, but I can't risk letting you tag along.||||
+UnderVela57|<<Vela swallows, trying to find her composure.>> I'll admit, my motives are complicated. And my methods... ||||
+UnderVela57a|<<She gives you a twisted, almost regretful smile.>> ##Had I done this for any lesser cause, I'd be a monster.||||
+UnderVela58|<<Vela bellows to her crew.>> ##((Awaken the Angel!)) I don't ((care)) if the preparations aren't complete, we have ((run out of time!)) ||||
+UnderVela59|<<Her eyes return to you.>> ##I'm terribly sorry about this. I wish there was another way, but there isn't.||||
+UnderVela60|The coming days are crucial. Now that it's awake, we have many delicate rituals and cipher wards to enact, and you cannot be allowed to meddle in such a ((momentous)) endeavour.||||
+UnderVela61|So I'm afraid this is goodbye. We will ((not)) meet again.||||
+UnderVela62a|<<From behind you, you hear Jack Basalt yelling at the top of his lungs.>> ##Vela, ((no))!||||
+UnderVela62b|<<From behind you, you hear Jack Basalt yelling at the top of his lungs.>>||||
+UnderVela62c|Vela, ((no))!||||
+UnderVelaP1|Vela Callose! ||||
+UnderVelaP2|<<[Attempt to approach silently.]>>||||
+UnderVelaP3|Vela Callose, I've come to -||||
+UnderVelaP4|By order of the Inquisition, I -||||
+UnderVelaP5|<<[Freeze and say nothing.]>>||||
+UnderVelaP6|We've come to put an end to this, Vela. You must ((stop)) this madness!||||
+UnderVelaP7|Your old friends helped me get here, but I've come to join your cause.||||
+UnderVelaP8|All I care about is my freedom. If I have to cut off your head, so be it. ||||
+UnderVelaP9|What ((is)) that thing?||||
+UnderVelaP10|How is it so powerful?||||
+UnderVelaP11|What do you plan to do with it?||||
+UnderVelaP12|Waking it up seems like a ((terrible)) idea.||||
+UnderVelaP13|You could spark a second apocalypse, and destroy what's left of our world.||||
+UnderVelaP14|With the best of intentions, you would only make a tyranny of your own design.||||
+UnderVelaP15|I think you're right; a just and fair world is worth the risk. ||||
+UnderVelaP16|So you'd risk another World Rend just to give bread to the poor? ||||
+UnderVelaP17|You can't change human nature.||||
+UnderVelaP18|<<[Say nothing and listen.]>>||||
+UnderVelaP19|Sounds like madness. Even if it worked, ((everything)) would change.||||
+UnderVelaP20|You'd be taking away our freedom - to fight for something, even to ((die)).||||
+UnderVelaP21|An admirable dream, but is it really possible? ||||
+UnderVelaP22|And what of your late sister, Isabet? Are you sure you're not doing this for ((her))? ||||
+UnderVelaP23|I met a certain ghost who told me that your motivations are more... ((personal)). ||||
+UnderVelaP24|Your ambition would doom us all. This ends ((now)), Vela. ||||
+UnderVelaP25|I want to help you, in any way I can. ||||
+UnderVelaP26|What about the people who suffered for your vision? People like Caer, who you left to ((die))? ||||
+UnderVelaP27|@@ You don't speak for all. Many oppose you, even your own former Dark Stars. ||||
+UnderVelaP28|I meant no offence, Vela. ||||
+UnderVelaP29|It was Caer.||||
+UnderVelaP30|((Who)) it was doesn't matter. They told me about your late sister, Isabet. ||||
+UnderVelaP31|Isabet, yes. ||||
+UnderVelaP32|Forget it, Vela. I meant no offence. ||||
+CradleBasaltA1|Well, this is it. One last daring push into Vela's maelstrom, eh? Only, this time, I fear there'll be no second chances.||||
+CradleBasaltA2|<<He shoots you a serious look.>> It doesn't matter how many times that god of yours can pull you back from the dead. If Vela activates that ((abomination)), it's all over. ##Unless we can stop her, Vela will either rule the world or end it.||||
+CradleBasaltA3|((Damn)) that girl, for bringing it to this. She could've done great things, y'know? Her name could've gone down in history as a saviour, not a ((tyrant))... ||||
+CradleBasaltA4|The cutter's ready to depart, Confessor. You might wanna check with the rest 'o the crew to see how they're holdin' up firs... but otherwise, [[use the controls]] when you're ready. ||||
+CradleBasaltA4b|Well, anyway. The cutter's ready to depart. You might wanna check with the rest 'o the crew to see how they're holdin' up firs... but otherwise, [[use the controls]] when you're ready. ||||
+CradleBasaltA5|Jus' make sure you're ((really)) ready, eh? Assaulting that Cradle is no easy task - this may just be the [[((last)) thing we ever do]]. ||||
+CradleBasaltA6|The place is a fortress, too risky for a head-on assault. But if the Duchess could distract Vela's entourage with her magic, the rest of you might have a chance.||||
+CradleBasaltA7|Frost thinks he's spotted a [[back door]]: some sort of [[utility pipe]] that could be cracked open, giving you and Orlaith a way inside. ||||
+CradleBasaltA8|Then, Orlaith will head straight for Vela an' try to keep her busy. ##As for you? [[Find that Angel]] at all costs. ||||
+CradleBasaltA9|Then, if all goes to plan, we'll meet up in the Cradle's centre and we can boot that Angel back to the Void. Piece of cake, eh? ||||
+CradleBasaltAP1|What's the plan when we reach the Cradle? ||||
+CradleBasaltAP2|I'll get going. ||||
+CradleEmberianA1R|I'm ready to set sail when you are, Confessor. The sooner the better, in my book.||||
+CradleEmberianA1|<<Orlaith looks agitated, shifting in her armour.>> ##You know, I've faced up to impossible odds before. Always bested them. So why do I feel so godsdamned ((nervous))?||||
+CradleEmberianA2|<<She looks at her hand; it's trembling slightly. She clenches it into a fist.>> ##I guess I've always looked up to Vela. She's saved me more times than I can count - so even though I ((know)) this is the right thing to do, my stomach's still churning.||||
+CradleEmberianA3|<<She looks at you.>> Listen, Confessor... ##When we met, you told me we'd finish what I started - the mutiny against Vela - and stop her before she does the unthinkable. ||||
+CradleEmberianA4|Do you stand by that? Do you really think we can ((do)) this?||||
+CradleEmberianA5|<<She nods.>> I appreciate your confidence in me, Confessor.||||
+CradleEmberianA6|<<She nods.>> Might not be what I was ((hopin')) to hear, but... I think you're right. ||||
+CradleEmberianA7|<<She glares at you.>> With respect - what the ((fuck)), Confessor? ||||
+CradleEmberianA8|Gods know, Vela can be persuasive. I've heard that silver tongue of hers a thousand times. But we had a ((deal)), Confessor! I've followed you this far because I want to ((stop)) Vela, not aid in the destruction of the ((world)). ||||
+CradleEmberianA9|<<She scoffs.>> Well if you won't help me, I'll do it ((alone)). As soon as we get to the Cradle, I'm hunting down Vela - with or ((without)) you. ||||
+CradleEmberianA10|Listen, Confessor... ##When we met, you told me we'd stop Vela without bloodshed. I think we can safely say that we ((tried)) and ((failed)) in that regard, eh?||||
+CradleEmberianA11|So this time, I ain't askin' questions; I'm letting my ((sword)) do the talking. You'd better be ((okay)) with that. ||||
+CradleEmberianA12|<<She grins.>> Do I hear a lust for ((revenge)) in your tone, Confessor? She ((did)) skewer you pretty good, back there... ||||
+CradleEmberianA13|<<She sighs.>> It's not that simple. Once the swords start swinging, it's life or death. But... I'll give it my all.||||
+CradleEmberianA14|Listen, Confessor... ##When we met, you said you wanted to ((help)) Vela achieve her twisted idea of Heaven. After speaking for her - after seeing what she's ((become)) - do you think that still? ||||
+CradleEmberianA15|<<She scoffs.>> After she skewered you through with her sword, I thought you might have had a change of heart. ((Damn)) Vela and that silver tongue of hers. ||||
+CradleEmberianA16|Well if you won't help me, I'll do it ((alone.)) As soon as we get to the Cradle, I'm hunting down Vela - with or ((without)) you. ||||
+CradleEmberianA17|<<She smiles slightly.>> I'm glad you've had a change of heart, Confessor. What changed your mind? Being driven through by Vela's ((sword)), perhaps? ||||
+CradleEmberianA18|Regardless, I'm glad to have you backing me up. I was thinking I'd have to face Vela ((alone)), and that's not an easy prospect. ||||
+CradleEmberianA19|<<She smiles slightly.>> If anything would change your mind, it'd be ((that))...||||
+CradleEmberianA20|Regardless, I'm glad to have you backing me up. I was thinking I'd have to face Vela ((alone,)) and that's not an easy prospect. ||||
+CradleEmberianA21|<<Orlaith is silent for a moment.>> ##You know... I've never felt like I've ((belonged)) anywhere. Being born from a glass tube'll do that to you. ||||
+CradleEmberianA22|Even those first few years with Vela, when we thought we were really making a difference - it was still ((Vela's)) dream we were chasing, y'know?||||
+CradleEmberianA23|But now... I think I finally know what my purpose is. To ((stop)) the evils of my ancestors from ever being repeated. <<She twists up the corner of her mouth.>> Or die trying. ||||
+CradleEmberianA24|For better or worse, that's thanks to ((you,)) Confessor. So I s'pose, I just wanted to say... thank you. ||||
+CradleEmberianA25|<<She smiles at you, warmly.>> ||||
+CradleEmberianA26|<<She smirks.>> Of course. ||||
+CradleEmberianAP1|I've ((seen)) you fight. Vela doesn't stand a chance. ||||
+CradleEmberianAP2|I don't know, but all we can do is try our best. ||||
+CradleEmberianAP3|Vela convinced me; I want to make her Heaven a reality. ||||
+CradleEmberianAP4|You're right; the time for talk is over. Do your worst. ||||
+CradleEmberianAP5|Just try not to ((kill)) her, okay? ||||
+CradleEmberianAP6|Change of plans. I want to make her Heaven a reality. ||||
+CradleEmberianAP7|Yes, I want to see her Heaven made a reality.||||
+CradleEmberianAP8|No, we should try and stop her.||||
+CradleEmberianAP9|That bitch stabbed me! She won't leave the Cradle alive. ||||
+CradleEmberianAP10|My pleasure, Orlaith.||||
+CradleEmberianAP11|We just need your sword skills, that's all.||||
+CradleFrostA1R|It has been a pleasure, Confessor. I shall see you on stage. ||||
+CradleFrostA1|<<Frost is sipping from a teacup, which he raises in salute at your approach.>> ##Ah, Confessor! Good of you to join us.||||
+CradleFrostA2|So, here we are at last. The interval is nearly over. The curtain's soon to open. Everything is in place for the final act. ##Let's just hope I can remember my lines.||||
+CradleFrostA3a|<<He sips.>> Oh, naturally I'm scared ((shirt))less. This is the confrontation I've been running from all along. ((This)) what I became Horace to escape.||||
+CradleFrostA3b|<<He sips.>> Nevertheless, a little stage fright is only natural. This is the confrontation I've been running from all along. ((This)) what I became Horace to escape.||||
+CradleFrostA4|Yet I am finding that the fear is less... ((biting)) than before. It feels calming, somehow, to last be walking ((towards)) my troubles, with a firm resolve. ##<<He snorts.>> Funny how long we resist the simplest lessons.||||
+CradleFrostA5|Confessor, do you remember our first meeting? Lately I've found myself turning it over in my brain. ##At the time, you argued that we should use the power of the Angel to build a better world. ||||
+CradleFrostA6|I was hesitant, of course. I scarcely trusted myself to choose a pair of curtains, let alone the fate of humanity. ||||
+CradleFrostA7|But... ##<<He sighs, then looks into your eyes.>> I have come to the conclusion that you were right, and I was wrong.||||
+CradleFrostA8|Confessor, do you remember our first meeting? Lately I've found myself turning it over in my brain. ##At the time, you persuaded me that we should destroy the Angel, lest it obliterate the world. ||||
+CradleFrostA9|It felt so ((liberating)) to agree with you. To finally shrug off the burden of my dreams, and let go of all those years I sacrificed for my homeland's impossible promise.||||
+CradleFrostA10|But... ##<<He sighs, then looks into your eyes.>> I have come to the conclusion that both of us were wrong.||||
+CradleFrostA11|Confessor, do you remember our first meeting? Lately I've found myself turning it over in my brain. ##At the time, you persuaded me that the Angel's promise was a mirage; that a better world can only be built one brick at a time.||||
+CradleFrostA12|Those were wise words. The Dark Stars could have bettered ((so many)) lives with all the power and treasure we attained. If we'd done the hard work, and made the hard choices. Instead we took the easy path, following our leader into damnation for a prize that could absolve any crime.||||
+CradleFrostA13|But... ##<<He takes a deep breath, and locks eyes with you.>> Things are different now. Don't you see? The Cradle has risen. The stable door has been blown off its ((bally)) hinges. ||||
+CradleFrostA14|Everything the Clockwork Kingdom ever tried was mere child's play compared to the Angel. This is ((it)); the real deal. And now that we're on the precipice... I find I cannot turn my back.||||
+CradleFrostA15|It's all Horace's fault, I'm afraid. His visions were so good because he still had hope. Hope that every person could be redeemed; that love really was more powerful than despair.||||
+CradleFrostA16|When you reawakened my old self, that hope didn't die. It's stayed with me, infectious, all mixed up together with everything I've seen and done.||||
+CradleFrostA17a|<<Frost smiles ruefully.>> So you see, I have to believe that Horace wasn't wrong to hope. ##I mean that literally: I have no choice but to believe. For Sam, and my family, and everyone I've ever loved.||||
+CradleFrostA17b|<<Frost smiles ruefully.>> So you see, I have to believe that Horace wasn't wrong to hope. ##I mean that literally: I have no choice but to believe.||||
+CradleFrostA18|<<Frost's smile widens.>> You mean it? ##Very well, then. Let us take our places for the performance of a lifetime.||||
+CradleFrostA19|<<Frost gazes at you for a while, then nods, his expression surprisingly peaceful.>> ##Very well. If this final act should cast us as foes, let us play our parts with gusto.||||
+CradleFrostA20|<<Frost laughs.>> Refreshingly honest, Confessor. Very well; you improvise, and I will react. If it transpires that we are cast as foes, let us play our parts with gusto.||||
+CradleFrostA21|<<He sighs.>> I'm going to ((flipping)) regret all this, aren't I?||||
+CradleFrostAP1|How are you feeling?||||
+CradleFrostAP2|You'll do fine, Frost. After all, we've rehearsed plenty.||||
+CradleFrostAP3|If you're saying you want to activate the Angel, I'm with you.||||
+CradleFrostAP4|I'm sorry, Frost. I won't let you activate the Angel.||||
+CradleFrostAP5|Honestly, I have no idea what I'll do once we reach the Angel.||||
+CradleDuchessA1|Ever since we saw it, I've been thinking of that Angel. ## I've long read of such ominous entities, drifting in the Void beyond reality; but until now they were entirely ((theoretical)).||||
+CradleDuchessA2|But seeing such a creature in the ((flesh?)) I could ((feel)) its... incongruity, its vast contradiction, like a thorn in my brain. With something so alien to this world, maybe Vela really ((can)) bend reality to her will...||||
+CradleDuchessA2b|<<The Duchess plays idly with her Void dagger, watching it glide through the air.>> ##Oh, Confessor. My apologies, I was lost in thought...||||
+CradleDuchessA2c|It's that ((Angel.)) I've long read of such entities, drifting in the Void beyond reality; but until now they were entirely ((theoretical)). For all the complexities of our cipher art, we have only the smallest understanding of the Void.||||
+CradleDuchessA2d|But seeing such a creature in the ((flesh?)) I could ((feel)) its... incongruity, its vast contradiction, like a thorn in my brain. Not a single part of it was ever meant to intersect with this world.||||
+CradleDuchessA2e|That Vela succeeded in acquiring the creature is quite remarkable. Maybe she truly ((can)) achieve this audacious ((Heaven)) of hers.||||
+CradleDuchessA3|Confessor, you told me that Vela could grant the Endless a true death, if her Heaven prevails. ##I've been thinking on this a great deal these past few days.  ||||
+CradleDuchessA4|It's Ironic that her hunt for immortality could grant my people the dreamless slumber many of them crave. <<She smiles.>> Ironic, but not undesirable. ||||
+CradleDuchessA5|<<She closes her eyes.>> So many years of listless agony. So many lifetimes, flittered away in a half-life; unable to feel the air in our lungs, or the wind in our hair... ||||
+CradleDuchessA6|But... do you truly mean to aid Vela? Orlaith and Basalt, it seems, are set on opposing her. ||||
+CradleDuchessA7|Confessor, you told me that Vela could grant the Endless a true immortality, if her Heaven prevails. ##I've been thinking on this a great deal these past few days.  ||||
+CradleDuchessA8|It has been many years since I've felt the air in my lungs or the wind in my hair, or... or seen my daughter's smile. To think that these things could be still be possible? ##I have come to realise that I... would like that very much.||||
+CradleDuchessA9|But... do you truly mean to aid Vela? Orlaith and Basalt, it seems, are set on opposing her. ||||
+CradleDuchessA10|Confessor, you told me that Vela must be stopped, and that us Endless must learn to accept our fate. ##I've been thinking on this a great deal these past few days.  ||||
+CradleDuchessA11|My people's burden is ours to bear, and though we lament our torment, I believe some good, no matter how slight, can be gleaned from the worst of tragedies. ||||
+CradleDuchessA12|Vela's idea of Heaven might benefit my people, but I have no doubt it would wreak great havoc and disruption upon everyone else. For this reason I'll help you to stop Vela, no matter the cost.||||
+CradleDuchessA13|...you ((are)) still going to try and stop her, correct? ||||
+CradleDuchessA14|<<She nods.>> I thought as much. It will be a risky fight, but I'll do my best to aid you. ||||
+CradleDuchessA15|<<She looks away, and is silent for a moment.>> ##I... understand. Though I'm vexed you would stir such false hope in me, I see what's at stake here.||||
+CradleDuchessA16|<<She frowns.>> My, you ((do)) have such fickle whims, Confessor. I had thought the matter settled.||||
+CradleDuchessA17|I won't deny that there will be many... ((boons)) to the Endless, for assisting in Vela's plan. So, do as you see fit; I'll lend my ciper-sorcery to the cause, one way or another. ||||
+CradleDuchessA18|<<She nods.>> Thank you, Confessor. Together we will see this through.||||
+CradleDuchessA19|When we reach the Cradle, I'll keep Vela's main force distracted with a cipher-shield. That should give you time to find an alternate entrance.||||
+CradleDuchessA20|But no matter what, this will be a perilous mission. I've spoken to Caer, and arranged for my daughter's hand to be delivered home if I am to... meet a ((similar)) fate to hers.||||
+CradleDuchessAP1|After she ran me through with her blade, I'm hardly going to ((help)) her.||||
+CradleDuchessAP2|Her so-called Heaven is too chaotic an idea; she must be stopped.||||
+CradleDuchessAP3|Despite her actions, I will help her achieve this Heaven; for the benefit of all. ||||
+CradleBasaltB1|Right, well despite it all, that went pretty smooth, eh? <<He grins.>> ##Damn sight better than the last landing, at least. ||||
+CradleBasaltBP1|What's the plan now we're here? ||||
+CradleBasaltBP2|I'll get going. ||||
+CradleEmberianB1|We're aboard the most abhorrent vessel ever constructed, surrounded by the Union Navy; on our way to face ((Vela Callose)) and her captive eldritch horror. ||||
+CradleEmberianB2|<<She smiles.>> Careful, Confessor. Anything more dangerous and I might start having ((fun)).||||
+CradleDuchessB1|Once more I've erected my [[transpositional supply tent]]. By all means use it to stock up, but don't tarry; we must strike quickly now that we're here. ||||
+CradleDuchessB2|Vela's lackeys will come at us in full force, but I'll try to keep them at bay for as long as I can. ##Once we've set off you must [[find Frost]] and help him make his entrance. ||||
+CradleFrostB1|<<Frost is in full flow, seemingly possessed by the ghost of his piratical past.>> ##Onward, ladies! No dawdling, no dallying, and no ((fannying)) about! Last one to reach the [[aeration pipe]] owes us all a full Lundelese breakfast!||||
+CradleFrostB2|<<He glances at you, baring his teeth in a fierce grin.>> ##Showtime, Confessor. Break a leg. ||||
+CradleBasaltC1|The others are in position, Confessor - what are you waiting for? Find [[Caxton Frost]] and help him access the Cradle's interior. ||||
+CradleEmberianC1|What's taking [[Frost]] so long? We need to [[get this thing ((open))]], or it's all over!||||
+CradleDuchessC1|<<The Duchess is clearly straining to maintain her powerful cipher spell.>> ##Don't... worry about ((me))... Confessor! I've faced worse odds... than ((this)).||||
+CradleDuchessC2|Just find [[Frost]]... and get ((inside)) this thing! ||||
+CradleFrostC1|<<Frost is once again fiddling with his handheld door-breaking device, but this time he is visibly under stress.>> ##Confessor! You've arrived in the nick of time. ((Confound)) these obstinate Emberians!||||
+CradleFrostC2|I am attempting to halt this aeration turbine to afford our ingress, but it appears there is a [[fail-safe switch]] somewhere nearby; most likely on the platform beneath here.##There's an [[elevator]] down nearby. Find that switch, shut it off, and you shall have your door. ||||
+CradleFrostC3|<<Behind you there is a deafening shriek of offensive magic, and a flash of blue light that briefly casts deep shadows across Frost's face. He looks worried.>> ##Quickly now, Confessor! Let's not miss our cue! ||||
+CradleFrostD1R|<<Frost's eyes are screwed tightly shut, and he no longer seems to hear anything you say.>> ##The Angel... please. You have to... nrggh. Sam? Sam...||||
+CradleFrostD1a|<<Frost's body lies mangled within the twisted wreckage of his clockwork armour, his fine clothes sodden with blood.>>||||
+CradleFrostD1b|Ah, ((fuck)).||||
+CradleFrostD2|<<Frost tries to sit up as he cries out with surprising vehemence.>> No! ##<<A coughing fit overwhelms him.>>||||
+CradleFrostD3|<<He looks up at you.>> No. Don't stop for me. You must... hrrfff... reach Vela. Before it's too late.||||
+CradleFrostD4|<<Frost grins weakly.>> No, I suppose you don't need a... hrff... a genius of natural philosophy... to tell you that I'm... nfff. Not long for this world.||||
+CradleFrostD5|<<Frost gives you a weak but genuine grin, before coughing up blood.>> ##Hrfff. Heh. Go... go and fuck yourself, Confessor.||||
+CradleFrostD6|<<He grimaces.>> Not a... bad finish for old Caxton Frost, hm? A final stand. A heroic... hrrff... downfall. Not a d-dry eye... in the house. Dramatic... hrrfff... to the last. ||||
+CradleFrostD7|But... the c-curtain's not fallen yet, eh d-darling? If you can... build something better... out of all these ashes, then... nrrgh. Then it won't have been for nothing. ||||
+CradleFrostD8|<<He reaches up and grips your hand tightly.>> ##Please, C-confessor. Activate the Angel. Make all this... hrrrfff... worth a damn.||||
+CradleFrostD9|<<He releases your hand and slumps back, his strength failing.>> ##Oh, and... please t-tell Sam... that I'm sorry. I really d-did want... nrgh... to come back to him.||||
+CradleFrostD9b|<<He slumps back, his strength failing.>> ##Oh, and... please t-tell Sam... that I'm sorry. I really d-did want... nrgh... to come back to him.||||
+CradleFrostDP1|Hang in there, Frost. I'll get you back to the cutter.||||
+CradleFrostDP2|I'm sorry, Frost. It doesn't look good.||||
+CradleFrostDP3|You finally swore. I'm proud of you.||||
+CradleFrostDP4|I'll tell him. I promise.||||
+CradleFrostDP5|You can tell him yourself.||||
+CradleBasaltD1|Looks like Frost has gotten that [[back door]] open. So what are you ((dallyin')) around here for? ||||
+CradleBasaltD1b|Frost may be down, but we can't afford to dally. Get inside that [[pipe]] and find the [[Angel]] - for his sake!||||
+CradleBasaltD1c|The Duchess may be down, but we can't afford to dally. Get inside that [[pipe]] and find the [[Angel]] - for her sake!||||
+CradleBasaltD1d|Our comrades may be down, but we can't afford to dally. Get inside that [[pipe]] and find the [[Angel]] - for their sake!||||
+CradleBasaltD2|<<Basalt stares at you, brows furrowed.>> Confessor...||||
+CradleBasaltD3|If he's really passed, you can't ((think)) on it 'til we're done here. He knew the stakes and he chose to come anyways. Now keep your mind sharp and get back to it.||||
+CradleBasaltD3b|If he's really passed as well, you can't ((think)) on it 'til we're done here. He knew the stakes and he chose to come anyways. Now keep your mind sharp and get back to it.||||
+CradleBasaltD4|<<You hear Basalt mutter under his breath.>> ##Poor lad...||||
+CradleBasaltD5a|Hmph, the ((Duchess)), cut down? Things... must be real hairy out there. ||||
+CradleBasaltD5b|Shit, the ((Duchess)) is down too? Things... must be real hairy out there. ||||
+CradleBasaltD6|But if anyone knows how to piece 'emselves back together, it'd be her. Just keep focused on the task at hand. ((Find Vela)). ||||
+CradleBasaltDP1|Frost is dead.||||
+CradleBasaltDP2|The Duchess is... in pieces.||||
+CradleBasaltDP3|I... you're right. I'll get going.||||
+CradleDuchessD1R|Do not ((tarry)), Confessor. Find... Vela. Find the [[Angel]]. That... is all that matters now.||||
+CradleDuchessD1|<<The Duchess has been hacked to pieces; you see parts of her body scattered across the floor, like the remnants of some gruesome festival.>>||||
+CradleDuchessD2|<<In response to your voice, a finger starts pointing wildly. You follow its gesture to a pile of bodily components, and you pull a jaw from within.>>||||
+CradleDuchessD3|I'm sorry... Confessor. Couldn't... hold them all back... ||||
+CradleDuchessD4|Heh. Did you... bring your needle and thread? What a... pleasing image. ##Alas, I fear there's... no time for any such thing.||||
+CradleDuchessD5|You'll do no such thing! No, Confessor, you... musn't make a fuss about me. There's simply... no time.||||
+CradleDuchessD6|Quite right, Confessor. You musn't... make a fuss about me. I've been... fussed over enough for... ten lifetimes.||||
+CradleDuchessD7|I knew it would come to this, sooner or later. No doubt I... deserve it, after all that I've done. Perhaps it will even prove... an interesting change of pace, no?||||
+CradleDuchessD8|Just... find [[Vela]], and that [[Angel]] of hers. ##Now ((go)), Confessor! ||||
+CradleDuchessD9|<<For a moment you are confused to discover a ((third)) hand - until you realise that she must have brought her daughter along with her.>>||||
+CradleDuchessD10|Hmm? What's... all this now? What are you doing? I... told you, there's no time to fuss! ||||
+CradleDuchessD11|<<The two hands touch, and shiver in surprise. Then, after a moment's pause, their fingers intertwine.>> ||||
+CradleDuchessD12|<<Never before have you heard the Duchess's voice suffused with such feeling.>> ##Oh. ((Oh.)) My... darling. My petal. I've... I've got you. I've got you.||||
+CradleDuchessDP1|Duchess? Can you... hear me?||||
+CradleDuchessDP2|I'm sorry, Duchess...||||
+CradleDuchessDP3|Can we fix you?||||
+CradleDuchessDP4|I'll send for help...||||
+CradleDuchessDP5|I'm sorry, but there's no time. ||||
+CradleDuchessDP6|<<[Search through the Duchess's body parts for anything that might help.]>>||||
+CradleDuchessDP7|Goodbye, Duchess. Good luck.||||
+CradleDuchessDP8|<<[Place her daughter's hand alongside one of hers.]>>||||
+Angel1|<<As you approach the Angel a pressure builds inside your skull, until it feels like your head might split in twain. Your body shivers with a nauseating energy; somehow you know the Angel is ((inside)) you.>>||||
+Angel2|<<A needle of pain gouges through your mind. Memories of your childhood, of people and places you knew, all flash before your eyes; wrenched forth by the will of this creature. Is it trying to ((understand)) you?>>||||
+Angel3|<<More pain - but this time, the memories are not your own. A sensation of limitless possibility, of incomprehensible freedom and unending ((time)), envelops you.>>||||
+Angel4|<<For just a fraction of a moment you understand what it means to be truly ((infinite)) - to stretch beyond the limits of this reality. You realise the Angel is trying to... ((share)) its experience with you, though much is lost in translation.>>||||
+Angel5|<<A confusion of sensations flash through your mind. An Emberian vessel invading your life essence, somehow latching onto you; ((pulling)) you through layers of reality until you are small, oh so small, and trapped in this cage.>>||||
+Angel5a|<<You understand, somehow, that the Angel is severely impaired in this world. The limits of time and space, the ((rules)) inherent in such a rigid existence, entrap the Angel in this corporeal form.>>||||
+Angel6|<<What you know of the World Rend - scraps of history, hearsay, and a pervasive cultural dread - rises to the forefront of your mind.>>||||
+Angel7|<<A note of confusion flows through you. The Angel doesn't seem to be sure. But you understand that, when it was brought here, another tried to merge with it - ((unsuccessfully)).>>||||
+Angel8|<<In that moment, a simple cry of pain from either of them could have obliterated this world; just as a human could accidentally trample on a colony of insects.>> ||||
+Angel9|<<Your body seethes with... ((impotence)) and impatience. Yes, you understand;  the Angel can do nothing on its own. Not in this reality, not in this ((body)): it is trapped here.>>||||
+Angel10|<<It must merge with another - a sentient being from ((this)) material plane - if it is to have any agency here.>>||||
+Angel11|<<It would need only be a moment, and the Angel could separate once more, peeling off from its new form and returning to the Void. ##Or it could stay, and weave a new reality within this one.>>||||
+Angel12|<<You see a corpse lowered into a grave - then a baby clawing its way out of the ((other side)) of the earth, covered in blood and placenta. To merge would be to die and be born anew.>> ||||
+Angel13|<<Then you see wine being poured into a strange, serpentine vessel. When the glass breaks, the wine remains, keeping the shape. To merge would also change the Angel, endowing it with all your own quirks and values.||||
+Angel14|<<Flowers blossom and decay all at once. Clouds boil away and fatten and burst. A moth flaps its wings and towers fall; it flaps again and the towers have always stood proudly. Uncertainty: the Angel cannot say for sure what will become of your world.>>||||
+Angel15|<<A sense of responsibility comes over you. You think this means... that ((you)) must be careful. If you merge, you will be as one; and the power you wield will be terrifying.>>||||
+Angel16|<<You feel a yearning for something like home; for the expanse of the infinite Void. But a wave of anxiety hits you: there will be no going back from this decision.>>||||
+Angel17|<<All the pity and despair, the tumult and the blood; the cyclical cruelty, and the pious theft. All of it will go on, alongside whatever joy the people of the Skyrealms can carve from the crooked bough of mere existence. Is that your will?>> ||||
+Angel18|<<Your body is engulfed in a warm tingling that soon becomes a tearing, agonising pain. Your vision distorts, then seems to blend with your other senses; like your very consciousness is dissolving into water.>>||||
+Angel19|<<The Angel is borrowing your mortal essence, so that it may leave this reality. Your last coherent thought is a desperate hope that you made the right choice.>> ||||
+Angel20|<<A soothing sensation engulfs you. The Angel waits patiently.>>||||
+Angel21|<<You feel a sense of opportunity; of excitement in the unknown, and of starting anew. But a surge of dread engulfs you: there will be no going back from this decision.>>||||
+Angel22|<<Even if humanity survives, will we recognise ourselves? And why should you be the one who chooses for them? Are you so just, so righteous, that you should set the pattern of their existence? Are you prepared to claim that power?>> ||||
+Angel23|<<Your body is engulfed in a warm tingling that soon becomes a tearing, agonising pain. Your vision distorts, then seems to blend with your other senses; like your very consciousness is dissolving into water.>>||||
+Angel24|<<You are merging with the Angel, so that two become one. Your last coherent thought is a desperate hope that you made the right choice.>> ||||
+Angel25|<<A soothing sensation engulfs you. The Angel waits patiently.>>||||
+Angel26|<<A warmth washes over you. The Angel waits for your query.>> ||||
+Angel27|<<A sensation of calm. The Angel feels no sense of urgency, it seems. If only the same were true for you.>>||||
+Angel28|<<A tingling of anticipation suffuses your body. The Angel awaits your decision.>>||||
+AngelP1|Get out of my ((head!))||||
+AngelP2|((Clench your teeth.))||||
+AngelP3|What ((are)) you?||||
+AngelP4|Why are you here?||||
+AngelP5|You caused the World Rend, didn't you? ||||
+AngelP6|I want you to leave.||||
+AngelP7|I want to use your power. ||||
+AngelP7a|So... what happens now?||||
+AngelP7b|Let me ask you something else.||||
+AngelP8|If we merge... what would happen to ((me))?||||
+AngelP9|Could this cause another World Rend?||||
+AngelP10|I want to banish you back to the Void. ||||
+AngelP11|I want to merge with you, and make a Heaven of my own. ||||
+AngelP12a|I need to know more before I can choose.||||
+AngelP12b|I still need to know more before I can choose.||||
+AngelP12c|Actually, wait. I still have questions.||||
+AngelP13|I need to think this over. ||||
+AngelP13b|Actually, I need to think this over. ||||
+AngelP14|Yes, you must return to the Void. ||||
+AngelP15a|No, let me think about this.||||
+AngelP15b|No, wait, let me consider this.||||
+AngelP16|Yes, I will create my own Heaven.||||
+AngelP17|I think I'm ready to choose.||||
+underCharmHologram1|Cipher network severed: Critical memory failure: Power levels dangerously low. ||||
+underCharmHologram2|FURTHER: Multiple organic anomalies detected: Reality distortion in progress. ##Additional  information restricted to Class-C citizens and above.||||
+underCharmHologram3|@@Look around, machine. Everyone is dead. You want a ((classy)) person? I'm the best you're gonna get. ||||
+underCharmHologram4|%%ANALYSING: Speaker's statement is correct. Population drastically reduced. Situation Critical.||||
+underCharmHologram5|ADDITIONAL INFORMATION REQUEST GRANTED. ||||
+underCharmHologram6|City of Albertus population decrease: Estimated 99.99%. ##Fungal growth in city limits: Critical Saturation.##ANOMALY DETECTED: Analysing. ||||
+underCharmHologram7|Certain fungi contain human genetic material: Traces of cipher channelling detected: Reality is being distorted nearby.||||
+underCharmHologram8|CONCLUSION: Speaker should pay special attention to the environment around humanoid fungi. All may not be as it seems. ##Ceasing communication. ||||
+underCharmHologram9|&&ANALYSING: Speaker is not a citizen: Estimated Class-Z (Alien; Immigrant; Etcetera). ##Ceasing communication immediately. ||||
+underCharmHologram10|This is pointless.||||
+cradleCharm1|CRADLE network breached: Security protocols overwritten: Control of mechanical humanoids severed. ||||
+cradleCharm2|FURTHER: Containment compromised for Prime Specimen (CODE: ANGEL): Entity is attempting to replicate. Access to CRADLE-WOMB sealed until threat nullified. ##Additional information restricted to Class-A citizens and above.||||
+cradleCharm3|@@All your ((citizens)) have been dead for hundreds of years. If you want to stop this Angel Spawn, I'm your only chance.||||
+cradleCharm4|((Leave)). ||||
+cradleCharm5|%%ANALYSING: Class-A population count: Zero. #Class-B population count: Zero. #Class-C population count: Zero. ||||
+cradleCharm6|ANALYSING: Threat level critical. Without containment: Prime Specimen replication will trigger Disaster Event Tier 0: Destruction of Reality.||||
+cradleCharm7|ADDITIONAL INFORMATION REQUEST GRANTED. ||||
+cradleCharm8|Prime Specimen (CODE: ANGEL) is attempting to replicate: The resulting Sub Specimen (CODE DESIGNATION: ANGELSPAWN) is located in the Power Relay Chamber. ||||
+cradleCharm9|Sub Specimen (CODE: ANGELSPAWN) is capable of distorting reality: Designated CLASS-A THREAT: Use of force not advised.||||
+cradleCharm10|CONCLUSION: Overloading the Power Relay Chamber may result in Sub Specimen's destruction without unnecessary conflict: Speaker should look for the FOUR (4) override terminals: high technical skill required. ##Ceasing communication.||||
+cradleCharm11|&&ANALYSING: Speaker is not a citizen: Estimated Class-Z (Alien; Immigrant; Etcetera). ##Ceasing communication immediately. ||||
+cradleCharm12|@@You need to reset security protocols if you want to regain control of the situation.||||
+cradleCharm13|%%ANALYSING: Speaker assessment correct. Resetting security protocols. Setting speaker (CODE: SPEAKER_467e) to status: NON-THREAT. ||||
+cradleCharm14|CONCLUSION:  mechanical humanoids will now attack all THREATS on sight, including those designated CODE: VELA_KICKS_ASS. ##Ceasing communication.||||
+cradleCharm15|CRADLE network stable. Security protocols functioning correctly.||||
+cradleCharm16|FURTHER: Containment secure for Prime Specimen (CODE: Angel).  ||||
+cradleCharm17|Tell me again how to defeat this so-called ((Angel Spawn.))||||
+VelaCradleAngry1|<<Vela stands over the lifeless body of her once-friend Orlaith, her sword still dripping with blood and her face twisted with fury.>> ##((You!))||||
+VelaCradleAngry2|You should be ((dead)). I stuck my sword into your heart, I saw your body fall. It would have taken a ((god)) to stop you from||||
+VelaCradleAngry3|<<Her eyes narrow.>> Oh, now I get it, Confessor. You really ((have)) been following in my footsteps, haven't you? ||||
+p101|You... ((killed)) Orlaith?||||
+VelaCradleAngry4|She attacked me; I had no ((choice)). And if it wasn't for ((you))...||||
+p102|What's happened to your arm? Your ((face))?||||
+VelaCradleAngry5|<<She flexes her arm, its black flesh pulsing with eldritch energy.>> ##Merely a byproduct of the ((unprecedented)) work we have been doing here. ||||
+p103|Vela, let's ((talk)) about this...||||
+VelaCradleAngry6|No more ((talk)), Confessor. Not after everything you've done. ||||
+p104|In the name of the Inquisition, I will cut you down. ||||
+VelaCradleAngry7|If a fight is what you want, I will ((gladly)) give it. ||||
+VelaCradleAngry8|((You)) turned my comrades against me, forcing my hand. Their blood is on ((your)) conscience as much as my own. ||||
+p105|They abandoned your cause long ago, Vela. ||||
+VelaCradleAngry9|<<She scoffs.>> They were just afraid of real change. None of them tried to ((assassinate)) me until you showed up.||||
+p106|Can't you just ((bring them back)) with that Angel of yours? ||||
+VelaCradleAngry10|<<Vela frowns, turning her head away.>> That... would be up to ((them)), not ((I)). And Orlaith... made clear her desire to eschew my vision of Heaven. ||||
+p107|If you had only let me ((help)) you... ||||
+VelaCradleAngry11|<<Vela snarls.>> Oh yes! If I'd only stayed in the ((Navy)) like a good little girl. If I'd only done what I was ((told)). If, if, ((if!))||||
+VelaCradleAngry12|<<She points her sword at you, Orlaith's blood still dripping from it.>> ##Get ready, Confessor. I won't let ((you)) nor the Inquisition get in the way of what comes next - for the sake of ((humanity)). ||||
+VelaCradleAngry13|En garde!||||
+p108|So be it.||||
+p109|Don't you mean for the sake of ((Isabet)), your sister? That's what this is ((really)) about.||||
+VelaCradleAngry14|<<Vela glares at you with a newfound fury.>> How ((dare)) you mention her name! You know ((nothing)) of her soul - of my ((family)).||||
+VelaCradleAngry15|Isabet was... she meant more to me than... ##<<Vela closes her eyes for a long moment.>>||||
+VelaCradleAngry16|Isabet and my mother ((burned alive)) in my father's mansion. That Isabet was taken so young, and I alone should live, speaks plainly of the injustice of this world. I won't ((apologise)) for wanting to change that.||||
+p110|What of the people who suffered for your vision? People like Caer, who you left to ((die))? ||||
+VelaCradleAngry17|<<Vela stutters, now stumbling over her words.>> Caer... ((betrayed)) me. I... I would have given my ((life)) for that girl, but she... She... ||||
+VelaCradleAngry18|@@ And now here you are, surrounded by the corpses of your ((new)) family. Was it worth it? Was Orlaith's death ((just?)) ||||
+VelaCradleAngry19|%% <<Vela stutters.>> I... they... They betrayed ((me!)) If only they had ((listened)), instead of... instead of... ##I didn't ((want)) to kill her. I... only meant to...||||
+VelaCradleAngry20|&& <<Vela's eyes go wide with shock - then narrow into slits of pure molten fury.>> ##I gave her the chance to stand down. I would have ((forgiven)) her. A privilege I will ((not)) grant ((you)).||||
+p111|Forget it. We'll finish this with our weapons. ||||
+VelaCradleAngry21|<<Vela's sword drops from her hands and clatters on the floor. Tears stream from her eyes, though she betrays not a sob.>> ||||
+VelaCradleAngry22|That's... what I always say, isn't it? 'I didn't want to'. 'They made me do it'. 'I had no choice'. ##<<She turns her gaze to the ceiling, blinking away tears.>> ((Damn)) you, Confessor... ||||
+VelaCradleAngry23|Do you... have any ((idea)) how long ((never)) is? Never to see my sister again. Never to hear her stupid little laugh. ##Godsdamnit, all I ((ever)) wanted - <<She screws up her eyes.>>||||
+VelaCradleAngry24|When I found that map it was like a fucking ((Djinn)) had answered my wish. Do you understand? Like a message from the universe, saying: maybe she died so I could save ((everyone)).||||
+VelaCradleAngry25|And at every step since then, I've made the same choice. Every principle twisted. Every dead friend. The Angel could make it right. ##So my debt kept growing, and growing, until...||||
+VelaCradleAngry26|<<Vela is silent for a long time. When she turns back to you it is with a despairing smile, her voice cracking with the desperate abandon of confession.>> ##I am so deep in blood that I can't even see the surface anymore.||||
+VelaCradleAngry27|<<Vela gestures hopelessly at the Angel.>> So you win, Confessor, the Angel will answer to the first mortal who speaks with it. If you think me a fool, then ((destroy)) it. ||||
+VelaCradleAngry28|Just... whatever you do, do it ((quickly)). Before I change my mind again. ||||
+p112|Thank you, Vela. ||||
+p113|((Just nod and leave.))||||
+VelaCradleAngry29|<<Vela wheezes and coughs, blood dribbling from her lips.>> ##It seems... I'm not the swordswoman... I used to be.||||
+VelaCradleAngry30|<<She grins weakly, showing teeth glazed in red.>> I guess it's up to ((you)) now, Confessor. The Angel... awaits.||||
+VelaCradleAngry31|Just consider... what I said. You could ((use)) it... to... ((save)) this broken world... ||||
+VelaCradleAngry32|<<Vela breaks into more coughing, straining to keep herself upright.>>||||
+VelaCradleAngry33|What's this - ((you)) again? ||||
+VelaCradleAngry34|That damned ((death god))! When I'm done with you, I will cut off its ((head))!||||
+VelaCradleSad1|<<Vela cradles Orlaith in her arms as her body shakes with silent sobs, tears flowing down her cheeks.>>||||
+VelaCradleSad2|<<She looks up at you with red eyes, all too human after all.>> ##So it's ((you)). Funny... I would've thought a sword through the heart would've proven more of a ((setback)). ||||
+p120|I had help from a ((friend)) of yours.||||
+VelaCradleSad3|I should've known you'd find ((that)) one. Quite the boon... ##<<She smiles weakly.>> Union don't know what they're missing. ||||
+p121|I'm full of surprises.||||
+VelaCradleSad4|Aren't you just, Confessor. ||||
+VelaCradleSad5|I... didn't want to kill her, you know. She came at me full force. I... only meant to disarm... ||||
+VelaCradleSad6|<<Vela closes her eyes, overwhelmed by a deep exhaustion.>> ##That's what I always say, isn't it? 'I didn't want to'. 'They made me do it'. 'I had no choice'.||||
+VelaCradleSad7|You were right, I think. About me and Isabet. I wasn't chasing this dream for anyone but ((myself)). For that mute, stunned little girl, standing in the ashes of her home.||||
+VelaCradleSad8|Do you have any ((idea)) how long ((never)) is? Never to see her again. Never to hear her stupid little laugh. ((Never.)) ##Truly, I don't know if ((anyone)) ever comes to terms with that.||||
+VelaCradleSad9|So I sailed around, pretending to be a saviour. Loosing my anger on whoever would play the villain. ##When I found that map... gods,  it was like a fucking ((Djinn)) granted my wish. Like a message from the universe, saying: maybe she died so you could do ((this)).||||
+VelaCradleSad10|Because really, who could dispute that logic? What price could outweigh saving everyone, forever? ##<<She shakes her head.>> Even Jack knew better than to gamble on credit.||||
+VelaCradleSad11|The more principles I twisted, the more blood I spilled, the more ((friends)) I led to their deaths... the more my debt grew. And the more the Angel seemed like the ((only)) solution.||||
+VelaCradleSad12|<<Vela meets your gaze again, eyes welling up, voice cracking with the desperate abandon of confession.>> ##So ((I)) can't be the one to make this choice. Not anymore. I am so deep in blood that I can't even see the surface.||||
+VelaCradleSad13|<<She lets her head fall to Orlaith's body again.>> Please. Go to the Angel. It'll answer to you. If you wish to ((destroy)) it, I won't stop you. ||||
+p122|Thank you, Vela. ||||
+p123|You're a prisoner of the Inquisition, now.||||
+VelaCradleSad14|<<Vela says nothing as she rocks her best friend back and forth like a baby, wracked every now and then by spasms of grief.>>||||

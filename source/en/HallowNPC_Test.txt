@@ -1,0 +1,10 @@
+NPC Name:|Gildernstern|||
+ID|English|Voidspeak|French|German
+c1|Nice to meet you!|HALLO||
+p1|What's cooking?|What smells?||
+p2|Your clothes are stupid. |You look dumb.||
+p3|Whatever, bye.|Seeya.||
+c2|What's cooking? Uh... pizza? |Pizza.||
+p4|Delicious! I had other questions.|Mmm. More Q's.||
+p5|Goodbye.|Bye.||
+c3|I'm hurt you would say this. Farewell.|Sod off.||

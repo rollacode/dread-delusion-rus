@@ -1,0 +1,9 @@
+ID|Key|isChoice|Choices|Can Exit|Return|Next|Conditions|Actions|English(EN)|French(FR)
+1||||||2|||Greetings, friend. Welcome to my emporium of delights!|
+2||||||3|||It's... uh... a little unfinished. Terribly sorry.|
+3||||||0|||Come back when the developer has got their act together, yes?|
+4||||||||||
+5||||||||||
+6||||||||||
+7||||||||||
+8||||||||||

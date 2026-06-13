@@ -1,0 +1,950 @@
+|1: English|2: French|3. German|4. Spanish|5. Italian
+THIS_LANGUAGE|English|French|German|Spanish|Italian
+AUTOMATIC_LANGUAGE|Automatic|Automatic|||
+VERSION_NUM|Version|Version|||
+START_GAME|Start Game|Start Game|||
+OPTIONS|Options|Options|||
+SCREEN_RESOLUTION|Screen resolution|Screen resolution|||
+RESOLUTION|Resolution|Resolution(F)|Resolution(G)|Resolution(S)|Resolution(I)
+CONTROLS|Controls|Controls|||
+BRIGHTNESS|Brightness|Brightness|||
+LOOK_SENSITIVITY|Look sensitivity|Look sensitivity|||
+FOV|Field of view|Field of view|||
+MUSIC|Music volume|Music volume|||
+SFX|Effects volume|Effects volume|||
+VOICEOVER|Voiceover volume|Voiceover volume|||
+CAMERA_MOTION|Camera motion|Camera motion|||
+VSYNC|VSync|VSync|||
+CAPFRAMERATE|Cap Framerate||||
+INVERT_Y|Invert Y Axis|Invert Y Axis|||
+FULL_SCREEN|Full screen|Full screen|||
+WOBBLY_GFX|Wobbly 3D|Wobbly 3D|||
+WOBBLY_TEXTURES|Wobbly Textures|Wobbly Textures|||
+RETRO_RES|Retro Resolution|Retro Resolution|||
+QUIT|Quit|Quit|||
+TITLE_SCREEN|Title Screen|Title Screen|||
+CANCEL|Cancel|Cancel|||
+ACCEPT|Accept|Accept|||
+BACK|Back|Back|||
+NEXT|Next|Next|||
+YES|Yes|Yes|||
+NO|No|No|||
+RETURN|Return|Return|||
+DELETE|Delete|Delete|||
+BINDING_X|Binding '{0}'.|Binding '{0}'.|||
+WAITING_FOR_INPUT|Waiting for input...|Waiting for input...|||
+PRESS_X_TO_CANCEL|Press {0} to cancel|Press {0} to cancel|||
+RESET_ALL|Reset All|Reset All|||
+RESET|Reset|Reset|||
+MOVEMENT|Movement|Movement|||
+ACTION|Action|Action|||
+SELECTION|Selection|Selection|||
+MENUS|Menus|Menus|||
+KEYBOARD|Keyboard|Keyboard|||
+CONTROLLER|Controller|Controller|||
+MOVE|Move|Move|||
+JUMP|Jump|Jump|||
+SPRINT|Sprint|Sprint|||
+DODGE|Dodge|Dodge|||
+CROUCH|Crouch|Crouch|||
+INTERACT|Interact|Interact|||
+SPELL|Spell|Spell|||
+ITEM|Item|Item|||
+SCOPE|Scope|Scope|||
+LANGUAGE|Language|Language|||
+HOLSTER_WEAPON|Holster Weapon|Holster Weapon|||
+SWITCH_WEAPON|Switch Weapon|Switch Weapon|||
+SWITCH_ITEM|Switch Item|Switch Item|||
+SWITCH_SPELL|Switch Spell|Switch Spell|||
+BLOCK|Block|Block|||
+MAP|Map|Map|||
+AIRSHIP_1|Airship 1|Airship 1|||
+RECENTER_CAMERA|Recenter Camera|Recenter Camera|||
+BOOST|Boost|Boost|||
+EXIT|Exit|Exit|||
+AIRSHIP_2|Airship 2|Airship 2|||
+ASCEND|Ascend|Ascend|||
+DESCEND|Descend|Descend|||
+TILTUP|Tilt Up|Tilt Up|||
+TILTDOWN|Tilt Down|Tilt Down|||
+REVERSE|Reverse|Reverse|||
+MENU|Menu|Menu|||
+DIFFICULTY|Difficulty Mode|Difficulty Mode|||
+DIFFICULTY_WARNING|This setting is permanent and cannot be changed during your playthrough.|This setting is permanent and cannot be changed during your playthrough.|||
+NORMAL_MODE|Normal Mode|Normal Mode|||
+NORMAL_MODE_SHORT|NORMAL|NORMAL|||
+HARD_MODE|Hard Mode|Hard Mode|||
+HARD_MODE_SHORT|HARD|HARD|||
+CHARACTER_CREATE|Character Creation|Character Creation|||
+YOUR_PAST|Your Past|Your Past|||
+PAGE_LEFT|Page Left|Page Left|||
+PAGE_RIGHT|Page Right|Page Right|||
+CONFIRM_SURE|Are you sure?|Are you sure?|||
+CONFIRM_TITLE|Return to title screen?|Return to title screen?|||
+CONFIRM_RESET|Reset controls to default?|Reset controls to default?|||
+CONFIRM_RESOLUTION|Keep this resolution? Will revert in a 5 seconds.|Keep this resolution? Will revert in a 5 seconds.|||
+CONFIRM_QUIT|Quit the game?|Quit the game?|||
+CONFIRM_ERASE_ONE|Erase data in slot one?|Erase data in slot one?|||
+CONFIRM_ERASE_TWO|Erase data in slot two?|Erase data in slot two?|||
+CONFIRM_ERASE_THREE|Erase data in slot three?|Erase data in slot three?|||
+CONFIRM_BUY|Buy for|Buy for|||
+CONFIRM_SELL|Sell for|Sell for|||
+CONFIRM_BUY_MULTI|Buy amount for|Buy amount for|||
+CONFIRM_SELL_MULTI|Sell amount for|Sell amount for|||
+CONFIRM_UPGRADE|Upgrade to|Upgrade to|||
+CONFIRM_USE_ITEM|Use this item?|Use this item?|||
+CONFIRM_EQUIP_ITEM|Equip this item?|Equip this item?|||
+INVENTORY|Inventory|Inventory|||
+EQUIPMENT|Equipment|Equipment|||
+USEABLES|Useables|Useables|||
+ITEMS_SPELLS|Items and Spells|Items and Spells|||
+SPELLS|Spells|Spells|||
+CHARACTER|Character|Character|||
+EMPTY_SLOT|Empty Slot|Empty Slot|||
+CORRUPT_DATA|CORRUPT DATA|CORRUPT DATA|||
+CORRUPT_DATA_NOTE|This data is corrupt. You must delete it. Please contact the developers for more info.|This data is corrupt. You must delete it. Please contact the developers for more info.|||
+SAVE|Save|Save|||
+SLOT|Slot|Slot|||
+ONE|One|One|||
+TWO|Two|Two|||
+THREE|Three|Three|||
+SLOT_ONE|Slot One|Slot One|||
+SLOT_TWO|Slot Two|Slot Two|||
+SLOT_THREE|Slot Three|Slot Three|||
+ATTRIBUTE|Attribute|Attribute|||
+DELUSIONS|Delusions|Delusions|||
+MIGHT|Might|Might|||
+GUILE|Guile|Guile|||
+WISDOM|Wisdom|Wisdom|||
+PERSONA|Persona|Persona|||
+HEALTH|Health|Health|||
+MANA|Mana|Mana|||
+STAMINA|Stamina|Stamina|||
+REGEN|Regen|Regen|||
+ATTACK|Attack|Attack|||
+LOCKPICK|Lockpick|Lockpick|||
+LORE|Lore|Lore|||
+CHARM|Charm|Charm|||
+DEFENCE|Defence|Defence|||
+AGILITY|Agility|Agility|||
+SPELLCAST|Spellcast|Spellcast|||
+BARTER|Barter|Barter|||
+DAMAGE|Damage|Damage|||
+ARMOUR|Armour|Armour|||
+DAM_1|Damage One|Damage One|||
+DAM_2|Damage Two|Damage Two|||
+POOR|Poor|Poor|||
+COMMON|Common|Common|||
+FINE|Fine|Fine|||
+SHROOMWEAVE|Shroomweave|Shroomweave|||
+CLOCKWORK|Clockwork|Clockwork|||
+VOIDSTEEL|Voidsteel|Voidsteel|||
+GLIMMERS|Glimmers|Glimmers|||
+GLIM_NEEDED|Glimmers Needed:|Glimmers Needed:|||
+CHARM_DIALOGUE|[Charm]|[Charm]|||
+CHARM_SUCCESS|[Success]|[Success]|||
+CHARM_FAIL|[Fail]|[Fail]|||
+NEED|Need|Need|||
+USE|Use|Use|||
+SAVING|Saving...|Saving...|||
+CREDITS|Credits|Credits|||
+MSG_REST_MUGGED_T|Mugged||||
+MSG_REST_MUGGED|You wake up groggy and notice something is amiss. Yes, there's no doubt; someone has been here while you were asleep. ##Fortunately, most of your gear was well hidden, but the thieves have stolen some coin.||||
+MSG_REST_ENEMY_T|Not Alone||||
+MSG_REST_ENEMY|A sharp noise rouses you. Groggy, you blink awake; but you are not alone in this place.||||
+MAP_NOCHARTS|You have not found any Map Charts.||||
+HOUSE_UNBUILT|Not Built||||
+HOUSE_UNFURNISHED|Unfurnished||||
+HOUSE_CONTRUCTING|Constructing||||
+HOUSE_BUILT|Built||||
+HOUSE_FURNISHED|Furnished||||
+HOUSE_ID_MANOR|Manor||||
+HOUSE_ID_MAINBUILD|Main House||||
+HOUSE_ID_WORKSHOP|Workshop||||
+HOUSE_ID_LIBRARY|Library||||
+HOUSE_ID_GARDEN|Garden||||
+HOUSE_ID_ENDLESS|Sepulchre House||||
+HOUSE_ID_END_MAIN|House||||
+HOUSE_ID_END_ANNEX|Annex||||
+HOUSE_ID_END_TOP|Top Floor||||
+HOUSE_ID_END_GARDEN|Garden||||
+HOUSE_ID_FORTRESS|Vela's Fortress||||
+HOUSE_ID_FORTRESS_1|Quarters||||
+HOUSE_ID_FORTRESS_2|Workshop||||
+HOUSE_ID_FORTRESS_3|Training Room||||
+HOUSE_ID_CWK|Clockwork Kingdom House||||
+HOUSE_ID_CWK_MAIN|House||||
+HOUSE_ID_CWK_WORKSHOP|Workshop||||
+HOUSE_ID_CWK_GARDEN|Balcony||||
+HOUSE_ID_CWK_LIBRARY|Annex||||
+HOUSE_PANEL_FURNISH|Change Theme:||||
+HOUSE_PANEL_TITLE|Upgrade Property||||
+HOUSE_CONFIRM_FURNISH|Redecorate the property in this style?||||
+HOUSE_CONFIRM_UNION|This property will be redecorated in the style of The Apostatic Union. Are you sure?||||
+HOUSE_CONFIRM_OUTLAW|This property will be redecorated in the style of ruffians and outlaws. Are you sure?||||
+HOUSE_CONFIRM_ENDLESS|This property will be redecorated in the macabre style of the Endless. Are you sure?||||
+HOUSE_CONFIRM_CWK|This property will be redecorated in the style of the Clockwork Kingdom. Are you sure?||||
+HOUSE_CONFIRM_BUILD|Upgrade this part of the property?||||
+HOUSE_CONFIRM_MAIN|Upgrade the central house?||||
+HOUSE_CONFIRM_WORKSHOP|Upgrade the workshop?||||
+HOUSE_CONFIRM_LIBRARY|Upgrade the library?||||
+HOUSE_CONFIRM_GARDEN|Upgrade the garden?||||
+HOUSE_NOTE_CONSTRUCT|This part of the property is still under construction.||||
+HOUSE_NOTE_COMPLETE|This part of the property is fully upgraded.||||
+HOUSE_NOTE_FURNISH|This is the cost to redecorate the property. Select a style to confirm.||||
+HOUSE_NOTE_NOTBOUGHT|You cannot upgrade this property as you do not own it.||||
+HOUSE_NOTE_NOSTYLES|You have not unlocked any furniture styles.||||
+HOUSE_NOTE_REDECORATING|You are in the process of redecorating.||||
+HOUSE_BUILD_NOTENOUGH|You lack the necessary materials to purchase this upgrade.||||
+HOUSE_FURNISH_NOTENOUGH|You lack the coin required to redecorate.||||
+HOUSE_FURNISH_GOTALREADY|You already have these furnishings.||||
+TROPHY_NOTE_NONE|You have not unlocked any trophies for this display.||||
+TROPHY_NOTE_ONE|You do not have any other trophies for this display.||||
+TROPHY_NO_WEAPON|You do not have a weapon equipped.||||
+FACTION_LOCKED|You must be friendly with this faction to gain entry.||||
+FACTION_HATED|Hated||||
+FACTION_ENEMY|Enemy||||
+FACTON_DISLIKED|Disliked||||
+FACTON_NEUTRAL|Neutral||||
+FACTON_ACCEPTED|Accepted||||
+FACTON_FRIENDLY|Friendly||||
+FACTON_LOVED|Loved||||
+FACTION_NAME_UNION|The Apostatic Union||||
+FACTION_NAME_WIKKAN|Wikkans||||
+FACTION_NAME_OUTLAW|Outlaws||||
+FACTION_NAME_DARKSTAR|Dark Star Mercenaries||||
+FACTION_NAME_ENDLESS1|Endless Royalists||||
+FACTION_NAME_ENDLESS2|Endless Cadavers||||
+FACTION_NAME_CWK1|Ferropolis||||
+FACTION_NAME_CWK2|Clockwork Rebels||||
+FACTION_NAME_EMBERIAN|Emberians||||
+FACTION_NAME_DEATHGOD|Death God||||
+FACTION_NAME_GOBLINS|Goblins||||
+FACTION_NAME_UNDEAD|Undead||||
+FACTION_NAME_MACHINES|Machines||||
+FACTION_NAME_CRYSTAL|Crystal Children||||
+FACTION_NAME_ONIONS|Rotten Onion Mercs||||
+FACTION_INFO_UNION|The Apostatic Union was formed roughly forty years ago, after its various member realms defeated the Wikkans in the God War. Their shared belief is that, for humanity to prosper, gods and god-worshippers must be expelled from human society. In the Union, to call someone 'devout' is an insult indeed.||||
+FACTION_INFO_WIKKAN|Even before the World Rend, Wikkan covens dominated the sky realms. The various Wikkan covens would negotiate pious contracts between men and gods, holding each to strict codes of conduct. The Apostatic Union, seeking the freedom to pursue their own study of cipher magic, defeated the Wikkans in the God War; and now their power is much diminished.||||
+FACTION_INFO_OUTLAW|A catchall term for the various brigands and ruffians inhabiting the Oneiric Isles. Being on the fringes of Apostatic Union territory, those islands have been relatively lawless until recently; with numerous criminal gangs finding safe haven there. Though they are often in competition with one another, word travels fast among the Outlaw gangs and it is possible to garner a reputation as a mercenary of note.||||
+FACTION_INFO_DARKSTAR|A mercenary band led by Vela Callose, the Dark Star Company is infamous across the Apostatic Union for their villainous deeds. It is said they will do anything for coin, and that they have amassed vast funds. They were last seen on the Oneiric Isles.||||
+FACTION_INFO_ENDLESS1|Loyal to the Queen of Silver, the Endless Royalists believe in honouring their monarch's intent. This includes feeding upon Penitent Thaw's mindless meat in place of sentient flesh. Such a stance has helped repair relations with mortal factions in the skyrealms over the past century or so.||||
+FACTION_INFO_ENDLESS2|The Endless Cadavers are a shadowy bunch, loosely organised under Lord Rhydder's command. They believe in returning to the dark days of the Cadaver Crusades, in which the endless would invade neighbouring islands and feast upon mortal flesh. This would, of course, be in stark defiance to the wishes of the Queen of Silver.||||
+FACTION_INFO_CWK1|text||||
+FACTION_INFO_CWK2|text||||
+FACTION_INFO_EMBERIAN|text||||
+FACTION_INFO_DEATHGOD|text||||
+FACTION_INFO_GOBLINS|A peculiar bunch of humanoid creatures, goblins are native to the Oneiric Isles. They are often seen wearing crafted wooden masks, attire that is said to be worn in an act of penitence for some past misdeed. They live in harmony with the forest and are especially fond of the giant moths found there.||||
+FACTION_INFO_UNDEAD|Ghosts and skeletal constructs. It is well documented that reviving a living being from the dead is impossible with cipher magic; but that does not stop certain souls from clinging to existence in some pathetic mockery of life.||||
+FACTION_INFO_MACHINES|Artificial constructs, often hostile to life. Many machines were produced in Kardova during the God War, and this legacy has continued since the founding of the Clockwork Kingdom. If these terrible machinations had some beneficial purpose, it is long forgotten; they roam wildly, attacking any threat their sensors detect.||||
+FACTION_INFO_CRYSTAL|Followers of a new goddess, deep below the Endless. Crystals grow from within.||||
+FACTION_INFO_ONIONS|text||||
+NOTE_FACTION_CHANGE1|now consider you:||||
+NOTE_FACTION_CHANGE2|now considers you:||||
+NOTE_AMMO_DEPLETED|You have run out of ammunition for this weapon.||||
+NOTE_ITEM_DEPLETED|You have depleted this item. Find more, or unequip.||||
+NOTE_FATIGUE_LEVEL|Your stats are reduced because of Fatigue. You should rest.||||
+NOTE_CANT_TELEPORT|You must target a transit crystal to teleport.|no crystal.|||
+NOTE_CANT_USE|You can't use that item now.|You can't use that item now.|||
+NOTE_NOT_IDLE|You can't do that right now.|You're busy.|||
+NOTE_NOT_USABLE|You can't use that right now.|You can't use that right now.|||
+NOTE_GAINED|Gained|Gained|||
+NOTE_PILFERED|Pilfered|Pilfered|||
+NOTE_PILFERED_COIN|Pilfered {0} coin.|Pilfered {0} coin.|||
+NOTE_PILFERED_COINS|Pilfered {0} coins.|Pilfered {0} coins.|||
+NOTE_PILFERED_PICK|Pilfered {0} lockpick.|Pilfered {0} lockpick.|||
+NOTE_PILFERED_PICKS|Pilfered {0} lockpicks.|Pilfered {0} lockpicks.|||
+NOTE_LOST|Lost|Lost|||
+NOTE_LOST_COIN|Lost {0} coin.|Lost {0} coin.|||
+NOTE_LOST_COINS|Lost {0} coins.|Lost {0} coins.|||
+NOTE_IN_COMBAT|You cannot do that while in combat.|You cannot do that while in combat.|||
+NOTE_EMBRACED|Embraced|Embraced|||
+NOTE_SUCCUMBED|Succumbed|Succumbed|||
+NOTE_HEALTH_POTION|a health potion.|a health potion.|||
+NOTE_MANA_POTION|a mana potion.|a mana potion.|||
+NOTE_DELUSION_WAITING|You have unspent Delusions. Increase your Attributes in the Journal.||||
+NOTE_LEVEL_UP|You embraced a Delusion. Use it to increase an Attribute.||||
+NOTE_GLIMMER|You glimpsed a Glimmer of Delusion. Collect more to gain a full Delusion.|Embraced a Glimmer of Delusion.|||
+NOTE_DELUSION|to a Delusion.|to a Delusion.|||
+NOTE_CANT_DO|You can't do that.|You can't do that.|||
+NOTE_COIN|coin.|coin.|||
+NOTE_COINS|coins.|coins.|||
+NOTE_COIN?|coin?|coin.|||
+NOTE_COINS?|coins?|coins.|||
+NOTE_PICK_SUCCESS|Lock picked!|Lock picked.|||
+NOTE_PICK_FAIL|Failed to pick lock. Lockpick broken.|Failed to pick lock. Lockpick broken.|||
+NOTE_PICK_NEAR_MISS|Near miss: pick not broken.|Near miss: pick not broken.|||
+NOTE_PICKS_FULL|Can't carry any more lockpicks.|Can't carry any more lockpicks.|||
+NOTE_PICKS_EMPTY|You don't have any lockpicks.|No picks.|||
+NOTE_PICK|lockpick|lockpick|||
+NOTE_PICKS|lockpicks|lockpicks|||
+NOTE_NO_MATS|You lack the required materials.|you lack the required materials.|||
+NOTE_NOT_ENOUGH|You don't have enough.|You are poor, mortal.|||
+NOTE_NO_COIN|You don't have enough coin.|You are poor, mortal.|||
+NOTE_CANT_STORE|You can't store this item.||||
+NOTE_ALCHEMY|You need two ingredients.|You have no flowers, fool!|||
+NOTE_HERB_PICKED|This item needs to grow back.|This flower is dead.|||
+NOTE_CREATURE_EMPTY|This creature has no items.|No stuff for you.|||
+NOTE_LORE_LOW|Your Lore skill is too low.|Your Lore is terrible.|||
+NOTE_ACTIVATED_ELSEWHERE|This is activated elsewhere.|You need to look harder.|||
+NOTE_MANA_NEEDED|Not enough mana.|Need more mind juice.|||
+NOTE_CANT_REST|You cannot rest here.|can't rest|||
+NOTE_OWNED_BED|This bed is owned by someone else; you can't use it.|owned bed|||
+NOTE_LORE_COMPLETE|Something has changed...|you diddidd it.|||
+NOTE_DOORMAN_FAIL1|The Doorman turns you away. You need|he said go away. you need|||
+NOTE_DOORMAN_FAIL2|Charm to talk your way in.|persona for him to like you|||
+NOTE_ITEM_GAINED|Item gained:|gotted item:|||
+NOTE_ITEM_REMOVED|Item removed:|ungotted item:|||
+NOTE_BARGAIN|coin saved. Bargain!|coin saved. Bargain!|||
+NOTE_BARGAIN_COIN|{0} coin saved. Bargain!|{0} coin saved. Bargain!|||
+NOTE_BARGAIN_COINS|{0} coins saved. Bargain!|{0} coins saved. Bargain!|||
+NOTE_PORTAL_NOKEY|This contraption seems to require a key.||||
+NOTE_PORTAL_GOTKEY|This Academy Portal is now active.||||
+NOTE_MAP_UPDATED|Your map has been updated.||||
+NOTE_MAP_NO|There are no landmarks nearby to mark on your chart.||||
+NOTE_DRUNK_0|You are feeling sober. You think.||||
+NOTE_DRUNK_1|You are feeling mildly tipsy.||||
+NOTE_DRUNK_2|You are quite drunk.||||
+NOTE_DRUNK_3|You are extremely plastered.||||
+NOTE_DRUNK_4|YoU Arrrrr Very Handshome. Yessh you Arrre. *Hic*.||||
+NOTE_PICKAXE|This vein was depleted long ago.||||
+NOTE_LANDMARK_NEAR|This looks like an interesting landmark.||||
+NOTE_SIMPLE_BUFF|You have gained a temporary buff:||||
+NOTE_MIRROR_ACTIVE|You step through the mirror and appear someplace... else.||||
+NOTE_MIRROR_INACTIVE|The shutters won't budge. This must be activated elsewhere.||||
+NOTE_MIRROR_EXIT|This mirror is broken beyond repair.||||
+NOTE_COMPONENT_NONE|This looks like it's missing something.||||
+NOTE_COMPONENT_MORE|This looks like it still could be missing something.||||
+NOTE_COMPONENT_COMPLETE|Something has changed...||||
+NOTE_SPELL_SLOT_LOCKED|You need more Spellcast to unlock this Spell slot.||||
+NOTE_SPELL_UNEQUIPPED|A Spell has been unequipped.||||
+NOTE_CANNOT_CAST|You cannot cast that right now.||||
+NOTE_CANNOT_SUMMON|You can't summon here.||||
+NOTE_TOOMANY_SUMMON|You've reached your summon limit.||||
+NOTE_CUTTER_BROKEN|This cutter needs to be repaired.||||
+NOTE_CUTTER_GROUNDED|This cutter can't be piloted while the dock is closed; the Blinding Light must be airborne.||||
+NOTE_CUTTER_SEECONFESSOR|Talk to the High Confessor first.||||
+AIRSHIP_ANCHOR_UP|The ship's anchor can't be lowered here.||||
+QUEST_STARTED|Quest started:|Hopeless:|||
+QUEST_FINISHED|Quest finished:|Hopeless:|||
+QUEST_UPDATED|Quest updated:|Hopeless:|||
+DOOR_BARRED|The door is barred from the other side.|Door barred.|||
+DOOR_NEED_KEY|The door needs a key.|Door locked.|||
+DOOR_NEED_FACT|The door is shut tight.|Door sealed|||
+DOOR_NEED_REMOTE|The door is sealed by an unseen device.|Door sealed|||
+DOOR_NEED_KEY_SMASH|The door needs a key... or perhaps a strong blow would suffice.|Door locked by key or might|||
+DOOR_NEED_KEY_REMOTE|The door needs a key... or perhaps an unseen device could do the trick.|Door locked by key or seal|||
+DOOR_NEED_REMOTE_SMASH|The door is sealed by an unseen device... or perhaps a strong blow would suffice.|Door locked by seal or might|||
+DOOR_NEED_KEY_REMOTE_SMASH|The door needs a key... or perhaps an unseen device could do the trick.|Door locked by key or seal or might|||
+NOTE_FULLSTOP|.|.|||
+NOTE_NEEDED|Needed|Needed|||
+NOTE_CHARM_SUCCESS|Charm challenge succeeded.|Suave success!|||
+NOTE_CHARM_FAIL|Charm challenge failed.|Utter failure!|||
+NOTE_CHARM_LUCK|Alluring perfume: Charm challenge succeeded.|Alluring perfume: Charm challenge succeeded.|||
+NOTE_CHARM_UNLUCKY|Charm challenge failed. Unlucky...|Charm challenge failed. Unlucky...|||
+NOTE_MIGHT_FAIL|You lack the Might to break this.||||
+NOTE_CANT_PASS_TIME|Cannot pass time here; area is unstable.|Can't wait.|||
+NOTE_LIFT|The lift is already here.|The lift is already here.|||
+NOTE_LIFT_INACTIVE|The lift is not yet active.|The lift is not yet active.|||
+NOTE_LIFT_NEEDITEM|This lift needs a key.|This lift needs a key.|||
+NOTE_LIFT_USEITEM|Used|Used|||
+NOTE_FORTRESS_INACTIVE|The fortress needs repairing before that will work.|The fortress needs repairing before that will work.|||
+NOTE_FORTRESS_MOVING|The fortress is already moving.|The fortress is already moving.|||
+NOTE_FRUIT|The supple fruit rejuvinates you||||
+NOTE_AIRSHIP_NO_DEED|You must purchase an airship deed before you can upgrade it.||||
+NOTE_CRITICAL_CAST|Critical Spellcast!||||
+STAT_DELUSIONS|Belief is everything. As your delusions grow, so does your power. Find enough Glimmers of Delusion - by exploring the world, or completing quests - and they will grant a full Delusion. Delusions can be spent to increase one of your core attributes.||||
+STAT_MIGHT|Increases your maximum Health. Governs the combat skills of Attack and Defence.||||
+STAT_GUILE|Increases your maximum Stamina. Governs the Lockpick and Agility skills.||||
+STAT_WISDOM|Increases your maximum Mana. Governs the Lore and Spellcast skills.||||
+STAT_PERSONA|Increases your Regen rate. Governs the Charm and Barter skills.||||
+STAT_HEALTH|The amount of damage you can take before you die. Replenished with rest or potions.||||
+STAT_MANA|Required to successfully cast certain spells. Replenished with rest or potions.||||
+STAT_STAMINA|Modifies attack damage and, at low levels, your skills. Maximum stamina depletes over time, but can be replenished by resting.||||
+STAT_REGEN|The speed at which your Stamina regenerates.||||
+SKILL_ATTACK|Increases damage done with all physical weapons.||||
+SKILL_LOCKPICK|Increases the chance of successfully picking a lock or disarming a trap. Requires lockpicks, which break upon failure.||||
+SKILL_LORE|Knowledge of ancient truths. Allows interaction with concealed mechanisms, to reveal hidden secrets.||||
+SKILL_CHARM|The ability to influence others through dialogue. Can reveal important information or resolve difficult encounters.||||
+SKILL_DEFENCE|Decreases damage received by enemy combatants.||||
+SKILL_AGILITY|Increases movement speed and jump height.||||
+SKILL_SPELLCAST|Increases the potency of spells, and how quickly you can call upon them.||||
+SKILL_BARTER|Allows for more favourable deals. Buy low and sell high.||||
+DAMAGE_REDUCTION|Based on Armour and Defence, combined damage reduction is||||
+SKILL_ARMOUR|Your Armour rating, based on the clothing and equipment you wear. Reduces damage taken by enemy attacks.||||
+WEAPON_DAMAGE|The total damage you do with the weapon in this slot. A combination of your Attack skill and the weapon's base damage.||||
+CHAR_PRELUDE_TITLE|Beginnings||||
+CHAR_PRELUDE|The world was long ago broken, its surface cursed. ##You are a dweller of the Skyrealms; drifting islands that cradle the last of human civilisation. ##Here, in the dank cell of an Inquisition ship, you ruminate on your past.||||
+CHAR_YOUTH_NULL|Dreams of childhood slip through your mind. Was your fate sealed, even then?||||
+CHAR_YOUTH_NULL_T|Youth||||
+CHAR_CAREER_NULL|The body grew, the mind sharpened. For a while you excelled.||||
+CHAR_CAREER_NULL_T|Career||||
+CHAR_DOWNFALL_NULL|Cracks showed, your guard slipped. The mistake was grave - the Inquisition had your scent.||||
+CHAR_DOWNFALL_NULL_T|Downfall||||
+CHAR_YOUTH|Dreams of childhood slip through your mind. Was your fate sealed, even then?||||
+CHAR_CAREER|The body grew, the mind sharpened. For a while you excelled.||||
+CHAR_DOWNFALL|Cracks showed, your guard slipped. The mistake was grave - the Inquisition had your scent.||||
+CHAR_MIGHT_T|Brawler||||
+CHAR_MIGHT|The idea of battle captivates you; it always has. You started by smashing sticks, before long you were clashing swords. There was never any question; you were a fighter through and through.||||
+CHAR_GUILE_T|Urchin||||
+CHAR_GUILE|Growing up, you were nobody; just another malnourished child clogging the city. Without the street gang you'd have died like the rest. They taught you to see what others didn't, to slip in where others couldn't. They taught you to survive.||||
+CHAR_WISDOM_T|Apprentice||||
+CHAR_WISDOM|As a child of remarkable promise from an unremarkable family, your parents sold you to a passing scholar. Your youth was spent copying tomes till your hands bled; but what you read, you did not forget.||||
+CHAR_PERSONA_T|Noble||||
+CHAR_PERSONA|A child of noble birth, you were dining with foreign dignitaries before you could walk. You learned manners and etiquette, but more than anything, tenacity - for the glittering halls of Riova can be more cutthroat than the darkest of alleys.||||
+CHAR_MIGHT_DAM_T|Soldier||||
+CHAR_MIGHT_DAM|You were drafted into the Apostatic Union's military. The God War might have ended, but the hunt for cultists had not. You toured the Union's fringes, fighting occult insurgents in bloody skirmishes - and seeing friend and foe cut down.||||
+CHAR_MIGHT_PICK_T|Mercenary||||
+CHAR_MIGHT_PICK|You joined a band of mercenaries, selling your swords to the highest bidder. When work was slow, you scavenged ruins or wrecked sky-ships to make ends meet. Before long you were as deft with lockpicks as a blade.||||
+CHAR_MIGHT_LORE_T|Inquisitor||||
+CHAR_MIGHT_LORE|You were sought out by the inquisition, who trained you as an agent. In the hunt for god worshippers you were taught their false histories, their untruths. You learned to sniff out their dens and decipher their hidden secrets.||||
+CHAR_MIGHT_CHARM_T|Assassin||||
+CHAR_MIGHT_CHARM|Frontline combat was always so... vulgar. You honed your skills in secret, while clinking glasses with powerful people in elegant ballrooms. When your employers slipped you a name, you killed with subtlety.||||
+CHAR_MIGHT_DEF_T|Traumatised||||
+CHAR_MIGHT_DEF|Years of killing took its toll. You slept lightly, a knife under the pillow, if you slept at all. Noises made you twitchy; in dark places, you saw the men you'd killed. One day you snapped, and killed a man in broad daylight, for all to see.||||
+CHAR_MIGHT_AGI_T|Deserter||||
+CHAR_MIGHT_AGI|You'd had your fill of bloodshed, but saw no way out. So you deserted. Your old comrades pursued you, over islands and sky ships, until you could run no more.||||
+CHAR_MIGHT_CAST_T|Fatal Miscast||||
+CHAR_MIGHT_CAST|To excel in combat, you studied not just the blade, but the secret language of the cosmos. You wrote spells of your own design - dangerous and illegal without training. But a spell backfired, killing the wrong person and sealing your fate.||||
+CHAR_MIGHT_BARTER_T|Arms Dealer||||
+CHAR_MIGHT_BARTER|Your knowledge in weaponry opened new avenues; you became an arms dealer, trading items of lethality. Such pursuits, however, are as profitable as they are illegal - and your luck didn't last forever.||||
+CHAR_GUILE_DAM_T|Hired Muscle||||
+CHAR_GUILE_DAM|You could take care of yourself, and were known for it. A Slev cartel recruited you as muscle; when they smuggled nefarious texts or illegal potions, you were there to make sure things didn't go south. And when they did, you cracked some skulls.||||
+CHAR_GUILE_PICK_T|Thief||||
+CHAR_GUILE_PICK|Thievery came easy. Your picks danced through locks with a lover's touch. You stole spells from scholars and treasures from sky ships. The city was yours, its doors wide open.||||
+CHAR_GUILE_LORE_T|Lore Broker||||
+CHAR_GUILE_LORE|In the Apostatic Union, some secrets are worth more than gold. You fraternized with cultists, traded illegal tomes and sought dangerous knowledge. If something was hidden, you could find it... for a price.||||
+CHAR_GUILE_CHARM_T|Fixer||||
+CHAR_GUILE_CHARM|In a bloody business, you kept your hands clean. In pubs and markets you built your network; mingling and scheming. Elsewhere, nefarious deeds were committed and you were, of course, never involved. But your purse was never empty, either.||||
+CHAR_GUILE_DEF_T|Betrayed||||
+CHAR_GUILE_DEF|In your line of business, you always kept your guard up - but sometimes it's not enough. In the end, you were sold out and left for dead, in a pool of your own blood.||||
+CHAR_GUILE_AGI_T|Paranoid||||
+CHAR_GUILE_AGI|As the years passed, your paranoia grew. You were always on the move; you never stayed in the same bed twice. Turned out you were right, though - they really were hunting you. And they found you.||||
+CHAR_GUILE_CAST_T|Outlaw Caster||||
+CHAR_GUILE_CAST|You hoarded spells and potions; many valuable, many useful. But too many. When fumbling for an invisibility spell, you accidentally opened a portal into an Inquisition ship - the worst destination possible.||||
+CHAR_GUILE_BARTER_T|Crime Lord||||
+CHAR_GUILE_BARTER|You always had a knack for acquiring ill-gotten goods; but eventually, this grew into an underground empire of trade. With success came infamy, and a brutal Inquisition raid put you behind bars.||||
+CHAR_WISDOM_DAM_T|Adventurer||||
+CHAR_WISDOM_DAM|At the first chance, you set out on your own. You travelled the sky realms, stowing on ships and sleeping under the stars. You learned much of the world, but you also learned how to defend yourself, as the open road is not for the faint hearted.||||
+CHAR_WISDOM_PICK_T|Aetherist||||
+CHAR_WISDOM_PICK|You proved adept with machinery, so the Aetherists' Guild took you as an apprentice. You learned hermetic magic, to seal a ship so it may touch the cosmos - but also the simple logic of locks and traps.||||
+CHAR_WISDOM_LORE_T|Scholar||||
+CHAR_WISDOM_LORE|Being accepted into a prestigious Byonne university, you learned of ancient gods, dead cities and the language of the universe. But above all, you learned to look beyond the obvious; to find the hidden truths of all things.||||
+CHAR_WISDOM_CHARM_T|Councillor||||
+CHAR_WISDOM_CHARM|Your treatises and polemics showed promise; you gained a position in a council in Riova, the political heart of the Apostatic Union. Before long you were hurling opinions into deafening debates.||||
+CHAR_WISDOM_DEF_T|Temple Raider||||
+CHAR_WISDOM_DEF|After learning of a powerful artifact in an ancient temple, you set out to obtain it. You trained to defend yourself against traps and monsters alike; but not to evade the Inquisition - who forbid the plunder of such places.||||
+CHAR_WISDOM_AGI_T|Hunted||||
+CHAR_WISDOM_AGI|In your studies, you learned of a forbidden word. A word whispered only in the dark; that opened unseen doors. Before you knew it, you were hunted by a shadowy organisation and forced to flee for your life.||||
+CHAR_WISDOM_CAST_T|Ambitious Caster||||
+CHAR_WISDOM_CAST|You were always adept at spellcraft, but eventually it became an obsession. You wrote a spell of such complex cipher logic that, when cast, it tore a hole in the veil of reality - making you a wanted criminal overnight.||||
+CHAR_WISDOM_BARTER_T|Bookseller||||
+CHAR_WISDOM_BARTER|You opened a bookshop in Riova; an emporium of knowledge, frequented by the most learned folk in the Apostatic Union. But when word got out that you stocked forbidden texts, the Inquisition showed you no mercy.||||
+CHAR_PERSONA_DAM_T|Battle-Councillor||||
+CHAR_PERSONA_DAM|To your family's chagrin, you sought the base thrill of combat. You enrolled as an infantry-councillor, honing your skills of both swordplay and debate; for in the Apostatic Union elections are decided by both.||||
+CHAR_PERSONA_PICK_T|Noble Thief||||
+CHAR_PERSONA_PICK|Though your family kept up appearances, their coffers were empty. You embraced a dubious morality; stealing from the dinners and balls you were invited to. At first it was just the odd goblet, but you performed ever more nefarious heists.||||
+CHAR_PERSONA_LORE_T|Occultist||||
+CHAR_PERSONA_LORE|While others attended parties, your head was buried in dusty tomes. You amassed a great library, frequenting bookshops and lectures. But people whispered that your tastes were unsavoury; that you sought banned texts and occult grimoires...||||
+CHAR_PERSONA_CHARM_T|Socialite||||
+CHAR_PERSONA_CHARM|You shunned professions of esteem, choosing instead the life of a socialite. You graced parties in Vena, Bayonne and Lundel where wine and gossip flowed. Your family's money bought you much, but the flash of your smile bought you more.||||
+CHAR_PERSONA_DEF_T|Election Rigger||||
+CHAR_PERSONA_DEF|You trained for one of the most important elections in the Apostatic Union. Such events are bloody and brutal, but in the end, your battle-council was found guilty of rigging; landing you in a jail cell.||||
+CHAR_PERSONA_AGI_T|Disgraced Family||||
+CHAR_PERSONA_AGI|Being a member of a noble family can bring a life of privilege, but when such a family falls from grace - they can fall hard. Your family was hunted and killed for their crimes, and you alone managed to flee.||||
+CHAR_PERSONA_CAST_T|Skilled Caster||||
+CHAR_PERSONA_CAST|Spellcasting was always a favourable pursuit; you entertained and impressed many. But you fell foul of the law when you accidentally made the clothes of a whole town disappear, leaving its people stark naked.||||
+CHAR_PERSONA_BARTER_T|Merchant||||
+CHAR_PERSONA_BARTER|Skilled in commerce, you established a network of shops - and even bought a merchant airship of your own. But when artifacts of god worship were found in your warehouse, the Inquisition detained you.||||
+CHEAT_MODE|Cheat mode activated!||||
+CHEAT_OFF|Cheat mode deactivated.||||
+ALTS_ON|Alternate Start Mode On.||||
+ALTS_OFF|Alternate Start Mode Off.||||
+DEBUG_ON|Debug mode activated!||||
+DEBUG_OFF|Debug mode deactivated.||||
+CHEAT_GRAVITY|Gravity disabled. Numpad 8 & 2 to fly.  LS + A/B on gamepad.||||
+CHEAT_GRAVITY_OFF|Gravity is enabled.||||
+CHEAT_SAVE|Game has been saved.||||
+CHEAT_GOD|God mode enabled - infinite HP and Mana, enemies won't aggro.||||
+CHEAT_GOD_OFF|God mode disabled.||||
+CHEAT_ITEMS|You now have a shitton of items. HAVE FUN||||
+CHEAT_RESET_ACHIEVEMENTS|STEAM ACHIEVEMENTS RESET!||||
+NPC_NONE|???||||
+NPC_EMBERIAN|The Emberian||||
+NPC_ORLAITH|Orlaith||||
+NPC_BASALT|Jack Basalt||||
+NPC_CHIASMA|Chiasma||||
+NPC_THAW|Penitent Thaw||||
+NPC_QUEEN|The Queen of Silver||||
+NPC_SENESCHAL|The Seneschal||||
+NPC_FANGDOOR|Fanged Door||||
+NPC_WYRM|Crypt Wyrm||||
+NPC_ENTOMBED|The Entombed One||||
+NPC_FLESH|Way of All Flesh||||
+NPC_MAGGOTSON|Maggotson||||
+NPC_RHYDDER|Lord Rhydder||||
+NPC_BARKEEP|Barkeep||||
+NPC_RUSTY|Ol' Rotter||||
+NPC_HAGGLES|Haggles||||
+NPC_CHAFFER|Chaffer||||
+NPC_GHOST|Ghost||||
+NPC_MYGHAR|Myghar||||
+NPC_SCHOLAR|Academy Scholar||||
+NPC_STUDENT|Wannabe Student||||
+NPC_YOUSSEF|Youssef||||
+NPC_AGENT|Inquisition Agent||||
+NPC_CARTOGRAPHER|Giovanni, Chief Cartographer||||
+NPC_AETHERIST|Jerome, Head Aetherist||||
+NPC_ALCHEMIST|Dohn, Prime Alchemist||||
+NPC_ENGINEER|Natalya, Chief Engineer||||
+NPC_HISTORIAN|Ghlem, Chief Historian||||
+NPC_POLYMATH|Union Polymath||||
+NPC_USABLES|Hallow Alchemist||||
+NPC_CLERK|Council Clerk||||
+NPC_TAILOR|Hallow Tailor||||
+NPC_ODDITIES|Emporium Owner||||
+NPC_WEAPONS|Weaponsmith||||
+NPC_CARETAKER|Caretaker||||
+NPC_VIERME|Vierme||||
+NPC_EZRA|Ezra Thornwood||||
+NPC_BERWIG|Vernon Berwig||||
+NPC_MINE_NOBLE|Lord Romulous Chairon VII||||
+NPC_MINE_SCULPTOR|Lucia, Holy Sculptor||||
+NPC_FLESH_BROKER|Flesh Broker||||
+NPC_DUCHESS|The Duchess||||
+NPC_DAUGHTER_HAND|Ellyn's Hand||||
+NPC_GROUNDSKEEP|Groundskeeper||||
+NPC_CADAVER_GATEKEEP|Gatekeeper||||
+NPC_CADAVER_GUARD|Cadaver Guard||||
+NPC_CWK_SAM|Sammol||||
+NPC_CWK_HORACE|Horace||||
+NPC_CWK_FROST|Caxton Frost||||
+NPC_CWK_VIDAL|Vidal, Vision Trader||||
+NPC_CWK_MIKHAIL|Mikhail||||
+NPC_CWK_HUANG|Director Huang||||
+NPC_CWK_QUARSHIE|Quarshie||||
+NPC_CWK_JACZEMIR|Jaczemir||||
+NPC_CWK_LASCAUX|Madame Lascaux||||
+NPC_CWK_XENIA|Baba Xenia||||
+NPC_CWK_MAC|Shady Mac||||
+NPC_CWK_KING|Its Majesty, the King||||
+NPC_CWK_SUNIL|Sunil, King's Speaker||||
+NPC_CWK_APHRA|Aphra, Chief Interpreter||||
+NPC_CWK_MOROZOV|Morozov||||
+NPC_CWK_REZA|Reza, The Sabeteur||||
+NPC_CWK_OLEG|Oleg Igorovich||||
+NPC_CWK_PRIPP|Doctor Pripp||||
+NPC_CWK_YASMEEN|Yasmeen||||
+NPC_CWK_NADJA|Nadja||||
+NPC_LLUDD|Lludd||||
+NPC_CULWYCH|Culwych||||
+NPC_OLWEN|Mayor Olwen||||
+NPC_DWYNN|Dwynn||||
+NPC_NUDD|Nudd||||
+NPC_ONION|Rotten Onion Guard||||
+NPC_ONION_LEADER|John Birdbark||||
+NPC_EMYR|Emyr||||
+NPC_GHUTRID|Ghutrid||||
+NPC_EM_INQ|Wounded Inquisitor||||
+NPC_VELA|Vela Callose||||
+DEMO_START_TITLE|Beginnings||||
+DEMO_START|The world is broken. Its surface is cursed, inhospitable. Those that remain cling to islands in the sky. Somehow, you know this. ##You awaken, groggy and confused.||||
+DEMO_END_TITLE|A Strange Throb||||
+DEMO_END|A strange throb, inside you. Then another. You feel nauseous; your legs are weak. ##Suddenly - a loud bang and a sharp pain. You look down; there's a bloody hole in your chest. ##It appears your heart has exploded.||||
+TUT_EQUIP_TITLE|Equipping Items||||
+TUT_EQUIP|To equip items, open the ((Journal)) and navigate to the ((Equipment)) window.##Use the ((Loadout)) tab to equip weapons, armour and accessories.##The other two tabs allow you to equip for spells and quick-items.||||
+TUT_USABLES_TITLE|Usables and Spells||||
+TUT_USABLES|Spells and quick-items must be equipped in the ((Equipment)) menu before use.##Once equipped, press [[Spell]] to use spells and [[Item]] to use items.##You can scroll through equipped items with [[Switch Item]], or spells with [[Switch Spell]].||||
+TUT_ATTRIBUTES_TITLE|Delusion Attributes||||
+TUT_ATTRIBUTES|There are four ((Delusion Attributes)) - the fundamental attributes which govern your skills: ((Might, Wisdom, Guile)) and ((Persona)). ##To increase these attributes, you must find enough ((Glimmers of Delusion)) by exploring or completing quests.||||
+TUT_SKILLS_TITLE|Skills||||
+TUT_SKILLS|There are a number of ((Skills)) that determine your effectiveness at certain tasks.##Some are active-skills such as ((Lockpick)) or ((Lore)), which let you interact with objects in the world##Others are passive-skills such as ((Defence)) and ((Regen)). ##Skills can be improved by increasing the ((Delusion Attribute)) that governs it, or with special equipment.||||
+TUT_LOCKPICK_TITLE|Lockpick Skill||||
+TUT_LOCKPICK|Some doors can be unlocked using a lockpick item.##Your chance of success is governed by your ((Lockpick)) skill - which is governed by your ((Guile)).##If an attempt fails, one of your lockpicks will break.||||
+TUT_LORE_TITLE|Lore Skill||||
+TUT_LORE|Some doors can be opened via hidden mechanisms. These secret switches require a high enough ((Lore)) skill and a small amount of mana to unlock.##The lore skill is governed by your ((Wisdom)). You may be able to further increase it using special equipment.||||
+TUT_CHARM_TITLE|Charm Skill||||
+TUT_CHARM|Certain characters will withhold information from you. You must persuade them to speak freely.##Your success is determined by your ((Charm)) skill.##Charm is governed by your ((Persona)) attribute. You may be able to further increase it using special equipment.||||
+TUT_COMBAT_TITLE|Combat||||
+TUT_COMBAT|With an unholstered weapon, press [[Attack]] to perform a normal attack.##Hold it for a slower but more powerful attack.||||
+TUT_STEALTH_TITLE|Stealth||||
+TUT_STEALTH|In many cases, combat is avoidable. Press [[Crouch]] to toggle sneaking; your footsteps will not make any sound. ##Alternatively, you can sneak up behind an enemy to perform a stealth attack. Damage to unaware enemies will be multiplied.||||
+TUT_STAMINA_TITLE|Stamina||||
+TUT_STAMINA|Your attack damage depends on your current ((Stamina)) - the lower your stamina, the less damage you'll do. ##Your maximum stamina will also deplete slowly over time. If it reaches half its original value, you will become ((Fatigued)); temporarily reducing all stats. ##Maximum Stamina can be restored by sleeping in a bed or using a Stamina Potion.||||
+TUT_BLOCKING_TITLE|Blocking and Parrying||||
+TUT_BLOCKING|Hold [[Block]] to reduce incoming enemy damage.##If you time a block just as an enemy attack lands, you will ((Parry)) it. Successful parries negate all damage and will stagger the enemy. ##Blocking and Parrying are not possible when your stamina is empty.||||
+TUT_CRAFTING_TITLE|Crafting||||
+TUT_CRAFTING|Crafting Stations will allow you to modify your equipment.##Ore can improve weapons and armour. Thread can improve clothing.##Search the world for rare crafting items to create even better equipment.||||
+TUT_ALCHEMY_TITLE|Alchemy||||
+TUT_ALCHEMY|Alchemy Stations will allow you to brew usable items by combining two ingredients.##Herbs can be found around the world and can be combined to create potions##Many different items can be combined for unique results.||||
+TUT_CRYSTALS_TITLE|Crystal Points||||
+TUT_CRYSTALS|((Crystal Points)) will restore your ((Mana)). ##Use the Home spell to return to the last Crystal Point visited. You will also appear at the last used Crystal Point when loading the game.||||
+TUT_THIEF_TITLE|Demo Class - Thief||||
+TUT_THIEF|The loadout of a petty thief. ##This [[Demo Class]] is agile, with some skill in [[Lockpicking]]. You will start with a dagger and some basic leather armour. ##((Classes are only available in this demo. In the full game, you will craft your character as you play.))||||
+TUT_MERC_TITLE|Demo Class - Mercenary||||
+TUT_MERC|The loadout of a seasoned warrior. ##This [[Demo Class]] has strong combat skills and starts with sturdy armour, but you will lack the more specialised skills of other classes.  ##((Classes are only available in this demo. In the full game, you will craft your character as you play.))||||
+TUT_CASTER_TITLE|Demo Class - Cipher Scholar||||
+TUT_CASTER|The loadout of a spellcaster. ##This [[Demo Class]] has a range of spells and a decent [[Lore]] skill, though they lack a good offensive weapon. ##((Classes are only available in this demo. In the full game, you will craft your character as you play.))||||
+TUT_NOBLE_TITLE|Demo Class - Noble||||
+TUT_NOBLE|The loadout of a confident noble. ##This [[Demo Class]] is adept at dialogue challenges, with high [[Charm]] and [[Barter]] skills. ##((Classes are only available in this demo. In the full game, you will craft your character as you play.))||||
+TUT_STATUS_TITLE|Status||||
+TUT_STATUS|Your current status is represented by three stats; ((Health)), ((Mana)) and ((Stamina)).##To restore your status, rest in a bed or drink a potion.||||
+TUT_DEATH_TITLE|Death||||
+TUT_DEATH|A powerful entity has taken an interest in you. ##By their grace, you will be plucked from the jaws of death and transported to a ((Death Shrine)), without losing items or progress.||||
+TUT_REGIONS_TITLE|Regions||||
+TUT_REGIONS|The Apostatic Union has set up many checkpoint bridges throughout the land. ##To pass into another region, you will require a ((Union Passport)) - one per checkpoint.||||
+TUT_SAVING_TITLE|Autosave||||
+TUT_SAVING|The game saves your progress at regular intervals, such as when crossing between regions, using a ((Crystal Point)) or quitting the game.||||
+TUT_DELUSIONS_TITLE|Delusions||||
+TUT_DELUSIONS|((Glimmers of Delusion)) can be obtained by gathering blue skulls or by completing quests. ##Collect enough Glimmers to gain a ((Delusion Point)), which can be used to upgrade your Attributes.##Open your ((Journal)) and go to the ((Character)) window to spend Delusions.||||
+TUT_DAY_TITLE|Time of Day||||
+TUT_DAY|As the great neuron star moves through the sky, the day progresses through dawn, noon, dusk and night.##Some areas change at different times of day. ##To progress time, rest in a bed.||||
+TUT_BEDS_TITLE|Beds||||
+TUT_BEDS|Resting in beds recovers your health, mana and maximum stamina. ##Beds can be cheaply rented at inns.##You may also find unattended beds throughout the world. However, some are unsafe, and you will be taking a chance by resting in them.||||
+TUT_PLAYERHOUSE_TITLE|Player Housing||||
+TUT_PLAYERHOUSE|Open the chest to get the ((Manor Deed)), then use the small wooden house model to upgrade your manor. Some upgrades require you to rest in a bed; there is one behind you.||||
+TUT_PLAYERHOUSELEAVE_TITLE|Player Housing||||
+TUT_PLAYERHOUSELEAVE|You cannot leave this island in this demo build.||||
+TUT_AIRSHIP_TITLE|Your Airship||||
+TUT_AIRSHIP|With an airship in your possession, you are now a veritable sky captain. ##You may cast the [[Emergency Airship Reembarkation]] spell to return to your airship at any time. Do this if you become stranded away from your ship. ##You may disembark your airship anywhere, but it is often wise to do so at [[Airship Docks]], where you can interact with [[Airship Stations]] to upgrade and modify your ship. To purchase new upgrades, visit the different [[Airship Guild]] members who are often found at Docks. ##If you disembark while flying above solid ground, your airship will [[drop anchor]]. Interact with the anchor to [[descend]] or [[ascend]] promptly. ##You should also check the [[Controls]] menu to familiarise yourself with how the airship handles.||||
+SIGN_ORLAITH_MAP|A strange map...||||
+SIGN_RUSTBURG_WELCOME_T|RUSTBURG, Market Town.||||
+SIGN_RUSTBURG_WELCOME|Here lies the largest Emberian ruin in the Oneiric Isles. ##We trade in underlands metal & Embieran antiques.||||
+SIGN_RUSTBURG_WARNING_T|NOTICE TO ALL||||
+SIGN_RUSTBURG_WANING|On this year 1406, the town of Rustburg is hereby abandoned. By decree of the Apostatics, no coin shall pass b'tween hands here. ##Let this be a warning to all who harbour Wikkans and their vile gods.||||
+SIGN_CADAVER_WELCOME_T|CADAVER LANDS||||
+SIGN_CADAVER_WELCOME|You are hereby entering the domain of the Cadavers. ##Only those loyal to our cause will be granted entry to Cadaver Keep.||||
+SIGN_CADAVER_CRUSADE_T|CADAVER CRUSADES||||
+SIGN_CADAVER_CRUSADE|This statue stands in memoriam to all the Endless who lost their lives in the Cadaver Crusades. ##All creatures are permitted to follow their nature, be they predator or prey. None should feel shame for their instincts.||||
+SIGN_ROAMING_ISLE_T|ATTENTION: Roaming Island!||||
+SIGN_ROAMING_ISLE|The Apostatic Union Geological Society has classified this a Roaming Island, as it has been known to drift erratically. In other words, it might not be here forever...||||
+SIGN_STOPBARRIER_T|Cannot Pass||||
+SIGN_STOPBARRIER|The owner of this place won't let you past this point.||||
+DETAIL_GODWARMACHINE_T|Old Contraptions||||
+DETAIL_GODWARMACHINE|You recognise these old machines are God War relics; inoperable and mostly useless. Such strange contraptions are rarely seen outside the Clockwork Kingdom these days.||||
+DETAIL_DARKSTARDESK_T|A Cluttered Desk||||
+DETAIL_DARKSTARDESK|An assortment of maps, notes and diagrams clutter the table, detailing the planned exploits of the Dark Star mercenaries. One in particular catches your eye; an expedition to the cursed underlands, far below the skyrealms...||||
+BUFF_HEALTH_TITLE|Health Skill Buff||||
+BUFF_HEALTH|Your maximum Health has been temporarily buffed.You can practically feel the cipher magic in your heartbeat.||||
+BUFF_AGILITY_TITLE|Agility Skill Buff||||
+BUFF_AGILITY|Your Agility has been temporarily buffed. You feel light as a feather.||||
+BUFF_REGEN_TITLE|Regen Skill Buff||||
+BUFF_REGEN|Your Regen has been temporarily buffed. You will recover much faster.||||
+BUFF_SPELLCAST_TITLE|Spellcast Skill Buff||||
+BUFF_SPELLCAST|Your Spellcast has been temporarily buffed. Careful not to singe your eyebrows with those spells, now.||||
+BUFF_ATTACK_TITLE|Attack Skill Buff||||
+BUFF_ATTACK|Your Attack has been temporarily buffed. You could cleave a helmet in two. Probably.||||
+BUFF_LOCKPICK_TITLE|Lockpick Skill Buff||||
+BUFF_LOCKPICK|Your Lockpick has been temporarily buffed. No keyhole can stop you.||||
+BUFF_CHARM_TITLE|Charm Skill Buff||||
+BUFF_CHARM|Your Charm has been temporarily buffed. Who could possibly resist you?||||
+BUFF_BARTER_TITLE|Barter Skill Buff||||
+BUFF_BARTER|Your Barter has been temporarily buffed. You're not going to be short-changed anytime soon.||||
+BUFF_LORE_TITLE|Lore Skill Buff||||
+BUFF_LORE|Your Lore has been temporarily buffed. It all seems so much clearer, suddenly.||||
+BUFF_DEFENCE_TITLE|Defence Skill Buff||||
+BUFF_DEFENCE|Your Defence has been temporarily buffed. You feel like a castle. A rather fleshy, squidgy castle.||||
+BUFF_MANA_TITLE|Mana Skill Buff||||
+BUFF_MANA|Your Mana has been temporarily buffed. Your mind fizzles with extra power.||||
+BUFF_STAMINA_TITLE|Stamina Skill Buff||||
+BUFF_STAMINA|Your Stamina has been temporarily buffed. Those hills won't get you out of breath now.||||
+BUFF_FATIGUE_TITLE|Fatigued||||
+BUFF_FATIGUE|Your stamina is low, so you have become Fatigued - which has reduced all your main Attributes by 1. To recover, rest in a bed or use a Stamina Potion.||||
+BUFF_CURSE_TITLE|Cursed||||
+BUFF_CURSE|You have become Cursed, lowering all your main Attributes by 1.||||
+DEBUFF_POISON_TITLE|Poisoned||||
+DEBUFF_POISON|You are poisoned! You will take damage over time.||||
+BUFF_LUCK_TITLE|Lucky||||
+BUFF_LUCK|You are Lucky. Everything just seems that little bit easier, all of a sudden. All your main Attributes have been raised by 1.||||
+BUFF_REGENBUFF_TITLE|Regenerate||||
+BUFF_REGENBUFF|Your Regen has been temporarily buffed. You will recover much faster.||||
+BUFF_CASTBUFF_TITLE|Spellcast||||
+BUFF_CASTBUFF|Your Spellcast has been temporarily buffed. Careful not to singe your eyebrows with those spells, now.||||
+BUFF_DEFBUFF_TITLE|Defensive||||
+BUFF_DEFBUFF|Your Defence has been temporarily buffed. You feel like a castle. A rather fleshy, squidgy castle.||||
+BUFF_REGENHEAL_TITLE|Regenerate Health||||
+BUFF_REGENHEAL|A spell is gradually restoring your Health. The cipher magic flows through your veins, giving your skin a pale blue glow.||||
+BUFF_POISONWPN_TITLE|Poisoned Weapons||||
+BUFF_POISONWPN|You have coated your weapons in a deadly poison. Enemies you strike will take damage over time.||||
+BUFF_ALLYBUFF_TITLE|Allied Buff||||
+BUFF_ALLYBUFF|You have been buffed by an ally, increasing your stats.||||
+BUFF_SPEED_TITLE|Enchanted Speed||||
+BUFF_SPEED|A spell is greatly boosting your Agility. Be careful not to run off the edge of the Skyrealms, now...||||
+BUFF_TRUTH_TITLE|Reveal Truth||||
+BUFF_TRUTH|You can temporarily see the truth of things. This effect reveals secrets that have been hidden by illusion magic.||||
+BUFF_FADE_TITLE|Fade Spell||||
+BUFF_FADE|You are temporarily invisible; your enemies won't see you coming.||||
+BUFF_DRUNK_TITLE|Drunk||||
+BUFF_DRUNK|You are drunk. Some stats have been raised, others lowered. Remember to drink responsibly, or you may wake up in a lake with no pants.||||
+DREAM_VAMP1_TITLE|Restless Sleep||||
+DREAM_VAMP1|Your sleep is restless; your dreams are strange. ##You see a city of sparkling towers crumble to dust in a searing light. You feel a monster slide down your throat, warming and pleasant. And you hear the screams of your mother as you flee for your life. ##You wake in a cold sweat. Blood is on your pillow.||||
+DREAM_VAMP2_TITLE|Strange Dreams||||
+DREAM_VAMP2|You dream of a journey, through foreign towns and exotic lands. But when you return home, all has changed. You search for your friends, but cannot find them. You search for your lover, but they are gone. You find your parents; but they are dead and buried under gravestones. ##Suddenly, the future unfurls before you; plain as day. Everyone you love will turn to dust. ##You wake screaming. There is blood running down your neck.||||
+DREAM_VAMP3_TITLE|Invigorating Dreams||||
+DREAM_VAMP3|You dream of soaring through the skyrealms. Your wings take you over dense forests; sprawling metropolises and crumbling ruins. You land in a field of brilliant flowers under a green star, and feel a cool breeze embrace you. ##You wake, inspired, knowing that anything is possible. You barely notice the blood on your pillow.||||
+MANOR_SALE_TITLE|TO BE SOLD: Thornwood Manor||||
+MANOR_SALE|A two hundred year manor, once stately and fine, that has fallen into disrepair. ##The manor grounds comprise an entire island, just off the south of Hallowshire. With the right investor this could be a thriving estate once more. ##For inquiries, visit the clerk in Hallow Town council.||||
+MANOR_CLUE_TITLE|A Curious Find||||
+MANOR_CLUE_PAPERS|You find papers and rolls of parchment outlining the study of various monsters. ##Most seem to feature the vierme; a parasitic organism that uses its host to feed on the dreams of its prey.||||
+MANOR_CLUE_CIPHER|You find numerous documents on the theory and practice of cipher magic. They seem to all focus on a single spell that could imprison even the most violent of creatures, binding them to a limited radius. Some pages are torn, with sections removed. You cannot find the spell in question.||||
+MANOR_CLUE_SMITHY|A small smithy was in operation here; perhaps just to maintain just a limited, personal arsenal. The blades are of a strange design and rusted beyond repair. It has not been used in some time.||||
+MANOR_CLUE_STATUE|The statue has a haunting presence, but it looks as though some elements are missing. On closer inspection, this seems to be intentional. Perhaps replacing the missing parts will yield some hidden function.||||
+NOTE_MANOR_STATUE|This statue seems to be missing something.||||
+NOTE_MANOR_STATUE2|This statue is still missing something.||||
+SIGN_MANOR_MINE_TITLE|APOSTATIC UNION COUNCIL NOTICE||||
+SIGN_MANOR_MINE|To prospective or current owners of the Thornwood Manor property: ##This mine is in disrepair and has been sealed shut. ##Its refurbishment will be included in the [[Workshop Upgrade]] available for purchase at a [[Property Station]].||||
+SIGN_MANOR_CHAPEL|To prospective or current owners of the Thornwood Manor property: ##This chapel is in disrepair and has been sealed shut. ##Its refurbishment will be included in the [[Library Upgrade]] available for purchase at a [[Property Station]].||||
+SIGN_MANOR_CAVE|To prospective or current owners of the Thornwood Manor property: ##This cavern annex is in disrepair and has been sealed shut. ##Its refurbishment will be included in the [[Garden Upgrade]] available for purchase at a [[Property Station]].||||
+SIGN_CWK_MAIN_TITLE|ATTENTION ALL CITIZENS||||
+SIGN_CWK_MAIN1|In response to recent Outrages by the vile SABOTEUR, Its Majesty's Servants are conducting a SECURITY OPERATION in this District.##Anyone found in violation of this Order shall be presumed an Agent of the Saboteur & treated accordingly.##LONG LIVE THE KING.##Century 0, Year 27, Month 6, Day 45||||
+SIGN_CWK_MAIN2|It is of utmost Gravity that you immediately report all signs of Corruption to the proper Authorities in your District. KNOW THESE OMENS:##1) Unusual Behaviour or physical Defects among Livestock & other Animals.##2) Confusion in finding your Way through familiar Places.##3) Mirages of the Eye & Ear.##4) Taste or Smell of Lilac where there is no Lilac.##LONG LIVE THE KING.##Century 0, Year 26, Month 3, Day 13||||
+SIGN_CWK_OLEG_TITLE|Out Werking||||
+SIGN_CWK_OLEG|Back - Nun of your Bisnis!!! ##Strictly NO Flyers, Pamphlits, Missionrys, Carolllers, Toenaile Collectors, or other Scoundrels. ##BEWARE OF MAN. ##- Oleg Myshkin||||
+SIGN_CWK_PROG_AD|The city of ((PROGRESS)) is where our glorious Kingdom is ((FORGING the FUTURE)) - with our own Hands. Exciting Opportunities are available for: ##Wire Weavers ##Phosphorous Whiskers ##Steam Lathe & Drill Press Operators ##Compressed Air Workers (hazard pay applies) ##Infrahull Rune Engravers (must be shorter than 4 ft 11) ##Void Fumigators & Dethaumatisers ##LONG LIVE THE KING. Century 0, Year 19, Month 6, Day 59||||
+SIGN_CWK_SCHOOLHOUSE_TITLE|Emergency Work Rota||||
+SIGN_CWK_SCHOOLHOUSE|Citizens Wong, Murray, Ustinov – Guarding schoolhouse ##Citizens Heinz, Krupke, Singh, Ghazaryan – Street patrol ##Citizens Roth, Doyle, Filipovich – Welfare checks & barricade maintenance ##Citizen Onwurah – Creche duty ##Citizens Gallo & Kenzie – Infirmary duty ##Citizen Muir – Quartermaster & talent show M.C.||||
+SIGN_PWYLL_LIFT_T|PWYLL FOREST||||
+SIGN_PWYLL_LIFT|This platform leads down to [[Pwyll Forest.]] ##BEWARE: Unlike the newfangled dual-directional lifts of Hallowshire, this lift is one-way.||||
+DIRECTION_WAYSIGN_T|Waysign Reads:||||
+DIRECTION_BL|This way to ##[[THE BLINDING LIGHT]]##Fortress.||||
+DIRECTION_PWYLL|This way to ##[[PWYLL]],##Home to Pwyll Village.||||
+DIRECTION_PWYLLVILLAGE|This way to ##[[PWYLL VILLAGE]],##Purveyors of the prophetic Scryshroom Tea.||||
+DIRECTION_ONIONS|This way to ##[[GOD WAR FORT]].##((The above has been crossed out, and someone has scrawled))##The Esteemed ROTTEN ONION Mercenary Camp||||
+DIRECTION_SACREDSHROOM_NOTE|This way to ##[[THE SACRED SHROOM]].##((Someone has scrawled)) Fuck Aenguin ((underneath.))||||
+DIRECTION_SACREDSHROOM|This way to ##[[THE SACRED SHROOM]].||||
+DIRECTION_NOGGIN|This way to ##[[THE WOBBLY NOGGIN]].##Ye Olde Pub, serving ale and providing bed and board.||||
+DIRECTION_HALLOWSHIRE|This way to ##[[HALLOWSHIRE]]##((A note has been added:))##Presided over by Hallow Town Council as of 1442.||||
+DIRECTION_HALLOWTOWN|This way to ##[[HALLOW TOWN]].##||||
+DIRECTION_RUSTBURG|This way to ##[[RUSTBURG]].##||||
+DIRECTION_THORNWOOD|This way to ##[[THORNWOOD MANOR]].##||||
+DIRECTION_BELLTOWER|This way to ##[[HALLOW BELLTOWER]].## ((The sign is old and weathered.))||||
+DIRECTION_HALLOWCASTLE|This way to ##[[HALLOW CASTLE]].## ((Someone has scrawled)) ACCURSED PLACE ((underneath)).||||
+DIRECTION_HALLOWMINES|This way to ##[[HALLOW MINES]].## ((Someone has scrawled)) BANDITS ((underneath)).||||
+DIRECTION_PAEGUTHRUINS|This way to ##[[PAEGUTH RUINS]].##||||
+DIRECTION_SKIFF|This way to ##[[SKIFF DOCK]].##||||
+DIRECTION_ENDLESS|This way to ##[[THE ENDLESS REALM]].##||||
+DIRECTION_SEPULCHRE|This way to ##[[THE CITY OF SEPULCHRE]].##||||
+DIRECTION_CADAVERKEEP|This way to ##[[CADAVER KEEP]].##||||
+DIRECTION_FLESHFARM|This way to ##[[FLESH FARMS]].## Please visit the esteemed PENITENT THAW for enquiries.||||
+DIRECTION_ENDLESSMINES|This way to ##[[THE CRYSTAL MINES]].##||||
+DIRECTION_MINES|This way to ##[[MINES]].##||||
+DIRECTION_MAUSOLEUM|This way to ##[[MAUSOLEUM VII]].##||||
+DIRECTION_MAUSOLEUM2|This way to ##[[MAUSOLEUM IX]].##||||
+DIRECTION_RHYDDER|This way to ##[[THE RHYDDER ESTATE]].##||||
+DIRECTION_DUCHESS|This way to ##[[THE DUCHESS' MANOR]].##||||
+DIRECTION_EMBERIANRUIN|This way to ##[[EMBERIAN RUINS]].##||||
+DIRECTION_CWK|This way to ##[[THE CLOCKWORK KINGDOM]].## ((Someone has scrawled)) The Kingdom is BROKEN||||
+DIRECTION_FER|This way to ##[[FERROPOLIS]],## Largest and most prosperous city in the Oneiric Isles.||||
+DIRECTION_VISIONWORKS|This way to ##[[ROYAL VISION WORKS]].##Inquire today about being a vision worker. The Kingdom wants your dreams!||||
+DIRECTION_MOROZOV|This way to ##[[MOROZOV'S TOWER]].##||||
+DIRECTION_FROST|This way to ##[[SAMMOL'S PLACE]].## ((A note has been added crudely:))##Horace Metcalfe stories rule!||||
+DIRECTION_CORRUPTED|This way to ##[[THE CORRUPTED LANDS]].##On command of the King, all citizens are forbidden entry.||||
+DIRECTION_PROGRESS|This way to ##[[THE CITY OF PROGRESS]].##((An attached note:)) These ruins are OFF-LIMITS.||||
+DIRECTION_OBJGRAVE|This way to ##[[THE OBJECT GRAVEYARD]].##No fly-tipping!||||
+DIRECTION_BEACON|This way to ##[[ROYAL BEACON]].##Only Machinists permitted.||||
+DIRECTION_LIBUNTRUTH|This way to ##[[THE LIBRARY OF UNTRUTH]].##||||
+DIRECTION_CLEANUP|This way to ##[[CLEANUP CAMP]].##||||
+MAP_HW_MID|Central Hallowshire||||
+MAP_HW_EAST|Eastern Hallowshire, Farmland||||
+MAP_HW_WEST|Western Hallowshire, Forest||||
+MAP_HW_SOUTH|Southern Hallowshire, Marsh||||
+MAP_EN_NORTH|Northern Endless Region||||
+MAP_EN_MID|Central Endless Region||||
+MAP_EN_SOUTH|Southern Endless Region||||
+MAP_ST|Dark Star Hideout||||
+MAP_CWK_NORTH|Northern Clockwork Kingdom||||
+MAP_CWK_MID|Central Clockwork Kingdom||||
+MAP_CWK_SOUTH|Southern Clockwork Kingdom||||
+MAP_ENDGAME_NW|North West Fringes||||
+MAP_ENDGAME_NE|North East Fringes||||
+MAP_ENDGAME_SW|South West Fringes||||
+MAP_ENDGAME_SE|South East Fringes||||
+LMRK_FARM|Inquisition Raid||||
+LMRK_TREE|Hollowed-Out Tree||||
+LMRK_RIVER|Vertical Shell||||
+LMRK_HALLOWTOWN|Hallow Town||||
+LMRK_MAUSOLEUM_N|Northern Mausoleum||||
+LMRK_MAUSOLEUM_S|Southern Mausoleum||||
+LMRK_FLESH|Penitent Thaw's Flesh Farm||||
+LMRK_SEPULCHRE|Sepulchre||||
+LMRK_RHYDDER|Lord Rhydder's Estate||||
+LMRK_VELA|Vela's Fortress||||
+LMRK_BELLTOWER|Bell Tower||||
+LMRK_DUNGEON|Peaguthian Dungeon||||
+LMRK_TOWER|Brigand Tower||||
+LMRK_TYPHOS|Golden Typhos Airship||||
+LMRK_CASTLE|Hallow Castle||||
+LMRK_CARTO_HW|Cartographer Tent||||
+LMRK_WITCH|Strange House||||
+LMRK_EMBERIAN|Emberian Vault||||
+LMRK_ACADEMY|Erudite Academy||||
+LMRK_WIKKAN_ISLE|Wikkan Island||||
+LMRK_RIBS|Castle of Ribs||||
+LMRK_WYRM|Sentient Wyrm||||
+LMRK_THORNWOOD|Thornwood Manor||||
+LMRK_DUCHESS|Duchess' Estate||||
+LMRK_VERDANT|Ruins of Verdant||||
+LMRK_CADAVERKEEP|Cadaver Keep||||
+LMRK_RUSTBURG|Rustburg||||
+LMRK_EMBERIANDUNGEON|Emberian Vault||||
+LMRK_KNIGHTHIDEOUT|Emberian Ruin||||
+LMRK_UNTRUTHS|Library of Untruths||||
+LMRK_FERROPOLIS|Ferropolis||||
+LMRK_CLEANUPCAMP|Cleanup Camp||||
+LMRK_FROST|Dreamer's Reprieve||||
+LMRK_OBJGRAVEYARD|The Object Graveyard||||
+LMRK_VISIONWORKS|The Royal Vision Works||||
+LMRK_PROGRESS|Lost City of Progress||||
+LMRK_BEACON|The Royal Beacon||||
+LMRK_DIGGER|Digging Engine||||
+LMRK_MOROZOV|Morozov's Tower||||
+LMRK_SACREDSHROOM|Sacred Shroom||||
+LMRK_PWYLLVILLAGE|Pwyll Village||||
+LMRK_ROTTENONIONS|Rotten Onions||||
+LMRK_MECH|God War Machine||||
+LMRK_GODSKELETON|Skeleton of a God||||
+LMRK_SNAIL|Secret Shop||||
+LMRK_CRASHEDSHIP|Crashed Emberian Ship||||
+LMRK_MOLLUSC|Coven of the Mollusc Castle||||
+SUMMON_SKELETON_0|Bingo||||
+SUMMON_SKELETON_1|Screamer||||
+SUMMON_SKELETON_2|Death Rattle||||
+SUMMON_SKELETON_3|The Ripper||||
+SUMMON_ARCHER_0|God Killer||||
+SUMMON_ARCHER_1|Droog||||
+SUMMON_ARCHER_2|Don't Give Up||||
+SUMMON_ARCHER_3|Blood Splatter||||
+SUMMON_CASTER_0|Bright Bones||||
+SUMMON_CASTER_1|Blaster||||
+SUMMON_CASTER_2|Toxic Fume||||
+SUMMON_CASTER_3|Tomeworm||||
+SUMMON_SHIELD_0|The Coward||||
+SUMMON_SHIELD_1|Town Menacer||||
+SUMMON_SHIELD_2|Blondy||||
+SUMMON_SHIELD_3|Iron Blood||||
+SUMMON_SPIDER_0|Rusty Jaws||||
+SUMMON_SPIDER_1|Horsepower||||
+SUMMON_SPIDER_2|Jimmy||||
+SUMMON_SPIDER_3|The Creature||||
+PWYLL_RITUAL_T|Occult Instruments||||
+PWYLL_RITUAL|Various occult instruments litter the chamber. They've been assembled in a haphazard, amateurish way - but nonetheless, they seem to be having the desired effect. A pervasive sense of dread fills the air, and while the colossal god corpse that dominates the room appears to be lifeless - you sense an eldritch presence stirring. ##Amongst the clutter you find a key, covered in tiny mushrooms. Culwych will want to hear about this.||||
+PWYLL_NAUTILOB_T|Suspicious Notes||||
+PWYLL_NAUTILOB|The desk contains a number of scrawled notes, mostly pertaining to illusion spells. From what you find here, you can surmise that someone was trying to cast an illusion of significant scale. There are also numerous anatomical sketches of nautilobs... ##It seems that the giant monster isn't at all what it seems. It was a trick, this whole time.||||
+PWYLL_MAYOR_BASEMENT_T|Wikkan Antiques||||
+PWYLL_MAYOR_BASEMENT|You find an assortment of Wikkan antiques; notes on contract-rites, old dusty garments and a number of unfamiliar instruments.||||
+PWYLL_SACREDSHROOM_T|A Nauseating Stench||||
+PWYLL_SACREDSHROOM|The nauseating stench of bile engulfs the flesh-chamber. Before you, a huge digestional tract pulsates and throbs with corrosive acid. ##It would seem as though this mushroom has ((organs.)) ##You can just make out a figure squirming behind layers of translucent flesh; you should investigate.||||
+CRYSTALSKULL_INACTIVE|Nothing seems to happen.||||
+CRYSTALSKULL_TIMERSTART|You feel a sudden sense of urgency...||||
+CRYSTALSKULL_TIMERFAIL|Somewhere, an hourglass has run empty.||||
+CRYSTALSKULL_COMPLETE|A sudden sense of euphoria: all the skulls are awakened.||||
+CRYSTALSKULL_SIGN|Best Record:||||
+CRYSTALSKULL_TIMETRIAL|Can you beat your fastest time?||||
+CRYSTALSKULL_FAST|New Record!||||
+CRYSTALSKULL_SLOW|Too Slow...||||
+STAT_PLAYERKILLS|Player Kills||||
+STAT_PLAYERDEATHS|Player Deaths||||
+STAT_SUMMONKILLS|Summon Kills||||
+STAT_ENTICELEVEL|Entice Level||||
+STAT_TEASDRUNK|Teas Drunk||||
+STAT_BEERSDRUNK|Beers Drunk||||
+CONTEXT_PLAYERKILLS|The total number of lives, human or otherwise,you have taken.||||
+CONTEXT_PLAYERDEATHS|The total number of times the Chained God has pulled you back from the brink of death.||||
+CONTEXT_SUMMONKILLS|The total number of lives your summoned creatures have taken in your name.||||
+CONTEXT_ENTICELEVEL|Your current Entice Spell level, used to determine whether an enemy can be Enticed to fight for you. The base level is determined by your Charm stat, but certain modifiers can increase Entice even further.||||
+CONTEXT_TEASDRUNK|The number of teas you have drunk. Remember to take tea breaks regularly, preferably somewhere with a lovely view.||||
+CONTEXT_BEERSDRUNK|The number of beers you have drunk. Please drink responsibly, and do not drive your airship while under the influence.||||
+INTRO_SUB1|Our world is long since shattered||||
+INTRO_SUB2|but hope still flickers||||
+INTRO_SUB3|in our darkest dreams.||||
+INTRO_SUB4|Few would guess that our fate would be||||
+INTRO_SUB5|decided upon the Oneiric Isles||||
+INTRO_SUB6|an almost forgotten archipelago||||
+INTRO_SUB7|of the southern skyrealms.||||
+INTRO_SUB8|On these uncanny islands||||
+INTRO_SUB9|the Apostatic Union||||
+INTRO_SUB10|power-drunk after slaughtering||||
+INTRO_SUB11|their once exalted gods||||
+INTRO_SUB12|...maintains but a paltry presence.||||
+INTRO_SUB13|Under their negligent gaze||||
+INTRO_SUB14|the deep forests and dark places||||
+INTRO_SUB15|teem with cutthroats... cultists||||
+INTRO_SUB16|...and worse.||||
+INTRO_SUB17|In the desolate endless realm||||
+INTRO_SUB18|poor souls languish undying||||
+INTRO_SUB19|in decrepit mausoleums||||
+INTRO_SUB20|...yearning for their lost mortality.||||
+INTRO_SUB21|While the clockwork kingdom||||
+INTRO_SUB22|ruled by the crooked logic||||
+INTRO_SUB23|of its manufactured monarch||||
+INTRO_SUB24|strives to transform not just the realm||||
+INTRO_SUB25|...but reality itself.||||
+INTRO_SUB26|All these regions have their part to play||||
+INTRO_SUB27|in this unfolding story.||||
+INTRO_SUB28|But it begins fathoms below in the underlands||||
+INTRO_SUB29|a ruinous wasteland||||
+INTRO_SUB30|where none can draw breath for long.||||
+INTRO_SUB31|It is here that a secret waits||||
+INTRO_SUB32|to be uncovered||||
+INTRO_SUB33|by someone whose dreams||||
+INTRO_SUB34|burn brighter than any.||||
+INTRO_SUB35|...but will those dreams kindle||||
+INTRO_SUB36|into a radiant destiny?||||
+INTRO_SUB37|Or will we burn||||
+INTRO_SUB38|...in the folly of Delusion?||||
+Escape|Escape||||
+Space|Space||||
+Enter|Enter||||
+Tab|Tab||||
+Up Arrow|Up Arrow||||
+Down Arrow|Down Arrow||||
+Left Arrow|Left Arrow||||
+Right Arrow|Right Arrow||||
+Left Shift|Left Shift||||
+Right Shift|Right Shift||||
+Shift|Shift||||
+Left Alt|Left Alt||||
+Right Alt|Right Alt||||
+Alt|Alt||||
+Left Control|Left Control||||
+Right Control|Right Control||||
+Control|Control||||
+Left System|Left System||||
+Right System|Right System||||
+Context Menu|Context Menu||||
+Backspace|Backspace||||
+Page Down|Page Down||||
+Page Up|Page Up||||
+Home|Home||||
+End|End||||
+Insert|Insert||||
+Delete|Delete||||
+Caps Lock|Caps Lock||||
+Num Lock|Num Lock||||
+Print Screen|Print Screen||||
+Scroll Lock|Scroll Lock||||
+Pause/Break|Pause/Break||||
+Numpad Enter|Numpad Enter||||
+Numpad /|Numpad /||||
+Numpad *|Numpad *||||
+Numpad +|Numpad +||||
+Numpad -|Numpad -||||
+Numpad .|Numpad .||||
+Numpad =|Numpad =||||
+Numpad 1|Numpad 1||||
+Numpad 2|Numpad 2||||
+Numpad 3|Numpad 3||||
+Numpad 4|Numpad 4||||
+Numpad 5|Numpad 5||||
+Numpad 6|Numpad 6||||
+Numpad 7|Numpad 7||||
+Numpad 8|Numpad 8||||
+Numpad 9|Numpad 9||||
+Numpad 0|Numpad 0||||
+Left Button|Left Button||||
+Right Button|Right Button||||
+Middle Button|Middle Button||||
+Forward|Forward||||
+Back|Back||||
+Left/Right|Left/Right||||
+Up/Down|Up/Down||||
