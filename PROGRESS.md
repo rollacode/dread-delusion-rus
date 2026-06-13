@@ -18,11 +18,11 @@
 | Dialogue_Endless_Mines | 195 | ✅ пейн RUS-Isles (род, дышащий, образность рождения) |
 | FactionDialogue | 162 | ✅ пейн RUS-Isles (Хэллоу Таун склон., Венна, бутылочные видения) |
 | Dialogue_GodHunt | 154 | ✅ пройден (Инквизиция кап.) |
-| Dialogue_GameEndings | — | ☐ |
-| ArtifactQuestDialogue | — | ☐ |
-| ObjectDialogue / HallowQ | — | ☐ |
-| bookData_AllLanguages | — | ☐ |
-| delusionItemText_English | — | ☐ |
+| Dialogue_GameEndings | 120 | ✅ пейн RUS-Items (cornucopia→изобилие, по иронии судьбы) |
+| ArtifactQuestDialogue | 50 | ✅ пейн RUS-Items (чисто, без ошибок) |
+| ObjectDialogue / HallowQ | 9/4 | ✅ пейн RUS-Items (Канонерка Велы; HallowQ — тест-данные) |
+| bookData_AllLanguages | 36 | ✅ пейн RUS-Items (Коррупция→Искажение эссе, Сообщение, Переводчик, мband-fix) |
+| delusionItemText_English | 247 | ✅ пейн RUS-Items (тир Хороший, шелкопряд, Пустоты, Скаль Расмуссена, Искажённый) |
 | delusionTasks_allLanguages | — | ☐ |
 
 Глобально применено: склонения «Союза Вероотступников», опечатки, термины (Заблуждение/Острова Грёз/Королевство Механизмов), тир «Плохой», авторазмер шрифта (плагин).
