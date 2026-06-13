@@ -7,7 +7,7 @@
 | generalData_AllLanguages | — | ✅ пройден (термины, интро, UI, монеты, тиры) |
 | AcademyDialogue | 743 | ✅ 2 прохода |
 | shopsHallowDialogue | 261 | ✅ пройден |
-| Dialogue_MainQuest | — | ⏳ в работе |
+| Dialogue_MainQuest | 823 | ✅ пройден (8 чанков, 7 правок) |
 | Dialogue_Clockwork | — | ☐ |
 | Dialogue_Endless | — | ☐ |
 | Dialogue_CharacterQuests | — | ☐ |
