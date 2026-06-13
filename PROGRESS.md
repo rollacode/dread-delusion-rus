@@ -12,7 +12,7 @@
 | Dialogue_Endless | — | ☐ |
 | Dialogue_CharacterQuests | — | ☐ |
 | Dialogue_Pwyll | — | ☐ |
-| Dialogue_HighConfessor | — | ☐ |
+| Dialogue_HighConfessor | 716 | ✅ пройден (катер-калька, идиомы, скобки, род) |
 | HallowQuestDialogue | — | ☐ |
 | Dialogue_Isles | — | ☐ |
 | Dialogue_Endless_Mines | — | ☐ |
