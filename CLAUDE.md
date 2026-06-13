@@ -1,75 +1,86 @@
-# Dread Delusion RUS — рабочая памятка проекта
+# Dread Delusion RUS — project guide
 
-Русификатор игры **Dread Delusion** (Steam, Unity IL2CPP 2022.3). База перевода — LiquidRing; порт на текущую версию, редактура и сборка — rollacode. Репозиторий: `github.com/rollacode/dread-delusion-rus`.
+Russian translation of **Dread Delusion** (Steam, Unity IL2CPP 2022.3). Base translation by LiquidRing; port to the current version, editing and packaging by rollacode. Repo: `github.com/rollacode/dread-delusion-rus`.
 
-## Как устроен перевод
-Все игровые тексты лежат в `resources.assets` игры как Unity **TextAsset**'ы. Перевод = подмена байтов `m_Script` каждого TextAsset на русский вариант. Делается через **UnityPy** поверх чистой английской базы (`resources.assets.orig_backup`), поэтому версия Unity/IL2CPP не важна и сборка детерминирована.
+## How the translation works
+All in-game text lives in the game's `resources.assets` as Unity **TextAsset**s. Translating = replacing each TextAsset's `m_Script` bytes with the Russian version. Done with **UnityPy** on top of a clean English base (`resources.assets.orig_backup`), so the Unity/IL2CPP version doesn't matter and builds are deterministic.
 
-**Источник истины — `source/ru/*.txt`.** Английский эталон — `source/en/*.txt` (НЕ редактировать). Имя файла = имя TextAsset.
+**Source of truth: `source/ru/*.txt`.** English reference: `source/en/*.txt` (do NOT edit). Filename = TextAsset name.
 
-Формат строк — `|`-разделённый CSV. В большинстве диалоговых файлов русский текст идёт в колонке 1 (сразу после ID), английский оригинал — в `source/en`. Разметка в тексте: `##` перенос строки, `[[…]]` ссылки-глоссарий, `((…))` акцент, `<<…>>` ремарки, `{0}` плейсхолдеры — сохранять как в оригинале.
+Lines are `|`-delimited CSV. In dialogue files the Russian text is in column 1 (right after the ID); the English original is in `source/en`. In-text markup — `##` line break, `[[…]]` glossary links, `((…))` emphasis, `<<…>>` stage directions, `{0}` placeholders — must be preserved exactly.
 
-## Структура репозитория
+## Repo layout
 ```
-source/ru/   — русские тексты (правим тут)
-source/en/   — английский эталон (read-only)
-build/       — собранный resources.assets (gitignored артефакт)
-dist/        — зип для раздачи (gitignored)
-scripts/build.py — сборщик
-wiki/        — RU-вики по игре (рендерится на GitHub)
-GLOSSARY.md  — канонические переводы терминов (СВЕРЯТЬСЯ перед правкой)
-LORE.md      — лор мира/персонажей (источник для вики)
-METHOD.md    — методика редактуры + чек-лист проверок
-PROGRESS.md  — статус вычитки по файлам
-README.md    — описание для пользователей
+source/ru/   — Russian text (edit here)
+source/en/   — English reference (read-only)
+build/       — built resources.assets (gitignored artifact)
+dist/        — distribution zip (gitignored)
+scripts/build.py — the builder
+wiki/        — RU wiki source pages (mirrored to the GitHub Wiki, see below)
+GLOSSARY.md  — canonical term translations (check before editing)
+LORE.md      — world/character lore (source for the wiki)
+METHOD.md    — editing method + review checklist
+PROGRESS.md  — per-file review status
+README.md    — user-facing description (points to the Wiki)
 ```
 
-## Сборка
+## Building
 ```bash
-py -3 scripts/build.py            # собрать -> build/resources.assets
-py -3 scripts/build.py --deploy   # + скопировать в живую игру (перезаписать resources.assets)
+py -3 scripts/build.py            # build -> build/resources.assets
+py -3 scripts/build.py --deploy   # also copy into the live game (overwrite resources.assets)
 ```
-Путь к игре зашит в `scripts/build.py` (`GAME = F:\SteamLibrary\...\Dread Delusion\windows_content`). Менять там при другом расположении. Запуск игры на тест: `windows_content/Dread Delusion.exe`.
+The game path is hardcoded in `scripts/build.py` (`GAME = F:\SteamLibrary\...\Dread Delusion\windows_content`); change it for a different install. To play-test: run `windows_content/Dread Delusion.exe`.
 
-## Окончания строк (важно!)
-`.gitattributes` помечает `source/** -text` — git хранит байты как есть. Большинство файлов **CRLF**. Инструменты правки на Windows тоже пишут CRLF — нормально, если файл уже CRLF. Но несколько мелких файлов были **LF**: перед коммитом сверь
+## Line endings (important)
+`.gitattributes` marks `source/** -text`, so git stores bytes verbatim. Most files are **CRLF**. Editing tools on Windows also write CRLF — fine if the file is already CRLF. A few small files were **LF**; before committing, check:
 ```bash
-file source/ru/X.txt           # рабочая
-git show HEAD:source/ru/X.txt | file -   # как в репо
+file source/ru/X.txt                       # working copy
+git show HEAD:source/ru/X.txt | file -     # committed
 ```
-Если HEAD=LF, а рабочая стала CRLF → верни LF: `sed -i 's/\r$//' source/ru/X.txt` (иначе diff раздувается «изменены все строки» и ломает построчное ревью).
+If HEAD=LF but the working copy became CRLF, restore LF: `sed -i 's/\r$//' source/ru/X.txt` (otherwise the diff balloons to "all lines changed" and breaks line-by-line review).
 
-## ⚠️ СТРУКТУРНЫЕ ТАБЛИЦЫ — НЕ ЛОМАТЬ КВЕСТЫ
-Файлы `delusionTasks_allLanguages`, `delusionItemData_Master`, `delusionAlchemyComboData_Master`, `delusionPlayerHouse_Upgrades` — это таблицы с колонками-ФЛАГАМИ (ID, `Yes/No`, имена фактов `TutorialStarted`, числа, `FactionInq`…) И колонками-прозой. **Переводить ТОЛЬКО прозу. НИКОГДА флаги/ID/Yes-No/числа.** Был баг: перевод `Yes→Да` в `startsTask` ломал триггеры квестов (весы Весовщика, журнал).
-- В `delusionTasks` проза = колонка 20 (поле `20: English`); колонки 1-19 — флаги.
-- Перед/после правки проверяй целостность флагов:
+## ⚠️ STRUCTURAL TABLES — do not break quests
+`delusionTasks_allLanguages`, `delusionItemData_Master`, `delusionAlchemyComboData_Master`, `delusionPlayerHouse_Upgrades` are tables with FLAG columns (IDs, `Yes/No`, fact names like `TutorialStarted`, numbers, `FactionInq`…) AND prose columns. **Translate ONLY prose. NEVER flags/IDs/Yes-No/numbers.** Known bug: translating `Yes→Да` in `startsTask` broke quest triggers (Weighmaster scales, journal logging).
+- In `delusionTasks`, prose = column 20 (`20: English`); columns 1-19 are flags.
+- Verify flag integrity before/after edits:
 ```bash
 diff <(awk -F'|' '{o="";for(i=1;i<=20;i++)o=o $i"|";print o}' source/ru/delusionTasks_allLanguages.txt) \
      <(awk -F'|' '{o="";for(i=1;i<=20;i++)o=o $i"|";print o}' source/en/delusionTasks_allLanguages.txt)
-# должна отличаться ТОЛЬКО строка-легенда (заголовок)
+# only the legend/header row should differ
 awk -F'|' 'NR>2{for(i=1;i<=20;i++) if($i ~ /[А-Яа-яЁё]/) print NR":col"i}' source/ru/delusionTasks_allLanguages.txt
-# пусто = во флагах нет кириллицы (OK)
+# empty = no Cyrillic in flags (OK)
 ```
-Master-таблицы — почти 100% структурные, переводимой прозы там нет (имена/описания предметов живут в `delusionItemText_*`).
+The Master tables are ~100% structural — no translatable prose (item names/descriptions live in `delusionItemText_*`).
 
-## Релиз (GitHub)
-Зип русика — drop-in в `windows_content/`: содержит `Dread Delusion_Data/resources.assets` (перевод) + `BepInEx/` (плагин шрифта alagard-кириллица). Обновление релиза = подмена `resources.assets` внутри зипа:
+## Release (GitHub)
+The russifier zip is a drop-in for `windows_content/`: it contains `Dread Delusion_Data/resources.assets` (the translation) + `BepInEx/` (the alagard-Cyrillic font plugin). Updating a release = swap `resources.assets` inside the zip:
 ```bash
 export PATH="/c/Program Files/GitHub CLI:$PATH"
 gh release download v1.3.3 -R rollacode/dread-delusion-rus -D /tmp/rel
 cd /tmp/rel && unzip -o -q *.zip -d extracted
 cp <repo>/build/resources.assets "extracted/Dread Delusion_Data/resources.assets"
-# перепаковать (zip может отсутствовать в Git Bash — пакуем через py -3 zipfile, пути с '/')
+# repack (zip may be missing in Git Bash -> use py -3 zipfile, forward-slash paths)
 py -3 -c "import os,zipfile;b='extracted';z=zipfile.ZipFile('out.zip','w',zipfile.ZIP_DEFLATED);[z.write(os.path.join(r,f),os.path.relpath(os.path.join(r,f),b).replace(os.sep,'/')) for r,_,fs in os.walk(b) for f in fs];z.close()"
 gh release upload v1.3.3 out.zip -R rollacode/dread-delusion-rus --clobber
 ```
-Проверяй md5 ассета внутри зипа == `build/resources.assets`.
+Sanity: the asset md5 inside the zip must equal `build/resources.assets`.
 
-## Рабочий цикл редактуры (см. METHOD.md)
-1. Читать `source/ru/<файл>` чанками ~115 строк, сверяя с `source/en`.
-2. Чек-лист: смысл vs EN, машинные хвосты (англ. слова), род/падеж, кальки, единство терминов (GLOSSARY.md), имена, разметка/скобки, идиомы, мохибейк (`έΑΥ`/`вҖ“`→`—`).
-3. Аудит терминов грепать **регистронезависимо** (`-i`) — речь Короля Механизмов идёт КАПСОМ.
-4. Правка → `build.py --deploy` → `git commit` (по файлу) → `push` → отметка в PROGRESS.md.
+## GitHub Wiki
+The repo's `wiki/` folder is the SOURCE; the published wiki is a separate git repo (`…wiki.git`). To update the published wiki, mirror `wiki/*.md` into it (converting links and adding the sidebar):
+```bash
+git clone https://github.com/rollacode/dread-delusion-rus.wiki.git /tmp/ddwiki
+# copy pages, converting in-repo links (Page.md) -> wiki links (Page):
+for f in Home Мир Фракции Локации Персонажи Глоссарий; do sed 's/\.md)/)/g' wiki/$f.md > /tmp/ddwiki/$f.md; done
+# _Sidebar.md / _Footer.md provide nav; Home.md is the landing page.
+cd /tmp/ddwiki && git add -A && git commit -m "update wiki" && git push origin master
+```
+Note: the `.wiki.git` repo only exists after the first wiki page is created via the GitHub web UI (one-time). In-repo `wiki/*.md` use relative `[text](Page.md)` links; the published wiki uses `[text](Page)` (no `.md`).
 
-## Канон-заметки
-Полный глоссарий — `GLOSSARY.md`. Частые: Corruption=Искажение, Corrupted=Искажённый, cutter=катер (НЕ резак), silkslug=шелкопряд, Delusion=Заблуждение, Translator=Переводчик, Sacramental Duty=Сакраментальный Долг, Royal Dispatch=Королевское Сообщение, Venna=Венна, Юсеф (1 с). Женские персонажи с мужскими по форме именами (Тхав, Морозов) — глаголы/прилагательные женского рода.
+## Editing workflow (see METHOD.md)
+1. Read `source/ru/<file>` in ~115-line chunks, comparing against `source/en`.
+2. Checklist: meaning vs EN, machine-translation leftovers (stray English words), gender/case, calques, term consistency (GLOSSARY.md), names, markup/bracket balance, idioms, mojibake (`έΑΥ`/`вҖ“` → `—`).
+3. Audit terms case-INSENSITIVELY (`grep -i`) — the Clockwork King speaks in ALL CAPS.
+4. Edit → `build.py --deploy` → `git commit` (per file) → `push` → tick PROGRESS.md.
+
+## Canon notes
+Full glossary in `GLOSSARY.md`. Frequent: Corruption=Искажение, Corrupted=Искажённый, cutter=катер (NOT резак), silkslug=шелкопряд, Delusion=Заблуждение, Translator=Переводчик, Sacramental Duty=Сакраментальный Долг, Royal Dispatch=Королевское Сообщение, Venna=Венна, Юсеф (one с). Female characters with masculine-form names (Тхав, Морозов) take feminine verbs/adjectives.
