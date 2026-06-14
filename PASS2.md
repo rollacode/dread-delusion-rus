@@ -19,11 +19,11 @@
 | FactionDialogue | 162 | ✅ редактор+ревизор |
 | Dialogue_GodHunt | 153 | ✅ редактор+ревизор |
 | shopsHallowDialogue | 125 | ✅ редактор+ревизор |
-| Dialogue_GameEndings | 120 | ☐ |
+| Dialogue_GameEndings | 120 | ✅ редактор+ревизор |
 | ArtifactQuestDialogue | 50 | ✅ редактор+ревизор |
 | bookData_AllLanguages | 36 | ☐ |
 | delusionItemText_English | 247 | ☐ |
-| delusionTasks_allLanguages | 392 | ☐ (только проза кол.20) |
+| delusionTasks_allLanguages | 392 | 🔍 (только проза кол.20) |
 | generalData_AllLanguages | 949 | ☐ (туториал-проза; UI не трогать) |
 | ObjectDialogue | 9 | ✅ редактор+ревизор |
 
