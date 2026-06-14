@@ -1,0 +1,30 @@
+# Проход 2 — литературная редактура (ветка narrative-polish)
+
+Режим: сбалансированный (STYLE.md). Пайплайн на файл: **редактор** (литправка) → **ревизор** (сверка с EN) → ведущий коммитит с тех-проверками. Агенты НЕ трогают git/build.
+
+Статусы: ☐ ожидает · ✏️ у редактора · 🔍 у ревизора · ✅ готово
+
+| Файл | строк | статус |
+|------|-------|--------|
+| Dialogue_MainQuest | 823 | ✅ редактор+ревизор |
+| Dialogue_Pwyll | 720 | ✅ редактор+ревизор |
+| Dialogue_HighConfessor | 712 | ✅ редактор+ревизор |
+| HallowQuestDialogue | 699 | ✅ редактор+ревизор |
+| Dialogue_CharacterQuests | 882 | ✅ редактор+ревизор |
+| Dialogue_Clockwork | 3777 | ✅ редактор+ревизор (параллельно через 4 worktree) |
+| Dialogue_Endless | 1289 | ✅ редактор+ревизор |
+| AcademyDialogue | 378 | ✅ редактор+ревизор |
+| Dialogue_Isles | 215 | ✅ редактор+ревизор |
+| Dialogue_Endless_Mines | 195 | ✅ редактор+ревизор |
+| FactionDialogue | 162 | ✅ редактор+ревизор |
+| Dialogue_GodHunt | 153 | ✅ редактор+ревизор |
+| shopsHallowDialogue | 125 | ✅ редактор+ревизор |
+| Dialogue_GameEndings | 120 | ✅ редактор+ревизор |
+| ArtifactQuestDialogue | 50 | ✅ редактор+ревизор |
+| bookData_AllLanguages | 37 | ✅ редактор+ревизор |
+| delusionItemText_English | 247 | ✅ редактор+ревизор |
+| delusionTasks_allLanguages | 392 | ✅ редактор+ревизор (только проза кол.20) |
+| generalData_AllLanguages | 949 | ✅ редактор+ревизор (туториал-проза) |
+| ObjectDialogue | 9 | ✅ редактор+ревизор |
+
+Пропускаем: credits_Eng, DebugDialogue, тест-файлы, Master-таблицы (структурные), delusionItemText_French/German/Spanish.
