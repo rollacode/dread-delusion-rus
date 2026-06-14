@@ -13,7 +13,7 @@
 | Dialogue_CharacterQuests | 882 | ☐ |
 | Dialogue_Clockwork | 3777 | ☐ (по циклам) |
 | Dialogue_Endless | 1289 | ☐ (по циклам) |
-| AcademyDialogue | 378 | 🔍 ревизор |
+| AcademyDialogue | 378 | ✅ редактор+ревизор |
 | Dialogue_Isles | 215 | ☐ |
 | Dialogue_Endless_Mines | 195 | ☐ |
 | FactionDialogue | 162 | ☐ |
