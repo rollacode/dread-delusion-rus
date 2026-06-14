@@ -25,6 +25,6 @@
 | delusionItemText_English | 247 | ☐ |
 | delusionTasks_allLanguages | 392 | ☐ (только проза кол.20) |
 | generalData_AllLanguages | 949 | ☐ (туториал-проза; UI не трогать) |
-| ObjectDialogue | 9 | ☐ |
+| ObjectDialogue | 9 | 🔍 ревизор |
 
 Пропускаем: credits_Eng, DebugDialogue, тест-файлы, Master-таблицы (структурные), delusionItemText_French/German/Spanish.
