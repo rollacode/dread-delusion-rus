@@ -20,7 +20,7 @@
 | Dialogue_GodHunt | 153 | ✅ редактор+ревизор |
 | shopsHallowDialogue | 125 | ✅ редактор+ревизор |
 | Dialogue_GameEndings | 120 | ☐ |
-| ArtifactQuestDialogue | 50 | ☐ |
+| ArtifactQuestDialogue | 50 | 🔍 ревизор |
 | bookData_AllLanguages | 36 | ☐ |
 | delusionItemText_English | 247 | ☐ |
 | delusionTasks_allLanguages | 392 | ☐ (только проза кол.20) |
