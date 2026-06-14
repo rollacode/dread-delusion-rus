@@ -17,7 +17,7 @@
 | Dialogue_Isles | 215 | 🔍 ревизор |
 | Dialogue_Endless_Mines | 195 | 🔍 ревизор |
 | FactionDialogue | 162 | 🔍 ревизор |
-| Dialogue_GodHunt | 153 | 🔍 ревизор |
+| Dialogue_GodHunt | 153 | ✅ редактор+ревизор |
 | shopsHallowDialogue | 125 | 🔍 ревизор |
 | Dialogue_GameEndings | 120 | ☐ |
 | ArtifactQuestDialogue | 50 | ☐ |
