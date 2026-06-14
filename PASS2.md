@@ -18,7 +18,7 @@
 | Dialogue_Endless_Mines | 195 | ✅ редактор+ревизор |
 | FactionDialogue | 162 | 🔍 ревизор |
 | Dialogue_GodHunt | 153 | ✅ редактор+ревизор |
-| shopsHallowDialogue | 125 | 🔍 ревизор |
+| shopsHallowDialogue | 125 | ✅ редактор+ревизор |
 | Dialogue_GameEndings | 120 | ☐ |
 | ArtifactQuestDialogue | 50 | ☐ |
 | bookData_AllLanguages | 36 | ☐ |
