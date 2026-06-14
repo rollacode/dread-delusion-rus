@@ -14,10 +14,10 @@
 | Dialogue_Clockwork | 3777 | ☐ (по циклам) |
 | Dialogue_Endless | 1289 | ☐ (по циклам) |
 | AcademyDialogue | 378 | ✅ редактор+ревизор |
-| Dialogue_Isles | 215 | ☐ |
-| Dialogue_Endless_Mines | 195 | ☐ |
-| FactionDialogue | 162 | ☐ |
-| Dialogue_GodHunt | 153 | ☐ |
+| Dialogue_Isles | 215 | 🔍 ревизор |
+| Dialogue_Endless_Mines | 195 | 🔍 ревизор |
+| FactionDialogue | 162 | 🔍 ревизор |
+| Dialogue_GodHunt | 153 | 🔍 ревизор |
 | shopsHallowDialogue | 125 | ☐ |
 | Dialogue_GameEndings | 120 | ☐ |
 | ArtifactQuestDialogue | 50 | ☐ |
