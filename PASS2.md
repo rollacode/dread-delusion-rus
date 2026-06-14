@@ -16,7 +16,7 @@
 | AcademyDialogue | 378 | ✅ редактор+ревизор |
 | Dialogue_Isles | 215 | ✅ редактор+ревизор |
 | Dialogue_Endless_Mines | 195 | ✅ редактор+ревизор |
-| FactionDialogue | 162 | 🔍 ревизор |
+| FactionDialogue | 162 | ✅ редактор+ревизор |
 | Dialogue_GodHunt | 153 | ✅ редактор+ревизор |
 | shopsHallowDialogue | 125 | ✅ редактор+ревизор |
 | Dialogue_GameEndings | 120 | ☐ |
