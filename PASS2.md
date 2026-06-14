@@ -15,7 +15,7 @@
 | Dialogue_Endless | 1289 | ☐ (по циклам) |
 | AcademyDialogue | 378 | ✅ редактор+ревизор |
 | Dialogue_Isles | 215 | 🔍 ревизор |
-| Dialogue_Endless_Mines | 195 | 🔍 ревизор |
+| Dialogue_Endless_Mines | 195 | ✅ редактор+ревизор |
 | FactionDialogue | 162 | 🔍 ревизор |
 | Dialogue_GodHunt | 153 | ✅ редактор+ревизор |
 | shopsHallowDialogue | 125 | 🔍 ревизор |
