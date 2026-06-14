@@ -10,7 +10,7 @@
 | Dialogue_Pwyll | 720 | ✅ редактор+ревизор |
 | Dialogue_HighConfessor | 712 | ✅ редактор+ревизор |
 | HallowQuestDialogue | 699 | ✅ редактор+ревизор |
-| Dialogue_CharacterQuests | 882 | ☐ |
+| Dialogue_CharacterQuests | 882 | 🔍 ревизор |
 | Dialogue_Clockwork | 3777 | ☐ (по циклам) |
 | Dialogue_Endless | 1289 | ☐ (по циклам) |
 | AcademyDialogue | 378 | ✅ редактор+ревизор |
