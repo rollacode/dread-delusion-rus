@@ -10,7 +10,7 @@
 | Dialogue_Pwyll | 720 | ✅ редактор+ревизор |
 | Dialogue_HighConfessor | 712 | ✅ редактор+ревизор |
 | HallowQuestDialogue | 699 | ✅ редактор+ревизор |
-| Dialogue_CharacterQuests | 882 | 🔍 ревизор |
+| Dialogue_CharacterQuests | 882 | ✅ редактор+ревизор |
 | Dialogue_Clockwork | 3777 | ☐ (по циклам) |
 | Dialogue_Endless | 1289 | ☐ (по циклам) |
 | AcademyDialogue | 378 | ✅ редактор+ревизор |
@@ -25,6 +25,6 @@
 | delusionItemText_English | 247 | ☐ |
 | delusionTasks_allLanguages | 392 | ☐ (только проза кол.20) |
 | generalData_AllLanguages | 949 | ☐ (туториал-проза; UI не трогать) |
-| ObjectDialogue | 9 | 🔍 ревизор |
+| ObjectDialogue | 9 | ✅ редактор+ревизор |
 
 Пропускаем: credits_Eng, DebugDialogue, тест-файлы, Master-таблицы (структурные), delusionItemText_French/German/Spanish.
