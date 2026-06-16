@@ -56,7 +56,7 @@ py -3 scripts/build.py --deploy   # собрать resources.assets из source/
 py -3 scripts/build.py
 
 # 2) если правили плагин — собрать DLL
-cd plugin && dotnet build -c Release --no-restore -o bin && cd ..
+cd plugin && dotnet build -c Release -o bin && cd ..
 
 # 3) скачать текущий архив релиза
 export PATH="/c/Program Files/GitHub CLI:$PATH"

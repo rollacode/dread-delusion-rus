@@ -25,7 +25,7 @@
 ## Сборка и деплой
 ```bash
 cd plugin
-dotnet build -c Release --no-restore -o bin
+dotnet build -c Release -o bin   # restore runs automatically on first build
 # деплой в игру:
 cp bin/DDRuFont.dll "F:/SteamLibrary/.../Dread Delusion/windows_content/BepInEx/plugins/DDRuFont.dll"
 # alagard.bundle деплоить в ту же папку plugins (меняется редко).
