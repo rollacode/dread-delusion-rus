@@ -60,17 +60,12 @@ awk -F'|' 'NR>2{for(i=1;i<=20;i++) if($i ~ /[А-Яа-яЁё]/) print NR":col"i}'
 The Master tables are ~100% structural — no translatable prose (item names/descriptions live in `delusionItemText_*`).
 
 ## Release (GitHub)
-The russifier zip is a drop-in for `windows_content/`: it contains `Dread Delusion_Data/resources.assets` (the translation) + `BepInEx/` (the alagard-Cyrillic font plugin). Updating a release = swap `resources.assets` inside the zip:
-```bash
-export PATH="/c/Program Files/GitHub CLI:$PATH"
-gh release download v1.3.3 -R rollacode/dread-delusion-rus -D /tmp/rel
-cd /tmp/rel && unzip -o -q *.zip -d extracted
-cp <repo>/build/resources.assets "extracted/Dread Delusion_Data/resources.assets"
-# repack (zip may be missing in Git Bash -> use py -3 zipfile, forward-slash paths)
-py -3 -c "import os,zipfile;b='extracted';z=zipfile.ZipFile('out.zip','w',zipfile.ZIP_DEFLATED);[z.write(os.path.join(r,f),os.path.relpath(os.path.join(r,f),b).replace(os.sep,'/')) for r,_,fs in os.walk(b) for f in fs];z.close()"
-gh release upload v1.3.3 out.zip -R rollacode/dread-delusion-rus --clobber
-```
-Sanity: the asset md5 inside the zip must equal `build/resources.assets`.
+⚠️ **Состав релизного архива и процесс релиза — в [README.md](README.md), раздел «📦 Сборка релиза».** Смотреть туда ПЕРЕД релизом, чтобы не пересобрать архив неправильным составом.
+
+Кратко (детали и команды — в README):
+- zip — полный drop-in в `windows_content/` (весь BepInEx 6 IL2CPP + `dotnet/` + лоадер + `resources.assets`); репозиторий генерирует только `resources.assets`, `DDRuFont.dll`, `alagard.bundle`.
+- Обновлять релиз **точечной заменой наших файлов** в существующем zip (запись-в-запись, без полной распаковки/упаковки — иначе калечится имя readme-файла с кириллицей и теряется окружение BepInEx).
+- Sanity: md5 подменённых файлов в zip == `build/resources.assets` / `plugin/bin/DDRuFont.dll`.
 
 ## GitHub Wiki
 The repo's `wiki/` folder is the SOURCE; the published wiki is a separate git repo (`…wiki.git`). To update the published wiki, mirror `wiki/*.md` into it (converting links and adding the sidebar):
