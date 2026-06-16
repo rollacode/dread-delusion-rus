@@ -5,7 +5,6 @@ using BepInEx.Unity.IL2CPP;
 using Il2CppInterop.Runtime;
 using Il2CppInterop.Runtime.Injection;
 using UnityEngine;
-using UnityEngine.UI;
 using TMPro;
 
 namespace DDRuFont
@@ -26,6 +25,12 @@ namespace DDRuFont
         }
     }
 
+    // Cyrillic for TextMeshPro text (dialogue, item/book descriptions). The game's TMP
+    // fonts use a pre-baked SDF atlas with no Cyrillic, so we register an alagard-Cyrillic
+    // SDF font (from alagard.bundle) as a TMP fallback. The legacy uGUI UI.Text (menus,
+    // item names, stats) is handled separately: build.py bakes a Cyrillic TTF into the
+    // game's `alagard_by_pix3m-d6awiwp` font directly in resources.assets, so that text
+    // renders Russian natively without any runtime patching.
     public class FontInjector : MonoBehaviour
     {
         public FontInjector(IntPtr ptr) : base(ptr) { }
@@ -34,7 +39,6 @@ namespace DDRuFont
         private float _t;
         private int _reapply;
         private TMP_FontAsset _ru;
-        private Font _ruLegacy;   // dynamic TTF for legacy UnityEngine.UI.Text
 
         // auto-size: shrink only text that overflows; text that fits stays unchanged
         private float _asT;
@@ -65,65 +69,8 @@ namespace DDRuFont
             if (_asT >= 0.4f)
             {
                 _asT = 0f;
-                try { PrimaryFontPass(); } catch (Exception e) { Plugin.Logger.LogWarning("primaryfont: " + e.Message); }
-                try { LegacyFontPass(); } catch (Exception e) { Plugin.Logger.LogWarning("legacyfont: " + e.Message); }
                 try { AutoSizePass(); } catch (Exception e) { Plugin.Logger.LogWarning("autosize: " + e.Message); }
             }
-        }
-
-        static bool HasCyrillic(string s)
-        {
-            if (string.IsNullOrEmpty(s)) return false;
-            for (int i = 0; i < s.Length; i++)
-            {
-                char c = s[i];
-                if (c >= 'Ѐ' && c <= 'ӿ') return true;
-            }
-            return false;
-        }
-
-        // Promote the RU font from fallback to PRIMARY on any text that contains Cyrillic but
-        // is drawn with a different base font (e.g. the pixel/DOS font in the equipment menu).
-        // Without this the Cyrillic glyphs are pulled from the alagard fallback while the rest of
-        // the label stays in the base font -> mixed look. Forcing the base font to RU makes the
-        // whole string render in alagard, consistent with the rest of the game.
-        void PrimaryFontPass()
-        {
-            if (_ru == null) return;
-            int swapped = 0;
-            var all = Resources.FindObjectsOfTypeAll<TMP_Text>();
-            for (int i = 0; i < all.Length; i++)
-            {
-                var t = all[i];
-                if (t == null) continue;
-                if (t.font == _ru) continue;          // already RU
-                if (!HasCyrillic(t.text)) continue;    // no Russian text -> leave base font (numbers/icons untouched)
-                t.font = _ru;
-                swapped++;
-            }
-            if (swapped > 0) Plugin.Logger.LogInfo("DDRuFont: promoted RU to primary on " + swapped + " text(s)");
-        }
-
-        // Legacy uGUI: item titles, stat names, the "Плохой/20 Броня" block, intro-video subtitles
-        // are UnityEngine.UI.Text (NOT TextMeshPro). They use the game's pixel font, which has no
-        // Cyrillic, so Russian letters fall back to the system sans (LiberationSans) -> wrong look.
-        // The bundle's legacy dynamic Font (embedded alagard TTF) renders Cyrillic, so we assign it
-        // to any UI.Text that contains Cyrillic. Number-only texts (counts) are left on the pixel font.
-        void LegacyFontPass()
-        {
-            if (_ruLegacy == null) return;
-            int swapped = 0;
-            var all = Resources.FindObjectsOfTypeAll<Text>();
-            for (int i = 0; i < all.Length; i++)
-            {
-                var t = all[i];
-                if (t == null) continue;
-                if (t.font == _ruLegacy) continue;
-                if (!HasCyrillic(t.text)) continue;
-                t.font = _ruLegacy;
-                swapped++;
-            }
-            if (swapped > 0) Plugin.Logger.LogInfo("DDRuFont: set legacy RU font on " + swapped + " UI.Text(s)");
         }
 
         void AutoSizePass()
@@ -156,17 +103,10 @@ namespace DDRuFont
             {
                 var o = assets[i];
                 if (o == null) continue;
-                if (_ru == null) { var fa = o.TryCast<TMP_FontAsset>(); if (fa != null) { _ru = fa; continue; } }
-                if (_ruLegacy == null) { var lf = o.TryCast<Font>(); if (lf != null) { _ruLegacy = lf; continue; } }
+                var fa = o.TryCast<TMP_FontAsset>();
+                if (fa != null) { _ru = fa; break; }
             }
             if (_ru == null) { Plugin.Logger.LogError("no TMP_FontAsset in bundle"); _loaded = true; return; }
-            if (_ruLegacy != null)
-            {
-                _ruLegacy.hideFlags = HideFlags.HideAndDontSave;
-                UnityEngine.Object.DontDestroyOnLoad(_ruLegacy);
-                Plugin.Logger.LogInfo("DDRuFont: loaded legacy Font '" + _ruLegacy.name + "' for UI.Text");
-            }
-            else Plugin.Logger.LogWarning("DDRuFont: no legacy Font in bundle (UI.Text will stay on system fallback)");
 
             _ru.hideFlags = HideFlags.HideAndDontSave;
             UnityEngine.Object.DontDestroyOnLoad(_ru);
